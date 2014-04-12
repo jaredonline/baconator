@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/izMsq5SEfgvldrWDsJZb25fa64q.jpg",
+    "name": "Strike Force"
+  },
+  "cast": [
+    {
+      "name": "Richard Gere",
+      "image": "http://image.tmdb.org/t/p/w185/wXj3kPwWFo8A9jDCtUVetXAR5Hf.jpg"
+    },
+    {
+      "name": "Cliff Gorman",
+      "image": "http://image.tmdb.org/t/p/w185/yTcSuI9I8u18SYnxTL6V1uPNqGK.jpg"
+    },
+    {
+      "name": "Don Blakely"
+    }
+  ]
+}

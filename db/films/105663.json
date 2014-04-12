@@ -1,0 +1,39 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6iA7cIHrcMhy5r8WumyHUixafA5.jpg",
+    "name": "Nine Guests for a Crime"
+  },
+  "cast": [
+    {
+      "name": "Arthur Kennedy",
+      "image": "http://image.tmdb.org/t/p/w185/k8ew7ZMRadQeDyteqt7ZicSySub.jpg"
+    },
+    {
+      "name": "John Richardson",
+      "image": "http://image.tmdb.org/t/p/w185/i7LEzG0N9Xi8b2V4SU3KxoL5ytX.jpg"
+    },
+    {
+      "name": "Sofia Dionisio"
+    },
+    {
+      "name": "Massimo Foschi",
+      "image": "http://image.tmdb.org/t/p/w185/qZbvvrs9GEe6EazfV9dzjogTKsQ.jpg"
+    },
+    {
+      "name": "Dana Ghia"
+    },
+    {
+      "name": "Caroline Laurence"
+    },
+    {
+      "name": "Loretta Persichetti"
+    },
+    {
+      "name": "Rita Silva"
+    },
+    {
+      "name": "Venantino Venantini",
+      "image": "http://image.tmdb.org/t/p/w185/fYiEWMZDd3YQ5DunErkXaPZ9Qsd.jpg"
+    }
+  ]
+}

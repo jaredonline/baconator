@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zwjQLF6HrNYIACwiH2QLxALLLV9.jpg",
+    "name": "Konrad"
+  },
+  "cast": [
+    {
+      "name": "Huckleberry Fox",
+      "image": "http://image.tmdb.org/t/p/w185/siDj0ZoNbcJQvB1WiElzlTbcrQT.jpg"
+    },
+    {
+      "name": "Polly Holliday",
+      "image": "http://image.tmdb.org/t/p/w185/eCPxOz8ZPIHWImk0Rv5yt28kDVP.jpg"
+    },
+    {
+      "name": "Max Wright",
+      "image": "http://image.tmdb.org/t/p/w185/2eFX28qQVvcN2uC5e8vTofJYdiG.jpg"
+    },
+    {
+      "name": "Ned Beatty",
+      "image": "http://image.tmdb.org/t/p/w185/4ahm1CiMPJXzuyErOoUqGgC9Zt5.jpg"
+    }
+  ]
+}

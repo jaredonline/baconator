@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/rnlwYYvatR2GxgpCibhkUC4fDHJ.jpg",
+    "name": "The Wannabes"
+  },
+  "cast": [
+    {
+      "name": "Nick Giannopoulos"
+    },
+    {
+      "name": "Russell Dykstra"
+    },
+    {
+      "name": "Isla Fisher",
+      "image": "http://image.tmdb.org/t/p/w185/vYVqeuDddqIRer76dpyms8JXFAL.jpg"
+    },
+    {
+      "name": "Michael Carman"
+    }
+  ]
+}

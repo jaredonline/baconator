@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/cYqfgsUCSc5abmkZp1mUk5L5Wwd.jpg",
+    "name": "Web of the Spider"
+  },
+  "cast": [
+    {
+      "name": "Anthony Franciosa",
+      "image": "http://image.tmdb.org/t/p/w185/9KykLLz0mbWKoWY3hLSZup9ayIi.jpg"
+    },
+    {
+      "name": "Irina Maleeva"
+    },
+    {
+      "name": "Klaus Kinski",
+      "image": "http://image.tmdb.org/t/p/w185/7gsJB7xlovz1khNID0B8yKA9TO0.jpg"
+    }
+  ]
+}

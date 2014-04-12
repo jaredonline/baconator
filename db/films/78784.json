@@ -1,0 +1,56 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/u1tsPnlmTcyER0C0sD2dI8i9i3m.jpg",
+    "name": "The Nephew"
+  },
+  "cast": [
+    {
+      "name": "Niall Tóibín"
+    },
+    {
+      "name": "Sinéad Cusack",
+      "image": "http://image.tmdb.org/t/p/w185/r9eWOKN1WtE7RMDAwIhOpMRh3wL.jpg"
+    },
+    {
+      "name": "Luke Griffin"
+    },
+    {
+      "name": "Phelim Drew"
+    },
+    {
+      "name": "Donal McCann"
+    },
+    {
+      "name": "Pierce Brosnan",
+      "image": "http://image.tmdb.org/t/p/w185/ihpZeNwh3Lexcy7oIeihRiSz6LW.jpg"
+    },
+    {
+      "name": "Tony Rohr"
+    },
+    {
+      "name": "Jimmy Keogh"
+    },
+    {
+      "name": "Marcus Lynch"
+    },
+    {
+      "name": "Birdy Sweeney"
+    },
+    {
+      "name": "Aonghus Og McAnally"
+    },
+    {
+      "name": "Hill Harper",
+      "image": "http://image.tmdb.org/t/p/w185/6Dz2mV1Jdfnv0789JTFY8G08ju2.jpg"
+    },
+    {
+      "name": "Aislín McGuckin"
+    },
+    {
+      "name": "Sean Fox"
+    },
+    {
+      "name": "Charlotte Brosnan"
+    }
+  ]
+}

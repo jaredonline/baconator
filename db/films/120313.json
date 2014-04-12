@@ -1,0 +1,25 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/fCZUo7wGiDU89ZR4lqa9VK7ygZP.jpg",
+    "name": "Havana Quartet \tCanada"
+  },
+  "cast": [
+    {
+      "name": "Ernesto Alterio",
+      "image": "http://image.tmdb.org/t/p/w185/pLsvJzMrs8l8KADCctcV3CP3OYS.jpg"
+    },
+    {
+      "name": "Mirta Ibarra"
+    },
+    {
+      "name": "Javier Cámara",
+      "image": "http://image.tmdb.org/t/p/w185/pbS8PFYTSh2LqODPUuygKLmytVu.jpg"
+    },
+    {
+      "name": "Laura Ramos"
+    },
+    {
+      "name": "Daisy Granados"
+    }
+  ]
+}

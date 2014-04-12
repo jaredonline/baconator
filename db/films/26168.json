@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2UPgrMH0ym7n8c729jSUzooe9gk.jpg",
+    "name": "Slingshot"
+  },
+  "cast": [
+    {
+      "name": "David Arquette",
+      "image": "http://image.tmdb.org/t/p/w185/apjsWAMyuuQ5QGGXdkLsQ21sf8V.jpg"
+    },
+    {
+      "name": "Thora Birch",
+      "image": "http://image.tmdb.org/t/p/w185/jxtp9prkQgFmj0ZRvi1kcnnqaWb.jpg"
+    },
+    {
+      "name": "Balthazar Getty",
+      "image": "http://image.tmdb.org/t/p/w185/qf8IFeFqYEkLJhTN63T63m1Nlbc.jpg"
+    },
+    {
+      "name": "Julianna Margulies",
+      "image": "http://image.tmdb.org/t/p/w185/exVtcqLTMYRsmSFLxVhTwxHfWbN.jpg"
+    }
+  ]
+}

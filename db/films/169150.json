@@ -1,0 +1,55 @@
+{
+  "film": {
+    "name": "The Haunting of Hell House"
+  },
+  "cast": [
+    {
+      "name": "Michael York",
+      "image": "http://image.tmdb.org/t/p/w185/hW0uWJtsKWsWAQ9k7EYq9sn5YCH.jpg"
+    },
+    {
+      "name": "Andrew Bowen",
+      "image": "http://image.tmdb.org/t/p/w185/pkSk4U3P9dkyxlmlg2csR6OxmX8.jpg"
+    },
+    {
+      "name": "Jason Cottle"
+    },
+    {
+      "name": "Claudia Christian",
+      "image": "http://image.tmdb.org/t/p/w185/gyNgCOzc65m2oRNihA9SZxofdSU.jpg"
+    },
+    {
+      "name": "Aideen O'Donnell"
+    },
+    {
+      "name": "Brian Glanney"
+    },
+    {
+      "name": "Ciaran Davies"
+    },
+    {
+      "name": "Colm O'Maonlai"
+    },
+    {
+      "name": "Mike Finn"
+    },
+    {
+      "name": "Mitch Marcus"
+    },
+    {
+      "name": "Daniel Rosen"
+    },
+    {
+      "name": "Eoghan O'Brien"
+    },
+    {
+      "name": "Fred McCluskey"
+    },
+    {
+      "name": "Maeve O'Regan"
+    },
+    {
+      "name": "Brian McGuinness"
+    }
+  ]
+}

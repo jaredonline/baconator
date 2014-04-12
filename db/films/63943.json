@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/fE6zEQcihkEt7gye7kBz5iWQGIH.jpg",
+    "name": "West is West"
+  },
+  "cast": [
+    {
+      "name": "Aqib Khan",
+      "image": "http://image.tmdb.org/t/p/w185/g6l3FvwtihzCEYK8AKPkFN1zxXV.jpg"
+    },
+    {
+      "name": "Om Puri",
+      "image": "http://image.tmdb.org/t/p/w185/8srYsSnxkOgRwpqruNKZEY5rTbn.jpg"
+    },
+    {
+      "name": "Linda Bassett",
+      "image": "http://image.tmdb.org/t/p/w185/raya4YIZ9ArIxl1nVvj1Aoo7XQj.jpg"
+    },
+    {
+      "name": "Robert Pugh",
+      "image": "http://image.tmdb.org/t/p/w185/vnqBCADoEnxQBD5e0GOCbUGrLeM.jpg"
+    },
+    {
+      "name": "Thomas Russell"
+    },
+    {
+      "name": "Jimi Mistry",
+      "image": "http://image.tmdb.org/t/p/w185/5szmVou8VdGJaEuuWr7oIS5hq7l.jpg"
+    },
+    {
+      "name": "Vanessa Hehir"
+    },
+    {
+      "name": "Lesley Nicol",
+      "image": "http://image.tmdb.org/t/p/w185/tw3GecTzAfqxpulQ5DddGC3Oiy1.jpg"
+    }
+  ]
+}

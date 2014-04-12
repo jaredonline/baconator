@@ -1,0 +1,19 @@
+{
+  "film": {
+    "name": "The Ex"
+  },
+  "cast": [
+    {
+      "name": "Yancy Butler",
+      "image": "http://image.tmdb.org/t/p/w185/emcS8cLp5aEEMdJS4Am0TLiX6WA.jpg"
+    },
+    {
+      "name": "Nick Mancuso",
+      "image": "http://image.tmdb.org/t/p/w185/pDVzlviKTtCwXfVplG3tiTX9PyS.jpg"
+    },
+    {
+      "name": "Suzy Amis",
+      "image": "http://image.tmdb.org/t/p/w185/caqw60Y3qBMdlEPYr3ivZf9LAwC.jpg"
+    }
+  ]
+}

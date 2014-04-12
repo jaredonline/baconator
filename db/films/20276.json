@@ -1,0 +1,40 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/udBK0t95VpL7JR9eOpS7XUzzaKZ.jpg",
+    "name": "Red Ink"
+  },
+  "cast": [
+    {
+      "name": "Gianfranco Brero"
+    },
+    {
+      "name": "Giovanni Ciccia"
+    },
+    {
+      "name": "Fele Martínez",
+      "image": "http://image.tmdb.org/t/p/w185/69Q0vNghrRTosI82xwd3gLBv7Qx.jpg"
+    },
+    {
+      "name": "Lucía Jiménez",
+      "image": "http://image.tmdb.org/t/p/w185/oQTKLidxlCjR8eXTsQrPby27btt.jpg"
+    },
+    {
+      "name": "Carlos Gassols"
+    },
+    {
+      "name": "Yvonne Frayssinet"
+    },
+    {
+      "name": "Gustavo Bueno"
+    },
+    {
+      "name": "Tatiana Astengo"
+    },
+    {
+      "name": "Hernán Romero"
+    },
+    {
+      "name": "Gabriela Velásquez"
+    }
+  ]
+}

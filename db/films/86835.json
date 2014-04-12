@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zWss0nLrwH7AwEhw8kWz49Mbdmo.jpg",
+    "name": "Knight of Cups"
+  },
+  "cast": [
+    {
+      "name": "Christian Bale",
+      "image": "http://image.tmdb.org/t/p/w185/vecCvACI2QhSE5fOoANeWDjxGKM.jpg"
+    },
+    {
+      "name": "Cate Blanchett",
+      "image": "http://image.tmdb.org/t/p/w185/wkWpYrtA1QCNv4B6L6fBTMRBiQ9.jpg"
+    },
+    {
+      "name": "Isabel Lucas",
+      "image": "http://image.tmdb.org/t/p/w185/2HGHfMicjK03LEYWWf7kOKTaoAx.jpg"
+    },
+    {
+      "name": "Natalie Portman",
+      "image": "http://image.tmdb.org/t/p/w185/cWHfFaRj82mkl1Hqi2qrZn3VqEi.jpg"
+    }
+  ]
+}

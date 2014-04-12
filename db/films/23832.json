@@ -1,0 +1,42 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/mdyDM9722FNibl7NEQC5cvmXGry.jpg",
+    "name": "For Love and Gold"
+  },
+  "cast": [
+    {
+      "name": "Vittorio Gassman",
+      "image": "http://image.tmdb.org/t/p/w185/53ICH7uNIj795ATZCdDICmRqUEo.jpg"
+    },
+    {
+      "name": "Gian Maria Volonté",
+      "image": "http://image.tmdb.org/t/p/w185/qds8lA1Tsj5YrCJOgzYJMViXJxr.jpg"
+    },
+    {
+      "name": "Catherine Spaak",
+      "image": "http://image.tmdb.org/t/p/w185/cy7JfVNtvnrdCIwAlKCTyBfAhdw.jpg"
+    },
+    {
+      "name": "Enrico Maria Salerno"
+    },
+    {
+      "name": "Folco Lulli"
+    },
+    {
+      "name": "Barbara Steele",
+      "image": "http://image.tmdb.org/t/p/w185/uO45ZYSkRyZA0kdaFPz9CvOFTFD.jpg"
+    },
+    {
+      "name": "Carlo Pisacane"
+    },
+    {
+      "name": "Maria Grazia Buccella"
+    },
+    {
+      "name": "Ugo Fangareggi"
+    },
+    {
+      "name": "Gianluigi Crescenzi"
+    }
+  ]
+}

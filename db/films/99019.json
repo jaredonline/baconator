@@ -1,0 +1,22 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/yGYc1VWNodTxwqZ2cnrvnGkCGiz.jpg",
+    "name": "Un nuage dans un verre d'eau"
+  },
+  "cast": [
+    {
+      "name": "Anamaria Marinca",
+      "image": "http://image.tmdb.org/t/p/w185/ajLN2RMuYHgTEFAzs8x8vZH0Rlu.jpg"
+    },
+    {
+      "name": "Gamil Ratib"
+    },
+    {
+      "name": "Tewfik Jallab",
+      "image": "http://image.tmdb.org/t/p/w185/aK7YSqIPkfQtuQUBQu43XkIeQvm.jpg"
+    },
+    {
+      "name": "Antoni Hadzi Janev"
+    }
+  ]
+}

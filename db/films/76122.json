@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/gqcdXbRrP7vzPD5Jn0sLVP7pMrS.jpg",
+    "name": "Marvel One-Shot: The Consultant"
+  },
+  "cast": [
+    {
+      "name": "Clark Gregg",
+      "image": "http://image.tmdb.org/t/p/w185/t8CLS2Zcy7IjcZkE1vtxl40h9rh.jpg"
+    },
+    {
+      "name": "Maximiliano Hernández",
+      "image": "http://image.tmdb.org/t/p/w185/7Ol7mDOCHyqM0q0oXolCtfkIDzS.jpg"
+    },
+    {
+      "name": "Tim Roth",
+      "image": "http://image.tmdb.org/t/p/w185/r4jtlboNqWPz2dOHafrPJE4Yd94.jpg"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "image": "http://image.tmdb.org/t/p/w185/iDtxXJXmJGU7jYRjsvePNQblHV1.jpg"
+    },
+    {
+      "name": "William Hurt",
+      "image": "http://image.tmdb.org/t/p/w185/mf5GiYZjURQ72CPtY1kBva7mqIK.jpg"
+    }
+  ]
+}

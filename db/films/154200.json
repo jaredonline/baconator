@@ -1,0 +1,34 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/jbhGorF4MjsAD8GiZV9HqQ9etp4.jpg",
+    "name": "The Blue Room"
+  },
+  "cast": [
+    {
+      "name": "Juan Manuel Bernal"
+    },
+    {
+      "name": "Patricia Llaca"
+    },
+    {
+      "name": "Elena Anaya",
+      "image": "http://image.tmdb.org/t/p/w185/sov4ljuu9YWA1oZfdL0mkuEDjIv.jpg"
+    },
+    {
+      "name": "Mario Iván Martínez"
+    },
+    {
+      "name": "Margarita Sanz"
+    },
+    {
+      "name": "Damian Alcazar"
+    },
+    {
+      "name": "José Maria Yazpik"
+    },
+    {
+      "name": "Joaquín Cosio",
+      "image": "http://image.tmdb.org/t/p/w185/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
+    }
+  ]
+}

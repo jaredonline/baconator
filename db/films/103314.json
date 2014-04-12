@@ -1,0 +1,58 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/8xbpAJ1Ed7mWNGW5CCSoZ7WR34y.jpg",
+    "name": "Hit!"
+  },
+  "cast": [
+    {
+      "name": "Billy Dee Williams",
+      "image": "http://image.tmdb.org/t/p/w185/z0iDggpENrZoqBnaI1nvwcIXcsn.jpg"
+    },
+    {
+      "name": "Richard Pryor",
+      "image": "http://image.tmdb.org/t/p/w185/uwC2IDCwypzvm9tA9Fl3vPMcKAe.jpg"
+    },
+    {
+      "name": "Paul Hampton"
+    },
+    {
+      "name": "Gwen Welles",
+      "image": "http://image.tmdb.org/t/p/w185/dVcFCl3PXZnzKVs2wN4ZHOMHsrZ.jpg"
+    },
+    {
+      "name": "Warren J. Kemmerling"
+    },
+    {
+      "name": "Janet Brandt"
+    },
+    {
+      "name": "Sid Melton",
+      "image": "http://image.tmdb.org/t/p/w185/85IC4lWgor9pgvu5hlnzhrnzz1E.jpg"
+    },
+    {
+      "name": "Zooey Hall"
+    },
+    {
+      "name": "Todd Martin"
+    },
+    {
+      "name": "Norman Burton",
+      "image": "http://image.tmdb.org/t/p/w185/ezoKMuCDcWSnDaB5pVWMyj21E6H.jpg"
+    },
+    {
+      "name": "Jenny Astruc"
+    },
+    {
+      "name": "Yves Barsacq"
+    },
+    {
+      "name": "Jean-Claude Bercq"
+    },
+    {
+      "name": "Henri Cogan"
+    },
+    {
+      "name": "Pierre Collet"
+    }
+  ]
+}

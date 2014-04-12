@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/3o5KxSSyhq86ZwBk6EvLxo9h9VO.jpg",
+    "name": "What Makes Women Laugh?"
+  },
+  "cast": [
+    {
+      "name": "Verónica Forqué",
+      "image": "http://image.tmdb.org/t/p/w185/ewAO6YbiTwLllqoBW5WgiC1ymnH.jpg"
+    },
+    {
+      "name": "Candela Peña",
+      "image": "http://image.tmdb.org/t/p/w185/tc37OuZZpeMU14VDu5E7ge5TMy8.jpg"
+    },
+    {
+      "name": "Adriana Ozores",
+      "image": "http://image.tmdb.org/t/p/w185/1TwpANgl6w8FqVRcieiSFu1XFSz.jpg"
+    },
+    {
+      "name": "Jorge Sanz",
+      "image": "http://image.tmdb.org/t/p/w185/pFhzM9S9WdEKE3EiD6TgX1diAnX.jpg"
+    }
+  ]
+}

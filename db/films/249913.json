@@ -1,0 +1,18 @@
+{
+  "film": {
+    "name": "A Dance to the Music of Time"
+  },
+  "cast": [
+    {
+      "name": "Alan Bennett",
+      "image": "http://image.tmdb.org/t/p/w185/ueTgrhepWRiIrDmAEfwcSE5riM0.jpg"
+    },
+    {
+      "name": "Miranda Richardson",
+      "image": "http://image.tmdb.org/t/p/w185/mxc5GhCtorMRIGV5RhVto8Hcynp.jpg"
+    },
+    {
+      "name": "Gillian Barge"
+    }
+  ]
+}

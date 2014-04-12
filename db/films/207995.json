@@ -1,0 +1,28 @@
+{
+  "film": {
+    "name": "Otra ciudad"
+  },
+  "cast": [
+    {
+      "name": "Saida Benzal"
+    },
+    {
+      "name": "Luis Bermejo"
+    },
+    {
+      "name": "Andres Bernardos"
+    },
+    {
+      "name": "Didier Boutte"
+    },
+    {
+      "name": "Carmen Bullejos"
+    },
+    {
+      "name": "Jorge de Juan"
+    },
+    {
+      "name": "Alicia Escurriola"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/wS3Cu2Wjfoqlq39vHiLwBXilyTp.jpg",
+    "name": "Rage"
+  },
+  "cast": [
+    {
+      "name": "Martina García",
+      "image": "http://image.tmdb.org/t/p/w185/szjXDbwDTo5y7MUJ1E1mB2TmVMG.jpg"
+    },
+    {
+      "name": "Icíar Bollaín",
+      "image": "http://image.tmdb.org/t/p/w185/dzdWdo86NDzXO6tWBOcYac1XyWg.jpg"
+    },
+    {
+      "name": "Yon González"
+    },
+    {
+      "name": "Gustavo Sanchez-Parra",
+      "image": "http://image.tmdb.org/t/p/w185/rpIME7x7XILBhumf1VmKbxWrt6b.jpg"
+    },
+    {
+      "name": "Fernando Tielve"
+    },
+    {
+      "name": "Concha Velasco",
+      "image": "http://image.tmdb.org/t/p/w185/imV1wKXxGbtsu5JVlpe8wpB2tH0.jpg"
+    },
+    {
+      "name": "Àlex Brendemühl",
+      "image": "http://image.tmdb.org/t/p/w185/cJGbHVMlSkYsSfmdk1wduOJqUxL.jpg"
+    },
+    {
+      "name": "Javier Tolosa"
+    },
+    {
+      "name": "Xabier Elorriaga",
+      "image": "http://image.tmdb.org/t/p/w185/l1Y4idb3SMKjTFIyzh8YuPqf7do.jpg"
+    },
+    {
+      "name": "Carlos Aurrekoetxea"
+    }
+  ]
+}

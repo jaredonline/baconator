@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/73lKAFaAmI1nJH23DSeJjt1Casa.jpg",
+    "name": "Serena"
+  },
+  "cast": [
+    {
+      "name": "Jennifer Lawrence",
+      "image": "http://image.tmdb.org/t/p/w185/yz0s4kVEC7Wc4iqi2zK7Gmfx9h9.jpg"
+    },
+    {
+      "name": "Bradley Cooper",
+      "image": "http://image.tmdb.org/t/p/w185/4U4FtnwLw7yLWQJmHdXoruoeuVm.jpg"
+    },
+    {
+      "name": "Rhys Ifans",
+      "image": "http://image.tmdb.org/t/p/w185/p0rbwzc4Yj2oHW0iiln0X0Wx9EK.jpg"
+    },
+    {
+      "name": "Toby Jones",
+      "image": "http://image.tmdb.org/t/p/w185/8HDeyCbDzjeylqfDIIs8Bmv40vX.jpg"
+    },
+    {
+      "name": "Blake Ritson"
+    }
+  ]
+}

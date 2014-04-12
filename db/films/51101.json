@@ -1,0 +1,11 @@
+{
+  "film": {
+    "name": "Players"
+  },
+  "cast": [
+    {
+      "name": "Freddy Rodríguez",
+      "image": "http://image.tmdb.org/t/p/w185/ljJplls0QxMMGhb562tBCdHcKHV.jpg"
+    }
+  ]
+}

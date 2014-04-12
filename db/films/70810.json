@@ -1,0 +1,45 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/etriCS4YkrDDHgAOho6OptDBQmh.jpg",
+    "name": "The Ghoul"
+  },
+  "cast": [
+    {
+      "name": "Peter Cushing",
+      "image": "http://image.tmdb.org/t/p/w185/iFE9Xi5B0eZcNFqvCx78UUzmUfI.jpg"
+    },
+    {
+      "name": "John Hurt",
+      "image": "http://image.tmdb.org/t/p/w185/rpuH2YRLpxJjMxHq4T1QdOSVtlN.jpg"
+    },
+    {
+      "name": "Alexandra Bastedo",
+      "image": "http://image.tmdb.org/t/p/w185/oDV5AgvOLXgsa62pAVrmpLBRHlq.jpg"
+    },
+    {
+      "name": "Gwen Watford",
+      "image": "http://image.tmdb.org/t/p/w185/2E6XE7iUjHN1kDtQMYiwk1houXY.jpg"
+    },
+    {
+      "name": "Veronica Carlson",
+      "image": "http://image.tmdb.org/t/p/w185/xNlGSC2okI3eL51nh5fbwu1pTfc.jpg"
+    },
+    {
+      "name": "Don Henderson",
+      "image": "http://image.tmdb.org/t/p/w185/qeOAWEiZ4cXddRziyaJQ2Mt5Mpm.jpg"
+    },
+    {
+      "name": "Ian McCulloch",
+      "image": "http://image.tmdb.org/t/p/w185/4Z567gJwOFExnNgFWjJ17UYQCEs.jpg"
+    },
+    {
+      "name": "Stewart Bevan"
+    },
+    {
+      "name": "John D. Collins"
+    },
+    {
+      "name": "Dan Meaden"
+    }
+  ]
+}

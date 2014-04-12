@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/a2KLKIcACacWqjM5ltXiqJG1fSm.jpg",
+    "name": "Savages"
+  },
+  "cast": [
+    {
+      "name": "Marisa Paredes",
+      "image": "http://image.tmdb.org/t/p/w185/lxkwchAOdtuwhE6FKmKv7kjhOOn.jpg"
+    },
+    {
+      "name": "Imanol Arias",
+      "image": "http://image.tmdb.org/t/p/w185/7vrFxUjAaj7VBNMJAvaceiPeAVN.jpg"
+    },
+    {
+      "name": "Manuel Morón"
+    },
+    {
+      "name": "Roger Casamajor",
+      "image": "http://image.tmdb.org/t/p/w185/72Sn6Ztaz9ieaQkkgdsJeiuuG0l.jpg"
+    },
+    {
+      "name": "María Isasi"
+    }
+  ]
+}

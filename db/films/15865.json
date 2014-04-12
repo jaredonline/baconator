@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/k7LmxsoyC9TSg8nkSe7InBgknkl.jpg",
+    "name": "La Zona"
+  },
+  "cast": [
+    {
+      "name": "Daniel Giménez Cacho",
+      "image": "http://image.tmdb.org/t/p/w185/9kP26DdoH55mdVhH9whbFiFNP0j.jpg"
+    },
+    {
+      "name": "Maribel Verdú",
+      "image": "http://image.tmdb.org/t/p/w185/i2ylwxUIUMdC9paltuovtud2bv5.jpg"
+    },
+    {
+      "name": "Alan Chávez"
+    },
+    {
+      "name": "Carlos Bardem",
+      "image": "http://image.tmdb.org/t/p/w185/vuIFcSKoPhJKGoeOjp2sqqNSYZ4.jpg"
+    },
+    {
+      "name": "Marina de Tavira"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/eSeSxGqHfLxAjLFGnUsyf9sVaFh.jpg",
+    "name": "This Is Spinal Tap"
+  },
+  "cast": [
+    {
+      "name": "Rob Reiner",
+      "image": "http://image.tmdb.org/t/p/w185/2zw9Iq9uo4vZiTQNQWdNFwbA1TA.jpg"
+    },
+    {
+      "name": "R.J. Parnell"
+    },
+    {
+      "name": "Michael McKean",
+      "image": "http://image.tmdb.org/t/p/w185/55li3qGQyWTNS4y8L2YHhAUQJEv.jpg"
+    },
+    {
+      "name": "Christopher Guest",
+      "image": "http://image.tmdb.org/t/p/w185/fhEQq0q2aR2sh4HU824xunoyAce.jpg"
+    },
+    {
+      "name": "Bruno Kirby",
+      "image": "http://image.tmdb.org/t/p/w185/vWKYTMoasP2kVqvG0hoNe4q73Nx.jpg"
+    },
+    {
+      "name": "Harry Shearer",
+      "image": "http://image.tmdb.org/t/p/w185/qtGHYpWLbqQVY9ymVPtrJZV6MHg.jpg"
+    },
+    {
+      "name": "David Kaff"
+    }
+  ]
+}

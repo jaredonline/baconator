@@ -1,0 +1,65 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/1c0JODXUddz2gyJsg4HzqzlBM7d.jpg",
+    "name": "Far from the Madding Crowd"
+  },
+  "cast": [
+    {
+      "name": "Julie Christie",
+      "image": "http://image.tmdb.org/t/p/w185/73SExI7sunDfkSQmHQhUMryUSR2.jpg"
+    },
+    {
+      "name": "Terence Stamp",
+      "image": "http://image.tmdb.org/t/p/w185/fyGkLjgVfyKIPBaMQs5Df3gMuOV.jpg"
+    },
+    {
+      "name": "Alan Bates",
+      "image": "http://image.tmdb.org/t/p/w185/tXBtdL0JrFFMBP55fn3sh1z0WOG.jpg"
+    },
+    {
+      "name": "Peter Finch",
+      "image": "http://image.tmdb.org/t/p/w185/rfG6zneBXQJxFxez865nlSt5ExM.jpg"
+    },
+    {
+      "name": "Fiona Walker"
+    },
+    {
+      "name": "Prunella Ransome"
+    },
+    {
+      "name": "Alison Leggatt"
+    },
+    {
+      "name": "Paul Dawkins"
+    },
+    {
+      "name": "Julian Somers",
+      "image": "http://image.tmdb.org/t/p/w185/2x1PnxrrywUTqPLGS8wPLk9s09Q.jpg"
+    },
+    {
+      "name": "Freddie Jones",
+      "image": "http://image.tmdb.org/t/p/w185/mh2aJ6fuzsjsCG8bNyelPuqPHt3.jpg"
+    },
+    {
+      "name": "Andrew Robertson"
+    },
+    {
+      "name": "Brian Rawlinson"
+    },
+    {
+      "name": "Vincent Harding"
+    },
+    {
+      "name": "Victor Stone"
+    },
+    {
+      "name": "Owen Berry"
+    },
+    {
+      "name": "Lawrence Carter"
+    },
+    {
+      "name": "Pauline Melville"
+    }
+  ]
+}

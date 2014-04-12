@@ -1,0 +1,44 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ttfVcy8PAnRCZFUXdPStDI2gF5r.jpg",
+    "name": "Kafka"
+  },
+  "cast": [
+    {
+      "name": "Jeremy Irons",
+      "image": "http://image.tmdb.org/t/p/w185/9AWphjIgGX7JjTrwrx3tsTZlUgv.jpg"
+    },
+    {
+      "name": "Theresa Russell",
+      "image": "http://image.tmdb.org/t/p/w185/wsuvlVzWU5V96QG0Nh8902ZxvBk.jpg"
+    },
+    {
+      "name": "Armin Mueller-Stahl",
+      "image": "http://image.tmdb.org/t/p/w185/cKdfUl7EuUpBncwvJo2t3hYJPNi.jpg"
+    },
+    {
+      "name": "Joel Grey",
+      "image": "http://image.tmdb.org/t/p/w185/nYXm4zm2CO47BkTxqnaMjOOoSav.jpg"
+    },
+    {
+      "name": "Ian Holm",
+      "image": "http://image.tmdb.org/t/p/w185/uq6Wx7PaLgaw969avH7tLHnSb0Q.jpg"
+    },
+    {
+      "name": "Jeroen Krabbé",
+      "image": "http://image.tmdb.org/t/p/w185/fXH83k5lE2zL5zNXKXGI4wyGnRP.jpg"
+    },
+    {
+      "name": "Alec Guinness",
+      "image": "http://image.tmdb.org/t/p/w185/sNKqzb8U33pWVHJ338NjkHSEVDn.jpg"
+    },
+    {
+      "name": "Brian Glover",
+      "image": "http://image.tmdb.org/t/p/w185/dUqgIdAO8jctUM4ordJ0cbovR4M.jpg"
+    },
+    {
+      "name": "Keith Allen",
+      "image": "http://image.tmdb.org/t/p/w185/ivILGIXvflaOciCElrX3CQ3sJyK.jpg"
+    }
+  ]
+}

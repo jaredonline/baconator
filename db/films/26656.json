@@ -1,0 +1,37 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/extB0YvLvTkl4jFIFoPrC4ezgAB.jpg",
+    "name": "Ghost Machine"
+  },
+  "cast": [
+    {
+      "name": "Sean Faris",
+      "image": "http://image.tmdb.org/t/p/w185/aUyhN5GjPxRJSSHeaVk0QbYFe2i.jpg"
+    },
+    {
+      "name": "Rachael Taylor",
+      "image": "http://image.tmdb.org/t/p/w185/mMqPaZBw3BKx9olaoa2toyELLSz.jpg"
+    },
+    {
+      "name": "Luke Ford",
+      "image": "http://image.tmdb.org/t/p/w185/n3gFLK0G4iUPm2ov909B3nUYt3X.jpg"
+    },
+    {
+      "name": "Josh Dallas",
+      "image": "http://image.tmdb.org/t/p/w185/tnVioYijYmvOcVYOUFQw5UGZIKj.jpg"
+    },
+    {
+      "name": "Sam Corry"
+    },
+    {
+      "name": "Halla Vilhjálmsdóttir"
+    },
+    {
+      "name": "Richard Dormer",
+      "image": "http://image.tmdb.org/t/p/w185/9FhyTI5IOd0hdXeU9onIaZwrnLx.jpg"
+    },
+    {
+      "name": "Jonathan Harden"
+    }
+  ]
+}

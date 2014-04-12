@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ltAJSDcdZ786Zet5kLa8Nph5rdp.jpg",
+    "name": "¿Quién mató a Bambi?"
+  },
+  "cast": [
+    {
+      "name": "Clara Lago",
+      "image": "http://image.tmdb.org/t/p/w185/eO3vaBbQRVKYagr26VINxlisiSS.jpg"
+    },
+    {
+      "name": "Quim Gutiérrez",
+      "image": "http://image.tmdb.org/t/p/w185/bZuPsaQASxuS1vMcxz80kbfCvVw.jpg"
+    },
+    {
+      "name": "Úrsula Corberó",
+      "image": "http://image.tmdb.org/t/p/w185/lun7gsFCsqFIBToA4qqq5AYfr5c.jpg"
+    },
+    {
+      "name": "Ernesto Alterio",
+      "image": "http://image.tmdb.org/t/p/w185/pLsvJzMrs8l8KADCctcV3CP3OYS.jpg"
+    },
+    {
+      "name": "Julián Villagrán",
+      "image": "http://image.tmdb.org/t/p/w185/kMw3oyE3QjWKc4cpT9SklQRfXgB.jpg"
+    },
+    {
+      "name": "Carmina Barrios",
+      "image": "http://image.tmdb.org/t/p/w185/fKVW0pgJ8W2ygvgkcsVhxjkKpsm.jpg"
+    },
+    {
+      "name": "Joaquín Núñez"
+    },
+    {
+      "name": "Belén Ponce de León"
+    }
+  ]
+}

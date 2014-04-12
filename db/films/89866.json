@@ -1,0 +1,39 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qpDblD8ksUqUuivIg0wRQbEcA4E.jpg",
+    "name": "Gerrymandering"
+  },
+  "cast": [
+    {
+      "name": "Dave Aronberg"
+    },
+    {
+      "name": "Ben Barnes",
+      "image": "http://image.tmdb.org/t/p/w185/uaqyZo945YT0TScQgiaui5v0iTn.jpg"
+    },
+    {
+      "name": "Gray Davis"
+    },
+    {
+      "name": "Howard Dean"
+    },
+    {
+      "name": "Kathay Feng"
+    },
+    {
+      "name": "Bob Graham"
+    },
+    {
+      "name": "Susan Lerner"
+    },
+    {
+      "name": "Justin Levitt"
+    },
+    {
+      "name": "Alan S. Lowenthal"
+    },
+    {
+      "name": "Ed Rollins"
+    }
+  ]
+}

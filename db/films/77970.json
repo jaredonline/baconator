@@ -1,0 +1,29 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/vLxJhOluELwiCMUaJs3LKE9AEt6.jpg",
+    "name": "La loca historia de los tres mosqueteros"
+  },
+  "cast": [
+    {
+      "name": "Antonio Ozores",
+      "image": "http://image.tmdb.org/t/p/w185/oAvYGTyK2HxK9HzurDcPamRn3pp.jpg"
+    },
+    {
+      "name": "Nadiuska",
+      "image": "http://image.tmdb.org/t/p/w185/vVQCxN9C3mV6HNE94cRBxlmzhqB.jpg"
+    },
+    {
+      "name": "Paloma Hurtado"
+    },
+    {
+      "name": "José Lifante"
+    },
+    {
+      "name": "Adriana Ozores",
+      "image": "http://image.tmdb.org/t/p/w185/1TwpANgl6w8FqVRcieiSFu1XFSz.jpg"
+    },
+    {
+      "name": "Emma Ozores"
+    }
+  ]
+}

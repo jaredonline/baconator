@@ -1,0 +1,49 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7ffMH5608gIRXTjKmwEbdbE8U6I.jpg",
+    "name": "Edgar Allan Poe's Buried Alive"
+  },
+  "cast": [
+    {
+      "name": "Robert Vaughn",
+      "image": "http://image.tmdb.org/t/p/w185/tqnTA5PsxCvqZRFEyEyXAcEPQx4.jpg"
+    },
+    {
+      "name": "Donald Pleasence",
+      "image": "http://image.tmdb.org/t/p/w185/fr9lf679ZsHbDZsbcpKZfbFO1Pu.jpg"
+    },
+    {
+      "name": "Karen Lorre",
+      "image": "http://image.tmdb.org/t/p/w185/hXQRoL07kfGKZjW2xsHZ9KWjR2S.jpg"
+    },
+    {
+      "name": "John Carradine",
+      "image": "http://image.tmdb.org/t/p/w185/iWHObxmwHuUS7g4uJFT2SS2hHXu.jpg"
+    },
+    {
+      "name": "Ginger Lynn Allen",
+      "image": "http://image.tmdb.org/t/p/w185/3KYl8rnCvkQg4bvocVa8hVWvIID.jpg"
+    },
+    {
+      "name": "Nia Long",
+      "image": "http://image.tmdb.org/t/p/w185/kNjmtKOVykmOOa1q0OFj6zZIAF4.jpg"
+    },
+    {
+      "name": "Arnold Vosloo",
+      "image": "http://image.tmdb.org/t/p/w185/z6IksWp0wmALAeS9xk9CCtGEoAb.jpg"
+    },
+    {
+      "name": "Arnold Vosloo",
+      "image": "http://image.tmdb.org/t/p/w185/z6IksWp0wmALAeS9xk9CCtGEoAb.jpg"
+    },
+    {
+      "name": "William Butler"
+    },
+    {
+      "name": "Janine Denison"
+    },
+    {
+      "name": "Ashley Hayden"
+    }
+  ]
+}

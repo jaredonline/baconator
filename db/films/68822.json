@@ -1,0 +1,30 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xTqiJRqwRPg4bOD66yeucgWB0pn.jpg",
+    "name": "Golden Marie"
+  },
+  "cast": [
+    {
+      "name": "Simone Signoret",
+      "image": "http://image.tmdb.org/t/p/w185/qZgSRuyGuYO3xcHvWfpdJj4Yd95.jpg"
+    },
+    {
+      "name": "Serge Reggiani",
+      "image": "http://image.tmdb.org/t/p/w185/aEULgQs8E8Rfl9MOuP6mujqRkcA.jpg"
+    },
+    {
+      "name": "Claude Dauphin",
+      "image": "http://image.tmdb.org/t/p/w185/9ZYZhyJee5MGBkeggYkENJegYmZ.jpg"
+    },
+    {
+      "name": "Raymond Bussières",
+      "image": "http://image.tmdb.org/t/p/w185/15N1kLrcbBJgc0G4UBZoTukU3yg.jpg"
+    },
+    {
+      "name": "Odette Barencey"
+    },
+    {
+      "name": "Loleh Bellon"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/54NW79sQcjLlkYrUiRGO6p4bcDk.jpg",
+    "name": "BMX Bandits"
+  },
+  "cast": [
+    {
+      "name": "Nicole Kidman",
+      "image": "http://image.tmdb.org/t/p/w185/i58Dlu3gGhcyfGuFyWtxrJy7E0x.jpg"
+    },
+    {
+      "name": "James Lugton"
+    },
+    {
+      "name": "Angelo D'Angelo"
+    },
+    {
+      "name": "David Argue"
+    },
+    {
+      "name": "John Ley"
+    }
+  ]
+}

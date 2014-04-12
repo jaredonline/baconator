@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/eIFqugVaok3SP4CxcvDAvAa8EkV.jpg",
+    "name": "Soul Man"
+  },
+  "cast": [
+    {
+      "name": "C. Thomas Howell",
+      "image": "http://image.tmdb.org/t/p/w185/wptrBbqMUHKbnXZo3dtH3Bintlm.jpg"
+    },
+    {
+      "name": "Rae Dawn Chong",
+      "image": "http://image.tmdb.org/t/p/w185/1PsWKOXvH07V8ptJ1LjAuU8g07L.jpg"
+    },
+    {
+      "name": "Arye Gross",
+      "image": "http://image.tmdb.org/t/p/w185/9wOjYZQnNrosFZSNKg2YaJ8poB7.jpg"
+    },
+    {
+      "name": "James Earl Jones",
+      "image": "http://image.tmdb.org/t/p/w185/pxC7jiRTHArPldgkqSneXRsrRJ9.jpg"
+    },
+    {
+      "name": "Melora Hardin",
+      "image": "http://image.tmdb.org/t/p/w185/zMQ4Ku1HRtbmaRmLwNzX6lEiYdN.jpg"
+    },
+    {
+      "name": "Leslie Nielsen",
+      "image": "http://image.tmdb.org/t/p/w185/cZpuTfE1j63tCEXoSL2A7KZjk5d.jpg"
+    },
+    {
+      "name": "Julia Louis-Dreyfus",
+      "image": "http://image.tmdb.org/t/p/w185/idcMIOsU1qQMuAFSwZEZTcPPwyd.jpg"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/1NVhvBMZwu5FCZgQrTDRqICVLAr.jpg",
+    "name": "The Magic Christian"
+  },
+  "cast": [
+    {
+      "name": "Peter Sellers",
+      "image": "http://image.tmdb.org/t/p/w185/2uJvjoiTjvJfbd81S2AhRtdf2aU.jpg"
+    },
+    {
+      "name": "Ringo Starr",
+      "image": "http://image.tmdb.org/t/p/w185/26c4q3Uz3OFAR8rWcXAI5Q1xvZX.jpg"
+    },
+    {
+      "name": "Isabel Jeans",
+      "image": "http://image.tmdb.org/t/p/w185/g7DkdmaErpQ8dEuZRJAjkhyEr2J.jpg"
+    },
+    {
+      "name": "Caroline Blakiston",
+      "image": "http://image.tmdb.org/t/p/w185/tbABMp1c3zgiJKOoRaIkw9XWQ2Y.jpg"
+    },
+    {
+      "name": "Wilfrid Hyde-White",
+      "image": "http://image.tmdb.org/t/p/w185/kqMDVX6MR0wRAFWO85M0geJPFHV.jpg"
+    },
+    {
+      "name": "Spike Milligan",
+      "image": "http://image.tmdb.org/t/p/w185/gTKHCescSG0IZRG4tW7lFqgEOKU.jpg"
+    },
+    {
+      "name": "John Cleese",
+      "image": "http://image.tmdb.org/t/p/w185/nInaadLW8wHwBy0FMatkHIWD2YT.jpg"
+    },
+    {
+      "name": "Richard Attenborough",
+      "image": "http://image.tmdb.org/t/p/w185/qzedA4XCNjbmR7z3fWiFinGukzx.jpg"
+    },
+    {
+      "name": "John Le Mesurier",
+      "image": "http://image.tmdb.org/t/p/w185/42H9hrRtpFrQ7LFlBr8AnHfgDnr.jpg"
+    },
+    {
+      "name": "Raquel Welch",
+      "image": "http://image.tmdb.org/t/p/w185/dEr7QkkgOqCwH1uc5VXzTxDveAv.jpg"
+    },
+    {
+      "name": "Roman Polanski",
+      "image": "http://image.tmdb.org/t/p/w185/z3vQwbMhec4yFCq4uFawaeE1JjH.jpg"
+    }
+  ]
+}

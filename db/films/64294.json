@@ -1,0 +1,22 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/oPi9saA4h3E5MJ9TKG5HheWurAd.jpg",
+    "name": "Entrée des artistes"
+  },
+  "cast": [
+    {
+      "name": "Claude Dauphin",
+      "image": "http://image.tmdb.org/t/p/w185/9ZYZhyJee5MGBkeggYkENJegYmZ.jpg"
+    },
+    {
+      "name": "Janine Darcey"
+    },
+    {
+      "name": "Louis Jouvet",
+      "image": "http://image.tmdb.org/t/p/w185/mPpkSTj83iUkxe0lqo58KK7ekFL.jpg"
+    },
+    {
+      "name": "Odette Joyeux"
+    }
+  ]
+}

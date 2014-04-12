@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6TUQIvCNsZG8zM6lyfOAWFKYZqE.jpg",
+    "name": "L'Île Mystérieuse"
+  },
+  "cast": [
+    {
+      "name": "Rafael Bardem"
+    },
+    {
+      "name": "Omar Sharif",
+      "image": "http://image.tmdb.org/t/p/w185/hZTwgZnf1jyDt0vz0iHzsRsBtEY.jpg"
+    },
+    {
+      "name": "Ambroise Bia"
+    },
+    {
+      "name": "Jess Hahn",
+      "image": "http://image.tmdb.org/t/p/w185/ssed2IPHO5ucVK7RrdSIY0F9DdR.jpg"
+    },
+    {
+      "name": "Philippe Nicaud"
+    },
+    {
+      "name": "Gérard Tichy"
+    }
+  ]
+}

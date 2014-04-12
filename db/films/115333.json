@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/lGhXstbHaJ96wZxoXyxDShuzrFF.jpg",
+    "name": "Clash of Steel"
+  },
+  "cast": [
+    {
+      "name": "Gérard Barray",
+      "image": "http://image.tmdb.org/t/p/w185/k1zt1i9IeUur4bv1iluRyvfquFq.jpg"
+    },
+    {
+      "name": "Gianna Maria Canale",
+      "image": "http://image.tmdb.org/t/p/w185/srJpqwE7yMU2JT9p1Os3ZZoUkVI.jpg"
+    },
+    {
+      "name": "Michèle Grellier"
+    },
+    {
+      "name": "Kirk Morris",
+      "image": "http://image.tmdb.org/t/p/w185/yMkSRZb8tjSyxkShTkOYb53OI3R.jpg"
+    }
+  ]
+}

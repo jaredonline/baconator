@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/luD6ZLtK0p24YkznG9IaY5JQCHs.jpg",
+    "name": "Crime and Passion"
+  },
+  "cast": [
+    {
+      "name": "Omar Sharif",
+      "image": "http://image.tmdb.org/t/p/w185/hZTwgZnf1jyDt0vz0iHzsRsBtEY.jpg"
+    },
+    {
+      "name": "Karen Black",
+      "image": "http://image.tmdb.org/t/p/w185/nTQz2lL0LPZkx0570hTSJj48zTJ.jpg"
+    },
+    {
+      "name": "Joseph Bottoms",
+      "image": "http://image.tmdb.org/t/p/w185/mPpDwHpt6qnbArlqbyMvzVlnvbC.jpg"
+    },
+    {
+      "name": "Bernhard Wicki",
+      "image": "http://image.tmdb.org/t/p/w185/kWBdiWLhjdFDMV953W5xhFyHTxv.jpg"
+    },
+    {
+      "name": "Heinz Ehrenfreund"
+    }
+  ]
+}

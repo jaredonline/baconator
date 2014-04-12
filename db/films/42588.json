@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/gOLVRFMZlUmNPeHDoxFgOWSOf7O.jpg",
+    "name": "Getting Straight"
+  },
+  "cast": [
+    {
+      "name": "Elliott Gould",
+      "image": "http://image.tmdb.org/t/p/w185/tYB6UTpweDR4Z3glSNCj9Mnfa9v.jpg"
+    },
+    {
+      "name": "Candice Bergen",
+      "image": "http://image.tmdb.org/t/p/w185/wzRihM7eZyCyAuKpgyBewCzDRWJ.jpg"
+    },
+    {
+      "name": "Robert F. Lyons",
+      "image": "http://image.tmdb.org/t/p/w185/33GfkGHwpoTt942epr4g6VB0udS.jpg"
+    },
+    {
+      "name": "Cecil Kellaway",
+      "image": "http://image.tmdb.org/t/p/w185/nNjyOu0iYiw0IAk9FyxBMgd0byt.jpg"
+    },
+    {
+      "name": "Harrison Ford",
+      "image": "http://image.tmdb.org/t/p/w185/aVKNqtkzZCymupOrvwxozamRyVc.jpg"
+    },
+    {
+      "name": "Jeff Corey",
+      "image": "http://image.tmdb.org/t/p/w185/jlc4DLs99u7f9HOoco3dv5DBAoJ.jpg"
+    }
+  ]
+}

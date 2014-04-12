@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2pW1iACRzmb9OOIhzflYYt3S3s9.jpg",
+    "name": "Beavis and Butt-Head Do America"
+  },
+  "cast": [
+    {
+      "name": "Mike Judge",
+      "image": "http://image.tmdb.org/t/p/w185/kIgpmk3JFwUAg0PULIsUulg8TEP.jpg"
+    },
+    {
+      "name": "Bruce Willis",
+      "image": "http://image.tmdb.org/t/p/w185/kI1OluWhLJk3pnR19VjOfABpnTY.jpg"
+    },
+    {
+      "name": "Demi Moore",
+      "image": "http://image.tmdb.org/t/p/w185/eLNoOYnxvhpV0BMSkNNnyyo5In7.jpg"
+    },
+    {
+      "name": "Robert Stack",
+      "image": "http://image.tmdb.org/t/p/w185/gC4P6esXuU9LRlwUVd3m0K9FyKF.jpg"
+    }
+  ]
+}

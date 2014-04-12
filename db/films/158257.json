@@ -1,0 +1,30 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/fGmev02X8NnAeZlSpTwiwAmnAll.jpg",
+    "name": "Charlie's Ghost Story"
+  },
+  "cast": [
+    {
+      "name": "Trenton Knight"
+    },
+    {
+      "name": "Cheech Marin",
+      "image": "http://image.tmdb.org/t/p/w185/5xzxA3l9MYLwQbJX8nxDImSafDG.jpg"
+    },
+    {
+      "name": "Anthony Edwards",
+      "image": "http://image.tmdb.org/t/p/w185/mDgIMyKgmYAPNFIdeWi6IDxdED8.jpg"
+    },
+    {
+      "name": "Charles Rocket",
+      "image": "http://image.tmdb.org/t/p/w185/9UJTYqaPaYNPuVTjGd0Cr4XVNqe.jpg"
+    },
+    {
+      "name": "Linda Fiorentino",
+      "image": "http://image.tmdb.org/t/p/w185/uOMDIxggAZFsgv3AIJmxTWQJgfQ.jpg"
+    },
+    {
+      "name": "Robert Hy Gorman"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/mbM7z7ayhK09rSXhqlrMc5c8k51.jpg",
+    "name": "Sleepless in Madrid"
+  },
+  "cast": [
+    {
+      "name": "Cristina Marcos"
+    },
+    {
+      "name": "Candela Peña",
+      "image": "http://image.tmdb.org/t/p/w185/tc37OuZZpeMU14VDu5E7ge5TMy8.jpg"
+    },
+    {
+      "name": "Ernesto Alterio",
+      "image": "http://image.tmdb.org/t/p/w185/pLsvJzMrs8l8KADCctcV3CP3OYS.jpg"
+    }
+  ]
+}

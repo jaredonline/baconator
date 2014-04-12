@@ -1,0 +1,28 @@
+{
+  "film": {
+    "name": "El niño"
+  },
+  "cast": [
+    {
+      "name": "Luis Tosar",
+      "image": "http://image.tmdb.org/t/p/w185/xg1bk8niriXA64ckwXcqFQ6dt4h.jpg"
+    },
+    {
+      "name": "Sergi López",
+      "image": "http://image.tmdb.org/t/p/w185/9h8KS0D1TQBBF65AiLp7FGTNaQ9.jpg"
+    },
+    {
+      "name": "Eduard Fernández",
+      "image": "http://image.tmdb.org/t/p/w185/amJKpgzBvEr9d6WIuT1MjADzDZT.jpg"
+    },
+    {
+      "name": "Jesús Carroza"
+    },
+    {
+      "name": "Jesús Carroza"
+    },
+    {
+      "name": "Jesús Castro"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/eF14dhUt06TNJkkA1xtOSjMV7a4.jpg",
+    "name": "The Idolmaker"
+  },
+  "cast": [
+    {
+      "name": "Ray Sharkey",
+      "image": "http://image.tmdb.org/t/p/w185/97cwisyWeOfMTx7IxFsbMF7uYBv.jpg"
+    },
+    {
+      "name": "Peter Gallagher",
+      "image": "http://image.tmdb.org/t/p/w185/6bFDP5nBVx6RymoqPeSPwIvBCEL.jpg"
+    },
+    {
+      "name": "Joe Pantoliano",
+      "image": "http://image.tmdb.org/t/p/w185/zBvDX2HWepvW9im6ikgoyOL2Xj0.jpg"
+    },
+    {
+      "name": "Paul Land"
+    },
+    {
+      "name": "JoJo D'Amore"
+    },
+    {
+      "name": "Maureen McCormick",
+      "image": "http://image.tmdb.org/t/p/w185/cec96T0baTkpd31OyCdeG7CrB3S.jpg"
+    },
+    {
+      "name": "Olympia Dukakis",
+      "image": "http://image.tmdb.org/t/p/w185/tiGVqBJJbr5XbPIT0VVM6JcaYZs.jpg"
+    }
+  ]
+}

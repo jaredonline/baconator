@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/uSuBXTNj2Havm2JNWdHt2VKOYKr.jpg",
+    "name": "The Nutcracker"
+  },
+  "cast": [
+    {
+      "name": "Nathan Lane",
+      "image": "http://image.tmdb.org/t/p/w185/2eB01W4VURqihttVdewfhfhhCwW.jpg"
+    },
+    {
+      "name": "John Turturro",
+      "image": "http://image.tmdb.org/t/p/w185/yyvj3z2IC9AG1sv6kuk5d7oQFJs.jpg"
+    },
+    {
+      "name": "Frances de la Tour",
+      "image": "http://image.tmdb.org/t/p/w185/pZuzbSLkF6FNarQ2Fo7vTF0CBDV.jpg"
+    },
+    {
+      "name": "Elle Fanning",
+      "image": "http://image.tmdb.org/t/p/w185/4HhWFRbhY5JDKTHsbXlUWO4b4g.jpg"
+    }
+  ]
+}

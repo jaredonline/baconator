@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/lQwFbYqahCrJtBn9FFobA2966Kl.jpg",
+    "name": "That Summer"
+  },
+  "cast": [
+    {
+      "name": "Ray Winstone",
+      "image": "http://image.tmdb.org/t/p/w185/fCn43QHHE3WXa23bxcmXdUZ3l4Y.jpg"
+    },
+    {
+      "name": "Tony London"
+    },
+    {
+      "name": "Emily Moore"
+    },
+    {
+      "name": "Julie Shipley"
+    }
+  ]
+}

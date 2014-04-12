@@ -1,0 +1,23 @@
+{
+  "film": {
+    "name": "McFarland"
+  },
+  "cast": [
+    {
+      "name": "Kevin Costner",
+      "image": "http://image.tmdb.org/t/p/w185/ybwfOhuuDPJ6NCcX7Y5XJxE6nMs.jpg"
+    },
+    {
+      "name": "Morgan Saylor",
+      "image": "http://image.tmdb.org/t/p/w185/ySqoJtBhQOsX1ntBWqnZhLyrC1E.jpg"
+    },
+    {
+      "name": "Maria Bello",
+      "image": "http://image.tmdb.org/t/p/w185/wU5I528qHPG9pAGNnghYVEW69gr.jpg"
+    },
+    {
+      "name": "Carlos Pratts",
+      "image": "http://image.tmdb.org/t/p/w185/k3j3jZBC1Hpnja0k0NR1DAxdlAV.jpg"
+    }
+  ]
+}

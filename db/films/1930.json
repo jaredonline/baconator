@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/AtFhFTNbNo49qn7fkbo9lDtRkeR.jpg",
+    "name": "The Amazing Spider-Man"
+  },
+  "cast": [
+    {
+      "name": "Andrew Garfield",
+      "image": "http://image.tmdb.org/t/p/w185/r4Vta3T7RLEfgu3yOUzM8osUhlM.jpg"
+    },
+    {
+      "name": "Emma Stone",
+      "image": "http://image.tmdb.org/t/p/w185/9K1GePA2pOAQva6MoFkib8CXudL.jpg"
+    },
+    {
+      "name": "Martin Sheen",
+      "image": "http://image.tmdb.org/t/p/w185/mityfK8XVZ76Vse6h5oPECl9nGw.jpg"
+    },
+    {
+      "name": "Sally Field",
+      "image": "http://image.tmdb.org/t/p/w185/ymhpsxujOO3a9qaGYSpkenCt9Le.jpg"
+    },
+    {
+      "name": "Rhys Ifans",
+      "image": "http://image.tmdb.org/t/p/w185/szRhyNkkdbT6iRYykCwAq6E1bmg.jpg"
+    },
+    {
+      "name": "Denis Leary",
+      "image": "http://image.tmdb.org/t/p/w185/tHW0Sp1k5s4zeGAbPWs2iYPs8Up.jpg"
+    },
+    {
+      "name": "Irrfan Khan",
+      "image": "http://image.tmdb.org/t/p/w185/vmApZJQMBsafA4rH3As2WW9Lfwj.jpg"
+    }
+  ]
+}

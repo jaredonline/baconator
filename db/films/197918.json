@@ -1,0 +1,35 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/AnNQyITVnsKawtBwCziD1Do7oSZ.jpg",
+    "name": "Dove vai tutta nuda?"
+  },
+  "cast": [
+    {
+      "name": "Tomás Milián",
+      "image": "http://image.tmdb.org/t/p/w185/zQLcIStj7SFR1tTSeTp2cFjCXzJ.jpg"
+    },
+    {
+      "name": "Maria Grazia Buccella"
+    },
+    {
+      "name": "Gastone Moschin",
+      "image": "http://image.tmdb.org/t/p/w185/1bZQqq7R8diPSkdNMpwmEOpidG5.jpg"
+    },
+    {
+      "name": "Angela Luce"
+    },
+    {
+      "name": "Lea Lander"
+    },
+    {
+      "name": "Vittorio Gassman",
+      "image": "http://image.tmdb.org/t/p/w185/53ICH7uNIj795ATZCdDICmRqUEo.jpg"
+    },
+    {
+      "name": "Tito LeDuc"
+    },
+    {
+      "name": "Giancarlo Badessi"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/hHjVfRbJ9ZsjBCX7BD7dnJQTRdT.jpg",
+    "name": "Les longs manteaux"
+  },
+  "cast": [
+    {
+      "name": "Bernard Giraudeau",
+      "image": "http://image.tmdb.org/t/p/w185/uNhqn2YOemOhGfkg4Pj3znbvGPS.jpg"
+    },
+    {
+      "name": "Cláudia Ohana",
+      "image": "http://image.tmdb.org/t/p/w185/rwNqwFiIBIBjvnsy6o67W2TiCmF.jpg"
+    },
+    {
+      "name": "Robert Charlebois",
+      "image": "http://image.tmdb.org/t/p/w185/6JfwyMFAWRqQy3iT4FzZJyDErzj.jpg"
+    },
+    {
+      "name": "Federico Luppi",
+      "image": "http://image.tmdb.org/t/p/w185/aKQBkLnh0RZNPYqO80itGYuclLp.jpg"
+    }
+  ]
+}

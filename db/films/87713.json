@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/aGZ0FKRmPT4BCbrJWO6JIV7P6p.jpg",
+    "name": "Interview with a Serial Killer"
+  },
+  "cast": [
+    {
+      "name": "Harriet Robinson"
+    },
+    {
+      "name": "Don Henderson",
+      "image": "http://image.tmdb.org/t/p/w185/qeOAWEiZ4cXddRziyaJQ2Mt5Mpm.jpg"
+    },
+    {
+      "name": "Peter Firth",
+      "image": "http://image.tmdb.org/t/p/w185/2qFPG3fIwshfPGDwIoP5aKVKFQM.jpg"
+    }
+  ]
+}

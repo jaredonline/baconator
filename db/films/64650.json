@@ -1,0 +1,46 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/43mcQXie3N0aT7bDevUCxn5a0cp.jpg",
+    "name": "Sartana the Gravedigger"
+  },
+  "cast": [
+    {
+      "name": "Klaus Kinski",
+      "image": "http://image.tmdb.org/t/p/w185/7gsJB7xlovz1khNID0B8yKA9TO0.jpg"
+    },
+    {
+      "name": "Gianni Garko",
+      "image": "http://image.tmdb.org/t/p/w185/6uHoUXLFqhcCHIjHaU4uR3FkJml.jpg"
+    },
+    {
+      "name": "Frank Wolff",
+      "image": "http://image.tmdb.org/t/p/w185/iVv0TkXmoHNhJqM4fUdCWMRgXF9.jpg"
+    },
+    {
+      "name": "Gordon Mitchell"
+    },
+    {
+      "name": "Ettore Manni",
+      "image": "http://image.tmdb.org/t/p/w185/cWv2SZfLKriA0QzYrqXjbdVkYmv.jpg"
+    },
+    {
+      "name": "Salvatore Borghese"
+    },
+    {
+      "name": "Renato Baldini",
+      "image": "http://image.tmdb.org/t/p/w185/wwxE7c30XSVkYeAdqtp4064IKgJ.jpg"
+    },
+    {
+      "name": "Federico Boido"
+    },
+    {
+      "name": "José Torres"
+    },
+    {
+      "name": "Tullio Altamura"
+    },
+    {
+      "name": "Jean Louis"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qyxZrgB8MwlceAYz4BsnHItW00j.jpg",
+    "name": "A World Apart"
+  },
+  "cast": [
+    {
+      "name": "Jodhi May",
+      "image": "http://image.tmdb.org/t/p/w185/mWnai7cS6BjROuF7YkvmwApO5kw.jpg"
+    },
+    {
+      "name": "Jeroen Krabbé",
+      "image": "http://image.tmdb.org/t/p/w185/fXH83k5lE2zL5zNXKXGI4wyGnRP.jpg"
+    },
+    {
+      "name": "Barbara Hershey",
+      "image": "http://image.tmdb.org/t/p/w185/gaimK3QeNS32Wjryw03QC0PXWKO.jpg"
+    },
+    {
+      "name": "Tim Roth",
+      "image": "http://image.tmdb.org/t/p/w185/r4jtlboNqWPz2dOHafrPJE4Yd94.jpg"
+    }
+  ]
+}

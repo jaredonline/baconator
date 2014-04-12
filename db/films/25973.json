@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ugVwoowK2MJmt8eltnZv5qWKL1s.jpg",
+    "name": "What Love Is"
+  },
+  "cast": [
+    {
+      "name": "Cuba Gooding, Jr.",
+      "image": "http://image.tmdb.org/t/p/w185/yu8Q3ImFu3RJne585jjgeQO2Boo.jpg"
+    },
+    {
+      "name": "Matthew Lillard",
+      "image": "http://image.tmdb.org/t/p/w185/gJsQkX20g0ABquHqVpBJzMXR2JF.jpg"
+    },
+    {
+      "name": "Sean Astin",
+      "image": "http://image.tmdb.org/t/p/w185/jqF72oav6vmGAWl33GNO6EpZtwA.jpg"
+    },
+    {
+      "name": "Terrence 'T.C.' Carson",
+      "image": "http://image.tmdb.org/t/p/w185/eto2MDC4VXLGiPOXNqSdlWJ5yxL.jpg"
+    }
+  ]
+}

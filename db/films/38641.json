@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/dmM6ABoiWb2WGmlxzNmcYifJ8ag.jpg",
+    "name": "Doomsday Gun"
+  },
+  "cast": [
+    {
+      "name": "Frank Langella",
+      "image": "http://image.tmdb.org/t/p/w185/3Eg7dlQQKrjIW2Olc420A4mU6X2.jpg"
+    },
+    {
+      "name": "Kevin Spacey",
+      "image": "http://image.tmdb.org/t/p/w185/qbls22IcRbxp1D4gFP1N5Bdg6YR.jpg"
+    },
+    {
+      "name": "Clive Owen",
+      "image": "http://image.tmdb.org/t/p/w185/jm2as6tLcvHCYQvmMYM4VK6JEnr.jpg"
+    },
+    {
+      "name": "James Fox",
+      "image": "http://image.tmdb.org/t/p/w185/ioQ2RxdK9Th5cONWm0XN3NeedoZ.jpg"
+    }
+  ]
+}

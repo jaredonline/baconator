@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/sa9tqst8rTzah8dDwr2odFpEFxK.jpg",
+    "name": "Son of Cain"
+  },
+  "cast": [
+    {
+      "name": "Jack Taylor",
+      "image": "http://image.tmdb.org/t/p/w185/3mxYZLn8mXTYtwMUn4HW6H1pHEK.jpg"
+    },
+    {
+      "name": "José Coronado",
+      "image": "http://image.tmdb.org/t/p/w185/co7XjJSCr4kk4LkeIdqpmMaoOis.jpg"
+    },
+    {
+      "name": "Maria Molins"
+    },
+    {
+      "name": "Julio Manrique"
+    },
+    {
+      "name": "David Solans"
+    },
+    {
+      "name": "Helena De la Torre"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/9xTX5bGib3n5kTBBgj7YjAwfLrD.jpg",
+    "name": "Hold Me, Thrill Me, Kiss Me"
+  },
+  "cast": [
+    {
+      "name": "Max Parrish"
+    },
+    {
+      "name": "Adrienne Shelly",
+      "image": "http://image.tmdb.org/t/p/w185/2Fdo025mnY9AtniyComSTdKtidC.jpg"
+    },
+    {
+      "name": "Sean Young",
+      "image": "http://image.tmdb.org/t/p/w185/4zgkRFQruIlaJ4JakNZLoKJ70fH.jpg"
+    },
+    {
+      "name": "Diane Ladd",
+      "image": "http://image.tmdb.org/t/p/w185/slgKANTJWP5vStwKimuEGwpMr4S.jpg"
+    },
+    {
+      "name": "April Rayne"
+    },
+    {
+      "name": "Bela Lehoczky"
+    },
+    {
+      "name": "Ania Suli"
+    },
+    {
+      "name": "Timothy Leary"
+    }
+  ]
+}

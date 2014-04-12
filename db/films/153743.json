@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/9VBeB5IShWnc2upiHMNISQyrTob.jpg",
+    "name": "Trastorno"
+  },
+  "cast": [
+    {
+      "name": "Ingrid Rubio"
+    },
+    {
+      "name": "Najwa Nimri",
+      "image": "http://image.tmdb.org/t/p/w185/1HjYUf3gvfEXP26Z2ejflW2AtOi.jpg"
+    },
+    {
+      "name": "Pep Munné"
+    },
+    {
+      "name": "Juan Sanz"
+    },
+    {
+      "name": "Cristina Higueras"
+    },
+    {
+      "name": "Carlos Blanco"
+    }
+  ]
+}

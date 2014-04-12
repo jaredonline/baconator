@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6X9FqkBR98UliCE738rVLDRj3ae.jpg",
+    "name": "La estrella"
+  },
+  "cast": [
+    {
+      "name": "Ingrid Rubio",
+      "image": "http://image.tmdb.org/t/p/w185/qsft5QRndcgfdpTu1Z2SF0Wjsrk.jpg"
+    },
+    {
+      "name": "Carmen Machi",
+      "image": "http://image.tmdb.org/t/p/w185/gPT0nnzZ1M7chwt4zaYIfZJUN34.jpg"
+    },
+    {
+      "name": "Marc Clotet"
+    },
+    {
+      "name": "Fele Martínez",
+      "image": "http://image.tmdb.org/t/p/w185/69Q0vNghrRTosI82xwd3gLBv7Qx.jpg"
+    },
+    {
+      "name": "Carlos Blanco"
+    }
+  ]
+}

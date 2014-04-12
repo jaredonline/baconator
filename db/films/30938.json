@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ep9Vm4HOUFdGYpruHOIdOoWiP4U.jpg",
+    "name": "Maneater"
+  },
+  "cast": [
+    {
+      "name": "Gary Busey",
+      "image": "http://image.tmdb.org/t/p/w185/n66ycv61ZoqusHthcQde1g3JY6T.jpg"
+    },
+    {
+      "name": "Ian D. Clark"
+    },
+    {
+      "name": "Ty Wood"
+    },
+    {
+      "name": "Diana Reis"
+    }
+  ]
+}

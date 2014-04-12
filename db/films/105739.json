@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/tlLxlb05W0n6FmEsTMHtAHJHK.jpg",
+    "name": "Vargens tid"
+  },
+  "cast": [
+    {
+      "name": "Benny Haag"
+    },
+    {
+      "name": "Melinda Kinnaman",
+      "image": "http://image.tmdb.org/t/p/w185/7qzN8W4HanBux8Yv1skEaYD6rtu.jpg"
+    },
+    {
+      "name": "Gunnar Eyjólfsson"
+    },
+    {
+      "name": "Lill Lindfors"
+    }
+  ]
+}

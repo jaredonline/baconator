@@ -1,0 +1,60 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/sIHWqCHWmUT2h3pnTJtZIJSFjf7.jpg",
+    "name": "The Shanghai Spell"
+  },
+  "cast": [
+    {
+      "name": "Fernando Tielve"
+    },
+    {
+      "name": "Aida Folch",
+      "image": "http://image.tmdb.org/t/p/w185/eVUaL3skdxJ6nWVpERf3q1yFF5O.jpg"
+    },
+    {
+      "name": "Ariadna Gil",
+      "image": "http://image.tmdb.org/t/p/w185/rpOaTyT6eMWNqYrPI2gE07x149h.jpg"
+    },
+    {
+      "name": "Fernando Fernan Gomez",
+      "image": "http://image.tmdb.org/t/p/w185/2hUB2uXrQGNowcfKapNZRHZpy4x.jpg"
+    },
+    {
+      "name": "Eduard Fernández",
+      "image": "http://image.tmdb.org/t/p/w185/amJKpgzBvEr9d6WIuT1MjADzDZT.jpg"
+    },
+    {
+      "name": "Antonio Resines",
+      "image": "http://image.tmdb.org/t/p/w185/j9JW21A0e3gAbX7w25lSpTBJY1C.jpg"
+    },
+    {
+      "name": "Rosa Maria Sardà",
+      "image": "http://image.tmdb.org/t/p/w185/glmILdIPfqrNtNHaUrpgpuVFU29.jpg"
+    },
+    {
+      "name": "Jorge Sanz",
+      "image": "http://image.tmdb.org/t/p/w185/pFhzM9S9WdEKE3EiD6TgX1diAnX.jpg"
+    },
+    {
+      "name": "Juan José Ballesta",
+      "image": "http://image.tmdb.org/t/p/w185/mTZOSkPbrnitUDx7mZS68mRlWiD.jpg"
+    },
+    {
+      "name": "Cristina Dilla"
+    },
+    {
+      "name": "Joan Borràs"
+    },
+    {
+      "name": "Götz Otto",
+      "image": "http://image.tmdb.org/t/p/w185/fz5cvc45ljfDm2okVeTWL6EeAbC.jpg"
+    },
+    {
+      "name": "Ferran Rañé"
+    },
+    {
+      "name": "Féodor Atkine",
+      "image": "http://image.tmdb.org/t/p/w185/dQQAtpPAVqspmMXyE8kZPj9Usbi.jpg"
+    }
+  ]
+}

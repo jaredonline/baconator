@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2BryHTAzdSPi7KR9B9UnkDLCkm8.jpg",
+    "name": "Madly Madagascar"
+  },
+  "cast": [
+    {
+      "name": "Ben Stiller",
+      "image": "http://image.tmdb.org/t/p/w185/umikKeCX3vEZoUcx2klxPG8571s.jpg"
+    },
+    {
+      "name": "Chris Rock",
+      "image": "http://image.tmdb.org/t/p/w185/iZwQmwCe9k9D4XbjfH44xw8HEjI.jpg"
+    },
+    {
+      "name": "David Schwimmer",
+      "image": "http://image.tmdb.org/t/p/w185/kJBQNeB3k4iVtff8VfTG1mPaVwx.jpg"
+    },
+    {
+      "name": "Jada Pinkett Smith",
+      "image": "http://image.tmdb.org/t/p/w185/l5xVSBSzTe6xDmTcXMaExEfQY69.jpg"
+    },
+    {
+      "name": "Danny Jacobs",
+      "image": "http://image.tmdb.org/t/p/w185/e2f0ux30zGY0qZ6YxOhjf9mGOX2.jpg"
+    }
+  ]
+}

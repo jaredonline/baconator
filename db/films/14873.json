@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/9MXnhnqbubPy9NbFCvLJpg5VUns.jpg",
+    "name": "The Jungle Book 2"
+  },
+  "cast": [
+    {
+      "name": "John Goodman",
+      "image": "http://image.tmdb.org/t/p/w185/xPR75KEtYVPg6Bw3SYDW9mCE2Cb.jpg"
+    },
+    {
+      "name": "Haley Joel Osment",
+      "image": "http://image.tmdb.org/t/p/w185/s3HnyavKcGcnv6lj38YBNSpzolE.jpg"
+    },
+    {
+      "name": "Mae Whitman",
+      "image": "http://image.tmdb.org/t/p/w185/j4fIjf2giXPsZQ2dGlLNQecf0LK.jpg"
+    },
+    {
+      "name": "Phil Collins",
+      "image": "http://image.tmdb.org/t/p/w185/kNfOqOCX9mhBOWwWjWmVKevaVwl.jpg"
+    },
+    {
+      "name": "Connor Funk"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4MXOZc1RbTwJEAflowdJXd3fDCA.jpg",
+    "name": "Possession"
+  },
+  "cast": [
+    {
+      "name": "Isabelle Adjani",
+      "image": "http://image.tmdb.org/t/p/w185/diMIwvTGmIgOXd53RSMB3N79CtY.jpg"
+    },
+    {
+      "name": "Sam Neill",
+      "image": "http://image.tmdb.org/t/p/w185/mrbhjPg0SNCJu6Auj4WMheMg5EC.jpg"
+    },
+    {
+      "name": "Margit Carstensen",
+      "image": "http://image.tmdb.org/t/p/w185/mk4jOERPMKgDPiAsbGJhrii1QLu.jpg"
+    },
+    {
+      "name": "Heinz Bennent"
+    },
+    {
+      "name": "Johanna Hofer"
+    },
+    {
+      "name": "Carl Duering"
+    },
+    {
+      "name": "Shaun Lawton"
+    },
+    {
+      "name": "Michael Hogben"
+    },
+    {
+      "name": "Maximilian Rüthlein"
+    },
+    {
+      "name": "Leslie Malton"
+    }
+  ]
+}

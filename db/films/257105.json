@@ -1,0 +1,37 @@
+{
+  "film": {
+    "name": "The Best of SCTV"
+  },
+  "cast": [
+    {
+      "name": "Joe Flaherty",
+      "image": "http://image.tmdb.org/t/p/w185/eQWzl4MazEkiaIsSuLIBBWB9zV9.jpg"
+    },
+    {
+      "name": "Andrea Martin",
+      "image": "http://image.tmdb.org/t/p/w185/pp4E4hmdQCwqtsp8qEhW2Qr0I5x.jpg"
+    },
+    {
+      "name": "Don Lake",
+      "image": "http://image.tmdb.org/t/p/w185/zwm0HhAhxay84Co22rSkHwhJPBG.jpg"
+    },
+    {
+      "name": "Bruce Pirrie"
+    },
+    {
+      "name": "John Candy",
+      "image": "http://image.tmdb.org/t/p/w185/mNC2yH2Q7wRoPk4o0aonIcIULfI.jpg"
+    },
+    {
+      "name": "Harold Ramis",
+      "image": "http://image.tmdb.org/t/p/w185/zLzR2UwzyrR9A6RMarZJV833X9K.jpg"
+    },
+    {
+      "name": "Candace Frazee"
+    },
+    {
+      "name": "Betty Thomas",
+      "image": "http://image.tmdb.org/t/p/w185/rGLAYkddqkTrBCYCwPVnnPxuuAs.jpg"
+    }
+  ]
+}

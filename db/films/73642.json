@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/1PJzmcviGO9sFtlub3OUd8CgP9s.jpg",
+    "name": "The Closer You Get"
+  },
+  "cast": [
+    {
+      "name": "Ian Hart",
+      "image": "http://image.tmdb.org/t/p/w185/tAsLBMEaRv3S7AefSQwd1JlO71H.jpg"
+    },
+    {
+      "name": "Sean McGinley",
+      "image": "http://image.tmdb.org/t/p/w185/1Kt6KJ2g6JLwpV7tfLOFExJJ6TZ.jpg"
+    },
+    {
+      "name": "Niamh Cusack"
+    },
+    {
+      "name": "Ruth McCabe"
+    },
+    {
+      "name": "Ewan Stewart",
+      "image": "http://image.tmdb.org/t/p/w185/lMJIOEOxNUa0RZo3Ib1UC50K2OO.jpg"
+    },
+    {
+      "name": "Pat Shortt",
+      "image": "http://image.tmdb.org/t/p/w185/v9R9Vv4p2RFKe3WTYOXJjYbLPQO.jpg"
+    },
+    {
+      "name": "Cathleen Bradley"
+    },
+    {
+      "name": "Sean McDonagh"
+    }
+  ]
+}

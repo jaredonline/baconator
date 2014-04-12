@@ -1,0 +1,12 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/lEgxSqxKrwU3iVoYH1stqK4Hdw9.jpg",
+    "name": "Tales of the Rat Fink"
+  },
+  "cast": [
+    {
+      "name": "John Goodman",
+      "image": "http://image.tmdb.org/t/p/w185/xPR75KEtYVPg6Bw3SYDW9mCE2Cb.jpg"
+    }
+  ]
+}

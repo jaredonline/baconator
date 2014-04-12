@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/993ZnexXp8JRzhvJdMDoav7tK4i.jpg",
+    "name": "Irvine Welsh's Ecstasy"
+  },
+  "cast": [
+    {
+      "name": "Adam Sinclair",
+      "image": "http://image.tmdb.org/t/p/w185/uGp5autCBIUToxEosraMc5qubFA.jpg"
+    },
+    {
+      "name": "Kristin Kreuk",
+      "image": "http://image.tmdb.org/t/p/w185/3Sq6uVzO7caI1o9oIaS8sKnmaxD.jpg"
+    },
+    {
+      "name": "Carlo Rota",
+      "image": "http://image.tmdb.org/t/p/w185/h8V7iTLnVDEogMsm4yYYhdGfcyY.jpg"
+    },
+    {
+      "name": "Billy Boyd",
+      "image": "http://image.tmdb.org/t/p/w185/nwNHDM67VYAb87sjSqYQVWaZKyK.jpg"
+    },
+    {
+      "name": "Keram Malicki-Sánchez"
+    }
+  ]
+}

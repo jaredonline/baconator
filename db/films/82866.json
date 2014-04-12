@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/nXfyYP6qcg2WNcc0eFr1mZpKRcB.jpg",
+    "name": "Fog City Mavericks"
+  },
+  "cast": [
+    {
+      "name": "George Lucas",
+      "image": "http://image.tmdb.org/t/p/w185/rJ1zvSeZfge0mHtLnzJn4Mkw18S.jpg"
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "image": "http://image.tmdb.org/t/p/w185/z60KH0VzNO071wagvzMxMKNj9ZQ.jpg"
+    },
+    {
+      "name": "John Lasseter",
+      "image": "http://image.tmdb.org/t/p/w185/nTL3Hi4Fxc5iMNULXgCbRVADBXG.jpg"
+    },
+    {
+      "name": "Sofia Coppola",
+      "image": "http://image.tmdb.org/t/p/w185/zG1WS4sS5jvYkObHMxsK6fGK7Uk.jpg"
+    }
+  ]
+}

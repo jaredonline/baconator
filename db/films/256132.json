@@ -1,0 +1,44 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/b9JrfXjTGIOw5DdH2y07Fl2D9zw.jpg",
+    "name": "Roger Corman: Hollywood's Wild Angel"
+  },
+  "cast": [
+    {
+      "name": "Roger Corman",
+      "image": "http://image.tmdb.org/t/p/w185/gCfEvxl7jTv2dBo8HvwWVMi3auz.jpg"
+    },
+    {
+      "name": "Ron Howard",
+      "image": "http://image.tmdb.org/t/p/w185/eiqqUy655ns6R8y4CaeUfSHQokb.jpg"
+    },
+    {
+      "name": "Martin Scorsese",
+      "image": "http://image.tmdb.org/t/p/w185/yGs4PPDPTJV687P1NdydeEFzYRK.jpg"
+    },
+    {
+      "name": "David Carradine",
+      "image": "http://image.tmdb.org/t/p/w185/wCvrY9PUKtN6NwkmLHWLJivCCov.jpg"
+    },
+    {
+      "name": "Jonathan Demme",
+      "image": "http://image.tmdb.org/t/p/w185/suxo4qCWhq2Giep8UKhrf8bF4vc.jpg"
+    },
+    {
+      "name": "Joe Dante",
+      "image": "http://image.tmdb.org/t/p/w185/6tXq6DyArD72Nus1PBdxuksIgXo.jpg"
+    },
+    {
+      "name": "Paul Bartel",
+      "image": "http://image.tmdb.org/t/p/w185/7Kj1Y9V8lfnFXHkjf30H8d3ylQA.jpg"
+    },
+    {
+      "name": "Allan Arkush",
+      "image": "http://image.tmdb.org/t/p/w185/2EMm6ZGQAECI8Q1jrgAkAXpynHt.jpg"
+    },
+    {
+      "name": "Peter Bogdanovich",
+      "image": "http://image.tmdb.org/t/p/w185/ubMpZdWC5HYk26Ot1zJ27DOZQhT.jpg"
+    }
+  ]
+}

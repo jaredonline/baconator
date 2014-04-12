@@ -1,0 +1,39 @@
+{
+  "film": {
+    "name": "Under the City"
+  },
+  "cast": [
+    {
+      "name": "Nathan Rusk"
+    },
+    {
+      "name": "Dean Rabaiov"
+    },
+    {
+      "name": "Kristina Hunt"
+    },
+    {
+      "name": "Mike Starr",
+      "image": "http://image.tmdb.org/t/p/w185/pVGXXOVg4oumkxcgzu0oUuEQ91Y.jpg"
+    },
+    {
+      "name": "Richard Portnow",
+      "image": "http://image.tmdb.org/t/p/w185/mBiyIo3uUiW99rkclUq33SKYQu4.jpg"
+    },
+    {
+      "name": "Bernie Landis"
+    },
+    {
+      "name": "Maury Cooper"
+    },
+    {
+      "name": "Diane Dorsey"
+    },
+    {
+      "name": "Rolando Boyce"
+    },
+    {
+      "name": "Libya Pugh"
+    }
+  ]
+}

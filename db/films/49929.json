@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/tewtVjsshxCdgd1EAyMNhya5wxC.jpg",
+    "name": "When Brendan Met Trudy"
+  },
+  "cast": [
+    {
+      "name": "Chris McHallem",
+      "image": "http://image.tmdb.org/t/p/w185/aUTRtF4KnyGTF0VmE63hA8kMZgn.jpg"
+    },
+    {
+      "name": "Flora Montgomery",
+      "image": "http://image.tmdb.org/t/p/w185/rBDT4CBMuqZkca8fc5yfFsnVUBg.jpg"
+    },
+    {
+      "name": "Peter McDonald"
+    }
+  ]
+}

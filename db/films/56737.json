@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/nOeWf4JDinLQr9k2x57iIGutiOs.jpg",
+    "name": "Reverse of the Curse of the Bambino"
+  },
+  "cast": [
+    {
+      "name": "Denis Leary",
+      "image": "http://image.tmdb.org/t/p/w185/tHW0Sp1k5s4zeGAbPWs2iYPs8Up.jpg"
+    },
+    {
+      "name": "Michael Chiklis",
+      "image": "http://image.tmdb.org/t/p/w185/7za69UTHb0z0xjak4e2CnVfna5x.jpg"
+    },
+    {
+      "name": "Lenny Clarke",
+      "image": "http://image.tmdb.org/t/p/w185/7JdEGLygOzrvjiOEvg7R4T3t0xJ.jpg"
+    }
+  ]
+}

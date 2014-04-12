@@ -1,0 +1,40 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/dJfVYaKCUGe52NNa0JKKXfBiaWM.jpg",
+    "name": "The American Way"
+  },
+  "cast": [
+    {
+      "name": "Dennis Hopper",
+      "image": "http://image.tmdb.org/t/p/w185/25i87kBragb2MQah8OYZJkZuys.jpg"
+    },
+    {
+      "name": "Craven Mark"
+    },
+    {
+      "name": "James Aubrey",
+      "image": "http://image.tmdb.org/t/p/w185/lMnxSq3FomgblR82LkzW2wBngFR.jpg"
+    },
+    {
+      "name": "Eugene Lipinski"
+    },
+    {
+      "name": "William Armstrong"
+    },
+    {
+      "name": "Michael J.Pollard"
+    },
+    {
+      "name": "Derek Hoxby"
+    },
+    {
+      "name": "Al Matthews"
+    },
+    {
+      "name": "Nigel Pegram"
+    },
+    {
+      "name": "Ho Michael"
+    }
+  ]
+}

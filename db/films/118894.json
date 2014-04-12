@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/lrqCZz1ViWuXhyVSPjbWvPwssSE.jpg",
+    "name": "Perfect Strangers"
+  },
+  "cast": [
+    {
+      "name": "Rob Lowe",
+      "image": "http://image.tmdb.org/t/p/w185/okONnij88o4Nv2j5uHEhuQnoiCL.jpg"
+    },
+    {
+      "name": "Anna Friel",
+      "image": "http://image.tmdb.org/t/p/w185/iqSbqT143dNikAoC3lmkc3R6LS7.jpg"
+    },
+    {
+      "name": "Khandi Alexander",
+      "image": "http://image.tmdb.org/t/p/w185/mUVkKkRbM40zgoN0jDiCnNcNYQ8.jpg"
+    },
+    {
+      "name": "Sarah Alexander",
+      "image": "http://image.tmdb.org/t/p/w185/weUPLuPI62PBxOnVza6eMP87VvF.jpg"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4bB4x82UH18CGxSRcFw4SmLEl7S.jpg",
+    "name": "Yentl"
+  },
+  "cast": [
+    {
+      "name": "Barbra Streisand",
+      "image": "http://image.tmdb.org/t/p/w185/sf9PFHtZJ0P8ELebtn7EAGtnrOz.jpg"
+    },
+    {
+      "name": "Mandy Patinkin",
+      "image": "http://image.tmdb.org/t/p/w185/ykAb2NOiJELh6Chb8aw5PMNUEuK.jpg"
+    },
+    {
+      "name": "Amy Irving",
+      "image": "http://image.tmdb.org/t/p/w185/7bKYl70P5UmpaoNnlvZD82FLdR.jpg"
+    },
+    {
+      "name": "Nehemiah Persoff",
+      "image": "http://image.tmdb.org/t/p/w185/nA4ouztzxQvhfFkGejiveBQJxng.jpg"
+    },
+    {
+      "name": "Steven Hill",
+      "image": "http://image.tmdb.org/t/p/w185/22WrK1TKbFvL8poji6R61eNNSpJ.jpg"
+    },
+    {
+      "name": "Miriam Margolyes",
+      "image": "http://image.tmdb.org/t/p/w185/7Fijg5sZ7gKbooq6tId3MUS5sDY.jpg"
+    }
+  ]
+}

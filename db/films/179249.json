@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/k4jJK4By48bsYkUm53ZwVdD7NXl.jpg",
+    "name": "Motherland Afghanistan"
+  },
+  "cast": [
+    {
+      "name": "Terrence Howard",
+      "image": "http://image.tmdb.org/t/p/w185/veEGKSK07cbc97BHJAPnPIJlhqI.jpg"
+    },
+    {
+      "name": "Nafisa Mojadidi"
+    },
+    {
+      "name": "Qudrat Mojadidi"
+    },
+    {
+      "name": "Sedika Mojadidi"
+    }
+  ]
+}

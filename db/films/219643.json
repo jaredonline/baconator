@@ -1,0 +1,47 @@
+{
+  "film": {
+    "name": "Twin Sisters"
+  },
+  "cast": [
+    {
+      "name": "Stepfanie Kramer",
+      "image": "http://image.tmdb.org/t/p/w185/gbg5IkZ8rpcO738i7sgNCwHdV0Z.jpg"
+    },
+    {
+      "name": "Susan Almgren"
+    },
+    {
+      "name": "Frederic Forrest",
+      "image": "http://image.tmdb.org/t/p/w185/uFpSXhCRKFQWmupSeTJ0f0u8kpS.jpg"
+    },
+    {
+      "name": "James Brolin",
+      "image": "http://image.tmdb.org/t/p/w185/7sp13guwky7N98zyltrXL4sGI2n.jpg"
+    },
+    {
+      "name": "Richard Zeman"
+    },
+    {
+      "name": "Robert Morelli"
+    },
+    {
+      "name": "Vlasta Vrána"
+    },
+    {
+      "name": "Lawrence Dane",
+      "image": "http://image.tmdb.org/t/p/w185/rL5rkQbelz4zKUXbhfmH5rQ2AtM.jpg"
+    },
+    {
+      "name": "Géza Kovács"
+    },
+    {
+      "name": "Terry Haig"
+    },
+    {
+      "name": "Donald Lamoreux"
+    },
+    {
+      "name": "Michael D'Amico"
+    }
+  ]
+}

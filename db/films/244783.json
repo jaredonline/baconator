@@ -1,0 +1,22 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/h53sKAVNa34UrvRTBnZnaofiaeU.jpg",
+    "name": "Song One"
+  },
+  "cast": [
+    {
+      "name": "Anne Hathaway",
+      "image": "http://image.tmdb.org/t/p/w185/j8At1BTXFPhcppifFdxvgli8pUV.jpg"
+    },
+    {
+      "name": "Johnny Flynn"
+    },
+    {
+      "name": "Mary Steenburgen",
+      "image": "http://image.tmdb.org/t/p/w185/uV8JfkpewEASKIvmpNdNz5I14lB.jpg"
+    },
+    {
+      "name": "Ben Rosenfield"
+    }
+  ]
+}

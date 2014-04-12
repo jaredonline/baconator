@@ -1,0 +1,31 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/plPAO8p2fEiC4TfXGShqEdApaRx.jpg",
+    "name": "Fiction"
+  },
+  "cast": [
+    {
+      "name": "Eduard Fernández",
+      "image": "http://image.tmdb.org/t/p/w185/amJKpgzBvEr9d6WIuT1MjADzDZT.jpg"
+    },
+    {
+      "name": "Javier Cámara",
+      "image": "http://image.tmdb.org/t/p/w185/pbS8PFYTSh2LqODPUuygKLmytVu.jpg"
+    },
+    {
+      "name": "Montse Germán"
+    },
+    {
+      "name": "Carme Pla"
+    },
+    {
+      "name": "Àgata Roca"
+    },
+    {
+      "name": "Greta Fernández"
+    },
+    {
+      "name": "Sol Caramilloni"
+    }
+  ]
+}

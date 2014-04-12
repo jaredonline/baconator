@@ -1,0 +1,53 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/z5NOcVLswf6kl4wz8r2RSLzfwZ6.jpg",
+    "name": "The Devil's Widow"
+  },
+  "cast": [
+    {
+      "name": "Ava Gardner",
+      "image": "http://image.tmdb.org/t/p/w185/qrMGSjgI4tpJ3c7ZEjsIMMFDGuR.jpg"
+    },
+    {
+      "name": "Ian McShane",
+      "image": "http://image.tmdb.org/t/p/w185/pyjFI4J5gVcaW0UeiIcQmJHol7w.jpg"
+    },
+    {
+      "name": "Richard Wattis",
+      "image": "http://image.tmdb.org/t/p/w185/hLD8EPfIER8JwlCWclUEWqjAuz5.jpg"
+    },
+    {
+      "name": "Cyril Cusack",
+      "image": "http://image.tmdb.org/t/p/w185/vYC78yy9C21MFJKKznHVk2nbC8h.jpg"
+    },
+    {
+      "name": "Stephanie Beacham",
+      "image": "http://image.tmdb.org/t/p/w185/nzhAQlTFeLtfm7EVtTt9FmZbb0U.jpg"
+    },
+    {
+      "name": "David Whitman"
+    },
+    {
+      "name": "Fabia Drake"
+    },
+    {
+      "name": "Sinéad Cusack",
+      "image": "http://image.tmdb.org/t/p/w185/r9eWOKN1WtE7RMDAwIhOpMRh3wL.jpg"
+    },
+    {
+      "name": "Joanna Lumley",
+      "image": "http://image.tmdb.org/t/p/w185/2RFXqaFpeN9WmhfAyNaumz0rZUV.jpg"
+    },
+    {
+      "name": "Jenny Hanley",
+      "image": "http://image.tmdb.org/t/p/w185/7C3E6f9Tty2NySX5P4SYM1aQre5.jpg"
+    },
+    {
+      "name": "Madeline Smith"
+    },
+    {
+      "name": "Bruce Robinson",
+      "image": "http://image.tmdb.org/t/p/w185/pQjNiS9yARUl12eKTLaaTVPlY8k.jpg"
+    }
+  ]
+}

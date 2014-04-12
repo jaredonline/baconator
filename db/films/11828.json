@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zdFskyvWyEwFcFnG63AL7bmyStw.jpg",
+    "name": "Erik the Viking"
+  },
+  "cast": [
+    {
+      "name": "Tim Robbins",
+      "image": "http://image.tmdb.org/t/p/w185/tuZCyZVVbHcpvtCgriSp5RRPwMX.jpg"
+    },
+    {
+      "name": "Mickey Rooney",
+      "image": "http://image.tmdb.org/t/p/w185/ofjq6CoXdQZ20iQeo97ZHAMSpSg.jpg"
+    },
+    {
+      "name": "Eartha Kitt",
+      "image": "http://image.tmdb.org/t/p/w185/m3Ozxzlnl474Hjpe6OYkRNGmKRm.jpg"
+    },
+    {
+      "name": "Terry Jones",
+      "image": "http://image.tmdb.org/t/p/w185/7YaQ0k5BmUU3MmFvDL72tXl2G0B.jpg"
+    }
+  ]
+}

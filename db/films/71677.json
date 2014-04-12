@@ -1,0 +1,60 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zX7FQDaMFKrS026YtfBMbdCt8KF.jpg",
+    "name": "Assassination Games"
+  },
+  "cast": [
+    {
+      "name": "Jean-Claude Van Damme",
+      "image": "http://image.tmdb.org/t/p/w185/aqZ9RjL5j44HMlBMvTaawhHiGOH.jpg"
+    },
+    {
+      "name": "Scott Adkins",
+      "image": "http://image.tmdb.org/t/p/w185/mX5vlgiyJ8XdvBUMlFe6FVQ9YDh.jpg"
+    },
+    {
+      "name": "Kevin Chapman",
+      "image": "http://image.tmdb.org/t/p/w185/1sGMl1laWkZrns93dvKTXCiPONJ.jpg"
+    },
+    {
+      "name": "Ivan Kaye",
+      "image": "http://image.tmdb.org/t/p/w185/kYVCt7fF3U6VwCipPqlZvHnP2sX.jpg"
+    },
+    {
+      "name": "Valentin Teodosiu"
+    },
+    {
+      "name": "Alin Panc"
+    },
+    {
+      "name": "Serban Celea"
+    },
+    {
+      "name": "Michael Higgs"
+    },
+    {
+      "name": "Kristopher Van Varenberg",
+      "image": "http://image.tmdb.org/t/p/w185/hpQfeSvXBDR0pDFJhDnnvU5MNSh.jpg"
+    },
+    {
+      "name": "Marija Karan",
+      "image": "http://image.tmdb.org/t/p/w185/xRg2J9obNqN3aNCWDfeCyZ3d5e9.jpg"
+    },
+    {
+      "name": "Bianca Bree",
+      "image": "http://image.tmdb.org/t/p/w185/yUshICTGhQjqjbHoU3fa5AnxDWD.jpg"
+    },
+    {
+      "name": "George Remes"
+    },
+    {
+      "name": "Marioara Sterian"
+    },
+    {
+      "name": "Andrew French"
+    },
+    {
+      "name": "Attila Árpa"
+    }
+  ]
+}

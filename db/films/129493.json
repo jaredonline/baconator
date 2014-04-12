@@ -1,0 +1,34 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/59YZYZzFxqhrQenEhPBVGw02Owq.jpg",
+    "name": "Dino Gangs"
+  },
+  "cast": [
+    {
+      "name": "Paul Barrett"
+    },
+    {
+      "name": "Roger Benson"
+    },
+    {
+      "name": "Anthony Call",
+      "image": "http://image.tmdb.org/t/p/w185/1pFiP6Y58kcGoPvUipMXyr9RDge.jpg"
+    },
+    {
+      "name": "Philip Currie"
+    },
+    {
+      "name": "David Eberth"
+    },
+    {
+      "name": "Don Henderson",
+      "image": "http://image.tmdb.org/t/p/w185/qeOAWEiZ4cXddRziyaJQ2Mt5Mpm.jpg"
+    },
+    {
+      "name": "Louis Jacobs"
+    },
+    {
+      "name": "Larry Witmer"
+    }
+  ]
+}

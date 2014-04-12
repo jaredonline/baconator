@@ -1,0 +1,45 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/gRHJJGnE5bE8kMyMuB2MvEWnd94.jpg",
+    "name": "The Mighty Ducks"
+  },
+  "cast": [
+    {
+      "name": "Emilio Estevez",
+      "image": "http://image.tmdb.org/t/p/w185/2NSM4zFrw3i16UYdUhfETVjqC4I.jpg"
+    },
+    {
+      "name": "Joss Ackland",
+      "image": "http://image.tmdb.org/t/p/w185/b1Ijg1F0RX8ZQG8jJ03VTjWpd8b.jpg"
+    },
+    {
+      "name": "Lane Smith",
+      "image": "http://image.tmdb.org/t/p/w185/js7GonfBVNHLYhaB0Xjtnm93DpH.jpg"
+    },
+    {
+      "name": "Heidi Kling"
+    },
+    {
+      "name": "Josef Sommer",
+      "image": "http://image.tmdb.org/t/p/w185/3mR6yfeMhFS1UGsb7btjjLaiTu1.jpg"
+    },
+    {
+      "name": "Joshua Jackson",
+      "image": "http://image.tmdb.org/t/p/w185/e1btrP27otWpSRvgVV9PsOKCpJG.jpg"
+    },
+    {
+      "name": "Shaun Weiss",
+      "image": "http://image.tmdb.org/t/p/w185/asBOiROZPLezU9YYjvp9qsaA0LK.jpg"
+    },
+    {
+      "name": "Cam Neely"
+    },
+    {
+      "name": "Elden Henson",
+      "image": "http://image.tmdb.org/t/p/w185/dyxZvdH398xRgbG1Mwoe3B5yK9U.jpg"
+    },
+    {
+      "name": "Danny Tamberelli"
+    }
+  ]
+}

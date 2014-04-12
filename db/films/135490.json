@@ -1,0 +1,33 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/r0b9rTu8ecOROirCGMzIQ4q3nGO.jpg",
+    "name": "Baztan"
+  },
+  "cast": [
+    {
+      "name": "Ramón Agirre"
+    },
+    {
+      "name": "Joseba Apaolaza"
+    },
+    {
+      "name": "Patxi Bengoetxea"
+    },
+    {
+      "name": "Txema Blasco"
+    },
+    {
+      "name": "Mirentxu Goienetxe"
+    },
+    {
+      "name": "Carmelo Gómez",
+      "image": "http://image.tmdb.org/t/p/w185/dCuhHjDh1hXMTi1GRhqPktq5c6p.jpg"
+    },
+    {
+      "name": "Jone Lizartza"
+    },
+    {
+      "name": "Juainas Paul"
+    }
+  ]
+}

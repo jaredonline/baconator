@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ivYNITzZ2wVy2i6AA7Tc2PGTg8M.jpg",
+    "name": "Hammerhead"
+  },
+  "cast": [
+    {
+      "name": "Daniel Greene"
+    },
+    {
+      "name": "Melonee Rodgers"
+    },
+    {
+      "name": "Frank Zagarino"
+    },
+    {
+      "name": "Jorge Gil"
+    },
+    {
+      "name": "Jack McDermott"
+    },
+    {
+      "name": "Antoni Corone",
+      "image": "http://image.tmdb.org/t/p/w185/8ojQMtG1FLeagxWEblI85LHcyd2.jpg"
+    }
+  ]
+}

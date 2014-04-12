@@ -1,0 +1,64 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2IYtwZv6xEI4Rv43MjDTvURQh2H.jpg",
+    "name": "The Devil's Brigade"
+  },
+  "cast": [
+    {
+      "name": "William Holden",
+      "image": "http://image.tmdb.org/t/p/w185/6sa5f8p1KBhYxJDEmCLxn7QLcBe.jpg"
+    },
+    {
+      "name": "Cliff Robertson",
+      "image": "http://image.tmdb.org/t/p/w185/brkuCYbMRJqPAucyIf3szNhA5h5.jpg"
+    },
+    {
+      "name": "Vince Edwards",
+      "image": "http://image.tmdb.org/t/p/w185/n0OQUPMQOdURLak6ywgqxMFSTtz.jpg"
+    },
+    {
+      "name": "Andrew Prine",
+      "image": "http://image.tmdb.org/t/p/w185/4heJy09ohj94DKYN9C4LN44mR2Z.jpg"
+    },
+    {
+      "name": "Jeremy Slate",
+      "image": "http://image.tmdb.org/t/p/w185/lqfDj6waExTvSw1NzmRukcO6ntE.jpg"
+    },
+    {
+      "name": "Claude Akins",
+      "image": "http://image.tmdb.org/t/p/w185/ul0S3Eb0yt2UC8h5xUuNXQHxdy8.jpg"
+    },
+    {
+      "name": "Jack Watson",
+      "image": "http://image.tmdb.org/t/p/w185/76e7aWYfYdGq7tlTIVuDEcQtfDo.jpg"
+    },
+    {
+      "name": "Richard Jaeckel",
+      "image": "http://image.tmdb.org/t/p/w185/pTTfCxMxjBvxkcemCBwNqEiHXce.jpg"
+    },
+    {
+      "name": "Bill Fletcher"
+    },
+    {
+      "name": "Richard Dawson",
+      "image": "http://image.tmdb.org/t/p/w185/cw1DnCpxDgJXi2OLNhGJpnB9V54.jpg"
+    },
+    {
+      "name": "Tom Troupe"
+    },
+    {
+      "name": "Luke Askew",
+      "image": "http://image.tmdb.org/t/p/w185/mGBZQGBck9rIZeTsP0H0jnMeDmC.jpg"
+    },
+    {
+      "name": "Jean-Paul Vignon"
+    },
+    {
+      "name": "Tom Stern"
+    },
+    {
+      "name": "Harry Carey, Jr.",
+      "image": "http://image.tmdb.org/t/p/w185/7Via2uVuYnnz8gJ5qx0zXqIKTkz.jpg"
+    }
+  ]
+}

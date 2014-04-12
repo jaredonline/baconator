@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/nqZRgr24QnLRTH3ecTpFZncjgIP.jpg",
+    "name": "Candles on Bay Street"
+  },
+  "cast": [
+    {
+      "name": "Alicia Silverstone",
+      "image": "http://image.tmdb.org/t/p/w185/kAKXsaDDCnuCQpD12KMZNEiHYeE.jpg"
+    },
+    {
+      "name": "Eion Bailey",
+      "image": "http://image.tmdb.org/t/p/w185/4MnRgrwuiJvHsfoiJrIUL4TkfoC.jpg"
+    },
+    {
+      "name": "Annabeth Gish",
+      "image": "http://image.tmdb.org/t/p/w185/rAmg4mW7hhdxWTiVP7XFpXfQGSJ.jpg"
+    },
+    {
+      "name": "Polly Bergen",
+      "image": "http://image.tmdb.org/t/p/w185/f2AjVdpEIJ7Q0F69fEmGHVHzAEy.jpg"
+    }
+  ]
+}

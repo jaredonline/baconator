@@ -1,0 +1,74 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7HLEqkcTlohWBtcYhFQDaTIqhB1.jpg",
+    "name": "Gossip"
+  },
+  "cast": [
+    {
+      "name": "Pernilla August",
+      "image": "http://image.tmdb.org/t/p/w185/gj7f49NzYbFpP7KfmrFBajsUqxD.jpg"
+    },
+    {
+      "name": "Helena Bergström",
+      "image": "http://image.tmdb.org/t/p/w185/4kTnMhlQdRESuWWJsy4shHKfzHw.jpg"
+    },
+    {
+      "name": "Lena Endre",
+      "image": "http://image.tmdb.org/t/p/w185/AqDZhToc9r7tixhz2PQy6MWoIYr.jpg"
+    },
+    {
+      "name": "Stina Ekblad",
+      "image": "http://image.tmdb.org/t/p/w185/irniBFUXWgguJUdNemmNgmJarrr.jpg"
+    },
+    {
+      "name": "Ewa Fröling",
+      "image": "http://image.tmdb.org/t/p/w185/9qZewaRRpxzKfOZyJ6KFx5eqoyl.jpg"
+    },
+    {
+      "name": "Margaretha Krook",
+      "image": "http://image.tmdb.org/t/p/w185/zMXDQ8h0avVOT1bbrsGIaIx9CGf.jpg"
+    },
+    {
+      "name": "Marika Lagercrantz",
+      "image": "http://image.tmdb.org/t/p/w185/9SrJ2SZLLy5ApqZScf17s98myTr.jpg"
+    },
+    {
+      "name": "Suzanne Reuter",
+      "image": "http://image.tmdb.org/t/p/w185/xzWPDXNnuVDEF8pnfOS0LUxdyd8.jpg"
+    },
+    {
+      "name": "Marie Richardson",
+      "image": "http://image.tmdb.org/t/p/w185/c7lcHFTxgHarcgOZqACZ1a7hTEK.jpg"
+    },
+    {
+      "name": "Gunilla Röör"
+    },
+    {
+      "name": "Harriet Andersson",
+      "image": "http://image.tmdb.org/t/p/w185/p3U48qquE945jWv5EmlARImOhCr.jpg"
+    },
+    {
+      "name": "Brasse Brännström",
+      "image": "http://image.tmdb.org/t/p/w185/hA2hBBbNnbSr1hBvmlHOPCEp65b.jpg"
+    },
+    {
+      "name": "Peter Haber",
+      "image": "http://image.tmdb.org/t/p/w185/51rZj3JzYYd5R0jYzuvcy6WA34p.jpg"
+    },
+    {
+      "name": "Rolf Lassgård",
+      "image": "http://image.tmdb.org/t/p/w185/xLmugloc9lSQrKm1TOuax6TxLMI.jpg"
+    },
+    {
+      "name": "Mikael Persbrandt",
+      "image": "http://image.tmdb.org/t/p/w185/pCncR8lsJkjNjuIgaONV2iDthyt.jpg"
+    },
+    {
+      "name": "Johan Widerberg"
+    },
+    {
+      "name": "Rikard Wolff",
+      "image": "http://image.tmdb.org/t/p/w185/tw1GJerQUEJePBbOPq25qUQky75.jpg"
+    }
+  ]
+}

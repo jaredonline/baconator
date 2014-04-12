@@ -1,0 +1,49 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/yb2MHtJit6BzdgKuiVzufoNXiql.jpg",
+    "name": "Crime Busters"
+  },
+  "cast": [
+    {
+      "name": "Terence Hill",
+      "image": "http://image.tmdb.org/t/p/w185/9HDBwZlNyYgXR0fGNKJCUOhJF4t.jpg"
+    },
+    {
+      "name": "Bud Spencer",
+      "image": "http://image.tmdb.org/t/p/w185/9DbwXqkoMLBqZaQYEeSDX934mTG.jpg"
+    },
+    {
+      "name": "Laura Gemser",
+      "image": "http://image.tmdb.org/t/p/w185/leVbSXXwQp5u5zPDYkpvWBTkRj5.jpg"
+    },
+    {
+      "name": "David Huddleston",
+      "image": "http://image.tmdb.org/t/p/w185/6cXqGzHB0zJautJVPCtbEsCtsCQ.jpg"
+    },
+    {
+      "name": "Luciano Catenacci"
+    },
+    {
+      "name": "Ezio Marano"
+    },
+    {
+      "name": "Luciano Rossi"
+    },
+    {
+      "name": "Luigi Casellato"
+    },
+    {
+      "name": "Edy Biagetti"
+    },
+    {
+      "name": "Jill Flanter"
+    },
+    {
+      "name": "April Clough"
+    },
+    {
+      "name": "Riccardo Pizzuti",
+      "image": "http://image.tmdb.org/t/p/w185/oX5LQL46Lqut6J1ajWAf1OLKqyc.jpg"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/hHlnIjRmJHQRHcXK5zxcBRIHwLW.jpg",
+    "name": "American Legends"
+  },
+  "cast": [
+    {
+      "name": "Alfre Woodard",
+      "image": "http://image.tmdb.org/t/p/w185/bARjgJv5IzjGFyYDgDT3yc9wB1A.jpg"
+    },
+    {
+      "name": "Tim Hodge"
+    },
+    {
+      "name": "Dave Murray",
+      "image": "http://image.tmdb.org/t/p/w185/idYWWZxAdHtHAIMPIE8XCILfFQx.jpg"
+    },
+    {
+      "name": "Carrie Harrington"
+    },
+    {
+      "name": "James Earl Jones",
+      "image": "http://image.tmdb.org/t/p/w185/pxC7jiRTHArPldgkqSneXRsrRJ9.jpg"
+    }
+  ]
+}

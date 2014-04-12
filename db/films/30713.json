@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/m1REEdQietnrptidp5EKL6o5ikK.jpg",
+    "name": "Shiver"
+  },
+  "cast": [
+    {
+      "name": "Junio Valverde",
+      "image": "http://image.tmdb.org/t/p/w185/fLKHEq6yGo4eg8wAxxl8gHrn2a1.jpg"
+    },
+    {
+      "name": "Blanca Suárez",
+      "image": "http://image.tmdb.org/t/p/w185/lGEYch29Babiz6ABJtQVtxq5Hhh.jpg"
+    },
+    {
+      "name": "Jimmy Barnatán"
+    },
+    {
+      "name": "Mar Sodupe"
+    },
+    {
+      "name": "Francesc Orella",
+      "image": "http://image.tmdb.org/t/p/w185/dRAWMYMv241h2edanPZQRI56Glv.jpg"
+    }
+  ]
+}

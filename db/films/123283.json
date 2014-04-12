@@ -1,0 +1,42 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/wfxlE6lqQfNqL4J6ZWfm6QKggUT.jpg",
+    "name": "Marilyn in Manhattan"
+  },
+  "cast": [
+    {
+      "name": "Cynthia Adler"
+    },
+    {
+      "name": "Ben Gazzara",
+      "image": "http://image.tmdb.org/t/p/w185/wJ8upr9m4F6Tn4cht9Ok0PWj4dV.jpg"
+    },
+    {
+      "name": "Joshua Greene"
+    },
+    {
+      "name": "Milton H. Greene"
+    },
+    {
+      "name": "Amy Greene-Andrews"
+    },
+    {
+      "name": "Arthur Miller",
+      "image": "http://image.tmdb.org/t/p/w185/nPPcGwIolL5MbNmANsjFOGW4PsD.jpg"
+    },
+    {
+      "name": "Marilyn Monroe",
+      "image": "http://image.tmdb.org/t/p/w185/AjIAEUq6JrsTG6vTFNEEmzFZVca.jpg"
+    },
+    {
+      "name": "Alex Monsky"
+    },
+    {
+      "name": "Donald Spoto"
+    },
+    {
+      "name": "Ellen Burstyn",
+      "image": "http://image.tmdb.org/t/p/w185/8a9Lr2WXhzZEwTdzrUJkBrUS4BD.jpg"
+    }
+  ]
+}

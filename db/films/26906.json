@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/i2fU3hVcDqLeRm0V8frZrzo96k1.jpg",
+    "name": "Enloquecidas"
+  },
+  "cast": [
+    {
+      "name": "Silvia Abascal",
+      "image": "http://image.tmdb.org/t/p/w185/u4DhLISWb9fOgCkEuaSVNNEn3rO.jpg"
+    },
+    {
+      "name": "Valeria Arribas"
+    },
+    {
+      "name": "Asunción Balaguer"
+    },
+    {
+      "name": "Javier Blanes"
+    }
+  ]
+}

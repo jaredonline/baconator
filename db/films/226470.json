@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/lCjJZC9mUdRgWEdCRtL7EhvwkfF.jpg",
+    "name": "Tsuruhachi Tsurujirô"
+  },
+  "cast": [
+    {
+      "name": "Kazuo Hasegawa"
+    },
+    {
+      "name": "Isuzu Yamada",
+      "image": "http://image.tmdb.org/t/p/w185/ouUm7hoSCXU1yXQxhGMi4Yue3Bx.jpg"
+    },
+    {
+      "name": "Kamatari Fujiwara"
+    },
+    {
+      "name": "Heihachirô Ôkawa"
+    },
+    {
+      "name": "Masao Mishima"
+    }
+  ]
+}

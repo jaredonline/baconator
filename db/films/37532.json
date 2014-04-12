@@ -1,0 +1,12 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/cMfhycgHfgQl4XzCVEMkYrUZOxz.jpg",
+    "name": "Slam"
+  },
+  "cast": [
+    {
+      "name": "Saul Williams",
+      "image": "http://image.tmdb.org/t/p/w185/cV8sC60M089WHKvu7hQVxHhUfBl.jpg"
+    }
+  ]
+}

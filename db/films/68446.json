@@ -1,0 +1,30 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7xvBS9Zng7u5DbUFmNQc9rKhnF.jpg",
+    "name": "Magma: Volcanic Disaster"
+  },
+  "cast": [
+    {
+      "name": "Xander Berkeley",
+      "image": "http://image.tmdb.org/t/p/w185/e1cr1iCrjwPaUe10sXi8fhIU6fv.jpg"
+    },
+    {
+      "name": "Amy Jo Johnson",
+      "image": "http://image.tmdb.org/t/p/w185/9T0VGtTP6XgOiRyL14KR5RD0VbH.jpg"
+    },
+    {
+      "name": "David O'Donnell",
+      "image": "http://image.tmdb.org/t/p/w185/k2ESRFe8HkSdzjZZHJHUbcygQwy.jpg"
+    },
+    {
+      "name": "George R. Sheffey"
+    },
+    {
+      "name": "Michael Durrell"
+    },
+    {
+      "name": "Reiko Aylesworth",
+      "image": "http://image.tmdb.org/t/p/w185/e9kNYJiyM4L90R0uY2wbr0f2Xrx.jpg"
+    }
+  ]
+}

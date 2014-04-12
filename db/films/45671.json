@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/sOaHZNpO1duNZBbsxcrA1v50geP.jpg",
+    "name": "Rough Magic"
+  },
+  "cast": [
+    {
+      "name": "Bridget Fonda",
+      "image": "http://image.tmdb.org/t/p/w185/uO9IfxsPKhCpcaB8217fKhgwfft.jpg"
+    },
+    {
+      "name": "Russell Crowe",
+      "image": "http://image.tmdb.org/t/p/w185/784nHLVWdenOyVkrZEbNLLOpU5a.jpg"
+    },
+    {
+      "name": "Jim Broadbent",
+      "image": "http://image.tmdb.org/t/p/w185/xWR0M9yaqcc6neBAg8tMgqGXwS3.jpg"
+    },
+    {
+      "name": "D.W. Moffett",
+      "image": "http://image.tmdb.org/t/p/w185/fqktS2j0ZzieeU192scEcmGY5lq.jpg"
+    },
+    {
+      "name": "Kenneth Mars",
+      "image": "http://image.tmdb.org/t/p/w185/8heSWc3bEwdX9CTzME1TT2IjOGc.jpg"
+    },
+    {
+      "name": "Paul Rodríguez",
+      "image": "http://image.tmdb.org/t/p/w185/lbI7Ot0rg6jhqhDwYpGFGQIA9BC.jpg"
+    },
+    {
+      "name": "Michael Ensign",
+      "image": "http://image.tmdb.org/t/p/w185/36T2ygTpDks8XNcetZtpiFnpztP.jpg"
+    }
+  ]
+}

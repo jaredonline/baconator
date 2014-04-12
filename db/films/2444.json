@@ -1,0 +1,57 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/fc2S2ZakzdShZgkyMrUbFtHSBbX.jpg",
+    "name": "The Red Squirrel"
+  },
+  "cast": [
+    {
+      "name": "Emma Suárez",
+      "image": "http://image.tmdb.org/t/p/w185/1fyEsOm6YR3VX7KzaTwhlGiuVoW.jpg"
+    },
+    {
+      "name": "Nancho Novo"
+    },
+    {
+      "name": "María Barranco",
+      "image": "http://image.tmdb.org/t/p/w185/h01wRNz8Jmx1sZOg6AEIuvMG1pt.jpg"
+    },
+    {
+      "name": "Karra Elejalde",
+      "image": "http://image.tmdb.org/t/p/w185/zcxUAKrcvCBN2CsDZS0qt52e3GT.jpg"
+    },
+    {
+      "name": "Carmelo Gómez",
+      "image": "http://image.tmdb.org/t/p/w185/dCuhHjDh1hXMTi1GRhqPktq5c6p.jpg"
+    },
+    {
+      "name": "Cristina Marcos"
+    },
+    {
+      "name": "Mónica Molina"
+    },
+    {
+      "name": "Ana Gracia"
+    },
+    {
+      "name": "Elena Irureta"
+    },
+    {
+      "name": "Susana García Díez"
+    },
+    {
+      "name": "Ane Sánchez"
+    },
+    {
+      "name": "Eneko Irizar"
+    },
+    {
+      "name": "Sarai Noceda"
+    },
+    {
+      "name": "Maite Yerro"
+    },
+    {
+      "name": "Txema Blasco"
+    }
+  ]
+}

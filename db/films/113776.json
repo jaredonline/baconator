@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/3GuPv9tKGiflW6qEQ0NUtyjNZAT.jpg",
+    "name": "Addio fratello crudele"
+  },
+  "cast": [
+    {
+      "name": "Fabio Testi",
+      "image": "http://image.tmdb.org/t/p/w185/qqE1Vh8guRCoIGkfNRuE0mXx0vL.jpg"
+    },
+    {
+      "name": "Charlotte Rampling",
+      "image": "http://image.tmdb.org/t/p/w185/2PitM5es6v6vUHohH6TLrChuLyY.jpg"
+    },
+    {
+      "name": "Oliver Tobias"
+    }
+  ]
+}

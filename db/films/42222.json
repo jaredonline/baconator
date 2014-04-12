@@ -1,0 +1,50 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ojb6RuHnCYqS8ZpUwzj9dpw3unq.jpg",
+    "name": "Julia"
+  },
+  "cast": [
+    {
+      "name": "Jane Fonda",
+      "image": "http://image.tmdb.org/t/p/w185/t4kIxZrAhxnMyQP8BZFmpPAot0z.jpg"
+    },
+    {
+      "name": "Vanessa Redgrave",
+      "image": "http://image.tmdb.org/t/p/w185/5yoWBiVPqrq0nn5WZRzqTwQQ3SF.jpg"
+    },
+    {
+      "name": "Jason Robards",
+      "image": "http://image.tmdb.org/t/p/w185/d5t554TsCjMvI9zwe7M5gNLvZeX.jpg"
+    },
+    {
+      "name": "Maximilian Schell",
+      "image": "http://image.tmdb.org/t/p/w185/xhjyQpOmwDwU48Kq2b1XCEO9G7E.jpg"
+    },
+    {
+      "name": "Hal Holbrook",
+      "image": "http://image.tmdb.org/t/p/w185/3a5lbz4Db0tGCyo5q3jclLByeCh.jpg"
+    },
+    {
+      "name": "Rosemary Murphy",
+      "image": "http://image.tmdb.org/t/p/w185/mNrRc207chuOUgNizM0cmTfwDxP.jpg"
+    },
+    {
+      "name": "Meryl Streep",
+      "image": "http://image.tmdb.org/t/p/w185/vtpQvqGFHtM52QYyIdhvQYMChBy.jpg"
+    },
+    {
+      "name": "Dora Doll"
+    },
+    {
+      "name": "Elisabeth Mortensen"
+    },
+    {
+      "name": "John Glover",
+      "image": "http://image.tmdb.org/t/p/w185/oxoOXlY9qJt9kQwxA9PNhnBTgX9.jpg"
+    },
+    {
+      "name": "Lisa Pelikan",
+      "image": "http://image.tmdb.org/t/p/w185/az5ppXSXUPrh2ORabDYbtnwlqrD.jpg"
+    }
+  ]
+}

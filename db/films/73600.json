@@ -1,0 +1,22 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/8jHTL8i5xzIu55RKS709v7Or1Gx.jpg",
+    "name": "Bombay Talkie"
+  },
+  "cast": [
+    {
+      "name": "Shashi Kapoor",
+      "image": "http://image.tmdb.org/t/p/w185/h8TNPQhh969wr1vzgAl0VESSabI.jpg"
+    },
+    {
+      "name": "Jennifer Kendal"
+    },
+    {
+      "name": "Zia Mohyeddin"
+    },
+    {
+      "name": "Aparna Sen",
+      "image": "http://image.tmdb.org/t/p/w185/mStxE4GAoFKafyrTg3wJK2ZY5t9.jpg"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/pSFEURiJREpmapaPopZs8pxk7nm.jpg",
+    "name": "Smile Pretty"
+  },
+  "cast": [
+    {
+      "name": "Scout Taylor-Compton",
+      "image": "http://image.tmdb.org/t/p/w185/hiYnZMQLRQqBWiK3wbpMwDH1cFc.jpg"
+    },
+    {
+      "name": "Pete Chekvala"
+    },
+    {
+      "name": "Shannon Collis"
+    },
+    {
+      "name": "Kevin McCorkle"
+    }
+  ]
+}

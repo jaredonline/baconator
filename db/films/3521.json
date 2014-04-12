@@ -1,0 +1,51 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/3Vapya5MoRn3oULYt6g6c4Sf6eq.jpg",
+    "name": "The Puzzle of the Red Orchid"
+  },
+  "cast": [
+    {
+      "name": "Christopher Lee",
+      "image": "http://image.tmdb.org/t/p/w185/7YwjaHLmuy1isK6oh3TnBDd6Oml.jpg"
+    },
+    {
+      "name": "Adrian Hoven",
+      "image": "http://image.tmdb.org/t/p/w185/Ag7cPrVMVBNIdmJapHsObXYVAHJ.jpg"
+    },
+    {
+      "name": "Marisa Mell",
+      "image": "http://image.tmdb.org/t/p/w185/fQ5oiP5UOZDb3To1KexqWyWsIus.jpg"
+    },
+    {
+      "name": "Pinkas Braun",
+      "image": "http://image.tmdb.org/t/p/w185/9b5MrmSUNp1MPoXctJ2F0RcmQGM.jpg"
+    },
+    {
+      "name": "Christiane Nielsen"
+    },
+    {
+      "name": "Eric Pohlmann",
+      "image": "http://image.tmdb.org/t/p/w185/iTRgLQL9dTNbzgsypSOvlB9lQ3l.jpg"
+    },
+    {
+      "name": "Fritz Rasp"
+    },
+    {
+      "name": "Wolfgang Büttner"
+    },
+    {
+      "name": "Herbert A. E. Böhme"
+    },
+    {
+      "name": "Günther Jerschke"
+    },
+    {
+      "name": "Klaus Kinski",
+      "image": "http://image.tmdb.org/t/p/w185/7gsJB7xlovz1khNID0B8yKA9TO0.jpg"
+    },
+    {
+      "name": "Eddi Arent",
+      "image": "http://image.tmdb.org/t/p/w185/tI3pjguCd4PEw30wcaBCWQsVM0o.jpg"
+    }
+  ]
+}

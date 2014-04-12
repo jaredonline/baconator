@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/wy9DNYO3wGj3pu5LN8A2dlfwSD.jpg",
+    "name": "Hamilton"
+  },
+  "cast": [
+    {
+      "name": "Peter Stormare",
+      "image": "http://image.tmdb.org/t/p/w185/dDR0brp5L7fXDyEywrhjQv01LSg.jpg"
+    },
+    {
+      "name": "Mats Långbacka"
+    },
+    {
+      "name": "Lena Olin",
+      "image": "http://image.tmdb.org/t/p/w185/gddK5EAt7FbMJ3RHWvu9PmCm6zc.jpg"
+    },
+    {
+      "name": "Mark Hamill",
+      "image": "http://image.tmdb.org/t/p/w185/a85lLkADqD2Ab03cfMyJVQaE1UR.jpg"
+    }
+  ]
+}

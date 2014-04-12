@@ -1,0 +1,21 @@
+{
+  "film": {
+    "name": "Escuchando a Gabriel"
+  },
+  "cast": [
+    {
+      "name": "Silvia Abascal",
+      "image": "http://image.tmdb.org/t/p/w185/u4DhLISWb9fOgCkEuaSVNNEn3rO.jpg"
+    },
+    {
+      "name": "Javier Ríos"
+    },
+    {
+      "name": "Antonio Dechent",
+      "image": "http://image.tmdb.org/t/p/w185/75dGSYevnV3vjkgaJxCeBjuqQYm.jpg"
+    },
+    {
+      "name": "Silvia Medina"
+    }
+  ]
+}

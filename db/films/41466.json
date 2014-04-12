@@ -1,0 +1,45 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/yAStHbL8HVly0Z1kvpvpQ1JR9T9.jpg",
+    "name": "Dutch Girls"
+  },
+  "cast": [
+    {
+      "name": "Colin Firth",
+      "image": "http://image.tmdb.org/t/p/w185/4pj31PUxqpuJZrHChinub4gr2ul.jpg"
+    },
+    {
+      "name": "Timothy Spall",
+      "image": "http://image.tmdb.org/t/p/w185/x82A46Q10091a8BFOuK5MIyBvEv.jpg"
+    },
+    {
+      "name": "Bill Paterson",
+      "image": "http://image.tmdb.org/t/p/w185/ApLSY6gB8JpHWB1kOXsfp7eVoyJ.jpg"
+    },
+    {
+      "name": "James Wilby",
+      "image": "http://image.tmdb.org/t/p/w185/2VrwmvU22VJaGrxu6RyHCSSXg4c.jpg"
+    },
+    {
+      "name": "Gusta Gerritsen"
+    },
+    {
+      "name": "Sylvia Millecam"
+    },
+    {
+      "name": "Anne-Wil Blankers"
+    },
+    {
+      "name": "Erik Plooyer"
+    },
+    {
+      "name": "Richard Torn"
+    },
+    {
+      "name": "Stephanie Verwijmeren"
+    },
+    {
+      "name": "Adrian Lukis"
+    }
+  ]
+}

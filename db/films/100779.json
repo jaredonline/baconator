@@ -1,0 +1,39 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/vYsT2hHGPXXIAmvpxZjHeTWkpAJ.jpg",
+    "name": "Ramírez"
+  },
+  "cast": [
+    {
+      "name": "Cristian Magaloni"
+    },
+    {
+      "name": "Zoe Berriatúa"
+    },
+    {
+      "name": "Sara Martín"
+    },
+    {
+      "name": "Geraldine Chaplin",
+      "image": "http://image.tmdb.org/t/p/w185/x7N40x101QmzkNe9nrKWVKzT9n5.jpg"
+    },
+    {
+      "name": "Hui Chi Chiu"
+    },
+    {
+      "name": "Gaelle Diego"
+    },
+    {
+      "name": "Tacuara Casares"
+    },
+    {
+      "name": "Olalla Escribano"
+    },
+    {
+      "name": "Reyes Hiraldo"
+    },
+    {
+      "name": "Hub Martin"
+    }
+  ]
+}

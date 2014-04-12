@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/kQRATVLZnbpUjpSgngAyWNCwSWm.jpg",
+    "name": "Implacable Three"
+  },
+  "cast": [
+    {
+      "name": "Geoffrey Horne",
+      "image": "http://image.tmdb.org/t/p/w185/z4A17m3q9u8ScZIwTMPF3nIQVeP.jpg"
+    },
+    {
+      "name": "Claudio Undari"
+    },
+    {
+      "name": "Massimo Carocci"
+    },
+    {
+      "name": "Charo del Río"
+    },
+    {
+      "name": "Cristina Gaioni"
+    }
+  ]
+}

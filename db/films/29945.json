@@ -1,0 +1,66 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4KWS80dTb3dzJ96IwzZnw9u17FL.jpg",
+    "name": "Zombie Jamboree"
+  },
+  "cast": [
+    {
+      "name": "Marilyn Eastman",
+      "image": "http://image.tmdb.org/t/p/w185/3zzyB9NUwoQpjwtoDlpSzF2wxYU.jpg"
+    },
+    {
+      "name": "Gunnar Hansen",
+      "image": "http://image.tmdb.org/t/p/w185/bwqo7HNyvYqPCnTWlOHSUnstg2F.jpg"
+    },
+    {
+      "name": "Karl Hardman",
+      "image": "http://image.tmdb.org/t/p/w185/3zzyB9NUwoQpjwtoDlpSzF2wxYU.jpg"
+    },
+    {
+      "name": "S. William Hinzman"
+    },
+    {
+      "name": "Kane Hodder",
+      "image": "http://image.tmdb.org/t/p/w185/1bTc6ACp6bLCBhhfNUZyqwnZ5fY.jpg"
+    },
+    {
+      "name": "Judith O'Dea",
+      "image": "http://image.tmdb.org/t/p/w185/wRaaASNqF47tQGUogNgpc55bHha.jpg"
+    },
+    {
+      "name": "David Prowse",
+      "image": "http://image.tmdb.org/t/p/w185/a2RoHYMSiRqV6hXL6Z5CXtNyDkt.jpg"
+    },
+    {
+      "name": "Linnea Quigley",
+      "image": "http://image.tmdb.org/t/p/w185/mZ1TTv4ph1YqT4Bvdq1x6WbXYB8.jpg"
+    },
+    {
+      "name": "Judith Ridley"
+    },
+    {
+      "name": "George A. Romero",
+      "image": "http://image.tmdb.org/t/p/w185/q1XONnZT4ccRVGd9gSAv0F0D8te.jpg"
+    },
+    {
+      "name": "John A. Russo"
+    },
+    {
+      "name": "Tom Savini",
+      "image": "http://image.tmdb.org/t/p/w185/yOZPKC3TXlxkvx4HoDrhq1PgXrU.jpg"
+    },
+    {
+      "name": "Kyra Schon"
+    },
+    {
+      "name": "Russell Streiner"
+    },
+    {
+      "name": "Keith Wayne"
+    },
+    {
+      "name": "Adam West",
+      "image": "http://image.tmdb.org/t/p/w185/8pvRGXFF7lsIZrDS2yaV2dZaG72.jpg"
+    }
+  ]
+}

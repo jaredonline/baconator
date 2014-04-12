@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/dVQ9ogcTjUY7cAzx7DHwFtPnx3K.jpg",
+    "name": "Cosas que hacen que la vida valga la pena"
+  },
+  "cast": [
+    {
+      "name": "Ana Belén",
+      "image": "http://image.tmdb.org/t/p/w185/iDi5ZskzSXdptMUgGmNzQ57xStf.jpg"
+    },
+    {
+      "name": "Eduard Fernández",
+      "image": "http://image.tmdb.org/t/p/w185/amJKpgzBvEr9d6WIuT1MjADzDZT.jpg"
+    },
+    {
+      "name": "María Pujalte"
+    }
+  ]
+}

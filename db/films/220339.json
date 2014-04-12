@@ -1,0 +1,15 @@
+{
+  "film": {
+    "name": "Champagne amer"
+  },
+  "cast": [
+    {
+      "name": "Julie Christie",
+      "image": "http://image.tmdb.org/t/p/w185/73SExI7sunDfkSQmHQhUMryUSR2.jpg"
+    },
+    {
+      "name": "Ben Gazzara",
+      "image": "http://image.tmdb.org/t/p/w185/wJ8upr9m4F6Tn4cht9Ok0PWj4dV.jpg"
+    }
+  ]
+}

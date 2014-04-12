@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/if35qpe0b275ztyrbnfuFOdJRfa.jpg",
+    "name": "Rachel and the Stranger"
+  },
+  "cast": [
+    {
+      "name": "Loretta Young",
+      "image": "http://image.tmdb.org/t/p/w185/580pLhZ0fy88WPEqoRQYKlcL5aa.jpg"
+    },
+    {
+      "name": "Robert Mitchum",
+      "image": "http://image.tmdb.org/t/p/w185/cKdr8wYcnAS7ywR9kmkuemY7On9.jpg"
+    },
+    {
+      "name": "William Holden",
+      "image": "http://image.tmdb.org/t/p/w185/6sa5f8p1KBhYxJDEmCLxn7QLcBe.jpg"
+    },
+    {
+      "name": "Gary Gray",
+      "image": "http://image.tmdb.org/t/p/w185/7skbVlsdz904DUVS8nZUInRLooU.jpg"
+    },
+    {
+      "name": "Tom Tully",
+      "image": "http://image.tmdb.org/t/p/w185/reBpi3E34yudxU7mxtiZBolJovi.jpg"
+    }
+  ]
+}

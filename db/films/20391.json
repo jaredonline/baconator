@@ -1,0 +1,56 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/tZVKj3audA5ziJNowZijPRl66vf.jpg",
+    "name": "Paint Your Wagon"
+  },
+  "cast": [
+    {
+      "name": "Lee Marvin",
+      "image": "http://image.tmdb.org/t/p/w185/1UdUtkWNbgU0pTolZKRkwLBLSUt.jpg"
+    },
+    {
+      "name": "Clint Eastwood",
+      "image": "http://image.tmdb.org/t/p/w185/n8h4ZHteFFXfmzUW6OEaPWanDnm.jpg"
+    },
+    {
+      "name": "Jean Seberg",
+      "image": "http://image.tmdb.org/t/p/w185/e0bayPoFng5K8b4udjYCxAtw3e5.jpg"
+    },
+    {
+      "name": "Harve Presnell",
+      "image": "http://image.tmdb.org/t/p/w185/my82qrGKTcYo4mmtFFRsVd2bCvU.jpg"
+    },
+    {
+      "name": "Ray Walston",
+      "image": "http://image.tmdb.org/t/p/w185/KzlcoLq3s2I3ogQAdbE1eUcXsb.jpg"
+    },
+    {
+      "name": "Tom Ligon",
+      "image": "http://image.tmdb.org/t/p/w185/A4os0TvbKSWcnhrCjroPdPGlqv3.jpg"
+    },
+    {
+      "name": "Alan Dexter"
+    },
+    {
+      "name": "William O'Connell"
+    },
+    {
+      "name": "Robert Easton",
+      "image": "http://image.tmdb.org/t/p/w185/1FtmmVRUFFepaE5ovwfwcSId8Ka.jpg"
+    },
+    {
+      "name": "Geoffrey Norman"
+    },
+    {
+      "name": "John Mitchum",
+      "image": "http://image.tmdb.org/t/p/w185/varG7DgJQjNwwCeUcwpZhCs40uo.jpg"
+    },
+    {
+      "name": "Sue Casey"
+    },
+    {
+      "name": "Roy Jenson",
+      "image": "http://image.tmdb.org/t/p/w185/swkMoVqkIw3CKTKkIzR2yHEfyF3.jpg"
+    }
+  ]
+}

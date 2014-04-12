@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/9255NWzrFp25KuUS9yAyvqi8FEJ.jpg",
+    "name": "The Traitor"
+  },
+  "cast": [
+    {
+      "name": "Donald Wolfit",
+      "image": "http://image.tmdb.org/t/p/w185/3lPf8aoBVgWoQc7NhSf8eQ1a5Tg.jpg"
+    },
+    {
+      "name": "Robert Bray",
+      "image": "http://image.tmdb.org/t/p/w185/rlk8GYFo6s5OQLDOHy5sb2f1hcT.jpg"
+    },
+    {
+      "name": "Jane Griffiths",
+      "image": "http://image.tmdb.org/t/p/w185/fVEB4ELi1DP95HbNsOzbzLsZmyM.jpg"
+    },
+    {
+      "name": "Carl Jaffe"
+    },
+    {
+      "name": "Anton Diffring",
+      "image": "http://image.tmdb.org/t/p/w185/uxeoDzNhNrarOask3HjYpekrGl6.jpg"
+    }
+  ]
+}

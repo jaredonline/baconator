@@ -1,0 +1,30 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/pWiLrIiCp5DHOLN0gPhcFIdvgAc.jpg",
+    "name": "When the Road Bends: Tales of a Gypsy Caravan"
+  },
+  "cast": [
+    {
+      "name": "Fanfare Ciocarlia"
+    },
+    {
+      "name": "Taraf de Haidouks"
+    },
+    {
+      "name": "Johnny Depp",
+      "image": "http://image.tmdb.org/t/p/w185/cqSPVCB46cTV9jHthKk2d0Fz3md.jpg"
+    },
+    {
+      "name": "Antonio El Pipa"
+    },
+    {
+      "name": "Maharaja"
+    },
+    {
+      "name": "Esma Redzepova"
+    },
+    {
+      "name": "George Eli"
+    }
+  ]
+}

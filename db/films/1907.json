@@ -1,0 +1,61 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/wueuaJBxcXmixa8VNzrshAXgZjN.jpg",
+    "name": "The Beach"
+  },
+  "cast": [
+    {
+      "name": "Leonardo DiCaprio",
+      "image": "http://image.tmdb.org/t/p/w185/mNRMgj7K5ztvkSqrcdwEYNZIS1M.jpg"
+    },
+    {
+      "name": "Guillaume Canet",
+      "image": "http://image.tmdb.org/t/p/w185/qnDVthzAPxJTKxkUWIRBhuuMI2x.jpg"
+    },
+    {
+      "name": "Tilda Swinton",
+      "image": "http://image.tmdb.org/t/p/w185/eGNo9qwlunvAi4kCVUEFtQFM5X.jpg"
+    },
+    {
+      "name": "Staffan Kihlbom"
+    },
+    {
+      "name": "Paterson Joseph",
+      "image": "http://image.tmdb.org/t/p/w185/4hN17q6xV08NCK2IxPZIRXPaUDk.jpg"
+    },
+    {
+      "name": "Virginie Ledoyen",
+      "image": "http://image.tmdb.org/t/p/w185/t9TdJUerLsUD766Q2dN9tJ4dRCG.jpg"
+    },
+    {
+      "name": "Peter Youngblood Hills",
+      "image": "http://image.tmdb.org/t/p/w185/gpuAUjccfnOu96Uk1crvZ5Rfk0j.jpg"
+    },
+    {
+      "name": "Robert Carlyle",
+      "image": "http://image.tmdb.org/t/p/w185/qOvOpvSDyS9XfUhOFdzZNnU6nni.jpg"
+    },
+    {
+      "name": "Jerry Swindall"
+    },
+    {
+      "name": "Lars Arentz-Hansen"
+    },
+    {
+      "name": "Jukka Hiltunen"
+    },
+    {
+      "name": "Magnus Lindgren"
+    },
+    {
+      "name": "Daniel York"
+    },
+    {
+      "name": "Daniel Caltagirone",
+      "image": "http://image.tmdb.org/t/p/w185/cnuEASgMkryLbTMZVNaGltibGFe.jpg"
+    },
+    {
+      "name": "Zelda Tinska"
+    }
+  ]
+}

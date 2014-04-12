@@ -1,0 +1,41 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/thUZCEGXMcOTF19UK59c59Jt1dC.jpg",
+    "name": "Béru et ces dames"
+  },
+  "cast": [
+    {
+      "name": "Gérard Barray",
+      "image": "http://image.tmdb.org/t/p/w185/k1zt1i9IeUur4bv1iluRyvfquFq.jpg"
+    },
+    {
+      "name": "Paul Préboist",
+      "image": "http://image.tmdb.org/t/p/w185/jU1Ik3wkp2OZvlB38V4gFy0lREh.jpg"
+    },
+    {
+      "name": "Marcel Bozzuffi",
+      "image": "http://image.tmdb.org/t/p/w185/vwlGmFLX4493fp6bFGrP89ejzf8.jpg"
+    },
+    {
+      "name": "Roger Carel",
+      "image": "http://image.tmdb.org/t/p/w185/wMJNiP6uVkoQN6tHnXU35rORbSy.jpg"
+    },
+    {
+      "name": "Marthe Mercadier"
+    },
+    {
+      "name": "Pierre Tornade",
+      "image": "http://image.tmdb.org/t/p/w185/i4zKc2yzZ36IAmNVhAhOrL9L45.jpg"
+    },
+    {
+      "name": "Michel Creton"
+    },
+    {
+      "name": "Jean Richard",
+      "image": "http://image.tmdb.org/t/p/w185/aojziMkKfOM0yojyQeFsBZGjy9J.jpg"
+    },
+    {
+      "name": "Anna Gaël"
+    }
+  ]
+}

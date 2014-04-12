@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2xMqAXzxLdAAauwCMXL9TpcRuTi.jpg",
+    "name": "Class of '63"
+  },
+  "cast": [
+    {
+      "name": "James Brolin",
+      "image": "http://image.tmdb.org/t/p/w185/m9sfPdvWQ5kDQWdTGHVlw2yUwbI.jpg"
+    },
+    {
+      "name": "Joan Hackett",
+      "image": "http://image.tmdb.org/t/p/w185/YCPt7OdseCr4D0ywXTWhmg2QIh.jpg"
+    },
+    {
+      "name": "Cliff Gorman",
+      "image": "http://image.tmdb.org/t/p/w185/3qLvZ6nW5tE0JYN02d7e2tZMmtU.jpg"
+    },
+    {
+      "name": "Ed Lauter",
+      "image": "http://image.tmdb.org/t/p/w185/cr9WYGps3NZXkSFKrpB9BKnz0yo.jpg"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/raEaqZlWFBd777vVRp42fS8YPNl.jpg",
+    "name": "The Apprenticeship of Duddy Kravitz"
+  },
+  "cast": [
+    {
+      "name": "Richard Dreyfuss",
+      "image": "http://image.tmdb.org/t/p/w185/qJW1IQD4XjzwKfcrP0ESRvDSBar.jpg"
+    },
+    {
+      "name": "Richard Dreyfuss",
+      "image": "http://image.tmdb.org/t/p/w185/qJW1IQD4XjzwKfcrP0ESRvDSBar.jpg"
+    },
+    {
+      "name": "Henry Ramer"
+    },
+    {
+      "name": "Alan Rosenthal"
+    },
+    {
+      "name": "Alan Rosenthal"
+    },
+    {
+      "name": "Alan Rosenthal"
+    }
+  ]
+}

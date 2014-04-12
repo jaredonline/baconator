@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/rN39R2jIhnUYTNdQB2c6pUFla8X.jpg",
+    "name": "No Vacancy"
+  },
+  "cast": [
+    {
+      "name": "Christina Ricci",
+      "image": "http://image.tmdb.org/t/p/w185/d4AvRqYvGpzuJu0ZFE9xmZTPzrI.jpg"
+    },
+    {
+      "name": "Lolita Davidovich",
+      "image": "http://image.tmdb.org/t/p/w185/xevm3JVAQ0lUZoP54VufGkW7Gmj.jpg"
+    },
+    {
+      "name": "Olek Krupa",
+      "image": "http://image.tmdb.org/t/p/w185/nv44QkTPkymcd7MiB1K69RsG4B1.jpg"
+    },
+    {
+      "name": "Timothy Olyphant",
+      "image": "http://image.tmdb.org/t/p/w185/rCbMLIkn5BpClA4K0OLiOaUttqy.jpg"
+    },
+    {
+      "name": "Joaquim de Almeida",
+      "image": "http://image.tmdb.org/t/p/w185/tlNwZu2Cy3e4zU3c2Gs9whvumv4.jpg"
+    }
+  ]
+}

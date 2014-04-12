@@ -1,0 +1,24 @@
+{
+  "film": {
+    "name": "El Superstar"
+  },
+  "cast": [
+    {
+      "name": "Spencer John French"
+    },
+    {
+      "name": "Danny Trejo",
+      "image": "http://image.tmdb.org/t/p/w185/7b8cDfrmeheQbgryfCm7MeJOxxM.jpg"
+    },
+    {
+      "name": "Lupe Ontiveros",
+      "image": "http://image.tmdb.org/t/p/w185/7omMwfHNyQ6T2O8Trppbpj8ED2W.jpg"
+    },
+    {
+      "name": "Elisa Bocanegra"
+    },
+    {
+      "name": "María Esquivel"
+    }
+  ]
+}

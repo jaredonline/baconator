@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/940LlahW1SBs8jXdOcR4QPb9hef.jpg",
+    "name": "The Gift Horse"
+  },
+  "cast": [
+    {
+      "name": "Richard Attenborough",
+      "image": "http://image.tmdb.org/t/p/w185/qzedA4XCNjbmR7z3fWiFinGukzx.jpg"
+    },
+    {
+      "name": "James Donald",
+      "image": "http://image.tmdb.org/t/p/w185/37GWNFPrHxo6RZf8uY0bdk47BD8.jpg"
+    },
+    {
+      "name": "Sonny Tufts",
+      "image": "http://image.tmdb.org/t/p/w185/wjL34aQKprt6KFSkyCww31LP7To.jpg"
+    },
+    {
+      "name": "Trevor Howard",
+      "image": "http://image.tmdb.org/t/p/w185/drj1FPryhAimWCiufEnMLzUxpBQ.jpg"
+    }
+  ]
+}

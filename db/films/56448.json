@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6DaOcqJvvd8wOSRyGuZLn80S66W.jpg",
+    "name": "Stalin"
+  },
+  "cast": [
+    {
+      "name": "Robert Duvall",
+      "image": "http://image.tmdb.org/t/p/w185/p1QXaBQlPz5ximUZsAfkXW1M8pr.jpg"
+    },
+    {
+      "name": "Julia Ormond",
+      "image": "http://image.tmdb.org/t/p/w185/GYnXYOvBhzPfNmTpeIiO0XRTUu.jpg"
+    },
+    {
+      "name": "Maximilian Schell",
+      "image": "http://image.tmdb.org/t/p/w185/xhjyQpOmwDwU48Kq2b1XCEO9G7E.jpg"
+    },
+    {
+      "name": "Jeroen Krabbé",
+      "image": "http://image.tmdb.org/t/p/w185/fXH83k5lE2zL5zNXKXGI4wyGnRP.jpg"
+    },
+    {
+      "name": "Joan Plowright",
+      "image": "http://image.tmdb.org/t/p/w185/jroMGWxNPJXqXPvZsGfKXgezY4i.jpg"
+    },
+    {
+      "name": "Jim Carter",
+      "image": "http://image.tmdb.org/t/p/w185/ycS14B6YHA2k4IlEPNgh0eQOv7u.jpg"
+    },
+    {
+      "name": "Miriam Margolyes",
+      "image": "http://image.tmdb.org/t/p/w185/7Fijg5sZ7gKbooq6tId3MUS5sDY.jpg"
+    }
+  ]
+}

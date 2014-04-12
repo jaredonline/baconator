@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/rKG4MeCM58SwkvOxkQDQrVsTIz9.jpg",
+    "name": "Those Who Whisper"
+  },
+  "cast": [
+    {
+      "name": "Pernilla August",
+      "image": "http://image.tmdb.org/t/p/w185/gj7f49NzYbFpP7KfmrFBajsUqxD.jpg"
+    },
+    {
+      "name": "Petrus Havrell Nilsson"
+    },
+    {
+      "name": "Alice Havrell Nilsson"
+    },
+    {
+      "name": "Dag Malmberg"
+    },
+    {
+      "name": "Kåre Mölder"
+    },
+    {
+      "name": "Lia Boysen",
+      "image": "http://image.tmdb.org/t/p/w185/zNaUqlJe9BQVeeOUFolgsmk3lWG.jpg"
+    }
+  ]
+}

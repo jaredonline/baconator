@@ -1,0 +1,41 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/uNs31859lKEq9AbBYBuPNH66dQ5.jpg",
+    "name": "Dad Made Dirty Movies"
+  },
+  "cast": [
+    {
+      "name": "Susan Apostolof"
+    },
+    {
+      "name": "Polly Apostolof"
+    },
+    {
+      "name": "Steve Apostolof"
+    },
+    {
+      "name": "Christopher D. Apostolof"
+    },
+    {
+      "name": "Edward D. Wood Jr.",
+      "image": "http://image.tmdb.org/t/p/w185/8ZoVOGxMYwamLR3Unlkrq3rpSQ2.jpg"
+    },
+    {
+      "name": "Kathleen O'Hara"
+    },
+    {
+      "name": "Criswell"
+    },
+    {
+      "name": "Tor Johnson",
+      "image": "http://image.tmdb.org/t/p/w185/4mz1ZqXgSgtBwPKwFtpmbJqqPCH.jpg"
+    },
+    {
+      "name": "Marsha Jordan"
+    },
+    {
+      "name": "Johnny Depp",
+      "image": "http://image.tmdb.org/t/p/w185/cqSPVCB46cTV9jHthKk2d0Fz3md.jpg"
+    }
+  ]
+}

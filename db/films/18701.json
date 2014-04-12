@@ -1,0 +1,35 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/aoX7RzwdpvYl71OQGy1mcoBtiuN.jpg",
+    "name": "Being Julia"
+  },
+  "cast": [
+    {
+      "name": "Michael Gambon",
+      "image": "http://image.tmdb.org/t/p/w185/6yO4JDjja3GgR4dO3OQsuBmikaj.jpg"
+    },
+    {
+      "name": "Annette Bening",
+      "image": "http://image.tmdb.org/t/p/w185/jFLOJJEISpOafM89EiaaoxgAVfC.jpg"
+    },
+    {
+      "name": "Jeremy Irons",
+      "image": "http://image.tmdb.org/t/p/w185/9AWphjIgGX7JjTrwrx3tsTZlUgv.jpg"
+    },
+    {
+      "name": "Michael Culkin"
+    },
+    {
+      "name": "Lucy Punch",
+      "image": "http://image.tmdb.org/t/p/w185/ya199ywI8vQ5EEwFOIXT9CAjqdm.jpg"
+    },
+    {
+      "name": "Max Irons",
+      "image": "http://image.tmdb.org/t/p/w185/mFKJvG49Gr1Fb0HgsTDg4YSZzJc.jpg"
+    },
+    {
+      "name": "Miriam Margolyes",
+      "image": "http://image.tmdb.org/t/p/w185/7Fijg5sZ7gKbooq6tId3MUS5sDY.jpg"
+    }
+  ]
+}

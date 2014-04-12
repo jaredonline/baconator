@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/uzcL5NlxafTVkNCHBg3GwSJi6C1.jpg",
+    "name": "Como un relámpago"
+  },
+  "cast": [
+    {
+      "name": "Santiago Ramos",
+      "image": "http://image.tmdb.org/t/p/w185/t4HfSMCW75NrplWhku6psjFNkFx.jpg"
+    },
+    {
+      "name": "Assumpta Serna",
+      "image": "http://image.tmdb.org/t/p/w185/fvRCU4XxBhmi4XLqJDiqG4o9T95.jpg"
+    },
+    {
+      "name": "Eloy Azorin",
+      "image": "http://image.tmdb.org/t/p/w185/gMsqCdNbLliRudq6olLZEccmO5t.jpg"
+    }
+  ]
+}

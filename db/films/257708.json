@@ -1,0 +1,42 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/pS0neAJbV4RvB4iWcysZXLJ95UQ.jpg",
+    "name": "Las huellas borradas"
+  },
+  "cast": [
+    {
+      "name": "Federico Luppi",
+      "image": "http://image.tmdb.org/t/p/w185/aKQBkLnh0RZNPYqO80itGYuclLp.jpg"
+    },
+    {
+      "name": "Héctor Alterio",
+      "image": "http://image.tmdb.org/t/p/w185/gFxsCoZr5yD6O0Zpty8K7nGTemo.jpg"
+    },
+    {
+      "name": "Mercedes Sampietro",
+      "image": "http://image.tmdb.org/t/p/w185/jFGOj1J7RkcrNleSBlDff1bHAxE.jpg"
+    },
+    {
+      "name": "Elena Anaya",
+      "image": "http://image.tmdb.org/t/p/w185/sov4ljuu9YWA1oZfdL0mkuEDjIv.jpg"
+    },
+    {
+      "name": "Asunción Balaguer"
+    },
+    {
+      "name": "Sergi Calleja"
+    },
+    {
+      "name": "Armando del Río"
+    },
+    {
+      "name": "Mariví Bilbao"
+    },
+    {
+      "name": "Joan Dalmau"
+    },
+    {
+      "name": "Ramon Barea"
+    }
+  ]
+}

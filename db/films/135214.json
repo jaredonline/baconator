@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/yWeBydDrl2RiNmRTfo1Zuw66JxH.jpg",
+    "name": "The Last Sentence"
+  },
+  "cast": [
+    {
+      "name": "Jesper Christensen",
+      "image": "http://image.tmdb.org/t/p/w185/fnE1D2BtNex0bUZE4DdxAsju0YR.jpg"
+    },
+    {
+      "name": "Pernilla August",
+      "image": "http://image.tmdb.org/t/p/w185/gj7f49NzYbFpP7KfmrFBajsUqxD.jpg"
+    },
+    {
+      "name": "Ulla Skoog"
+    },
+    {
+      "name": "Peter Andersson",
+      "image": "http://image.tmdb.org/t/p/w185/lWbWHUMAeEmTuNyXBMSzqzCbFOc.jpg"
+    },
+    {
+      "name": "Björn Granath",
+      "image": "http://image.tmdb.org/t/p/w185/vnAD5t7vyCP7GPicOa2bB3WXJxD.jpg"
+    },
+    {
+      "name": "Lia Boysen",
+      "image": "http://image.tmdb.org/t/p/w185/zNaUqlJe9BQVeeOUFolgsmk3lWG.jpg"
+    },
+    {
+      "name": "Maria Heiskanen",
+      "image": "http://image.tmdb.org/t/p/w185/xFfZ32K310cp9IMYvzhEelQR8yp.jpg"
+    },
+    {
+      "name": "Kenneth Milldoff"
+    }
+  ]
+}

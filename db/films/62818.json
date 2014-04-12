@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6MIn1ZmmlapgroIekQMMXYwXNbY.jpg",
+    "name": "Masada"
+  },
+  "cast": [
+    {
+      "name": "Peter O'Toole",
+      "image": "http://image.tmdb.org/t/p/w185/i4qteYphjkqtwsuQwcfQPEdV1ZI.jpg"
+    },
+    {
+      "name": "Peter Strauss",
+      "image": "http://image.tmdb.org/t/p/w185/gzgt88W2vUgwiYC7izlKXIcosWx.jpg"
+    },
+    {
+      "name": "Barbara Carrera",
+      "image": "http://image.tmdb.org/t/p/w185/zmuNNytZ5w3ewWC6ShWeqFZl49c.jpg"
+    },
+    {
+      "name": "Anthony Quayle",
+      "image": "http://image.tmdb.org/t/p/w185/cGxouSdw4SoGE5Soxlj6KnpZObE.jpg"
+    }
+  ]
+}

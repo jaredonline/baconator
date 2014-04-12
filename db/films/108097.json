@@ -1,0 +1,34 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xcjFiohyfOQ493V8YkOmKShKB9R.jpg",
+    "name": "Rorret"
+  },
+  "cast": [
+    {
+      "name": "Lou Castel",
+      "image": "http://image.tmdb.org/t/p/w185/tcFGR2TRAhPYXJUOH9n0DNbDOuQ.jpg"
+    },
+    {
+      "name": "Anna Galiena",
+      "image": "http://image.tmdb.org/t/p/w185/qOstUS7EwxRYYtWBqprTSJwlmOQ.jpg"
+    },
+    {
+      "name": "Massimo Venturiello"
+    },
+    {
+      "name": "Enrica Rosso"
+    },
+    {
+      "name": "Domiziano Arcangeli"
+    },
+    {
+      "name": "Raffaella Baracchi"
+    },
+    {
+      "name": "Roberto Cavosi"
+    },
+    {
+      "name": "Pino Quartullo"
+    }
+  ]
+}

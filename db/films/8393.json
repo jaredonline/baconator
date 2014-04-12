@@ -1,0 +1,42 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/yDTZtfKT0SHoXSzEHMHS0pMI1IN.jpg",
+    "name": "The Gods Must Be Crazy"
+  },
+  "cast": [
+    {
+      "name": "N!xau",
+      "image": "http://image.tmdb.org/t/p/w185/r340m1PXJoz4YxprkA6fHRGwKEJ.jpg"
+    },
+    {
+      "name": "Michael Thys"
+    },
+    {
+      "name": "Marius Weyers",
+      "image": "http://image.tmdb.org/t/p/w185/xhUgoqJQOPzi2XoKVpVlJPcrcC3.jpg"
+    },
+    {
+      "name": "Sandra Prinsloo",
+      "image": "http://image.tmdb.org/t/p/w185/qpfBiTfNiOWzv2fbc1Zg0Ud693y.jpg"
+    },
+    {
+      "name": "Louw Verwey",
+      "image": "http://image.tmdb.org/t/p/w185/zCjDTEgmnNZwQq8EmQnyO2TQcWQ.jpg"
+    },
+    {
+      "name": "Nic De Jager"
+    },
+    {
+      "name": "Fanyana H. Sidumo"
+    },
+    {
+      "name": "Joe Seakatsie"
+    },
+    {
+      "name": "Brian O'Shaughnessy"
+    },
+    {
+      "name": "Ken Gampu"
+    }
+  ]
+}

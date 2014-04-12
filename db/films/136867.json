@@ -1,0 +1,34 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/eTOylGxNZV6PB1I9vxYgmPlLius.jpg",
+    "name": "Oliver Twist"
+  },
+  "cast": [
+    {
+      "name": "Sam Smith"
+    },
+    {
+      "name": "Keira Knightley",
+      "image": "http://image.tmdb.org/t/p/w185/qioijC362oaHsRhup9WJi3MoARO.jpg"
+    },
+    {
+      "name": "Robert Lindsay",
+      "image": "http://image.tmdb.org/t/p/w185/7nmBR6n5qxN83i0UO12nnOOuXAY.jpg"
+    },
+    {
+      "name": "Alex Crowley"
+    },
+    {
+      "name": "Andy Serkis",
+      "image": "http://image.tmdb.org/t/p/w185/olYcaJoZuHVW92gZgtVMUWGqMR8.jpg"
+    },
+    {
+      "name": "Emily Woof",
+      "image": "http://image.tmdb.org/t/p/w185/6WfwdQl3ADG1ctLsVrjurUWclcP.jpg"
+    },
+    {
+      "name": "Isla Fisher",
+      "image": "http://image.tmdb.org/t/p/w185/vYVqeuDddqIRer76dpyms8JXFAL.jpg"
+    }
+  ]
+}

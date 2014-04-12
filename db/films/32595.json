@@ -1,0 +1,50 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/luBiQOSr1FVKXxdorBpXe88djRb.jpg",
+    "name": "Howling III: The Marsupials"
+  },
+  "cast": [
+    {
+      "name": "Barry Otto"
+    },
+    {
+      "name": "William Yang"
+    },
+    {
+      "name": "Imogen Annesley"
+    },
+    {
+      "name": "Deby Wightman"
+    },
+    {
+      "name": "Lee Biolos"
+    },
+    {
+      "name": "Christopher Pate"
+    },
+    {
+      "name": "Max Fairchild",
+      "image": "http://image.tmdb.org/t/p/w185/lYw6BhRQeSVkpkJ7YSf2ZwVcnN3.jpg"
+    },
+    {
+      "name": "Jerome Patillo"
+    },
+    {
+      "name": "Dagmar Bláhová"
+    },
+    {
+      "name": "Ralph Cotterill"
+    },
+    {
+      "name": "Michael Pate",
+      "image": "http://image.tmdb.org/t/p/w185/wpIcGEzfhn9bElQaVB2W4JkNWfa.jpg"
+    },
+    {
+      "name": "Carole Skinner"
+    },
+    {
+      "name": "Frank Thring",
+      "image": "http://image.tmdb.org/t/p/w185/3IGtuwC2BdyfYlPqwFw1Z2yI7TH.jpg"
+    }
+  ]
+}

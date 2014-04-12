@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/kb3lt8GjTrPnRFJDPw9i8UxspEc.jpg",
+    "name": "Gangster Story"
+  },
+  "cast": [
+    {
+      "name": "Walter Matthau",
+      "image": "http://image.tmdb.org/t/p/w185/xJVkvprOnzP5Zdh5y63y8HHniDZ.jpg"
+    },
+    {
+      "name": "Carol Grace"
+    },
+    {
+      "name": "Bruce MacFarlane"
+    },
+    {
+      "name": "Garry Walberg"
+    }
+  ]
+}

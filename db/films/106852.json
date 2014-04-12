@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zsx9COX2MgOoD3XPXLQKqPyCb99.jpg",
+    "name": "A Stop Away From You"
+  },
+  "cast": [
+    {
+      "name": "Fele Martínez",
+      "image": "http://image.tmdb.org/t/p/w185/69Q0vNghrRTosI82xwd3gLBv7Qx.jpg"
+    },
+    {
+      "name": "Claudia Cabezas"
+    },
+    {
+      "name": "Mercè Llorens"
+    },
+    {
+      "name": "Jorge Yáñez"
+    },
+    {
+      "name": "Katyna Huberman"
+    }
+  ]
+}

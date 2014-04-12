@@ -1,0 +1,25 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6HMyv6fNLk69RXBAMFcgl4DA1wR.jpg",
+    "name": "Little Indi"
+  },
+  "cast": [
+    {
+      "name": "Marc Soto"
+    },
+    {
+      "name": "Eulalia Ramón"
+    },
+    {
+      "name": "Sergi López",
+      "image": "http://image.tmdb.org/t/p/w185/9h8KS0D1TQBBF65AiLp7FGTNaQ9.jpg"
+    },
+    {
+      "name": "Eduardo Noriega",
+      "image": "http://image.tmdb.org/t/p/w185/ixwxf8JP6Kdg9YZ7JQLj8vIAaNm.jpg"
+    },
+    {
+      "name": "Pere Subirana"
+    }
+  ]
+}

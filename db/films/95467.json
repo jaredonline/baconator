@@ -1,0 +1,42 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/o4WTQD45VAtYGQEqTd36Z4Hc26J.jpg",
+    "name": "The Full Treatment"
+  },
+  "cast": [
+    {
+      "name": "Claude Dauphin",
+      "image": "http://image.tmdb.org/t/p/w185/9ZYZhyJee5MGBkeggYkENJegYmZ.jpg"
+    },
+    {
+      "name": "Diane Cilento",
+      "image": "http://image.tmdb.org/t/p/w185/A4Pl3bPh7JltbhXraK0R1JAK6o8.jpg"
+    },
+    {
+      "name": "Ronald Lewis",
+      "image": "http://image.tmdb.org/t/p/w185/wcLBT9hVeVFTG487GGMBHN5GijV.jpg"
+    },
+    {
+      "name": "Françoise Rosay",
+      "image": "http://image.tmdb.org/t/p/w185/yrpf7xTGO1EdKRcyLRnP21MtjP2.jpg"
+    },
+    {
+      "name": "Bernard Braden"
+    },
+    {
+      "name": "Katya Douglas"
+    },
+    {
+      "name": "Barbara Chilcott"
+    },
+    {
+      "name": "Anne Tirard"
+    },
+    {
+      "name": "Edwin Styles"
+    },
+    {
+      "name": "George Merritt"
+    }
+  ]
+}

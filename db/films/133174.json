@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qE9tva8qYr6powTSJLzMWXcx4Yk.jpg",
+    "name": "Trapped"
+  },
+  "cast": [
+    {
+      "name": "James Brolin",
+      "image": "http://image.tmdb.org/t/p/w185/7sp13guwky7N98zyltrXL4sGI2n.jpg"
+    },
+    {
+      "name": "Susan Clark",
+      "image": "http://image.tmdb.org/t/p/w185/tQradyDXFaFWV1ZefFpwx3kr5Jm.jpg"
+    },
+    {
+      "name": "Earl Holliman",
+      "image": "http://image.tmdb.org/t/p/w185/8Udjg6U7duCiE7kcn4a9uhm1ABH.jpg"
+    },
+    {
+      "name": "Robert Hooks",
+      "image": "http://image.tmdb.org/t/p/w185/9iZSNq0NF2gK2PKbVWujtrGS1jX.jpg"
+    }
+  ]
+}

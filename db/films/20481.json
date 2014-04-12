@@ -1,0 +1,34 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7mZ063zMz1AJ7yfLHa60P7WhsqV.jpg",
+    "name": "Nightbreed"
+  },
+  "cast": [
+    {
+      "name": "Craig Sheffer",
+      "image": "http://image.tmdb.org/t/p/w185/izAHksLjKOhOUMJmOPkwcNs6Kls.jpg"
+    },
+    {
+      "name": "Anne Bobby"
+    },
+    {
+      "name": "David Cronenberg",
+      "image": "http://image.tmdb.org/t/p/w185/7Ot4rmLcEXrE42GulBpkgPfxS8k.jpg"
+    },
+    {
+      "name": "Charles Haid",
+      "image": "http://image.tmdb.org/t/p/w185/Wna0bUskkYJAMFY5UiJMUbPG93.jpg"
+    },
+    {
+      "name": "Hugh Quarshie",
+      "image": "http://image.tmdb.org/t/p/w185/klpbBUBEwIuVHt2RWCNOxNvuprS.jpg"
+    },
+    {
+      "name": "Hugh Ross"
+    },
+    {
+      "name": "Doug Bradley",
+      "image": "http://image.tmdb.org/t/p/w185/641mZsXjSqtF0LOiPGg3wmPITMu.jpg"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/k45OJ2HllKeCO611eVX0b2cqsLy.jpg",
+    "name": "Terror Trap"
+  },
+  "cast": [
+    {
+      "name": "David James Elliott",
+      "image": "http://image.tmdb.org/t/p/w185/uVAIzhVszeOQoNObG96Lcftqn76.jpg"
+    },
+    {
+      "name": "Heather Marie Marsden",
+      "image": "http://image.tmdb.org/t/p/w185/zHvCBIjhjmrUZbRLrT3I6fsHSrL.jpg"
+    },
+    {
+      "name": "Jeff Fahey",
+      "image": "http://image.tmdb.org/t/p/w185/6l44xDPdJE4dQAEDN9eShnJOSo8.jpg"
+    },
+    {
+      "name": "Michael Madsen",
+      "image": "http://image.tmdb.org/t/p/w185/yPvagJYARJb0JAeAbCFdcXcaPs2.jpg"
+    },
+    {
+      "name": "Andrew Sensenig",
+      "image": "http://image.tmdb.org/t/p/w185/oiPTOeTpMnEHq1sydiLgsMtwDVa.jpg"
+    }
+  ]
+}

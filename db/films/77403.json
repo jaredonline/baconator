@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/9OI5CAZs3a4GX5izxt01Y2VZAKC.jpg",
+    "name": "Disco Godfather"
+  },
+  "cast": [
+    {
+      "name": "Rudy Ray Moore",
+      "image": "http://image.tmdb.org/t/p/w185/12NnmFFl6PsTlUFDVMrUU4oTHDe.jpg"
+    },
+    {
+      "name": "Carol Speed",
+      "image": "http://image.tmdb.org/t/p/w185/cVdpcSNEhQR0Z9Qlg9hbLuW8tNU.jpg"
+    },
+    {
+      "name": "Jimmy Lynch"
+    },
+    {
+      "name": "Jerry Jones"
+    },
+    {
+      "name": "Lady Reed"
+    },
+    {
+      "name": "Frank Finn"
+    },
+    {
+      "name": "Julius Carry",
+      "image": "http://image.tmdb.org/t/p/w185/xTBV7d8pWhYdlqBHb1LooFbxIPY.jpg"
+    },
+    {
+      "name": "Hawthorne James",
+      "image": "http://image.tmdb.org/t/p/w185/i7PiUf2mN7zs3V78NPlF79nCOZ4.jpg"
+    }
+  ]
+}

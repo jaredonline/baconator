@@ -1,0 +1,15 @@
+{
+  "film": {
+    "name": "Miss Meadows"
+  },
+  "cast": [
+    {
+      "name": "Katie Holmes",
+      "image": "http://image.tmdb.org/t/p/w185/eYeE0Z1sOvqxt7LsQHK30vUfWaM.jpg"
+    },
+    {
+      "name": "James Badge Dale",
+      "image": "http://image.tmdb.org/t/p/w185/dtv82z6uNuMkY65KcjD1TsTu4gP.jpg"
+    }
+  ]
+}

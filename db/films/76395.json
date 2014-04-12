@@ -1,0 +1,31 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/oGOutb0U3BXz9U71SNnPI5uTbGq.jpg",
+    "name": "The Soldier"
+  },
+  "cast": [
+    {
+      "name": "Ken Wahl",
+      "image": "http://image.tmdb.org/t/p/w185/yhA6B938O6et3nA4GPqxExptAal.jpg"
+    },
+    {
+      "name": "Alberta Watson",
+      "image": "http://image.tmdb.org/t/p/w185/iy3Qgqap1U1GRqNzjoX2mFwdqD3.jpg"
+    },
+    {
+      "name": "Joaquim de Almeida",
+      "image": "http://image.tmdb.org/t/p/w185/tlNwZu2Cy3e4zU3c2Gs9whvumv4.jpg"
+    },
+    {
+      "name": "Klaus Kinski",
+      "image": "http://image.tmdb.org/t/p/w185/7gsJB7xlovz1khNID0B8yKA9TO0.jpg"
+    },
+    {
+      "name": "Jeremiah Sullivan"
+    },
+    {
+      "name": "William Prince",
+      "image": "http://image.tmdb.org/t/p/w185/qVGGOidsbebFUep7tPVmCqnldUB.jpg"
+    }
+  ]
+}

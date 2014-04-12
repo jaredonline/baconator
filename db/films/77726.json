@@ -1,0 +1,19 @@
+{
+  "film": {
+    "name": "Cities"
+  },
+  "cast": [
+    {
+      "name": "Clive Owen",
+      "image": "http://image.tmdb.org/t/p/w185/jm2as6tLcvHCYQvmMYM4VK6JEnr.jpg"
+    },
+    {
+      "name": "Orlando Bloom",
+      "image": "http://image.tmdb.org/t/p/w185/jLF5zDGkxhSkea49CeOrpyMFipN.jpg"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "image": "http://image.tmdb.org/t/p/w185/hpNUEUWuNCOZujDhhnLzP3vrdV4.jpg"
+    }
+  ]
+}

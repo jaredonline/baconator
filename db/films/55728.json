@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/hU2qdNOY6gJ9HkuQShVtEbzQV6W.jpg",
+    "name": "Plain Clothes"
+  },
+  "cast": [
+    {
+      "name": "Suzy Amis",
+      "image": "http://image.tmdb.org/t/p/w185/caqw60Y3qBMdlEPYr3ivZf9LAwC.jpg"
+    },
+    {
+      "name": "Arliss Howard",
+      "image": "http://image.tmdb.org/t/p/w185/3mrUl2agLneG40JFd2zzXmxZ65w.jpg"
+    },
+    {
+      "name": "George Wendt",
+      "image": "http://image.tmdb.org/t/p/w185/lSdmC56kCl08Wr8wEE8ff2KXrhr.jpg"
+    },
+    {
+      "name": "Seymour Cassel",
+      "image": "http://image.tmdb.org/t/p/w185/xVyzqC1VNqlmEHlIZvidBVhHane.jpg"
+    },
+    {
+      "name": "Robert Stack",
+      "image": "http://image.tmdb.org/t/p/w185/gC4P6esXuU9LRlwUVd3m0K9FyKF.jpg"
+    }
+  ]
+}

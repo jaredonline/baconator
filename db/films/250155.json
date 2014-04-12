@@ -1,0 +1,18 @@
+{
+  "film": {
+    "name": "The Marva Collins Story"
+  },
+  "cast": [
+    {
+      "name": "Cicely Tyson",
+      "image": "http://image.tmdb.org/t/p/w185/ni0aKnvlTZjDyjpJ0hLRrEvgfEu.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "image": "http://image.tmdb.org/t/p/w185/oGJQhOpT8S1M56tvSsbEBePV5O1.jpg"
+    },
+    {
+      "name": "Roderick Wimberly"
+    }
+  ]
+}

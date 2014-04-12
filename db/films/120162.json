@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/vLbKWJtjltIkU6gGjs9e3grUI1q.jpg",
+    "name": "Dragon Rapide"
+  },
+  "cast": [
+    {
+      "name": "Juan Diego",
+      "image": "http://image.tmdb.org/t/p/w185/lVPpxHGzxvs2ZPerGHpuHBMc8dz.jpg"
+    },
+    {
+      "name": "Vicky Peña"
+    },
+    {
+      "name": "Manuel de Blas"
+    },
+    {
+      "name": "Pedro Díaz del Corral"
+    },
+    {
+      "name": "Francisco Casares"
+    },
+    {
+      "name": "Santiago Ramos",
+      "image": "http://image.tmdb.org/t/p/w185/t4HfSMCW75NrplWhku6psjFNkFx.jpg"
+    }
+  ]
+}

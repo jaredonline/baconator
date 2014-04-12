@@ -1,0 +1,15 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/AfNc0Qqczr6EwC9EHmGBSlbOos6.jpg",
+    "name": "Bears"
+  },
+  "cast": [
+    {
+      "name": "John C. Reilly",
+      "image": "http://image.tmdb.org/t/p/w185/l7OQrl6ZFRKPnwHZBW0gxwxC3IQ.jpg"
+    },
+    {
+      "name": "Victoria Naumova"
+    }
+  ]
+}

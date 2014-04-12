@@ -1,0 +1,52 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/w6ZaghVR044XRt8nHcgSuYGzlM6.jpg",
+    "name": "I Accuse!"
+  },
+  "cast": [
+    {
+      "name": "José Ferrer",
+      "image": "http://image.tmdb.org/t/p/w185/4AeQKvJXTSFrjNtSKm2BFWVHdCr.jpg"
+    },
+    {
+      "name": "Viveca Lindfors",
+      "image": "http://image.tmdb.org/t/p/w185/r7F33o0rlbeQkxVGlRunhJ0gxjH.jpg"
+    },
+    {
+      "name": "Emlyn Williams",
+      "image": "http://image.tmdb.org/t/p/w185/y6ZEc5Z8vd2QSQmWeVIylu4WqRy.jpg"
+    },
+    {
+      "name": "Anton Walbrook",
+      "image": "http://image.tmdb.org/t/p/w185/bjqeQXjSkTsIk01Zvl8VWqCt5QJ.jpg"
+    },
+    {
+      "name": "Leo Genn",
+      "image": "http://image.tmdb.org/t/p/w185/eOAv0mHO140nh3KA78AJ7Agwx32.jpg"
+    },
+    {
+      "name": "David Farrar",
+      "image": "http://image.tmdb.org/t/p/w185/liTENpeV8Qu9vJEC9vZ4g9My4AT.jpg"
+    },
+    {
+      "name": "Herbert Lom",
+      "image": "http://image.tmdb.org/t/p/w185/uPQNrZvgfAJNUAAYjmDubMmKEZ5.jpg"
+    },
+    {
+      "name": "Harry Andrews",
+      "image": "http://image.tmdb.org/t/p/w185/1EJXH5DyJWDtHfX8MeqSrCrUlwD.jpg"
+    },
+    {
+      "name": "Donald Wolfit",
+      "image": "http://image.tmdb.org/t/p/w185/3lPf8aoBVgWoQc7NhSf8eQ1a5Tg.jpg"
+    },
+    {
+      "name": "Felix Aylmer",
+      "image": "http://image.tmdb.org/t/p/w185/7p2cCTlNafwdA6tJd4Qwx69WRBv.jpg"
+    },
+    {
+      "name": "Michael Hordern",
+      "image": "http://image.tmdb.org/t/p/w185/jvy4gJc9cS1MJPgHJXefRUYGUYJ.jpg"
+    }
+  ]
+}

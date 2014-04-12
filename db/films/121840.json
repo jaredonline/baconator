@@ -1,0 +1,15 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4mANSH2lgahnQrXkZOJp7WgEDFC.jpg",
+    "name": "Kid"
+  },
+  "cast": [
+    {
+      "name": "C. Thomas Howell",
+      "image": "http://image.tmdb.org/t/p/w185/wptrBbqMUHKbnXZo3dtH3Bintlm.jpg"
+    },
+    {
+      "name": "Sarah Trigger"
+    }
+  ]
+}

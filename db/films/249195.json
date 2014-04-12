@@ -1,0 +1,19 @@
+{
+  "film": {
+    "name": "The Hound of the Baskervilles"
+  },
+  "cast": [
+    {
+      "name": "Stewart Granger",
+      "image": "http://image.tmdb.org/t/p/w185/aA8jHObE9GYOe1RxFljtPv4QdR3.jpg"
+    },
+    {
+      "name": "Bernard Fox",
+      "image": "http://image.tmdb.org/t/p/w185/1orZRZyhlkPBXVpfKSdtqzR9yZ9.jpg"
+    },
+    {
+      "name": "William Shatner",
+      "image": "http://image.tmdb.org/t/p/w185/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
+    }
+  ]
+}

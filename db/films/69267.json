@@ -1,0 +1,12 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2mRVbr0tOMeEM9YBSs89qPmBYJ0.jpg",
+    "name": "Benito: The Rise and Fall of Mussolini"
+  },
+  "cast": [
+    {
+      "name": "Antonio Banderas",
+      "image": "http://image.tmdb.org/t/p/w185/85197jARsr06xQ84NhP9YoBL3sR.jpg"
+    }
+  ]
+}

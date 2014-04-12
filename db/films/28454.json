@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/jBa3rfGhlFTH1cKVPh8u4iSbVIK.jpg",
+    "name": "La mansión de los Cthulhu"
+  },
+  "cast": [
+    {
+      "name": "Frank Finlay",
+      "image": "http://image.tmdb.org/t/p/w185/rnWMfVFu1XQ5WS9hRr24jeZ9Ni1.jpg"
+    },
+    {
+      "name": "Marcia Layton"
+    },
+    {
+      "name": "Melanie Shatner",
+      "image": "http://image.tmdb.org/t/p/w185/fNMytWCXoQNFSdQeABHGl394q1r.jpg"
+    },
+    {
+      "name": "Frank Braña"
+    },
+    {
+      "name": "Luis Fernando Alvés"
+    },
+    {
+      "name": "Brad Fisher"
+    },
+    {
+      "name": "Kaethe Cherney"
+    },
+    {
+      "name": "Paul Birchard",
+      "image": "http://image.tmdb.org/t/p/w185/iDEyo8cSZAVy9HsmZMv9mPs5tx4.jpg"
+    },
+    {
+      "name": "Emilio Linder"
+    }
+  ]
+}

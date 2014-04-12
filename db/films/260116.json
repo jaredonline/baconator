@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xiEjV92AF9pIuUgf4zB4vFVAvC4.jpg",
+    "name": "Whom Should We Shoot?"
+  },
+  "cast": [
+    {
+      "name": "Mahmoud Yassine",
+      "image": "http://image.tmdb.org/t/p/w185/445zSjcq5QW87CwoKqKlkTyeR7R.jpg"
+    },
+    {
+      "name": "Soad Hosny",
+      "image": "http://image.tmdb.org/t/p/w185/7Dpt8rMl8XUbs8bUkekoUhYqgCW.jpg"
+    },
+    {
+      "name": "Gamil Ratib"
+    }
+  ]
+}

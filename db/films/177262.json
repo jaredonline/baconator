@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/z2DJZwhm1woASBXS1Ur6DBKDI15.jpg",
+    "name": "Gipsy"
+  },
+  "cast": [
+    {
+      "name": "Joaquín Cortés"
+    },
+    {
+      "name": "Laetitia Casta",
+      "image": "http://image.tmdb.org/t/p/w185/9lo5p1r0iR3fK9oVHaaM3f4SfGL.jpg"
+    },
+    {
+      "name": "Marta Belaustegui"
+    },
+    {
+      "name": "Ginés García Millán",
+      "image": "http://image.tmdb.org/t/p/w185/hXyEudekS6UsN1MBJh0q9mFd0kw.jpg"
+    },
+    {
+      "name": "Manuel de Blas"
+    },
+    {
+      "name": "José Manuel Lorenzo"
+    }
+  ]
+}

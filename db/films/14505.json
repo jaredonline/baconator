@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2vP79BUg1JQ0rtlqPB9BQZUJ9wB.jpg",
+    "name": "Bachelor Party Vegas"
+  },
+  "cast": [
+    {
+      "name": "Kal Penn",
+      "image": "http://image.tmdb.org/t/p/w185/yxXuL1HVWaBMvrbwdDY1id3JwRZ.jpg"
+    },
+    {
+      "name": "Jonathan Bennett",
+      "image": "http://image.tmdb.org/t/p/w185/7IdoFyD20nGmfb1eh8AW71htRJM.jpg"
+    },
+    {
+      "name": "Donald Faison",
+      "image": "http://image.tmdb.org/t/p/w185/nOMpfGV7qIl4orsAKuFIDHsRgf0.jpg"
+    }
+  ]
+}

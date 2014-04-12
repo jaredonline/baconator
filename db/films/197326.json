@@ -1,0 +1,35 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2jI2nDixfRXsmQoTmVnx51PwSsM.jpg",
+    "name": "Enslavement: The True Story of Fanny Kemble"
+  },
+  "cast": [
+    {
+      "name": "Jane Seymour",
+      "image": "http://image.tmdb.org/t/p/w185/tlcY3RAVmTrq60PmE6715YDHZJ.jpg"
+    },
+    {
+      "name": "Keith Carradine",
+      "image": "http://image.tmdb.org/t/p/w185/h9lQYuJDOdE8QbCxUAwdYtB5hQf.jpg"
+    },
+    {
+      "name": "Adewale Akinnuoye-Agbaje",
+      "image": "http://image.tmdb.org/t/p/w185/n1cRWfPAODjbrjZEK7uSW4cJcmx.jpg"
+    },
+    {
+      "name": "Janet-Laine Green"
+    },
+    {
+      "name": "James Keach",
+      "image": "http://image.tmdb.org/t/p/w185/5k6C8JLApbI52sjaYAHHnIdsrnv.jpg"
+    },
+    {
+      "name": "Arlene Duncan",
+      "image": "http://image.tmdb.org/t/p/w185/n63lHaBvQ8vlMooamgCoCcul25f.jpg"
+    },
+    {
+      "name": "Eugene Byrd",
+      "image": "http://image.tmdb.org/t/p/w185/ctNRxb2YgeSHltz63fmvDKdsCLF.jpg"
+    }
+  ]
+}

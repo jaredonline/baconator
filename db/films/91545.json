@@ -1,0 +1,22 @@
+{
+  "film": {
+    "name": "El paseo del domingo"
+  },
+  "cast": [
+    {
+      "name": "Tony Randall",
+      "image": "http://image.tmdb.org/t/p/w185/nf4YiBn7rqvdZG0sWqUT2R3cc64.jpg"
+    },
+    {
+      "name": "Hillary Wolf"
+    },
+    {
+      "name": "Carrie Fisher",
+      "image": "http://image.tmdb.org/t/p/w185/khEnEUy7lb3660kfnabOKmOtwIt.jpg"
+    },
+    {
+      "name": "Audra Lindley",
+      "image": "http://image.tmdb.org/t/p/w185/pAgLQVAzdZgVEaEpIUYnziONbK5.jpg"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/v651zEy3p0Ek3y5p8mVAeNhyuI8.jpg",
+    "name": "Un buen novio"
+  },
+  "cast": [
+    {
+      "name": "Fernando Guillén Cuervo",
+      "image": "http://image.tmdb.org/t/p/w185/jl5RYE2byiE9ScZ8rsvbz31f5NZ.jpg"
+    },
+    {
+      "name": "Natalia Verbeke",
+      "image": "http://image.tmdb.org/t/p/w185/j6t29arDzBihVFbGnvxfqF2CXpK.jpg"
+    },
+    {
+      "name": "Adolfo Fernández",
+      "image": "http://image.tmdb.org/t/p/w185/fbfwl2MSG7s4SqaxOhXV1mCKKkn.jpg"
+    },
+    {
+      "name": "Ángela Castillo"
+    },
+    {
+      "name": "Pepo Oliva"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/oxNhTXWCzOi1NUevVlcTuTO9Cih.jpg",
+    "name": "Un amore su misura"
+  },
+  "cast": [
+    {
+      "name": "Renato Pozzetto",
+      "image": "http://image.tmdb.org/t/p/w185/fGB11utMx1UaZ9CFhKLLv5qpVDQ.jpg"
+    },
+    {
+      "name": "Camilla Sjoberg"
+    },
+    {
+      "name": "Anna Galiena",
+      "image": "http://image.tmdb.org/t/p/w185/qOstUS7EwxRYYtWBqprTSJwlmOQ.jpg"
+    },
+    {
+      "name": "Cochi Ponzoni"
+    }
+  ]
+}

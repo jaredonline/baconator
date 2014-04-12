@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xydmyQ9ghdwdIyUfiLstQfrPNLA.jpg",
+    "name": "G.A.L."
+  },
+  "cast": [
+    {
+      "name": "José Garcia",
+      "image": "http://image.tmdb.org/t/p/w185/iMwsOmaABZc58dnL76WYft6exkG.jpg"
+    },
+    {
+      "name": "Natalia Verbeke",
+      "image": "http://image.tmdb.org/t/p/w185/j6t29arDzBihVFbGnvxfqF2CXpK.jpg"
+    },
+    {
+      "name": "Jordi Mollà",
+      "image": "http://image.tmdb.org/t/p/w185/A648UpxxLlgdqziafgSCAVaR0Sc.jpg"
+    },
+    {
+      "name": "Ana Álvarez"
+    }
+  ]
+}

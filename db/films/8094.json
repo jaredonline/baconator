@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/q7at16Kejl7GzSVn2ZTgL8manxV.jpg",
+    "name": "The Magdalene Sisters"
+  },
+  "cast": [
+    {
+      "name": "Anne-Marie Duff",
+      "image": "http://image.tmdb.org/t/p/w185/uRrcjZ6aj3T7SlwHgdNsOHBTOi7.jpg"
+    },
+    {
+      "name": "Nora-Jane Noone",
+      "image": "http://image.tmdb.org/t/p/w185/fhXObJ2HvASXvbfPHxAPzc9ueZc.jpg"
+    },
+    {
+      "name": "Eileen Walsh"
+    },
+    {
+      "name": "Mary Murray"
+    },
+    {
+      "name": "Dorothy Duffy"
+    },
+    {
+      "name": "Eamonn Owens"
+    },
+    {
+      "name": "Geraldine McEwan",
+      "image": "http://image.tmdb.org/t/p/w185/99RxYdI81YBS6sZO3AW6rtYlmfH.jpg"
+    },
+    {
+      "name": "Peter Mullan",
+      "image": "http://image.tmdb.org/t/p/w185/s6fVtjCu0HshEIbfLklz4e2OoWS.jpg"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/q9RuJFSPxK2kYHl9PyKgrQyo7W0.jpg",
+    "name": "King Rat"
+  },
+  "cast": [
+    {
+      "name": "George Segal",
+      "image": "http://image.tmdb.org/t/p/w185/s7o24fqSX3DA4DB1ezjeE8nbIoV.jpg"
+    },
+    {
+      "name": "Tom Courtenay",
+      "image": "http://image.tmdb.org/t/p/w185/4FJn6uoL4rXwtJLJstS3yUYiXi7.jpg"
+    },
+    {
+      "name": "James Donald",
+      "image": "http://image.tmdb.org/t/p/w185/37GWNFPrHxo6RZf8uY0bdk47BD8.jpg"
+    },
+    {
+      "name": "John Mills",
+      "image": "http://image.tmdb.org/t/p/w185/aGBQSdOPz640G7gTvNtgqd4HsBQ.jpg"
+    },
+    {
+      "name": "Denholm Elliott",
+      "image": "http://image.tmdb.org/t/p/w185/831ZPcGYHibgX1rMLxgP7Uv6f2l.jpg"
+    },
+    {
+      "name": "James Fox",
+      "image": "http://image.tmdb.org/t/p/w185/ioQ2RxdK9Th5cONWm0XN3NeedoZ.jpg"
+    },
+    {
+      "name": "Leonard Rossiter",
+      "image": "http://image.tmdb.org/t/p/w185/a9AKQbnY69kRwwBgkL3wqfJgQru.jpg"
+    }
+  ]
+}

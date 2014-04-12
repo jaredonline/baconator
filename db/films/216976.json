@@ -1,0 +1,22 @@
+{
+  "film": {
+    "name": "Perquè ningú no oblidi el teu nom"
+  },
+  "cast": [
+    {
+      "name": "Mercè Pons"
+    },
+    {
+      "name": "Vicenta N'Dongo"
+    },
+    {
+      "name": "Jorge de Juan"
+    },
+    {
+      "name": "Alex Garrido"
+    },
+    {
+      "name": "Alba Imelda"
+    }
+  ]
+}

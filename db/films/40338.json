@@ -1,0 +1,33 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ycddhA7iZ70dhp0q3cG84xiiIzV.jpg",
+    "name": "Naked Massacre"
+  },
+  "cast": [
+    {
+      "name": "Mathieu Carrière",
+      "image": "http://image.tmdb.org/t/p/w185/mp1N8saPQMvrOldl9crEN70TJ2U.jpg"
+    },
+    {
+      "name": "Debra Berger"
+    },
+    {
+      "name": "Christine Boisson",
+      "image": "http://image.tmdb.org/t/p/w185/c0WFIql93xqepWXuOXh13u4PyKc.jpg"
+    },
+    {
+      "name": "Myriam Boyer",
+      "image": "http://image.tmdb.org/t/p/w185/quLXmjxo9nGiTOPtqKonux2QeVq.jpg"
+    },
+    {
+      "name": "Leonora Fani"
+    },
+    {
+      "name": "Ely Galleani"
+    },
+    {
+      "name": "Carole Laure",
+      "image": "http://image.tmdb.org/t/p/w185/3FnxwGDoNbJz3BV9LHCsg47XPf8.jpg"
+    }
+  ]
+}

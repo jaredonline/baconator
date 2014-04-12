@@ -1,0 +1,48 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/767sCQBENQ9O7FHCLU1VYoXBc3R.jpg",
+    "name": "Dogville Confessions"
+  },
+  "cast": [
+    {
+      "name": "Harriet Andersson",
+      "image": "http://image.tmdb.org/t/p/w185/p3U48qquE945jWv5EmlARImOhCr.jpg"
+    },
+    {
+      "name": "Nicole Kidman",
+      "image": "http://image.tmdb.org/t/p/w185/i58Dlu3gGhcyfGuFyWtxrJy7E0x.jpg"
+    },
+    {
+      "name": "Patricia Clarkson",
+      "image": "http://image.tmdb.org/t/p/w185/gulOmuiS6hn4s1W4duGs1vPbfzw.jpg"
+    },
+    {
+      "name": "Paul Bettany",
+      "image": "http://image.tmdb.org/t/p/w185/1zmr8C7TCqsoCjDVKJycVp2wWyf.jpg"
+    },
+    {
+      "name": "Jeremy Davies",
+      "image": "http://image.tmdb.org/t/p/w185/qEvUvf3Z3kcqahFDpxeDkfR7942.jpg"
+    },
+    {
+      "name": "Blair Brown",
+      "image": "http://image.tmdb.org/t/p/w185/zBMLu9wTu36i0RkQGSQ5adH6Lvu.jpg"
+    },
+    {
+      "name": "Siobhan Fallon",
+      "image": "http://image.tmdb.org/t/p/w185/eRQ5PAXOzrD3Ej4xlkp0RaK8WiZ.jpg"
+    },
+    {
+      "name": "Ben Gazzara",
+      "image": "http://image.tmdb.org/t/p/w185/wJ8upr9m4F6Tn4cht9Ok0PWj4dV.jpg"
+    },
+    {
+      "name": "Chloë Sevigny",
+      "image": "http://image.tmdb.org/t/p/w185/nAnenV1d86lMD4XrjtHbBN7Vjap.jpg"
+    },
+    {
+      "name": "Lars von Trier",
+      "image": "http://image.tmdb.org/t/p/w185/zVINg5oIjpSIchNaTWyMPWQKrvm.jpg"
+    }
+  ]
+}

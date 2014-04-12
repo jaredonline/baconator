@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/gstVM1LkvLQ1jmsuegIAMZqc634.jpg",
+    "name": "Baby It's You"
+  },
+  "cast": [
+    {
+      "name": "Rosanna Arquette",
+      "image": "http://image.tmdb.org/t/p/w185/rQMQYQUF9QzD6oDfkP6tsjmyZhS.jpg"
+    },
+    {
+      "name": "Vincent Spano",
+      "image": "http://image.tmdb.org/t/p/w185/ktwG3Xfk4toIBAG0PcbJcjEBICx.jpg"
+    },
+    {
+      "name": "Joanna Merlin"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/1ks66Xo693Uscyz05es9lDKFkBh.jpg",
+    "name": "A Gathering of Old Men"
+  },
+  "cast": [
+    {
+      "name": "Holly Hunter",
+      "image": "http://image.tmdb.org/t/p/w185/35P7RI2XBTElKnUKgjJNtwHLpm3.jpg"
+    },
+    {
+      "name": "Louis Gossett, Jr.",
+      "image": "http://image.tmdb.org/t/p/w185/fJFb0gQ0thSrAKZbz3glTZj8y0S.jpg"
+    },
+    {
+      "name": "Richard Widmark",
+      "image": "http://image.tmdb.org/t/p/w185/whrZ2aEg3FghVaDJf0JRrEhFLWl.jpg"
+    },
+    {
+      "name": "Will Patton",
+      "image": "http://image.tmdb.org/t/p/w185/3whlJQheRJiG4mQ2F6T9DwUBrMm.jpg"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/kaaOV5WdNuU3MLFkPv6ajS33f6d.jpg",
+    "name": "Masque of the Red Death"
+  },
+  "cast": [
+    {
+      "name": "Patrick Macnee",
+      "image": "http://image.tmdb.org/t/p/w185/l5SmR6zmSkKO41vGpjggJYWYAT1.jpg"
+    },
+    {
+      "name": "Adrian Paul",
+      "image": "http://image.tmdb.org/t/p/w185/3BNKgYUbcWw7v9oIsPOW6fVlpkq.jpg"
+    },
+    {
+      "name": "Clare Hoak"
+    },
+    {
+      "name": "Jeff Osterhage"
+    },
+    {
+      "name": "Tracy Reiner",
+      "image": "http://image.tmdb.org/t/p/w185/fsmETZI9aoKZD1CvYlcaTsstuZ9.jpg"
+    },
+    {
+      "name": "Maria Ford",
+      "image": "http://image.tmdb.org/t/p/w185/arB0Q9W6DSVVTZZMvJloWqU07K6.jpg"
+    },
+    {
+      "name": "Kelly Ann Sabatasso"
+    },
+    {
+      "name": "Daryl Haney"
+    },
+    {
+      "name": "Richard Keats"
+    },
+    {
+      "name": "Marcelo Tubert"
+    },
+    {
+      "name": "Tom Poster"
+    },
+    {
+      "name": "Brewster Gould"
+    }
+  ]
+}

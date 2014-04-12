@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qftKg7cJRHXiQQPUkbXc08aRoeA.jpg",
+    "name": "Extralarge: Jo-Jo"
+  },
+  "cast": [
+    {
+      "name": "Bud Spencer",
+      "image": "http://image.tmdb.org/t/p/w185/9DbwXqkoMLBqZaQYEeSDX934mTG.jpg"
+    },
+    {
+      "name": "Philip Michael Thomas",
+      "image": "http://image.tmdb.org/t/p/w185/Akd8rKJ0F1ZALqbGMAmxfEXkWQs.jpg"
+    },
+    {
+      "name": "Nancy Duerr",
+      "image": "http://image.tmdb.org/t/p/w185/9giCY95pLNVmlS7ngtEuX2ziI6.jpg"
+    },
+    {
+      "name": "Lou Ferrigno",
+      "image": "http://image.tmdb.org/t/p/w185/ilrREpFP1eBQZBwRf8U33IRHmSj.jpg"
+    }
+  ]
+}

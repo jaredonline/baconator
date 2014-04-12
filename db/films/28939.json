@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/a2UbVGPb5m1glOPp291kJcRMO04.jpg",
+    "name": "Army of the Dead"
+  },
+  "cast": [
+    {
+      "name": "Ross Kelly"
+    },
+    {
+      "name": "Stefani Marchesi"
+    },
+    {
+      "name": "Pedro Miguel Martínez"
+    },
+    {
+      "name": "Mike Hatfield"
+    },
+    {
+      "name": "Malcolm Madera"
+    },
+    {
+      "name": "Audrey Anderson"
+    },
+    {
+      "name": "Vic Browder"
+    },
+    {
+      "name": "Jocelyn Tucker"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/z1dweAefZDSA34HSeV6Dr4PdGG8.jpg",
+    "name": "Sunday Lovers"
+  },
+  "cast": [
+    {
+      "name": "Roger Moore",
+      "image": "http://image.tmdb.org/t/p/w185/6nGnOdejsqi8WF2UgvRGcxd3zm6.jpg"
+    },
+    {
+      "name": "Lino Ventura",
+      "image": "http://image.tmdb.org/t/p/w185/yvv6o27Vowy8sBogKNC9slv25ZH.jpg"
+    },
+    {
+      "name": "Ugo Tognazzi",
+      "image": "http://image.tmdb.org/t/p/w185/wiJiWTqrKfBd8uFzNTxXsxuPhmm.jpg"
+    },
+    {
+      "name": "Gene Wilder",
+      "image": "http://image.tmdb.org/t/p/w185/7xQjm2yrqAVy4yPjGemWseo1Ovi.jpg"
+    },
+    {
+      "name": "Lynn Redgrave",
+      "image": "http://image.tmdb.org/t/p/w185/jnXKuScyfE4zZ5AqBpmrVBMKeVz.jpg"
+    }
+  ]
+}

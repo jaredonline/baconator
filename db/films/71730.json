@@ -1,0 +1,18 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/9NaOHISUwor8dx5YyMCe2TouQpb.jpg",
+    "name": "Nightmaster"
+  },
+  "cast": [
+    {
+      "name": "Nicole Kidman",
+      "image": "http://image.tmdb.org/t/p/w185/i58Dlu3gGhcyfGuFyWtxrJy7E0x.jpg"
+    },
+    {
+      "name": "Tom Jennings"
+    },
+    {
+      "name": "Vince Martin"
+    }
+  ]
+}

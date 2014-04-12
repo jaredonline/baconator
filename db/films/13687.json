@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/hjJBfJ3UjbQ5Xe01y53ByVIwTZi.jpg",
+    "name": "I Want Candy"
+  },
+  "cast": [
+    {
+      "name": "Carmen Electra",
+      "image": "http://image.tmdb.org/t/p/w185/oFjqvsVleDaMtuJaLnSJdx7LUOg.jpg"
+    },
+    {
+      "name": "Tom Riley",
+      "image": "http://image.tmdb.org/t/p/w185/tmiPLJrDYGpzbLbIxvUZ3nLyLGf.jpg"
+    },
+    {
+      "name": "Tom Burke",
+      "image": "http://image.tmdb.org/t/p/w185/yw442LGBNYr9i07aiND3oMlox5h.jpg"
+    },
+    {
+      "name": "Eddie Marsan",
+      "image": "http://image.tmdb.org/t/p/w185/zcJ2W9BuiBPohtOkPFcYuFfCzji.jpg"
+    }
+  ]
+}

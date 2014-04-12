@@ -1,0 +1,41 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/dx54HUZSnWGZsbj12Dgl4oKGb1r.jpg",
+    "name": "Candyman"
+  },
+  "cast": [
+    {
+      "name": "Virginia Madsen",
+      "image": "http://image.tmdb.org/t/p/w185/6n0XrWucZnKMKbm2VcC9ehBoT4S.jpg"
+    },
+    {
+      "name": "Tony Todd",
+      "image": "http://image.tmdb.org/t/p/w185/whTJCmkt6Zqh6CyctDcy49Zm04q.jpg"
+    },
+    {
+      "name": "Xander Berkeley",
+      "image": "http://image.tmdb.org/t/p/w185/e1cr1iCrjwPaUe10sXi8fhIU6fv.jpg"
+    },
+    {
+      "name": "Kasi Lemmons",
+      "image": "http://image.tmdb.org/t/p/w185/dO8h85dpcoVFkKwa8MMOacRro4F.jpg"
+    },
+    {
+      "name": "Vanessa Williams",
+      "image": "http://image.tmdb.org/t/p/w185/zUGd3DVw6jgLwuYRUE1Brv12z5G.jpg"
+    },
+    {
+      "name": "DeJuan Guy"
+    },
+    {
+      "name": "Marianna Elliott"
+    },
+    {
+      "name": "Ted Raimi",
+      "image": "http://image.tmdb.org/t/p/w185/qwul2LI7FzzfypJvo7zth2vvwuR.jpg"
+    },
+    {
+      "name": "Ria Pavia"
+    }
+  ]
+}

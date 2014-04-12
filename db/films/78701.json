@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/m2gZtt7VlULhBsTqB2YG9fRZgLT.jpg",
+    "name": "Kisna"
+  },
+  "cast": [
+    {
+      "name": "Vivek Oberoi",
+      "image": "http://image.tmdb.org/t/p/w185/6xQ3leI6EAgrY9mRE9s0rcmTLAU.jpg"
+    },
+    {
+      "name": "Isha Sharvani",
+      "image": "http://image.tmdb.org/t/p/w185/9HrloG1Gh4F8eSYL4ZfUqC9FUT6.jpg"
+    },
+    {
+      "name": "Antonia Bernath",
+      "image": "http://image.tmdb.org/t/p/w185/r8DI6C9YsbgoGGTuJrWoSAvE7iO.jpg"
+    },
+    {
+      "name": "Vivek Oberoi",
+      "image": "http://image.tmdb.org/t/p/w185/6xQ3leI6EAgrY9mRE9s0rcmTLAU.jpg"
+    }
+  ]
+}

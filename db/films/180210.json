@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/eHNw9HK5VlHEmXwvvOwpmHIfuQv.jpg",
+    "name": "La última isla"
+  },
+  "cast": [
+    {
+      "name": "Julieta Serrano",
+      "image": "http://image.tmdb.org/t/p/w185/f7Ouw5eRVaYDm6e4vSqF8XwVqSI.jpg"
+    },
+    {
+      "name": "Antonio Dechent",
+      "image": "http://image.tmdb.org/t/p/w185/75dGSYevnV3vjkgaJxCeBjuqQYm.jpg"
+    },
+    {
+      "name": "Eduardo Velasco"
+    }
+  ]
+}

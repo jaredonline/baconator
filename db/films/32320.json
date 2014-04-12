@@ -1,0 +1,35 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/iT8luacHSOMleI4KuPIJ4aPtlSX.jpg",
+    "name": "Life with Judy Garland: Me and My Shadows"
+  },
+  "cast": [
+    {
+      "name": "Hugh Laurie",
+      "image": "http://image.tmdb.org/t/p/w185/2EAq1Sd6MMFn7tK0cSmb481RWKY.jpg"
+    },
+    {
+      "name": "Victor Garber",
+      "image": "http://image.tmdb.org/t/p/w185/dcSUNKJLjBBkwuJpUl7SOLR8HDo.jpg"
+    },
+    {
+      "name": "Tammy Blanchard",
+      "image": "http://image.tmdb.org/t/p/w185/SbhdRljh25L7UWLeo3l47nu23T.jpg"
+    },
+    {
+      "name": "Marsha Mason",
+      "image": "http://image.tmdb.org/t/p/w185/fEtkbAWkZw2gSkqTXzOmKB6Yefr.jpg"
+    },
+    {
+      "name": "Dwayne Adams"
+    },
+    {
+      "name": "Judy Davis",
+      "image": "http://image.tmdb.org/t/p/w185/xQMA72T6yz6ebJXv1pCuZC1fDJo.jpg"
+    },
+    {
+      "name": "Al Waxman",
+      "image": "http://image.tmdb.org/t/p/w185/8bZfhAZbKTHt2qi5B86Q4WNAGRo.jpg"
+    }
+  ]
+}

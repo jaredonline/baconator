@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/oQrYEb22sIYQyT90gzaXAfyiacg.jpg",
+    "name": "Recruits"
+  },
+  "cast": [
+    {
+      "name": "Lolita Davidovich",
+      "image": "http://image.tmdb.org/t/p/w185/xevm3JVAQ0lUZoP54VufGkW7Gmj.jpg"
+    },
+    {
+      "name": "Annie McAuley"
+    },
+    {
+      "name": "Colleen Passard"
+    },
+    {
+      "name": "Jon Mikl Thor"
+    }
+  ]
+}

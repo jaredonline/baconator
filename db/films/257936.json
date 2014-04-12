@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xJTzxTc8uY829jN8CZeMySjcjWT.jpg",
+    "name": "Mi casa es tu casa"
+  },
+  "cast": [
+    {
+      "name": "Jorge Bosch"
+    },
+    {
+      "name": "Fanny Gautier"
+    },
+    {
+      "name": "Chete Lera",
+      "image": "http://image.tmdb.org/t/p/w185/tFb7nLu0SmqHsJCwn42gzxiEQI2.jpg"
+    },
+    {
+      "name": "Rosana Pastor",
+      "image": "http://image.tmdb.org/t/p/w185/3gEKxlQEEqVs0KFXA1aAQurVB3c.jpg"
+    },
+    {
+      "name": "Juan José Ballesta",
+      "image": "http://image.tmdb.org/t/p/w185/mTZOSkPbrnitUDx7mZS68mRlWiD.jpg"
+    }
+  ]
+}

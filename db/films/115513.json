@@ -1,0 +1,50 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/y94QwJ8Wi75CahXuBhRpvly1W52.jpg",
+    "name": "Tu novia está loca"
+  },
+  "cast": [
+    {
+      "name": "Antonio Resines",
+      "image": "http://image.tmdb.org/t/p/w185/j9JW21A0e3gAbX7w25lSpTBJY1C.jpg"
+    },
+    {
+      "name": "Ana Gracia"
+    },
+    {
+      "name": "Santiago Ramos",
+      "image": "http://image.tmdb.org/t/p/w185/t4HfSMCW75NrplWhku6psjFNkFx.jpg"
+    },
+    {
+      "name": "Guillermo Montesinos",
+      "image": "http://image.tmdb.org/t/p/w185/7iwsYhQ8EWJbwHDU2xaukGLIxJK.jpg"
+    },
+    {
+      "name": "El Gran Wyoming"
+    },
+    {
+      "name": "Álex Angulo",
+      "image": "http://image.tmdb.org/t/p/w185/6wnu91irLrsgy5nF3IxRoH2qKfl.jpg"
+    },
+    {
+      "name": "Pepo Oliva"
+    },
+    {
+      "name": "María Barranco",
+      "image": "http://image.tmdb.org/t/p/w185/h01wRNz8Jmx1sZOg6AEIuvMG1pt.jpg"
+    },
+    {
+      "name": "Ramon Barea"
+    },
+    {
+      "name": "Carlos Tristancho"
+    },
+    {
+      "name": "Marisa Paredes",
+      "image": "http://image.tmdb.org/t/p/w185/lxkwchAOdtuwhE6FKmKv7kjhOOn.jpg"
+    },
+    {
+      "name": "Germán Cobos"
+    }
+  ]
+}

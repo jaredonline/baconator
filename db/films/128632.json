@@ -1,0 +1,38 @@
+{
+  "film": {
+    "name": "Native Strangers"
+  },
+  "cast": [
+    {
+      "name": "Mia Korf"
+    },
+    {
+      "name": "Richard Chevolleau"
+    },
+    {
+      "name": "Richard Yearwood"
+    },
+    {
+      "name": "Amir Williams"
+    },
+    {
+      "name": "Ndehru Roberts"
+    },
+    {
+      "name": "Byron Abalos"
+    },
+    {
+      "name": "Linda Sorensen"
+    },
+    {
+      "name": "Deborah Burgess"
+    },
+    {
+      "name": "Taborah Johnson"
+    },
+    {
+      "name": "Bill Nunn",
+      "image": "http://image.tmdb.org/t/p/w185/cT4sK7SCranK3yeelYTHMlTaq3a.jpg"
+    }
+  ]
+}

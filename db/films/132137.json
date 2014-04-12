@@ -1,0 +1,44 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/86O7jvV6GVslbTYbp9dPwuE5e8w.jpg",
+    "name": "Werewolf: The Beast Among Us"
+  },
+  "cast": [
+    {
+      "name": "Nia Peeples",
+      "image": "http://image.tmdb.org/t/p/w185/Arqgdjdvhj3RtbALVmIcnTGqqTs.jpg"
+    },
+    {
+      "name": "Stephen Rea",
+      "image": "http://image.tmdb.org/t/p/w185/taD1NngDbW8cyCuacAT3YaecSEG.jpg"
+    },
+    {
+      "name": "Ed Quinn",
+      "image": "http://image.tmdb.org/t/p/w185/j0V7YV4KIJ3hZPcnCozjB4D1dbN.jpg"
+    },
+    {
+      "name": "Ana Ularu",
+      "image": "http://image.tmdb.org/t/p/w185/bc8jnhnVD8JkFn4Dpl7dk1uT233.jpg"
+    },
+    {
+      "name": "Rachel DiPillo"
+    },
+    {
+      "name": "Adam Croasdell",
+      "image": "http://image.tmdb.org/t/p/w185/cYtO8eTwdHFUi2vksdixcX1zjV7.jpg"
+    },
+    {
+      "name": "Zoltan Butuc"
+    },
+    {
+      "name": "Razvan Gheorghiu"
+    },
+    {
+      "name": "Iulia Carstea"
+    },
+    {
+      "name": "Steven Bauer",
+      "image": "http://image.tmdb.org/t/p/w185/2wbrq8xIKbIAQAgtxsftJT5XgVs.jpg"
+    }
+  ]
+}

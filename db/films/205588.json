@@ -1,0 +1,23 @@
+{
+  "film": {
+    "name": "Our Kind of Traitor"
+  },
+  "cast": [
+    {
+      "name": "Ewan McGregor",
+      "image": "http://image.tmdb.org/t/p/w185/6aIyQCQRWRhmxeeeQNdMm6FxfWi.jpg"
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "image": "http://image.tmdb.org/t/p/w185/hjWdhX7zEI0DkF7gA4hcEVcYCZl.jpg"
+    },
+    {
+      "name": "Naomie Harris",
+      "image": "http://image.tmdb.org/t/p/w185/h4e3OjAIWY9ePq6TOUtZWOqZyxG.jpg"
+    },
+    {
+      "name": "Damian Lewis",
+      "image": "http://image.tmdb.org/t/p/w185/2RcaC1ictETsTU4ioFlQ32zGYYg.jpg"
+    }
+  ]
+}

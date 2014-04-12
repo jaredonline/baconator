@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/crFKLCmJCn72LV5SdgIZi4fsEWT.jpg",
+    "name": "Just Buried"
+  },
+  "cast": [
+    {
+      "name": "Jay Baruchel",
+      "image": "http://image.tmdb.org/t/p/w185/9SFoTtDoB0oozIWH7L8BtuWKR37.jpg"
+    },
+    {
+      "name": "Rose Byrne",
+      "image": "http://image.tmdb.org/t/p/w185/jXxUC7Wzpsqf2a5fPLKkwJ11wxB.jpg"
+    },
+    {
+      "name": "Graham Greene",
+      "image": "http://image.tmdb.org/t/p/w185/vF71Yyk2YS4oG1hxoQ7GmYFPftk.jpg"
+    },
+    {
+      "name": "Nigel Bennett",
+      "image": "http://image.tmdb.org/t/p/w185/wx1zmmpMi9luYFGzikSBIvwyDdR.jpg"
+    }
+  ]
+}

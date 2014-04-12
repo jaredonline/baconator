@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/h6MuiDulqT5qJgOArQV7BrLSXHn.jpg",
+    "name": "Country Strong"
+  },
+  "cast": [
+    {
+      "name": "Gwyneth Paltrow",
+      "image": "http://image.tmdb.org/t/p/w185/tMfElfQPTFMyDFCGp0FbdicOGFx.jpg"
+    },
+    {
+      "name": "Garrett Hedlund",
+      "image": "http://image.tmdb.org/t/p/w185/2UXqL30fM8ygySH0I5iy5RFx9Tp.jpg"
+    },
+    {
+      "name": "Tim McGraw",
+      "image": "http://image.tmdb.org/t/p/w185/lhke4yAn3pRUUOlzM6ynySufKQR.jpg"
+    },
+    {
+      "name": "Leighton Meester",
+      "image": "http://image.tmdb.org/t/p/w185/mCj8lbyfAxQog57pOgTP48xpHRP.jpg"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/cOPTxc6yQNEe48MBbOjZvos95Es.jpg",
+    "name": "Three Men in a Boat"
+  },
+  "cast": [
+    {
+      "name": "Michael Palin",
+      "image": "http://image.tmdb.org/t/p/w185/lOkY51h2pPZq2lig6puWBG3Xxq3.jpg"
+    },
+    {
+      "name": "Tim Curry",
+      "image": "http://image.tmdb.org/t/p/w185/x5IMeQdb00fNwj95YetyvOuLGoY.jpg"
+    },
+    {
+      "name": "Stephen Moore"
+    }
+  ]
+}

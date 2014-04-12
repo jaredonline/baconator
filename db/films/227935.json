@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/k2MCtfY36mX0MdsHhu7ucJAZHgL.jpg",
+    "name": "Me and My Shadow"
+  },
+  "cast": [
+    {
+      "name": "Josh Gad",
+      "image": "http://image.tmdb.org/t/p/w185/oyEprEGF1aqWAqUZNx3yujJ9gPn.jpg"
+    },
+    {
+      "name": "Bill Hader",
+      "image": "http://image.tmdb.org/t/p/w185/3Z5JsyLw7YTLZgpA3FAlLmFSN9F.jpg"
+    },
+    {
+      "name": "Kate Hudson",
+      "image": "http://image.tmdb.org/t/p/w185/yUNYh4jpIunwILbbKBAlHPomKIO.jpg"
+    }
+  ]
+}

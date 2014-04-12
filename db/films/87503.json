@@ -1,0 +1,45 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ee9mtJtwhP1dlkwL5ia7ZXEA9H4.jpg",
+    "name": "Eugenie... the Story of Her Journey Into Perversion"
+  },
+  "cast": [
+    {
+      "name": "Maria Rohm"
+    },
+    {
+      "name": "Marie Liljedahl",
+      "image": "http://image.tmdb.org/t/p/w185/dgxtteucAkEtu89XW71CB76hpWl.jpg"
+    },
+    {
+      "name": "Jack Taylor",
+      "image": "http://image.tmdb.org/t/p/w185/3mxYZLn8mXTYtwMUn4HW6H1pHEK.jpg"
+    },
+    {
+      "name": "Christopher Lee",
+      "image": "http://image.tmdb.org/t/p/w185/7YwjaHLmuy1isK6oh3TnBDd6Oml.jpg"
+    },
+    {
+      "name": "Paul Muller"
+    },
+    {
+      "name": "María Luisa Ponte"
+    },
+    {
+      "name": "Anney Kablan"
+    },
+    {
+      "name": "Uta Dahlberg"
+    },
+    {
+      "name": "Herbert Fux"
+    },
+    {
+      "name": "Nino Korda"
+    },
+    {
+      "name": "Jesus Franco",
+      "image": "http://image.tmdb.org/t/p/w185/7ri7gopBNtREO1O6JBUwZIw4R1v.jpg"
+    }
+  ]
+}

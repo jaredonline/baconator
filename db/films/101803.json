@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/peLpmC0FNcSZWq5FcWkdgm8RStG.jpg",
+    "name": "Sam Peckinpah: Man of Iron"
+  },
+  "cast": [
+    {
+      "name": "Sam Peckinpah",
+      "image": "http://image.tmdb.org/t/p/w185/lsNMJtmZwLYB8pl1gE7S6cBbuSc.jpg"
+    },
+    {
+      "name": "Alan Sharp"
+    },
+    {
+      "name": "Kris Kristofferson",
+      "image": "http://image.tmdb.org/t/p/w185/jIa13txbkUgqLxQHIefx7HfTy7y.jpg"
+    },
+    {
+      "name": "R. G. Armstrong",
+      "image": "http://image.tmdb.org/t/p/w185/lRGoPhebBnPFzZQvcmnUokjGL7L.jpg"
+    },
+    {
+      "name": "Jason Robards",
+      "image": "http://image.tmdb.org/t/p/w185/d5t554TsCjMvI9zwe7M5gNLvZeX.jpg"
+    },
+    {
+      "name": "Monte Hellman"
+    },
+    {
+      "name": "James Coburn",
+      "image": "http://image.tmdb.org/t/p/w185/4VkbAYRB5FRt3ZpEsOQ5TbuvRz9.jpg"
+    },
+    {
+      "name": "L.Q. Jones",
+      "image": "http://image.tmdb.org/t/p/w185/k5Q6Gd4twNxv9vfC08TirLyHqCz.jpg"
+    }
+  ]
+}

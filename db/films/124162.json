@@ -1,0 +1,39 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4pkIeIHEHaSLw95ofMHhv15rTus.jpg",
+    "name": "The Beloved"
+  },
+  "cast": [
+    {
+      "name": "Raquel Welch",
+      "image": "http://image.tmdb.org/t/p/w185/dEr7QkkgOqCwH1uc5VXzTxDveAv.jpg"
+    },
+    {
+      "name": "Richard Johnson",
+      "image": "http://image.tmdb.org/t/p/w185/miDA5sN3ijfED6M4oRZ0NTdBfBR.jpg"
+    },
+    {
+      "name": "Jack Hawkins",
+      "image": "http://image.tmdb.org/t/p/w185/7b6E24ZRLEPJwP0WQauXJPt41Fs.jpg"
+    },
+    {
+      "name": "Flora Robson",
+      "image": "http://image.tmdb.org/t/p/w185/oNESDzVvnZbQx4aAEEVUXOKCS21.jpg"
+    },
+    {
+      "name": "Renato Romano"
+    },
+    {
+      "name": "Dimitris Hadjivangelou"
+    },
+    {
+      "name": "Maro Kafkaridou"
+    },
+    {
+      "name": "Constantine Lyras"
+    },
+    {
+      "name": "Andreas Nicolis"
+    }
+  ]
+}

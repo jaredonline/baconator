@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/eUpeeFNNfdrCDxVeY7XUa3Y1oZj.jpg",
+    "name": "La Corporación"
+  },
+  "cast": [
+    {
+      "name": "Mariana Anghileri"
+    },
+    {
+      "name": "Sergio Boris"
+    },
+    {
+      "name": "Federico Luppi",
+      "image": "http://image.tmdb.org/t/p/w185/aKQBkLnh0RZNPYqO80itGYuclLp.jpg"
+    },
+    {
+      "name": "Jorge D'Elía"
+    },
+    {
+      "name": "Pochi Ducasse"
+    }
+  ]
+}

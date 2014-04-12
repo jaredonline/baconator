@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/glBSHwjtcO8aCAMpXh7XSzjTuqX.jpg",
+    "name": "The Unexpected Mrs. Pollifax"
+  },
+  "cast": [
+    {
+      "name": "Angela Lansbury",
+      "image": "http://image.tmdb.org/t/p/w185/tpQ9piWJmdEnd9usxaPsmWkagYK.jpg"
+    },
+    {
+      "name": "Thomas Ian Griffith",
+      "image": "http://image.tmdb.org/t/p/w185/eBXSCzKTo9EuNHbKWQqrAhETaSm.jpg"
+    },
+    {
+      "name": "Ed Bishop",
+      "image": "http://image.tmdb.org/t/p/w185/v5jVNLCSACz9yC0mhD4akfXPtc6.jpg"
+    },
+    {
+      "name": "Paul Birchard",
+      "image": "http://image.tmdb.org/t/p/w185/iDEyo8cSZAVy9HsmZMv9mPs5tx4.jpg"
+    },
+    {
+      "name": "Michelle Read"
+    },
+    {
+      "name": "Tommy O'Neill"
+    },
+    {
+      "name": "Paul Kennedy"
+    },
+    {
+      "name": "Joseph Long"
+    }
+  ]
+}

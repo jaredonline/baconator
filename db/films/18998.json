@@ -1,0 +1,50 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/a2LvThv865u4cEIfFVlmjqfLd53.jpg",
+    "name": "Darkman II: The Return of Durant"
+  },
+  "cast": [
+    {
+      "name": "Arnold Vosloo",
+      "image": "http://image.tmdb.org/t/p/w185/z6IksWp0wmALAeS9xk9CCtGEoAb.jpg"
+    },
+    {
+      "name": "Larry Drake",
+      "image": "http://image.tmdb.org/t/p/w185/m7NbC0TyREs2kD63ByL0bSPjHHj.jpg"
+    },
+    {
+      "name": "Kim Delaney",
+      "image": "http://image.tmdb.org/t/p/w185/9CTIlehx2Qsefgr2NIyqLISbMxr.jpg"
+    },
+    {
+      "name": "Renee O'Connor",
+      "image": "http://image.tmdb.org/t/p/w185/bxpa6hN6WLsNbzsizxK1b7AZfaJ.jpg"
+    },
+    {
+      "name": "Lawrence Dane",
+      "image": "http://image.tmdb.org/t/p/w185/rL5rkQbelz4zKUXbhfmH5rQ2AtM.jpg"
+    },
+    {
+      "name": "Rod Wilson"
+    },
+    {
+      "name": "Jesse Collins"
+    },
+    {
+      "name": "David Ferry",
+      "image": "http://image.tmdb.org/t/p/w185/bzz3Vx2QavSL6ODXDLubvFR3L54.jpg"
+    },
+    {
+      "name": "Jack Langedijk"
+    },
+    {
+      "name": "Sten Eirik"
+    },
+    {
+      "name": "Steve Mousseau"
+    },
+    {
+      "name": "James Millington"
+    }
+  ]
+}

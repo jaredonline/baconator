@@ -1,0 +1,31 @@
+{
+  "film": {
+    "name": "Parapsycho - Spektrum der Angst"
+  },
+  "cast": [
+    {
+      "name": "Marisa Mell",
+      "image": "http://image.tmdb.org/t/p/w185/fQ5oiP5UOZDb3To1KexqWyWsIus.jpg"
+    },
+    {
+      "name": "Mascha Gonska"
+    },
+    {
+      "name": "Debra Berger"
+    },
+    {
+      "name": "William Berger"
+    },
+    {
+      "name": "Leon Askin",
+      "image": "http://image.tmdb.org/t/p/w185/ukyjaSKCcI1pfRX7EqxkgFes8Sr.jpg"
+    },
+    {
+      "name": "Jane Tilden"
+    },
+    {
+      "name": "Mathieu Carrière",
+      "image": "http://image.tmdb.org/t/p/w185/mp1N8saPQMvrOldl9crEN70TJ2U.jpg"
+    }
+  ]
+}

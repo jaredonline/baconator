@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/vHUQfuBZaG4DHiR1TnEQ8XvBgM0.jpg",
+    "name": "The Road to El Dorado"
+  },
+  "cast": [
+    {
+      "name": "Kenneth Branagh",
+      "image": "http://image.tmdb.org/t/p/w185/vST4tGTsVtHRuW0sRHY3EDizorW.jpg"
+    },
+    {
+      "name": "Kevin Kline",
+      "image": "http://image.tmdb.org/t/p/w185/u9QXn3fL7zCC2c6HA2vFgH1JxZg.jpg"
+    },
+    {
+      "name": "Rosie Perez",
+      "image": "http://image.tmdb.org/t/p/w185/zz7D8Wnxw91bddp481fYxYKMeuO.jpg"
+    },
+    {
+      "name": "Armand Assante",
+      "image": "http://image.tmdb.org/t/p/w185/pQMLA1b70QxbS3Nfh9OwwRXIUBP.jpg"
+    }
+  ]
+}

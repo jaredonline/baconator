@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/tf8YaVkQ26c4MiM7m0lMXsXewXL.jpg",
+    "name": "The Big Hit"
+  },
+  "cast": [
+    {
+      "name": "Mark Wahlberg",
+      "image": "http://image.tmdb.org/t/p/w185/eGHgl0sRg0ecKuAiHKehPUnY1lL.jpg"
+    },
+    {
+      "name": "Lou Diamond Phillips",
+      "image": "http://image.tmdb.org/t/p/w185/afXcQRss7rZ6Ocx7PUQFbz7tPOm.jpg"
+    },
+    {
+      "name": "Christina Applegate",
+      "image": "http://image.tmdb.org/t/p/w185/irUHUE17vDaSSYsOOJAxnHyEiSo.jpg"
+    },
+    {
+      "name": "Avery Brooks",
+      "image": "http://image.tmdb.org/t/p/w185/rkR3nMCyZJB6acJHa6GdAKmE5UJ.jpg"
+    },
+    {
+      "name": "Antonio Sabàto, Jr.",
+      "image": "http://image.tmdb.org/t/p/w185/fG4AYHw0EYLAPo5ni0RALqetpZZ.jpg"
+    }
+  ]
+}

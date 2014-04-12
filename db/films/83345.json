@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/M9Eh1ZtRwxl9xK5DXaNmuyOaYZ.jpg",
+    "name": "The Mosquito Net"
+  },
+  "cast": [
+    {
+      "name": "Geraldine Chaplin",
+      "image": "http://image.tmdb.org/t/p/w185/x7N40x101QmzkNe9nrKWVKzT9n5.jpg"
+    },
+    {
+      "name": "Emma Suárez",
+      "image": "http://image.tmdb.org/t/p/w185/1fyEsOm6YR3VX7KzaTwhlGiuVoW.jpg"
+    },
+    {
+      "name": "Martina García",
+      "image": "http://image.tmdb.org/t/p/w185/szjXDbwDTo5y7MUJ1E1mB2TmVMG.jpg"
+    },
+    {
+      "name": "Eduard Fernández",
+      "image": "http://image.tmdb.org/t/p/w185/amJKpgzBvEr9d6WIuT1MjADzDZT.jpg"
+    },
+    {
+      "name": "Àlex Brendemühl",
+      "image": "http://image.tmdb.org/t/p/w185/cJGbHVMlSkYsSfmdk1wduOJqUxL.jpg"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/yhtcgTO4UOrLAgwYoOBJUeUvm57.jpg",
+    "name": "Puppet Master III: Toulon's Revenge"
+  },
+  "cast": [
+    {
+      "name": "Guy Rolfe",
+      "image": "http://image.tmdb.org/t/p/w185/fEXyb49srKS2XQuD8md0JFw9Ene.jpg"
+    },
+    {
+      "name": "Richard Lynch",
+      "image": "http://image.tmdb.org/t/p/w185/8e1KM2XCGh8X2Ekoc6AB9yvUaYS.jpg"
+    },
+    {
+      "name": "Ian Abercrombie",
+      "image": "http://image.tmdb.org/t/p/w185/qci9vBTZJXQNLIFpCtIpXU881g8.jpg"
+    },
+    {
+      "name": "Kristopher Logan"
+    },
+    {
+      "name": "Aron Eisenberg"
+    },
+    {
+      "name": "Walter Gotell",
+      "image": "http://image.tmdb.org/t/p/w185/mZ24RTuEPPCzmbgwV7lcNuVvZ5f.jpg"
+    },
+    {
+      "name": "Sarah Douglas",
+      "image": "http://image.tmdb.org/t/p/w185/als2MT3X28mDol3e5uEy25agNRM.jpg"
+    },
+    {
+      "name": "Michelle Bauer",
+      "image": "http://image.tmdb.org/t/p/w185/AorWpo8IlArSP4IlNYXmVYFGg7i.jpg"
+    },
+    {
+      "name": "Matthew Faison"
+    },
+    {
+      "name": "Jasmine Touschek"
+    },
+    {
+      "name": "Lenny Rose"
+    },
+    {
+      "name": "Landon Hall"
+    }
+  ]
+}

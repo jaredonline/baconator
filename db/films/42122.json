@@ -1,0 +1,31 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/nNyCisjkG5VIdWxjzgckTIIblOD.jpg",
+    "name": "The Dresser"
+  },
+  "cast": [
+    {
+      "name": "Albert Finney",
+      "image": "http://image.tmdb.org/t/p/w185/eD1BZEydFYFXi4GFr3GAPpdHcls.jpg"
+    },
+    {
+      "name": "Tom Courtenay",
+      "image": "http://image.tmdb.org/t/p/w185/4FJn6uoL4rXwtJLJstS3yUYiXi7.jpg"
+    },
+    {
+      "name": "Zena Walker"
+    },
+    {
+      "name": "Eileen Atkins",
+      "image": "http://image.tmdb.org/t/p/w185/hfiM3KRa69qnhHpJdKMrc1EeSj9.jpg"
+    },
+    {
+      "name": "Michael Gough",
+      "image": "http://image.tmdb.org/t/p/w185/lSADK0gjUtcq4B6zKIUwB3SofSP.jpg"
+    },
+    {
+      "name": "Edward Fox",
+      "image": "http://image.tmdb.org/t/p/w185/iNk3GvWMWm37PjsidHY9M6Unmwm.jpg"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "film": {
+    "name": "In the Name of the People"
+  },
+  "cast": [
+    {
+      "name": "Martin Sheen",
+      "image": "http://image.tmdb.org/t/p/w185/mityfK8XVZ76Vse6h5oPECl9nGw.jpg"
+    }
+  ]
+}

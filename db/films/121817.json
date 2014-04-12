@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/yPyQqu4J4V2nxGQSFqqL9alqmN3.jpg",
+    "name": "The Sweeper"
+  },
+  "cast": [
+    {
+      "name": "C. Thomas Howell",
+      "image": "http://image.tmdb.org/t/p/w185/wptrBbqMUHKbnXZo3dtH3Bintlm.jpg"
+    },
+    {
+      "name": "Jeff Fahey",
+      "image": "http://image.tmdb.org/t/p/w185/6l44xDPdJE4dQAEDN9eShnJOSo8.jpg"
+    },
+    {
+      "name": "Ed Lauter",
+      "image": "http://image.tmdb.org/t/p/w185/qrU430uGJirDyctzMnHe2Ewgsod.jpg"
+    },
+    {
+      "name": "Kristen Dalton",
+      "image": "http://image.tmdb.org/t/p/w185/xoZTVakQx7sNtASfksfAfPfzamr.jpg"
+    },
+    {
+      "name": "Janet Gunn"
+    }
+  ]
+}

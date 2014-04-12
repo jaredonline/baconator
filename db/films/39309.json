@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6gZuSWoFO9vXXmb9NfZn4B3qbS1.jpg",
+    "name": "Wonderwall"
+  },
+  "cast": [
+    {
+      "name": "Jack MacGowran",
+      "image": "http://image.tmdb.org/t/p/w185/kzh0Gmhp0MG57kfXsqkTPH8LyTr.jpg"
+    },
+    {
+      "name": "Jane Birkin",
+      "image": "http://image.tmdb.org/t/p/w185/p8h5r9cMs28K08FU5iPYHOVAw54.jpg"
+    },
+    {
+      "name": "Irene Handl",
+      "image": "http://image.tmdb.org/t/p/w185/ydgfpIXL3Abx8wf0qpJue9QztG1.jpg"
+    },
+    {
+      "name": "Richard Wattis",
+      "image": "http://image.tmdb.org/t/p/w185/hLD8EPfIER8JwlCWclUEWqjAuz5.jpg"
+    }
+  ]
+}

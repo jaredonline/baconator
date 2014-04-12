@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qCEsCotsL0YnxChtn5XktPNA52h.jpg",
+    "name": "Rehearsal for Murder"
+  },
+  "cast": [
+    {
+      "name": "Lynn Redgrave",
+      "image": "http://image.tmdb.org/t/p/w185/jnXKuScyfE4zZ5AqBpmrVBMKeVz.jpg"
+    },
+    {
+      "name": "Robert Preston",
+      "image": "http://image.tmdb.org/t/p/w185/jYeXchYunCtIN3wd6VbNnoMWaqD.jpg"
+    },
+    {
+      "name": "Patrick Macnee",
+      "image": "http://image.tmdb.org/t/p/w185/l5SmR6zmSkKO41vGpjggJYWYAT1.jpg"
+    },
+    {
+      "name": "Jeff Goldblum",
+      "image": "http://image.tmdb.org/t/p/w185/iDW7y4R8cx4SZzWd8nN2gvL7My1.jpg"
+    }
+  ]
+}

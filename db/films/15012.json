@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/nV99lWYgqyyGn61dIHt4LrZbXWY.jpg",
+    "name": "Linewatch"
+  },
+  "cast": [
+    {
+      "name": "Cuba Gooding, Jr.",
+      "image": "http://image.tmdb.org/t/p/w185/yu8Q3ImFu3RJne585jjgeQO2Boo.jpg"
+    },
+    {
+      "name": "Sharon Leal",
+      "image": "http://image.tmdb.org/t/p/w185/2bnwYE10NSp75W3dJBEwLLh2Q8J.jpg"
+    },
+    {
+      "name": "Dean Norris",
+      "image": "http://image.tmdb.org/t/p/w185/500eNhWneDTXQuEXg6BR269IjHr.jpg"
+    },
+    {
+      "name": "Omari Hardwick",
+      "image": "http://image.tmdb.org/t/p/w185/gW4eSrYlyFhuC4QrMD0whDxA9DS.jpg"
+    }
+  ]
+}

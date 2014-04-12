@@ -1,0 +1,166 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2jkezeuBqo4i6MeE7XbZAtOaJiB.jpg",
+    "name": "Call Girl"
+  },
+  "cast": [
+    {
+      "name": "Sofia Karemyr"
+    },
+    {
+      "name": "Pernilla August",
+      "image": "http://image.tmdb.org/t/p/w185/gj7f49NzYbFpP7KfmrFBajsUqxD.jpg"
+    },
+    {
+      "name": "Simon J. Berger"
+    },
+    {
+      "name": "Josefin Asplund"
+    },
+    {
+      "name": "David Dencik",
+      "image": "http://image.tmdb.org/t/p/w185/h6ndLvEolmMOQs2hhbSEZMomSUu.jpg"
+    },
+    {
+      "name": "Sven Nordin",
+      "image": "http://image.tmdb.org/t/p/w185/fRZm309Ump0zqytW2nrpBQS0cO.jpg"
+    },
+    {
+      "name": "Ruth Vega Fernandez",
+      "image": "http://image.tmdb.org/t/p/w185/Hv6gQ3yc5pWYlVJHYonqfBo08s.jpg"
+    },
+    {
+      "name": "Magnus Krepper"
+    },
+    {
+      "name": "Hanna Ullerstam"
+    },
+    {
+      "name": "Kristoffer Joner",
+      "image": "http://image.tmdb.org/t/p/w185/rTGAHSO5ZHRDLS7aFwxSfBXxk6.jpg"
+    },
+    {
+      "name": "Sverrir Gudnason",
+      "image": "http://image.tmdb.org/t/p/w185/pK1DtT1bobBQd5MbHnl6whaGMd4.jpg"
+    },
+    {
+      "name": "Outi Mäenpää",
+      "image": "http://image.tmdb.org/t/p/w185/qru1QEi8O6FlyOweC63B7OSXhdp.jpg"
+    },
+    {
+      "name": "Claes Ljungmark",
+      "image": "http://image.tmdb.org/t/p/w185/4RJ3p5MEzHYgcN2d7xkPqvcni5M.jpg"
+    },
+    {
+      "name": "Anders Beckman"
+    },
+    {
+      "name": "Maria Alm Norell"
+    },
+    {
+      "name": "Jade Viljamaa"
+    },
+    {
+      "name": "Jennie Silfverhjelm"
+    },
+    {
+      "name": "Natacha Mutomb Dackén"
+    },
+    {
+      "name": "Lena B. Eriksson"
+    },
+    {
+      "name": "Björn Andersson"
+    },
+    {
+      "name": "Peter Carlberg"
+    },
+    {
+      "name": "Tobias Ekelund"
+    },
+    {
+      "name": "Max Nilén"
+    },
+    {
+      "name": "Boman Oscarsson"
+    },
+    {
+      "name": "Klas Östergren"
+    },
+    {
+      "name": "Claes-Göran Turesson"
+    },
+    {
+      "name": "Lars Green"
+    },
+    {
+      "name": "Wieslaw Figacz"
+    },
+    {
+      "name": "Wieslaw Figacz"
+    },
+    {
+      "name": "Emilie Jonsson"
+    },
+    {
+      "name": "Rasmus Lindgren"
+    },
+    {
+      "name": "Andreas Kundler"
+    },
+    {
+      "name": "Louise Peterhoff"
+    },
+    {
+      "name": "Frida Röhl"
+    },
+    {
+      "name": "Anna Bjelkerud"
+    },
+    {
+      "name": "Kalle Josephson"
+    },
+    {
+      "name": "Anna Lyons"
+    },
+    {
+      "name": "Mats Blomgren"
+    },
+    {
+      "name": "Julia Lindblom"
+    },
+    {
+      "name": "Sven Ahlström"
+    },
+    {
+      "name": "Roger Storm"
+    },
+    {
+      "name": "Anna Takanen"
+    },
+    {
+      "name": "Lars Helander"
+    },
+    {
+      "name": "Eddie Hultén"
+    },
+    {
+      "name": "David Fukamachi Regnfors"
+    },
+    {
+      "name": "Göran Låstberg"
+    },
+    {
+      "name": "Valerie Spelman"
+    },
+    {
+      "name": "Mattias Andersson"
+    },
+    {
+      "name": "Per Trollvik"
+    },
+    {
+      "name": "Samuel Hellström"
+    }
+  ]
+}

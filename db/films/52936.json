@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/mePx7JEk2yWQFvcEp3XtzfvQIYR.jpg",
+    "name": "In the Soup"
+  },
+  "cast": [
+    {
+      "name": "Steve Buscemi",
+      "image": "http://image.tmdb.org/t/p/w185/7sDzFRScCv85usSwPG01BTac7UY.jpg"
+    },
+    {
+      "name": "Seymour Cassel",
+      "image": "http://image.tmdb.org/t/p/w185/atWyQvsLNjmXP5dxsOiaf5Qg9j.jpg"
+    },
+    {
+      "name": "Jennifer Beals",
+      "image": "http://image.tmdb.org/t/p/w185/bEkrr1HIONx0aokHs9QHbdCz7zn.jpg"
+    }
+  ]
+}

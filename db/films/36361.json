@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/9FY6Lm1FHIqKd0RDmGZWyHnaWG5.jpg",
+    "name": "House Calls"
+  },
+  "cast": [
+    {
+      "name": "Walter Matthau",
+      "image": "http://image.tmdb.org/t/p/w185/xJVkvprOnzP5Zdh5y63y8HHniDZ.jpg"
+    },
+    {
+      "name": "Art Carney",
+      "image": "http://image.tmdb.org/t/p/w185/aGD4B4XBXdM921tU5KeRFaN26KH.jpg"
+    },
+    {
+      "name": "Richard Benjamin",
+      "image": "http://image.tmdb.org/t/p/w185/yLZgA9wzqPmGclNc3c0CBXGsgMj.jpg"
+    },
+    {
+      "name": "Candice Azzara",
+      "image": "http://image.tmdb.org/t/p/w185/sotfsarQARGTDzZ7PnKqWnTKVAk.jpg"
+    },
+    {
+      "name": "Dick O'Neill",
+      "image": "http://image.tmdb.org/t/p/w185/t4yEaFexDrQvLqrpNW1FaAuBtq3.jpg"
+    },
+    {
+      "name": "Glenda Jackson",
+      "image": "http://image.tmdb.org/t/p/w185/7o9KfeMoegPR5rY905vojh1Fadc.jpg"
+    }
+  ]
+}

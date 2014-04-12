@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/A5s2ayNnSsDwk5OJ060oNMySP8M.jpg",
+    "name": "Love Potion No. 9"
+  },
+  "cast": [
+    {
+      "name": "Sandra Bullock",
+      "image": "http://image.tmdb.org/t/p/w185/aCa4ELD1MfsVjLWYAynYbhXHQmu.jpg"
+    },
+    {
+      "name": "Tate Donovan",
+      "image": "http://image.tmdb.org/t/p/w185/quNCNqMsblEh6MGvEhFfc6eMPPC.jpg"
+    },
+    {
+      "name": "Anne Bancroft",
+      "image": "http://image.tmdb.org/t/p/w185/4VMhut6tvXqXBmMGFRjXbbImAZW.jpg"
+    },
+    {
+      "name": "Blake Clark",
+      "image": "http://image.tmdb.org/t/p/w185/mSWo6JZevNICzOsa9Xub62xW0mu.jpg"
+    }
+  ]
+}

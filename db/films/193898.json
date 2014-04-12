@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/s2qU1x4jiOUEGWlzk0Chyvt2TDO.jpg",
+    "name": "Judith"
+  },
+  "cast": [
+    {
+      "name": "Sophia Loren",
+      "image": "http://image.tmdb.org/t/p/w185/yae29EL6O04Q8uuEbkbn0qkD0XY.jpg"
+    },
+    {
+      "name": "Peter Finch",
+      "image": "http://image.tmdb.org/t/p/w185/rfG6zneBXQJxFxez865nlSt5ExM.jpg"
+    },
+    {
+      "name": "Jack Hawkins",
+      "image": "http://image.tmdb.org/t/p/w185/7b6E24ZRLEPJwP0WQauXJPt41Fs.jpg"
+    },
+    {
+      "name": "Hans Verner"
+    }
+  ]
+}

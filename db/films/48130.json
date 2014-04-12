@@ -1,0 +1,30 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/whEJjZ3Ri2lIviEYB0wAivzbgfs.jpg",
+    "name": "Edges of the Lord"
+  },
+  "cast": [
+    {
+      "name": "Haley Joel Osment",
+      "image": "http://image.tmdb.org/t/p/w185/s3HnyavKcGcnv6lj38YBNSpzolE.jpg"
+    },
+    {
+      "name": "Willem Dafoe",
+      "image": "http://image.tmdb.org/t/p/w185/4Wuww8ORt6nrHyBSUBLTHWt24EZ.jpg"
+    },
+    {
+      "name": "Richard Banel",
+      "image": "http://image.tmdb.org/t/p/w185/twXuKsFg4IVSK2MjserYscptZzq.jpg"
+    },
+    {
+      "name": "Liam Hess"
+    },
+    {
+      "name": "Olaf Lubaszenko",
+      "image": "http://image.tmdb.org/t/p/w185/vJuOsnOG8CzNdrZ1kEWAfrfcGCW.jpg"
+    },
+    {
+      "name": "Wojciech Smolarz"
+    }
+  ]
+}

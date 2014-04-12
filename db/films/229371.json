@@ -1,0 +1,48 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/vS2MwEVLNMPYmbXnAuPgsiEc6p6.jpg",
+    "name": "Där regnbågen slutar"
+  },
+  "cast": [
+    {
+      "name": "Göran Stangertz"
+    },
+    {
+      "name": "Camilla Lundén"
+    },
+    {
+      "name": "Pernilla August",
+      "image": "http://image.tmdb.org/t/p/w185/gj7f49NzYbFpP7KfmrFBajsUqxD.jpg"
+    },
+    {
+      "name": "Rolf Lassgård",
+      "image": "http://image.tmdb.org/t/p/w185/xLmugloc9lSQrKm1TOuax6TxLMI.jpg"
+    },
+    {
+      "name": "Tommy Körberg",
+      "image": "http://image.tmdb.org/t/p/w185/1yPl2OUosFhyBquOdP6Wbf6QAa1.jpg"
+    },
+    {
+      "name": "Helen Sjöholm",
+      "image": "http://image.tmdb.org/t/p/w185/ehq8xwc8wTLIuDvMoivM9sDFBoS.jpg"
+    },
+    {
+      "name": "Annette Friberg"
+    },
+    {
+      "name": "Peter Jöback",
+      "image": "http://image.tmdb.org/t/p/w185/u19SrqSB9ONOXAptvmgAvaGSZC1.jpg"
+    },
+    {
+      "name": "Rebecka Liljeberg",
+      "image": "http://image.tmdb.org/t/p/w185/mNKj9WyyJrgDVJvoG3mQxIAhkki.jpg"
+    },
+    {
+      "name": "Mona Malm",
+      "image": "http://image.tmdb.org/t/p/w185/tckU77KETSkD0y2Ci0mUP3TaiYI.jpg"
+    },
+    {
+      "name": "Nina Gunke"
+    }
+  ]
+}

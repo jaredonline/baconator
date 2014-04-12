@@ -1,0 +1,45 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/1r9qzCpv75UCaO1yluU3OMpcs5O.jpg",
+    "name": "The Mind Snatchers"
+  },
+  "cast": [
+    {
+      "name": "Christopher Walken",
+      "image": "http://image.tmdb.org/t/p/w185/t0gzpYe6FOWH1yKeRBOIpTKgFsB.jpg"
+    },
+    {
+      "name": "Ronny Cox",
+      "image": "http://image.tmdb.org/t/p/w185/da980JmsVnK9w9MLZsF240Q8t9k.jpg"
+    },
+    {
+      "name": "Joss Ackland",
+      "image": "http://image.tmdb.org/t/p/w185/b1Ijg1F0RX8ZQG8jJ03VTjWpd8b.jpg"
+    },
+    {
+      "name": "Ralph Meeker",
+      "image": "http://image.tmdb.org/t/p/w185/bve11li4NrzJMX4l4gnsRmp7Prx.jpg"
+    },
+    {
+      "name": "Marco St. John",
+      "image": "http://image.tmdb.org/t/p/w185/12DFOaqp5e2deR8yQyrzsXIwE41.jpg"
+    },
+    {
+      "name": "Bette Henritze"
+    },
+    {
+      "name": "Susan Travers"
+    },
+    {
+      "name": "Tom Aldredge",
+      "image": "http://image.tmdb.org/t/p/w185/2unZxDykZPj823gr9aDvbSrYyDW.jpg"
+    },
+    {
+      "name": "Birthe Neumann",
+      "image": "http://image.tmdb.org/t/p/w185/gTpInxjTPnPCZr0bRyZAQqEQGJQ.jpg"
+    },
+    {
+      "name": "Claus Nissen"
+    }
+  ]
+}

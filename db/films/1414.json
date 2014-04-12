@@ -1,0 +1,58 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2sNBOBLjiBUq7Qgxlh2lxpaKg0H.jpg",
+    "name": "Lovers of the Arctic Circle"
+  },
+  "cast": [
+    {
+      "name": "Najwa Nimri",
+      "image": "http://image.tmdb.org/t/p/w185/1HjYUf3gvfEXP26Z2ejflW2AtOi.jpg"
+    },
+    {
+      "name": "Fele Martínez",
+      "image": "http://image.tmdb.org/t/p/w185/69Q0vNghrRTosI82xwd3gLBv7Qx.jpg"
+    },
+    {
+      "name": "Joost Siedhoff"
+    },
+    {
+      "name": "Peru Medem"
+    },
+    {
+      "name": "Sara Valiente"
+    },
+    {
+      "name": "Víctor Hugo Oliveira"
+    },
+    {
+      "name": "Kristel Díaz"
+    },
+    {
+      "name": "Nancho Novo"
+    },
+    {
+      "name": "Maru Valdivielso"
+    },
+    {
+      "name": "Pep Munné"
+    },
+    {
+      "name": "Rosa Morales"
+    },
+    {
+      "name": "Petri Heino"
+    },
+    {
+      "name": "Beate Jensen"
+    },
+    {
+      "name": "Jaroslav Bielski"
+    },
+    {
+      "name": "Outi Alanen"
+    },
+    {
+      "name": "María Isasi"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ia8WIcCcHCYO6ymziu8zv47cXCt.jpg",
+    "name": "Steppin: The Movie"
+  },
+  "cast": [
+    {
+      "name": "Wesley Jonathan",
+      "image": "http://image.tmdb.org/t/p/w185/vir4HbMh2eoz5B6nBFadVwpHKIw.jpg"
+    },
+    {
+      "name": "Chrystee Pharris",
+      "image": "http://image.tmdb.org/t/p/w185/nrSCHnjDhDL57QDv3WEtYFEBDqn.jpg"
+    },
+    {
+      "name": "Anthony Anderson",
+      "image": "http://image.tmdb.org/t/p/w185/gtT7UdBiNohfOuoXeO2c5rMwTvn.jpg"
+    }
+  ]
+}

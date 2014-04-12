@@ -1,0 +1,42 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/bYO3OAA651Wb0jCpktjVCCOhsQT.jpg",
+    "name": "Paljas"
+  },
+  "cast": [
+    {
+      "name": "Marius Weyers",
+      "image": "http://image.tmdb.org/t/p/w185/xhUgoqJQOPzi2XoKVpVlJPcrcC3.jpg"
+    },
+    {
+      "name": "Aletta Bezuidenhout"
+    },
+    {
+      "name": "Liezel van der Merwe"
+    },
+    {
+      "name": "Larry Leyden"
+    },
+    {
+      "name": "Jan Ellis",
+      "image": "http://image.tmdb.org/t/p/w185/bL3JXfFkzbpXAkyN6dpCJyr7MNl.jpg"
+    },
+    {
+      "name": "Ian Roberts",
+      "image": "http://image.tmdb.org/t/p/w185/q6ZVDcVazkU3FyCbphei7wcMIeU.jpg"
+    },
+    {
+      "name": "Ellis Pearson"
+    },
+    {
+      "name": "Gérard Rudolf"
+    },
+    {
+      "name": "Marthinus Basson"
+    },
+    {
+      "name": "David S. Lee",
+      "image": "http://image.tmdb.org/t/p/w185/jbXm1rFNJEuQ3FLTWYTLW1jQgdq.jpg"
+    }
+  ]
+}

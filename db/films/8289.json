@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/kyP3nhw0gzlJvFRlRqPcVimICM4.jpg",
+    "name": "Gorky Park"
+  },
+  "cast": [
+    {
+      "name": "William Hurt",
+      "image": "http://image.tmdb.org/t/p/w185/mf5GiYZjURQ72CPtY1kBva7mqIK.jpg"
+    },
+    {
+      "name": "Lee Marvin",
+      "image": "http://image.tmdb.org/t/p/w185/1UdUtkWNbgU0pTolZKRkwLBLSUt.jpg"
+    },
+    {
+      "name": "Brian Dennehy",
+      "image": "http://image.tmdb.org/t/p/w185/1q2RIRw6NJ6iVZL1TcgGdgmcpIl.jpg"
+    },
+    {
+      "name": "Joanna Pacuła",
+      "image": "http://image.tmdb.org/t/p/w185/697EWuER2k3lQ4oNZdYdkU6cvvd.jpg"
+    },
+    {
+      "name": "Michael Elphick",
+      "image": "http://image.tmdb.org/t/p/w185/sb8z3XPy9lKPMyYEgVC6RKMccE6.jpg"
+    },
+    {
+      "name": "Ian McDiarmid",
+      "image": "http://image.tmdb.org/t/p/w185/yQYNxIjSVYp2Hli7IHOq182NoIJ.jpg"
+    }
+  ]
+}

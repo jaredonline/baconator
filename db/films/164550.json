@@ -1,0 +1,33 @@
+{
+  "film": {
+    "name": "Fragments"
+  },
+  "cast": [
+    {
+      "name": "Silvia Munt",
+      "image": "http://image.tmdb.org/t/p/w185/azD487mHBoKi9kNF38mRxg4YaD9.jpg"
+    },
+    {
+      "name": "Chete Lera",
+      "image": "http://image.tmdb.org/t/p/w185/tFb7nLu0SmqHsJCwn42gzxiEQI2.jpg"
+    },
+    {
+      "name": "Bruno Bergonzini"
+    },
+    {
+      "name": "Iván Morales"
+    },
+    {
+      "name": "Marina Gatell"
+    },
+    {
+      "name": "Eulalia Ramón"
+    },
+    {
+      "name": "Fermí Reixach"
+    },
+    {
+      "name": "Beatriz Vilaseca"
+    }
+  ]
+}

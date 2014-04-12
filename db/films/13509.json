@@ -1,0 +1,60 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/whzUCQddchY3R7DVvypcstTOyCU.jpg",
+    "name": "The Monster Squad"
+  },
+  "cast": [
+    {
+      "name": "Andre Gower"
+    },
+    {
+      "name": "Robby Kiger"
+    },
+    {
+      "name": "Stephen Macht",
+      "image": "http://image.tmdb.org/t/p/w185/mCMAb1WUkcIlDs7sZETmf5jZEd8.jpg"
+    },
+    {
+      "name": "Duncan Regehr",
+      "image": "http://image.tmdb.org/t/p/w185/x8rK2QpnhLAg8WFfN5UUjyQjq3o.jpg"
+    },
+    {
+      "name": "Ryan Lambert"
+    },
+    {
+      "name": "Ashley Bank"
+    },
+    {
+      "name": "Michael Faustino"
+    },
+    {
+      "name": "Mary Ellen Trainor",
+      "image": "http://image.tmdb.org/t/p/w185/w5QWW4oyQWNX51hMcnaCUTPToYX.jpg"
+    },
+    {
+      "name": "Leonardo Cimino"
+    },
+    {
+      "name": "Stan Shaw",
+      "image": "http://image.tmdb.org/t/p/w185/2KUPUQQFmc8Zyzf16uaiYmVrNvX.jpg"
+    },
+    {
+      "name": "Lisa Fuller"
+    },
+    {
+      "name": "Jason Hervey",
+      "image": "http://image.tmdb.org/t/p/w185/1bFPRMePCwHTICLbUN3PN0k3dI5.jpg"
+    },
+    {
+      "name": "Brent Chalem"
+    },
+    {
+      "name": "Tom Noonan",
+      "image": "http://image.tmdb.org/t/p/w185/dJBjCsIKHkFpnZw3WVtq44FYh4m.jpg"
+    },
+    {
+      "name": "Jon Gries",
+      "image": "http://image.tmdb.org/t/p/w185/uyTZtmi7lbO8p1ZL16T3wTl3Uty.jpg"
+    }
+  ]
+}

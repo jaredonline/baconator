@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/iARdqP5FeZQHtMcsSeiNxEx5bvU.jpg",
+    "name": "Tortured"
+  },
+  "cast": [
+    {
+      "name": "Cole Hauser",
+      "image": "http://image.tmdb.org/t/p/w185/6XNHtWrS8o5rPF4W0xZCLGgEv26.jpg"
+    },
+    {
+      "name": "Laurence Fishburne",
+      "image": "http://image.tmdb.org/t/p/w185/vD5GaxDmS79Xt5GLW8XKzU3AsZI.jpg"
+    },
+    {
+      "name": "James Cromwell",
+      "image": "http://image.tmdb.org/t/p/w185/uYdDEA2ZeZxSZI6dCAFrSpVygaV.jpg"
+    },
+    {
+      "name": "Emmanuelle Chriqui",
+      "image": "http://image.tmdb.org/t/p/w185/syf2g89f00P9TiKTfIfYjtBdOac.jpg"
+    }
+  ]
+}

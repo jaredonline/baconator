@@ -1,0 +1,29 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/cvPshbT1xghB5svziM4XG0fQq5t.jpg",
+    "name": "Néa"
+  },
+  "cast": [
+    {
+      "name": "Sami Frey",
+      "image": "http://image.tmdb.org/t/p/w185/cEqMkKDrvRktsrgI1rkcorEK2Uw.jpg"
+    },
+    {
+      "name": "Ann Zacharias"
+    },
+    {
+      "name": "Françoise Brion",
+      "image": "http://image.tmdb.org/t/p/w185/7ZQMbJE4hW5gJAQN4h5EGX9Y9n4.jpg"
+    },
+    {
+      "name": "Micheline Presle",
+      "image": "http://image.tmdb.org/t/p/w185/3DybUOggWQHfPUjz95Jqd8yKU.jpg"
+    },
+    {
+      "name": "Heinz Bennent"
+    },
+    {
+      "name": "Ingrid Caven"
+    }
+  ]
+}

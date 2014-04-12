@@ -1,0 +1,47 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zoioQnFsfDlZ0rG6jdrdmj6pw9f.jpg",
+    "name": "The Duellists"
+  },
+  "cast": [
+    {
+      "name": "Keith Carradine",
+      "image": "http://image.tmdb.org/t/p/w185/h9lQYuJDOdE8QbCxUAwdYtB5hQf.jpg"
+    },
+    {
+      "name": "Harvey Keitel",
+      "image": "http://image.tmdb.org/t/p/w185/oITNtWSDwA2hbuSuLdKXJZkXOSj.jpg"
+    },
+    {
+      "name": "Albert Finney",
+      "image": "http://image.tmdb.org/t/p/w185/eD1BZEydFYFXi4GFr3GAPpdHcls.jpg"
+    },
+    {
+      "name": "Robert Stephens",
+      "image": "http://image.tmdb.org/t/p/w185/q1GXvr08N9MzkTrMQjSXwDPrzRV.jpg"
+    },
+    {
+      "name": "Tom Conti",
+      "image": "http://image.tmdb.org/t/p/w185/tob7xCxH8mmTCqh7tbaHXYwqO27.jpg"
+    },
+    {
+      "name": "John McEnery",
+      "image": "http://image.tmdb.org/t/p/w185/nDbOOKZP7F0zuhGVIitzOlh162C.jpg"
+    },
+    {
+      "name": "Diana Quick"
+    },
+    {
+      "name": "Alun Armstrong",
+      "image": "http://image.tmdb.org/t/p/w185/ycP0KgF9OJ5seFGFPpUDPFfU7CI.jpg"
+    },
+    {
+      "name": "Cristina Raines",
+      "image": "http://image.tmdb.org/t/p/w185/ieCTBA9euXFA09g6pQwJCwquAjX.jpg"
+    },
+    {
+      "name": "Edward Fox",
+      "image": "http://image.tmdb.org/t/p/w185/iNk3GvWMWm37PjsidHY9M6Unmwm.jpg"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7iG2hEXdL7HPPjKehpkn7ZE91Oc.jpg",
+    "name": "A Severed Head"
+  },
+  "cast": [
+    {
+      "name": "Lee Remick",
+      "image": "http://image.tmdb.org/t/p/w185/nxXQhtEeYJW4S7kN2RQmmoGDGIw.jpg"
+    },
+    {
+      "name": "Richard Attenborough",
+      "image": "http://image.tmdb.org/t/p/w185/qzedA4XCNjbmR7z3fWiFinGukzx.jpg"
+    },
+    {
+      "name": "Ian Holm",
+      "image": "http://image.tmdb.org/t/p/w185/uq6Wx7PaLgaw969avH7tLHnSb0Q.jpg"
+    },
+    {
+      "name": "Claire Bloom",
+      "image": "http://image.tmdb.org/t/p/w185/4x0Cfh1g8apqOPio8AJx9oUV9mK.jpg"
+    },
+    {
+      "name": "Jennie Linden",
+      "image": "http://image.tmdb.org/t/p/w185/fsWr9YLsC0N9uUKaOPquZnqL8p5.jpg"
+    },
+    {
+      "name": "Clive Revill"
+    },
+    {
+      "name": "Ann Firbank"
+    },
+    {
+      "name": "Rosamund Greenwood"
+    }
+  ]
+}

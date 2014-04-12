@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/c3cMxflbF8joAfpWxILdPLuBVdy.jpg",
+    "name": "Paris Holiday"
+  },
+  "cast": [
+    {
+      "name": "Bob Hope",
+      "image": "http://image.tmdb.org/t/p/w185/i8F9oShrgTTLuYnVCAmmFAqRmeR.jpg"
+    },
+    {
+      "name": "Fernandel",
+      "image": "http://image.tmdb.org/t/p/w185/glyUlzvojKXRnTxCKh3WBZ4hqgn.jpg"
+    },
+    {
+      "name": "Anita Ekberg",
+      "image": "http://image.tmdb.org/t/p/w185/6cVesMXxY4dRO4K87Ni7msNdTPh.jpg"
+    },
+    {
+      "name": "Martha Hyer",
+      "image": "http://image.tmdb.org/t/p/w185/pTYajZSqj8OIPuDbKWupC5AkOYi.jpg"
+    },
+    {
+      "name": "Preston Sturges",
+      "image": "http://image.tmdb.org/t/p/w185/gAXog1hMOBymQGklAYvmEBeqFnU.jpg"
+    },
+    {
+      "name": "André Morell",
+      "image": "http://image.tmdb.org/t/p/w185/slGvSoLbXaR1g23Rxj9N2WyKNWi.jpg"
+    }
+  ]
+}

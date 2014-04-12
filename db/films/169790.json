@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/9ssvWllgGfKmRAAHRmEgHEKa66X.jpg",
+    "name": "Awful Nice"
+  },
+  "cast": [
+    {
+      "name": "Alex Rennie"
+    },
+    {
+      "name": "James Pumphrey"
+    },
+    {
+      "name": "Christopher Meloni",
+      "image": "http://image.tmdb.org/t/p/w185/qUxRtuQxWcuaUitnKoTyKgeIitu.jpg"
+    },
+    {
+      "name": "Brett Gelman",
+      "image": "http://image.tmdb.org/t/p/w185/ox8Tetm16FgBmwR3U2eYZGxRomN.jpg"
+    },
+    {
+      "name": "Keeley Hazell",
+      "image": "http://image.tmdb.org/t/p/w185/crLGZvsz0wKgPpFbOcL0opWoOs9.jpg"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/niuf4YLdpJNHDUjeXJJfUf7BWbV.jpg",
+    "name": "The Strange One"
+  },
+  "cast": [
+    {
+      "name": "Ben Gazzara",
+      "image": "http://image.tmdb.org/t/p/w185/wJ8upr9m4F6Tn4cht9Ok0PWj4dV.jpg"
+    },
+    {
+      "name": "Pat Hingle",
+      "image": "http://image.tmdb.org/t/p/w185/bW8alHCKEK0UOJjoZwjwwH7T0ga.jpg"
+    },
+    {
+      "name": "Peter Mark Richman",
+      "image": "http://image.tmdb.org/t/p/w185/t5ig8NScsBx6FyGcxu9N5k46N0I.jpg"
+    },
+    {
+      "name": "Arthur Storch"
+    },
+    {
+      "name": "Paul E. Richards"
+    },
+    {
+      "name": "Geoffrey Horne",
+      "image": "http://image.tmdb.org/t/p/w185/z4A17m3q9u8ScZIwTMPF3nIQVeP.jpg"
+    },
+    {
+      "name": "George Peppard",
+      "image": "http://image.tmdb.org/t/p/w185/by01dePJ5Q0UXZu5eYvQD1kAwZ4.jpg"
+    },
+    {
+      "name": "Julie Wilson ",
+      "image": "http://image.tmdb.org/t/p/w185/3qKmJvoDfQW0TF8Fh3fGgRlk7dV.jpg"
+    }
+  ]
+}

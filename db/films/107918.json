@@ -1,0 +1,12 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7jqqp5gQA1J50yKsYBp1wFxLH4h.jpg",
+    "name": "Sherlock Holmes and the Baskerville Curse"
+  },
+  "cast": [
+    {
+      "name": "Peter O'Toole",
+      "image": "http://image.tmdb.org/t/p/w185/i4qteYphjkqtwsuQwcfQPEdV1ZI.jpg"
+    }
+  ]
+}

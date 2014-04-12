@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qPHsdLIRnk7INbh36m3rNb8QLWp.jpg",
+    "name": "Romantic Comedy"
+  },
+  "cast": [
+    {
+      "name": "Dudley Moore",
+      "image": "http://image.tmdb.org/t/p/w185/8qmCTzg0wI4iOI7q4YuYzRXQLD5.jpg"
+    },
+    {
+      "name": "Mary Steenburgen",
+      "image": "http://image.tmdb.org/t/p/w185/uV8JfkpewEASKIvmpNdNz5I14lB.jpg"
+    },
+    {
+      "name": "Frances Sternhagen",
+      "image": "http://image.tmdb.org/t/p/w185/uFPwqtJObVUyRymTZbgBDWlFxtw.jpg"
+    }
+  ]
+}

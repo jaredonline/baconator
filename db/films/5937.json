@@ -1,0 +1,39 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/z8CZ1wHEfFlqDmJeO1vZB72OEAE.jpg",
+    "name": "John Rabe"
+  },
+  "cast": [
+    {
+      "name": "Ulrich Tukur",
+      "image": "http://image.tmdb.org/t/p/w185/gyzldCemOilNKwtTTxHzNSNG9ek.jpg"
+    },
+    {
+      "name": "Dagmar Manzel"
+    },
+    {
+      "name": "Steve Buscemi",
+      "image": "http://image.tmdb.org/t/p/w185/7sDzFRScCv85usSwPG01BTac7UY.jpg"
+    },
+    {
+      "name": "Daniel Brühl",
+      "image": "http://image.tmdb.org/t/p/w185/tDAPTmHnCpctMn7Uk3v8YYiA0No.jpg"
+    },
+    {
+      "name": "Zhang Jingchu",
+      "image": "http://image.tmdb.org/t/p/w185/x30X7MB0P5wvKwOjX83DSzZtYMB.jpg"
+    },
+    {
+      "name": "Teruyuki Kagawa",
+      "image": "http://image.tmdb.org/t/p/w185/a2uhR4aQVjWX8NWZi8LTmuuBjCi.jpg"
+    },
+    {
+      "name": "Anne Consigny",
+      "image": "http://image.tmdb.org/t/p/w185/pu6sclzty01yHO5M70V90YEPH06.jpg"
+    },
+    {
+      "name": "Gottfried John",
+      "image": "http://image.tmdb.org/t/p/w185/hOVrTlQwZX4THosi9usXISC7mNS.jpg"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/gvHEnvX7kSddMeq2CVZU3keZrPH.jpg",
+    "name": "The Puppet Masters"
+  },
+  "cast": [
+    {
+      "name": "Donald Sutherland",
+      "image": "http://image.tmdb.org/t/p/w185/tPLVaPjxEscGPKS3ieByloa8Mqj.jpg"
+    },
+    {
+      "name": "Eric Thal",
+      "image": "http://image.tmdb.org/t/p/w185/aqrFE8HYf9qpzTeKPkaPTh4FbG5.jpg"
+    },
+    {
+      "name": "Julie Warner",
+      "image": "http://image.tmdb.org/t/p/w185/xkd9Nr32KCbKRUWUah4ukIAdlMN.jpg"
+    },
+    {
+      "name": "Keith David",
+      "image": "http://image.tmdb.org/t/p/w185/nwAC9TgwRkj0Ritq93O8GeublyL.jpg"
+    },
+    {
+      "name": "Will Patton",
+      "image": "http://image.tmdb.org/t/p/w185/3whlJQheRJiG4mQ2F6T9DwUBrMm.jpg"
+    },
+    {
+      "name": "Richard Belzer",
+      "image": "http://image.tmdb.org/t/p/w185/z31x0H4tEHs0IPtdSpwMF2Ya5Pa.jpg"
+    },
+    {
+      "name": "Tom Mason",
+      "image": "http://image.tmdb.org/t/p/w185/lWPITFNNJOoJprOoatAgfVRV9pH.jpg"
+    },
+    {
+      "name": "Yaphet Kotto",
+      "image": "http://image.tmdb.org/t/p/w185/vjQOWuoig5b2b7JZ8caN4vuFxsg.jpg"
+    },
+    {
+      "name": "Gerry Bamman"
+    },
+    {
+      "name": "Sam Anderson",
+      "image": "http://image.tmdb.org/t/p/w185/1v6jVs1mzSWBg5HdwR5ROz21hhO.jpg"
+    },
+    {
+      "name": "J. Patrick McCormack"
+    },
+    {
+      "name": "Marshall Bell",
+      "image": "http://image.tmdb.org/t/p/w185/ptTcW6xP3FeZnXOmAQIyeuF1UCJ.jpg"
+    },
+    {
+      "name": "Nicholas Cascone"
+    },
+    {
+      "name": "Bruce Jarchow"
+    },
+    {
+      "name": "Benjamin Mouton",
+      "image": "http://image.tmdb.org/t/p/w185/nzYS12c1c7GNnsnce1ysfOTgLyz.jpg"
+    }
+  ]
+}

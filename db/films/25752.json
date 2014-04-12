@@ -1,0 +1,47 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/esOvqOKWrnNAynYrO23mna1jagX.jpg",
+    "name": "Children of the Corn 666: Isaac's Return"
+  },
+  "cast": [
+    {
+      "name": "John Franklin",
+      "image": "http://image.tmdb.org/t/p/w185/3IZAPwKfnn4XwtXBBn4PHRisdRf.jpg"
+    },
+    {
+      "name": "Natalie Ramsey",
+      "image": "http://image.tmdb.org/t/p/w185/zr3LZBw9Y2Q1AwcwEI3mXH33w3O.jpg"
+    },
+    {
+      "name": "Paul Popowich",
+      "image": "http://image.tmdb.org/t/p/w185/lbqYsXJ69M0VtL8kzyHc93KYMyk.jpg"
+    },
+    {
+      "name": "Nancy Allen",
+      "image": "http://image.tmdb.org/t/p/w185/rB8vSEB4or8GUYlyv9EBTBEC5eH.jpg"
+    },
+    {
+      "name": "Stacy Keach",
+      "image": "http://image.tmdb.org/t/p/w185/vNHSP0loQVgdrW4YhxxE9AWWmM9.jpg"
+    },
+    {
+      "name": "Alix Koromzay"
+    },
+    {
+      "name": "John Patrick White"
+    },
+    {
+      "name": "Sydney Bennett"
+    },
+    {
+      "name": "Nathan Bexton",
+      "image": "http://image.tmdb.org/t/p/w185/zSDOqtv5VRkHkdnIo4jde0ERQqv.jpg"
+    },
+    {
+      "name": "William Prael"
+    },
+    {
+      "name": "Gary Bullock"
+    }
+  ]
+}

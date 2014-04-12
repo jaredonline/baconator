@@ -1,0 +1,56 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7pzVcoOu8eMXviBuHLUPadl6UOG.jpg",
+    "name": "Wolf Girl"
+  },
+  "cast": [
+    {
+      "name": "Shelby Fenner"
+    },
+    {
+      "name": "Shawn Ashmore",
+      "image": "http://image.tmdb.org/t/p/w185/7IFHYkEFDvqVWIMBNZ1YuLwdXkA.jpg"
+    },
+    {
+      "name": "Tony Denman"
+    },
+    {
+      "name": "Nate Dushku"
+    },
+    {
+      "name": "Dov Tiefenbach"
+    },
+    {
+      "name": "Marcel Ungureanu"
+    },
+    {
+      "name": "Ion Paliu"
+    },
+    {
+      "name": "Eduard Paliu"
+    },
+    {
+      "name": "Gheorghe Iordache"
+    },
+    {
+      "name": "Ilie Georgica Paliu"
+    },
+    {
+      "name": "Tim Curry",
+      "image": "http://image.tmdb.org/t/p/w185/x5IMeQdb00fNwj95YetyvOuLGoY.jpg"
+    },
+    {
+      "name": "Jordan Prentice",
+      "image": "http://image.tmdb.org/t/p/w185/6h6zFtJapmtixIenZJV0UYDzCNc.jpg"
+    },
+    {
+      "name": "Petruta Panait"
+    },
+    {
+      "name": "Ana Maria Bazalan"
+    },
+    {
+      "name": "Scott McClelland"
+    }
+  ]
+}

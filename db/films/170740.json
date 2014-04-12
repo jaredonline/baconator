@@ -1,0 +1,34 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4aGdLu4vgcyJ0bwp1fRJsOFsaGL.jpg",
+    "name": "Benedict Arnold: A Question of Honor"
+  },
+  "cast": [
+    {
+      "name": "Aidan Quinn",
+      "image": "http://image.tmdb.org/t/p/w185/xNLXrmlFQbuh22KTVlJqOmNGIKC.jpg"
+    },
+    {
+      "name": "Kelsey Grammer",
+      "image": "http://image.tmdb.org/t/p/w185/q9tw6lV9XlS66GeJr5bUT16odz6.jpg"
+    },
+    {
+      "name": "Flora Montgomery",
+      "image": "http://image.tmdb.org/t/p/w185/rBDT4CBMuqZkca8fc5yfFsnVUBg.jpg"
+    },
+    {
+      "name": "John Light",
+      "image": "http://image.tmdb.org/t/p/w185/8ROT3FypfFUY68ULjITuJG3AEXa.jpg"
+    },
+    {
+      "name": "John Kavanagh",
+      "image": "http://image.tmdb.org/t/p/w185/3ElWQEcnhi3lgYtbWPVV9EfExdw.jpg"
+    },
+    {
+      "name": "Tom Murphy"
+    },
+    {
+      "name": "Anthony Brophy"
+    }
+  ]
+}

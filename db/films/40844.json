@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/hBa0wOeuOn7MDhEme2qmzRQWQGz.jpg",
+    "name": "Comic Book Confidential"
+  },
+  "cast": [
+    {
+      "name": "Frank Miller",
+      "image": "http://image.tmdb.org/t/p/w185/ghKVHIRrtOq4Jkuasbe6ww7d359.jpg"
+    },
+    {
+      "name": "Jack Kirby",
+      "image": "http://image.tmdb.org/t/p/w185/zKSWjiDgy4YubSw8GdEQFi6oXW5.jpg"
+    },
+    {
+      "name": "Stan Lee",
+      "image": "http://image.tmdb.org/t/p/w185/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg"
+    },
+    {
+      "name": "Will Eisner",
+      "image": "http://image.tmdb.org/t/p/w185/yxM4ilFDEQs3JpE92GZvdzrU5l8.jpg"
+    },
+    {
+      "name": "Robert Crumb"
+    }
+  ]
+}

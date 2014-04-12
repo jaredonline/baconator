@@ -1,0 +1,31 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/gsBuyrAhsB5VHkJ6WYsCIU8uD2p.jpg",
+    "name": "Cast a Giant Shadow"
+  },
+  "cast": [
+    {
+      "name": "Kirk Douglas",
+      "image": "http://image.tmdb.org/t/p/w185/vIZgu07gJtS2j460jgBlI1IvkAO.jpg"
+    },
+    {
+      "name": "Senta Berger",
+      "image": "http://image.tmdb.org/t/p/w185/9ecc0kgFKQ2jNN1TSm6ge97aIuL.jpg"
+    },
+    {
+      "name": "Angie Dickinson",
+      "image": "http://image.tmdb.org/t/p/w185/3pnCoPtk3Fv5IJywId5hUjQ33yR.jpg"
+    },
+    {
+      "name": "James Donald",
+      "image": "http://image.tmdb.org/t/p/w185/37GWNFPrHxo6RZf8uY0bdk47BD8.jpg"
+    },
+    {
+      "name": "Stathis Giallelis"
+    },
+    {
+      "name": "Luther Adler",
+      "image": "http://image.tmdb.org/t/p/w185/v8Ksv0rGdeSRjkJ0DYOjw9pV4Br.jpg"
+    }
+  ]
+}

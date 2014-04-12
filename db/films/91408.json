@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/sgZxGqnvyQzAaLh9Vsleb6xSjDp.jpg",
+    "name": "Nails"
+  },
+  "cast": [
+    {
+      "name": "Dennis Hopper",
+      "image": "http://image.tmdb.org/t/p/w185/25i87kBragb2MQah8OYZJkZuys.jpg"
+    },
+    {
+      "name": "Anne Archer",
+      "image": "http://image.tmdb.org/t/p/w185/1d7BwfpJ77d4cwBUU1V5NNbkqmO.jpg"
+    },
+    {
+      "name": "Tomás Milián",
+      "image": "http://image.tmdb.org/t/p/w185/zQLcIStj7SFR1tTSeTp2cFjCXzJ.jpg"
+    },
+    {
+      "name": "Keith David",
+      "image": "http://image.tmdb.org/t/p/w185/nwAC9TgwRkj0Ritq93O8GeublyL.jpg"
+    },
+    {
+      "name": "John Hawkes",
+      "image": "http://image.tmdb.org/t/p/w185/9uKqQhsnM0C3MrQbZG5vu8XHPzR.jpg"
+    }
+  ]
+}

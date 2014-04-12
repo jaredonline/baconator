@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/bO2aymuKpr929mJQ0l9kA0iqyOT.jpg",
+    "name": "The Take"
+  },
+  "cast": [
+    {
+      "name": "John Leguizamo",
+      "image": "http://image.tmdb.org/t/p/w185/35GP0AuAtmCNf29sq0cpZE2LHU5.jpg"
+    },
+    {
+      "name": "Tyrese Gibson",
+      "image": "http://image.tmdb.org/t/p/w185/8AaJIsIb7yJcfwcgbD7qsT6ameq.jpg"
+    },
+    {
+      "name": "Rosie Perez",
+      "image": "http://image.tmdb.org/t/p/w185/zz7D8Wnxw91bddp481fYxYKMeuO.jpg"
+    }
+  ]
+}

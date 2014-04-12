@@ -1,0 +1,47 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/trJvM6p18LHDV9RJfva9XVhAYgY.jpg",
+    "name": "Dummy"
+  },
+  "cast": [
+    {
+      "name": "Aaron Taylor-Johnson",
+      "image": "http://image.tmdb.org/t/p/w185/iQrBTHUtKVI2kN4u0hRKQz667cx.jpg"
+    },
+    {
+      "name": "Thomas Grant"
+    },
+    {
+      "name": "Emma Catherwood",
+      "image": "http://image.tmdb.org/t/p/w185/1djro3kxQ8HLIQJMuTbowE5nPrB.jpg"
+    },
+    {
+      "name": "Therese Bradley"
+    },
+    {
+      "name": "Moira Brooker"
+    },
+    {
+      "name": "Jack Pierce"
+    },
+    {
+      "name": "Jerome Blake"
+    },
+    {
+      "name": "Andrew Havill",
+      "image": "http://image.tmdb.org/t/p/w185/xB63b89jPzJ4epvZ0a8maPGdgCI.jpg"
+    },
+    {
+      "name": "Michael Palmer"
+    },
+    {
+      "name": "Aidan Stephenson"
+    },
+    {
+      "name": "Morgan Symes"
+    },
+    {
+      "name": "Leo Wringer"
+    }
+  ]
+}

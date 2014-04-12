@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/UJFieHAHnggFANaAi5d3nTR7eP.jpg",
+    "name": "The Hire: The Follow"
+  },
+  "cast": [
+    {
+      "name": "Clive Owen",
+      "image": "http://image.tmdb.org/t/p/w185/jm2as6tLcvHCYQvmMYM4VK6JEnr.jpg"
+    },
+    {
+      "name": "Mickey Rourke",
+      "image": "http://image.tmdb.org/t/p/w185/AvGzQ8fvjurGmZW3W1wlQ5WfSeT.jpg"
+    },
+    {
+      "name": "Adriana Lima",
+      "image": "http://image.tmdb.org/t/p/w185/9qSj77wLHQe1KbPFh06nHqFnrEG.jpg"
+    }
+  ]
+}

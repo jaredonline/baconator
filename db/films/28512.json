@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2pcNQ0QitBdU7lUOtjjKpEd9dX1.jpg",
+    "name": "The Poseidon Adventure"
+  },
+  "cast": [
+    {
+      "name": "Adam Baldwin",
+      "image": "http://image.tmdb.org/t/p/w185/w76VLhGjRELFkETeFF0iPMJO9eJ.jpg"
+    },
+    {
+      "name": "Rutger Hauer",
+      "image": "http://image.tmdb.org/t/p/w185/96XEG75LYFFPb9R03EaN8zipWP4.jpg"
+    },
+    {
+      "name": "Steve Guttenberg",
+      "image": "http://image.tmdb.org/t/p/w185/utLqKSEN9TX3EniBlX4BpytDunB.jpg"
+    },
+    {
+      "name": "Bryan Brown",
+      "image": "http://image.tmdb.org/t/p/w185/ppE8Gy8jyjB5oQwwryVFgvQlHUr.jpg"
+    },
+    {
+      "name": "C. Thomas Howell",
+      "image": "http://image.tmdb.org/t/p/w185/wptrBbqMUHKbnXZo3dtH3Bintlm.jpg"
+    }
+  ]
+}

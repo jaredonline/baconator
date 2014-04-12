@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qDl3B2ZfpXuYq9EKTF9hlBwNt1X.jpg",
+    "name": "Mildred Pierce"
+  },
+  "cast": [
+    {
+      "name": "Kate Winslet",
+      "image": "http://image.tmdb.org/t/p/w185/b8tIN5SNgqsXwdmMVCMZP84ACcr.jpg"
+    },
+    {
+      "name": "Evan Rachel Wood",
+      "image": "http://image.tmdb.org/t/p/w185/rDCIjSv4IpgteY3c8YJZyQMxu4e.jpg"
+    },
+    {
+      "name": "Guy Pearce",
+      "image": "http://image.tmdb.org/t/p/w185/qpcel7RjjJyiayVmw9zQ389qqwX.jpg"
+    },
+    {
+      "name": "Mare Winningham",
+      "image": "http://image.tmdb.org/t/p/w185/eMMyri2CMDonBFOXgqQfa6m7fMo.jpg"
+    }
+  ]
+}

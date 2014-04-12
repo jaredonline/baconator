@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/bX9joOUnbRii72akED9BoRsl6kY.jpg",
+    "name": "Rent a Cop"
+  },
+  "cast": [
+    {
+      "name": "Burt Reynolds",
+      "image": "http://image.tmdb.org/t/p/w185/n4y5AKTcnKRqBkorcTk24dRy4Zr.jpg"
+    },
+    {
+      "name": "Liza Minnelli",
+      "image": "http://image.tmdb.org/t/p/w185/1G5DNqKJ4ufFryQTGmmTqCqYsY4.jpg"
+    },
+    {
+      "name": "James Remar",
+      "image": "http://image.tmdb.org/t/p/w185/nrH2PnXJ8kb01OWGXFDUxaq7Jut.jpg"
+    }
+  ]
+}

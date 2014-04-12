@@ -1,0 +1,17 @@
+{
+  "film": {
+    "name": "Celebration"
+  },
+  "cast": [
+    {
+      "name": "Colin Firth",
+      "image": "http://image.tmdb.org/t/p/w185/4pj31PUxqpuJZrHChinub4gr2ul.jpg"
+    },
+    {
+      "name": "James Bolam"
+    },
+    {
+      "name": "Janie Dee"
+    }
+  ]
+}

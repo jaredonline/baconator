@@ -1,0 +1,19 @@
+{
+  "film": {
+    "name": "Trigger Fast"
+  },
+  "cast": [
+    {
+      "name": "Jürgen Prochnow",
+      "image": "http://image.tmdb.org/t/p/w185/nNpsdmYVb0b4tW4FYa6TKz06vjd.jpg"
+    },
+    {
+      "name": "Martin Sheen",
+      "image": "http://image.tmdb.org/t/p/w185/mityfK8XVZ76Vse6h5oPECl9nGw.jpg"
+    },
+    {
+      "name": "Corbin Bernsen",
+      "image": "http://image.tmdb.org/t/p/w185/5E4ptQ88NCyeIYlS8NkMm9BzWQJ.jpg"
+    }
+  ]
+}

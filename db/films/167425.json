@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/8ObWRmX7Wa4VaH0drrhmf2EZcXk.jpg",
+    "name": "El dios de madera"
+  },
+  "cast": [
+    {
+      "name": "Marisa Paredes",
+      "image": "http://image.tmdb.org/t/p/w185/lxkwchAOdtuwhE6FKmKv7kjhOOn.jpg"
+    },
+    {
+      "name": "Nao Albet"
+    },
+    {
+      "name": "Sonia Almarcha"
+    },
+    {
+      "name": "Madi Diocou"
+    }
+  ]
+}

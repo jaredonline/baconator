@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xQf3FekBqxzssA9oMWCZ0oij7LX.jpg",
+    "name": "Manolito Four Eyes"
+  },
+  "cast": [
+    {
+      "name": "David Sánchez del Rey"
+    },
+    {
+      "name": "Adriana Ozores",
+      "image": "http://image.tmdb.org/t/p/w185/1TwpANgl6w8FqVRcieiSFu1XFSz.jpg"
+    },
+    {
+      "name": "Roberto Alvarez"
+    },
+    {
+      "name": "Antonio Gamero"
+    },
+    {
+      "name": "Fedra Lorente"
+    },
+    {
+      "name": "Laura Calabuig"
+    }
+  ]
+}

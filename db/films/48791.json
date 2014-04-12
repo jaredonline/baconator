@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/i2DPQRtsyccOLInQGlV2Yaj8lxu.jpg",
+    "name": "Prince of Jutland"
+  },
+  "cast": [
+    {
+      "name": "Gabriel Byrne",
+      "image": "http://image.tmdb.org/t/p/w185/yQR6Exu12940oRXoCWmwULyWLP8.jpg"
+    },
+    {
+      "name": "Helen Mirren",
+      "image": "http://image.tmdb.org/t/p/w185/usuAZSSIYqBviO2eACXIiQpYpMW.jpg"
+    },
+    {
+      "name": "Christian Bale",
+      "image": "http://image.tmdb.org/t/p/w185/vecCvACI2QhSE5fOoANeWDjxGKM.jpg"
+    },
+    {
+      "name": "Brian Cox",
+      "image": "http://image.tmdb.org/t/p/w185/m15C58NWii5WCIg57Llr7hejnfy.jpg"
+    }
+  ]
+}

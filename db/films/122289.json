@@ -1,0 +1,33 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7sl2VNfEPR2JnGhF0yZ1P4uT9de.jpg",
+    "name": "Lilian's Story"
+  },
+  "cast": [
+    {
+      "name": "Ruth Cracknell"
+    },
+    {
+      "name": "Barry Otto"
+    },
+    {
+      "name": "Toni Collette",
+      "image": "http://image.tmdb.org/t/p/w185/hSKUCImyuwpQhGE22D0ibKrR6XG.jpg"
+    },
+    {
+      "name": "John Flaus"
+    },
+    {
+      "name": "Jeff Truman"
+    },
+    {
+      "name": "Lyle O'Hara"
+    },
+    {
+      "name": "Kate Agnew"
+    },
+    {
+      "name": "Fiona Press"
+    }
+  ]
+}

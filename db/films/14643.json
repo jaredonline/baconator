@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6hLRslZAMQnE9SRk5PsLPgPz7vq.jpg",
+    "name": "Boot Camp"
+  },
+  "cast": [
+    {
+      "name": "Mila Kunis",
+      "image": "http://image.tmdb.org/t/p/w185/vP5ig8jLPJH6dxcNlDNSY6o3W3B.jpg"
+    },
+    {
+      "name": "Gregory Smith",
+      "image": "http://image.tmdb.org/t/p/w185/cufsJ66O09ZXcRM5Jitqv70i0Lr.jpg"
+    },
+    {
+      "name": "Peter Stormare",
+      "image": "http://image.tmdb.org/t/p/w185/dDR0brp5L7fXDyEywrhjQv01LSg.jpg"
+    },
+    {
+      "name": "Regine Nehy",
+      "image": "http://image.tmdb.org/t/p/w185/kjYJoAKzVF4bCOCXbOuLIVaO3J1.jpg"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/gXjMhRgLRtgmLbs1H19R11hWAeS.jpg",
+    "name": "The Mean Season"
+  },
+  "cast": [
+    {
+      "name": "Kurt Russell",
+      "image": "http://image.tmdb.org/t/p/w185/r3oJkdyBOs3ZWmamgNQzcvDGaxc.jpg"
+    },
+    {
+      "name": "Mariel Hemingway",
+      "image": "http://image.tmdb.org/t/p/w185/lNlfYgxGwVSLC4tPJXyos02IRQC.jpg"
+    },
+    {
+      "name": "Richard Jordan",
+      "image": "http://image.tmdb.org/t/p/w185/lsIKxCURO9l4zEnVLwbVG2o1fLQ.jpg"
+    },
+    {
+      "name": "Andy García",
+      "image": "http://image.tmdb.org/t/p/w185/q3LAfRFLNhnNrIp7BFthDDosEHt.jpg"
+    },
+    {
+      "name": "Robert Small",
+      "image": "http://image.tmdb.org/t/p/w185/uNFXBnlUH89HcG0FTDg70kCWH4q.jpg"
+    }
+  ]
+}

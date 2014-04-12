@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4OwkG0XETdDXdATcipTyUxhNKdK.jpg",
+    "name": "Guerreros"
+  },
+  "cast": [
+    {
+      "name": "Eloy Azorin",
+      "image": "http://image.tmdb.org/t/p/w185/gMsqCdNbLliRudq6olLZEccmO5t.jpg"
+    },
+    {
+      "name": "Eduardo Noriega",
+      "image": "http://image.tmdb.org/t/p/w185/ixwxf8JP6Kdg9YZ7JQLj8vIAaNm.jpg"
+    },
+    {
+      "name": "Rubén Ochandiano"
+    },
+    {
+      "name": "Carla Pérez"
+    },
+    {
+      "name": "Jordi Vilches"
+    },
+    {
+      "name": "Roger Casamajor",
+      "image": "http://image.tmdb.org/t/p/w185/72Sn6Ztaz9ieaQkkgdsJeiuuG0l.jpg"
+    },
+    {
+      "name": "Iñaki Font"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ioPpykV342e0zIuqbJxdOwcMZMS.jpg",
+    "name": "Exit Wounds"
+  },
+  "cast": [
+    {
+      "name": "Steven Seagal",
+      "image": "http://image.tmdb.org/t/p/w185/djDoyMsbAO0J6q1SpB5Z3eJoyHb.jpg"
+    },
+    {
+      "name": "DMX",
+      "image": "http://image.tmdb.org/t/p/w185/eoAfTjFs6SiXGBmdlfasb0J9fHw.jpg"
+    },
+    {
+      "name": "Isaiah Washington",
+      "image": "http://image.tmdb.org/t/p/w185/wWfBGGlSSvlPfMBEibry4IbenSN.jpg"
+    },
+    {
+      "name": "Anthony Anderson",
+      "image": "http://image.tmdb.org/t/p/w185/gtT7UdBiNohfOuoXeO2c5rMwTvn.jpg"
+    },
+    {
+      "name": "Bill Duke",
+      "image": "http://image.tmdb.org/t/p/w185/2BBdmPqxYO5FkgRcMnciUnuQsB8.jpg"
+    }
+  ]
+}

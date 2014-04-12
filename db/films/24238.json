@@ -1,0 +1,31 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/k0lQISUC4NuvKYasJn59JHc2rla.jpg",
+    "name": "Mary and Max"
+  },
+  "cast": [
+    {
+      "name": "Toni Collette",
+      "image": "http://image.tmdb.org/t/p/w185/1F91UfkUOLKJEtjoJi1jqVGgT9E.jpg"
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "image": "http://image.tmdb.org/t/p/w185/de37JbzZ80KP1LOhzIkVe5XfSwe.jpg"
+    },
+    {
+      "name": "Eric Bana",
+      "image": "http://image.tmdb.org/t/p/w185/36As49OkTNvT96CzzjXNuKMeuyx.jpg"
+    },
+    {
+      "name": "Barry Humphries",
+      "image": "http://image.tmdb.org/t/p/w185/bBXWmZtFbKy6Wzk1fHOCE8j6KfS.jpg"
+    },
+    {
+      "name": "Bethany Whitmore",
+      "image": "http://image.tmdb.org/t/p/w185/y5ZKK6lgNWAvVPKobq78eTN0aqE.jpg"
+    },
+    {
+      "name": "Renée Geyer"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/e52BUE3YGwbFuVYG4CKWNYt4JmD.jpg",
+    "name": "Ghosts"
+  },
+  "cast": [
+    {
+      "name": "Michael Jackson",
+      "image": "http://image.tmdb.org/t/p/w185/oQe20I3JLipUetQf3BhRDRgWKk4.jpg"
+    },
+    {
+      "name": "Pat Dade"
+    },
+    {
+      "name": "Amy Smallman"
+    },
+    {
+      "name": "Edwina Moore"
+    },
+    {
+      "name": "Mos Def",
+      "image": "http://image.tmdb.org/t/p/w185/bWFB7w3iNtmSqCCvHGzPENx4JJS.jpg"
+    },
+    {
+      "name": "Seth Smith",
+      "image": "http://image.tmdb.org/t/p/w185/uHGa5v9V597j1UIDWAz29771U8P.jpg"
+    },
+    {
+      "name": "Kendall Cunningham"
+    },
+    {
+      "name": "Loren Randolph"
+    },
+    {
+      "name": "Heather Ehlers"
+    }
+  ]
+}

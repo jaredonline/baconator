@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/jjQOd1NEpyTLbvlYfVdPqYvL9A0.jpg",
+    "name": "Hollywood's Creepiest Creatures"
+  },
+  "cast": [
+    {
+      "name": "Cassandra Peterson",
+      "image": "http://image.tmdb.org/t/p/w185/aQs8AG7k9kCSet39AxMkv76P04a.jpg"
+    },
+    {
+      "name": "Jeff Goldblum",
+      "image": "http://image.tmdb.org/t/p/w185/iDW7y4R8cx4SZzWd8nN2gvL7My1.jpg"
+    },
+    {
+      "name": "Tippi Hedren",
+      "image": "http://image.tmdb.org/t/p/w185/5piyjLaNRESJZ2Q8comMEjXqZBW.jpg"
+    },
+    {
+      "name": "Roy Scheider",
+      "image": "http://image.tmdb.org/t/p/w185/t8EE1BdYo6BcGVj8EOz8mt1mw0Q.jpg"
+    }
+  ]
+}

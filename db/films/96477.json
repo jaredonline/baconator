@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ikItXk7SelrmVpU2NynUzs0hqUM.jpg",
+    "name": "Killer Cop"
+  },
+  "cast": [
+    {
+      "name": "Claudio Cassinelli"
+    },
+    {
+      "name": "Arthur Kennedy",
+      "image": "http://image.tmdb.org/t/p/w185/jpJ5x4SXyIBSPbDS6LqGvaoJoPv.jpg"
+    },
+    {
+      "name": "Franco Fabrizi",
+      "image": "http://image.tmdb.org/t/p/w185/oenUfn7k3PSaO4SBow6KFWe5wUw.jpg"
+    }
+  ]
+}

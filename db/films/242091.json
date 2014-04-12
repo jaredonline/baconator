@@ -1,0 +1,35 @@
+{
+  "film": {
+    "name": "Dynamite: A Cautionary Tale"
+  },
+  "cast": [
+    {
+      "name": "Evanna Lynch",
+      "image": "http://image.tmdb.org/t/p/w185/AciNNS76AtCIyKaWlKhPHHtE9lc.jpg"
+    },
+    {
+      "name": "Ian Harding",
+      "image": "http://image.tmdb.org/t/p/w185/2Kkdpy7362NEA20gnE0WxXPYfZ2.jpg"
+    },
+    {
+      "name": "Brendan Sexton III",
+      "image": "http://image.tmdb.org/t/p/w185/kQsOIQuGcqwdpolSEzLV7RfYVsV.jpg"
+    },
+    {
+      "name": "Leo Fitzpatrick",
+      "image": "http://image.tmdb.org/t/p/w185/n65Z24v8qjfCpqqaSNrjWZCfTCY.jpg"
+    },
+    {
+      "name": "Brian Kerwin",
+      "image": "http://image.tmdb.org/t/p/w185/npEad4aDj4NNtWwZ4XersgKlY8X.jpg"
+    },
+    {
+      "name": "Polly Draper",
+      "image": "http://image.tmdb.org/t/p/w185/2Q39ZQJ9xQgmZadEDZeTga1kXVg.jpg"
+    },
+    {
+      "name": "Michael Badalucco",
+      "image": "http://image.tmdb.org/t/p/w185/5lZ35oLXJCNr4ti8jOkJlax9yo8.jpg"
+    }
+  ]
+}

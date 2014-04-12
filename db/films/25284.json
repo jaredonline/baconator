@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/iO3tD4OElQslLnUN3wjnslvTUvJ.jpg",
+    "name": "The Last Seduction"
+  },
+  "cast": [
+    {
+      "name": "Linda Fiorentino",
+      "image": "http://image.tmdb.org/t/p/w185/uOMDIxggAZFsgv3AIJmxTWQJgfQ.jpg"
+    },
+    {
+      "name": "Bill Pullman",
+      "image": "http://image.tmdb.org/t/p/w185/lBeo0LqPSRe9JWN2SnQNwY8Rtiu.jpg"
+    },
+    {
+      "name": "Peter Berg",
+      "image": "http://image.tmdb.org/t/p/w185/vqyuaJWAiFMqDcDaIzvDG1n9E2E.jpg"
+    },
+    {
+      "name": "J. T. Walsh",
+      "image": "http://image.tmdb.org/t/p/w185/xi7TfEmsXmPKr4hT4tPG1ksED6g.jpg"
+    },
+    {
+      "name": "Bill Nunn",
+      "image": "http://image.tmdb.org/t/p/w185/cT4sK7SCranK3yeelYTHMlTaq3a.jpg"
+    }
+  ]
+}

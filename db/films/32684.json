@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/kHFWrKgCvYHuVzmFRvKilMEYwyT.jpg",
+    "name": "The Window"
+  },
+  "cast": [
+    {
+      "name": "Barbara Hale",
+      "image": "http://image.tmdb.org/t/p/w185/ytP3BiL2vw1XLXJ7KVn8s4oZA9b.jpg"
+    },
+    {
+      "name": "Bobby Driscoll",
+      "image": "http://image.tmdb.org/t/p/w185/o48HE1scYKBB7oTUQDAamLeAl5z.jpg"
+    },
+    {
+      "name": "Arthur Kennedy",
+      "image": "http://image.tmdb.org/t/p/w185/jpJ5x4SXyIBSPbDS6LqGvaoJoPv.jpg"
+    },
+    {
+      "name": "Paul Stewart",
+      "image": "http://image.tmdb.org/t/p/w185/8tKdcrxfykUgevbWTz8kuK7neQZ.jpg"
+    },
+    {
+      "name": "Ruth Roman",
+      "image": "http://image.tmdb.org/t/p/w185/fBphiIhNwlseidUeUQ6s0Cg7wCJ.jpg"
+    }
+  ]
+}

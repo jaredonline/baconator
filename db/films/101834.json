@@ -1,0 +1,59 @@
+{
+  "film": {
+    "name": "Pavitra Paapi"
+  },
+  "cast": [
+    {
+      "name": "Balraj Sahni",
+      "image": "http://image.tmdb.org/t/p/w185/2O1ICgzUB5jevxQSRuqaoVqdP03.jpg"
+    },
+    {
+      "name": "Tanuja",
+      "image": "http://image.tmdb.org/t/p/w185/ylHqO1byafNKAlghlprCBKAozZD.jpg"
+    },
+    {
+      "name": "Parikshat Sahni",
+      "image": "http://image.tmdb.org/t/p/w185/8ZQomolUX1W8zSdxcmpwOv6C88S.jpg"
+    },
+    {
+      "name": "Achala Sachdev",
+      "image": "http://image.tmdb.org/t/p/w185/mBDe6cvHB3cAe2YQ4CS8BmnGPWC.jpg"
+    },
+    {
+      "name": "Abhi Bhattacharya",
+      "image": "http://image.tmdb.org/t/p/w185/7sYdqaiOS63ffcoqED6OVWfUmBD.jpg"
+    },
+    {
+      "name": "Neetu Singh",
+      "image": "http://image.tmdb.org/t/p/w185/dWkCWCpFTW45k3hCtrCKBXEdP2c.jpg"
+    },
+    {
+      "name": "Jayshree T."
+    },
+    {
+      "name": "Madhumati"
+    },
+    {
+      "name": "Gulshan Bawra"
+    },
+    {
+      "name": "Upendra Trivedi"
+    },
+    {
+      "name": "I.S. Johar"
+    },
+    {
+      "name": "Manorama",
+      "image": "http://image.tmdb.org/t/p/w185/vNrogNl1mCnspSMXt7665UxDKhf.jpg"
+    },
+    {
+      "name": "Jugnu"
+    },
+    {
+      "name": "Paul Mahendra"
+    },
+    {
+      "name": "Fatima"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/aFPlQbBqp4kjRrlIxKXoqtoPqpM.jpg",
+    "name": "Esperando Septiembre"
+  },
+  "cast": [
+    {
+      "name": "Pedro Almagro"
+    },
+    {
+      "name": "Natalia Erice",
+      "image": "http://image.tmdb.org/t/p/w185/2MV8cgjohyfF0Q0C0Akqm4d0gt7.jpg"
+    },
+    {
+      "name": "Ana López"
+    },
+    {
+      "name": "Fele Martínez",
+      "image": "http://image.tmdb.org/t/p/w185/69Q0vNghrRTosI82xwd3gLBv7Qx.jpg"
+    },
+    {
+      "name": "Victoria Teijeiro"
+    },
+    {
+      "name": "David Tenreiro"
+    }
+  ]
+}

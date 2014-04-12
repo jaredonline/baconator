@@ -1,0 +1,30 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/uJvVL6Ib5sWnKk1mb7hkga8hH4T.jpg",
+    "name": "That Certain Summer"
+  },
+  "cast": [
+    {
+      "name": "Hal Holbrook",
+      "image": "http://image.tmdb.org/t/p/w185/3a5lbz4Db0tGCyo5q3jclLByeCh.jpg"
+    },
+    {
+      "name": "Martin Sheen",
+      "image": "http://image.tmdb.org/t/p/w185/mityfK8XVZ76Vse6h5oPECl9nGw.jpg"
+    },
+    {
+      "name": "Joe Don Baker",
+      "image": "http://image.tmdb.org/t/p/w185/7WQq2nmSXXIC4vR3MhHLYRZD2wE.jpg"
+    },
+    {
+      "name": "Marlyn Mason"
+    },
+    {
+      "name": "Scott Jacoby"
+    },
+    {
+      "name": "Hope Lange",
+      "image": "http://image.tmdb.org/t/p/w185/xmhhPVnQAmtdvCRp0SQuzOgIvZE.jpg"
+    }
+  ]
+}

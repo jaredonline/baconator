@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/a00FVMYAAUIaS2xSx7JtXF6uc6f.jpg",
+    "name": "Hex"
+  },
+  "cast": [
+    {
+      "name": "Keith Carradine",
+      "image": "http://image.tmdb.org/t/p/w185/h9lQYuJDOdE8QbCxUAwdYtB5hQf.jpg"
+    },
+    {
+      "name": "Scott Glenn",
+      "image": "http://image.tmdb.org/t/p/w185/gjVe5sizXzlw9HfUIY9jB5C8pBB.jpg"
+    },
+    {
+      "name": "Gary Busey",
+      "image": "http://image.tmdb.org/t/p/w185/n66ycv61ZoqusHthcQde1g3JY6T.jpg"
+    },
+    {
+      "name": "Dan Haggerty",
+      "image": "http://image.tmdb.org/t/p/w185/cokzc3jfbJcuq5bbRQQi3JFmj2C.jpg"
+    }
+  ]
+}

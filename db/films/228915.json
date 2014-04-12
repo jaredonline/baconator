@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/jscbl20BKrw9F2mprcbADGvZe2R.jpg",
+    "name": "Lord of Tears"
+  },
+  "cast": [
+    {
+      "name": "David Schofield",
+      "image": "http://image.tmdb.org/t/p/w185/fN64rPih5p4OdbrpX22QURjRUg7.jpg"
+    },
+    {
+      "name": "Lexy Hulme"
+    },
+    {
+      "name": "Euan Douglas"
+    },
+    {
+      "name": "Jamie Gordon"
+    }
+  ]
+}

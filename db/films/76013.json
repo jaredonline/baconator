@@ -1,0 +1,54 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xoSj21KAOx0VINt00rtrK6k1l3G.jpg",
+    "name": "No Rest for the Wicked"
+  },
+  "cast": [
+    {
+      "name": "José Coronado",
+      "image": "http://image.tmdb.org/t/p/w185/co7XjJSCr4kk4LkeIdqpmMaoOis.jpg"
+    },
+    {
+      "name": "Helena Miquel"
+    },
+    {
+      "name": "Rodolfo Sancho"
+    },
+    {
+      "name": "Juanjo Artero"
+    },
+    {
+      "name": "Pedro Mari Sánchez"
+    },
+    {
+      "name": "Younes Bachir"
+    },
+    {
+      "name": "Nadia Casado"
+    },
+    {
+      "name": "Juan Pablo Shuck"
+    },
+    {
+      "name": "Eduard Farelo"
+    },
+    {
+      "name": "Karim El-Kerem"
+    },
+    {
+      "name": "Abdel Ali El Aziz"
+    },
+    {
+      "name": "Nasser Saleh"
+    },
+    {
+      "name": "Héctor Claramunt"
+    },
+    {
+      "name": "Said El Mouden"
+    },
+    {
+      "name": "Walter Gamberini"
+    }
+  ]
+}

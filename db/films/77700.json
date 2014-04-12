@@ -1,0 +1,42 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/dvdo989oVnLsun3DyPBlkSgnNpH.jpg",
+    "name": "The North Star"
+  },
+  "cast": [
+    {
+      "name": "Simone Signoret",
+      "image": "http://image.tmdb.org/t/p/w185/qZgSRuyGuYO3xcHvWfpdJj4Yd95.jpg"
+    },
+    {
+      "name": "Philippe Noiret",
+      "image": "http://image.tmdb.org/t/p/w185/cxqfBaHzXOOMVcxHYfAewhG2Cjc.jpg"
+    },
+    {
+      "name": "Fanny Cottençon",
+      "image": "http://image.tmdb.org/t/p/w185/hk7sobzbU5INhdVKLab01aDKn2m.jpg"
+    },
+    {
+      "name": "Julie Jézéquel",
+      "image": "http://image.tmdb.org/t/p/w185/qV7OgJ3rcRmwKPkgaSqnGLnb8Ni.jpg"
+    },
+    {
+      "name": "Liliana Gerace"
+    },
+    {
+      "name": "Gamil Ratib"
+    },
+    {
+      "name": "Jean-Yves Chatelais"
+    },
+    {
+      "name": "Jean Dautremay"
+    },
+    {
+      "name": "Pierre Forget"
+    },
+    {
+      "name": "Jean-Pierre Klein"
+    }
+  ]
+}

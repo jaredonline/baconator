@@ -1,0 +1,51 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qaTs5tmWZOaK1omgqAGqYBiIKEj.jpg",
+    "name": "Graveyard Shift"
+  },
+  "cast": [
+    {
+      "name": "David Andrews",
+      "image": "http://image.tmdb.org/t/p/w185/pxmxn29UHW9r6uvLrd7bEwLswlQ.jpg"
+    },
+    {
+      "name": "Kelly Wolf"
+    },
+    {
+      "name": "Stephen Macht",
+      "image": "http://image.tmdb.org/t/p/w185/mCMAb1WUkcIlDs7sZETmf5jZEd8.jpg"
+    },
+    {
+      "name": "Robert Alan Beuth"
+    },
+    {
+      "name": "Andrew Divoff",
+      "image": "http://image.tmdb.org/t/p/w185/ugMcOIcOSHOxHvsm8WGHcKDNqsh.jpg"
+    },
+    {
+      "name": "Vic Polizos"
+    },
+    {
+      "name": "Brad Dourif",
+      "image": "http://image.tmdb.org/t/p/w185/jfvemADVHzTWu5HiOEhYmFfSpWt.jpg"
+    },
+    {
+      "name": "Ilona Margolis"
+    },
+    {
+      "name": "Jimmy Woodard"
+    },
+    {
+      "name": "Jonathan Emerson"
+    },
+    {
+      "name": "Minor Rootes"
+    },
+    {
+      "name": "Kelly L. Goodman"
+    },
+    {
+      "name": "Susan Lowden"
+    }
+  ]
+}

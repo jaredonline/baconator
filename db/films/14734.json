@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/r2ei4afUCgl3A3pd1ORvH8jgF06.jpg",
+    "name": "Edy"
+  },
+  "cast": [
+    {
+      "name": "François Berléand",
+      "image": "http://image.tmdb.org/t/p/w185/A1W2EaWqiKDsD60tjK9Kuh4QCjf.jpg"
+    },
+    {
+      "name": "Philippe Noiret",
+      "image": "http://image.tmdb.org/t/p/w185/cxqfBaHzXOOMVcxHYfAewhG2Cjc.jpg"
+    },
+    {
+      "name": "Marion Cotillard",
+      "image": "http://image.tmdb.org/t/p/w185/7MVUeNgMnQTks7uTdSZoakei5oR.jpg"
+    },
+    {
+      "name": "Yves Verhoeven"
+    }
+  ]
+}

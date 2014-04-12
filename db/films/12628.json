@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/eua9bk24Zv58kaToTHP1Z7FyFaM.jpg",
+    "name": "Playing God"
+  },
+  "cast": [
+    {
+      "name": "David Duchovny",
+      "image": "http://image.tmdb.org/t/p/w185/p1VVxBWiANkDvQAAeVrW2DueOnK.jpg"
+    },
+    {
+      "name": "Timothy Hutton",
+      "image": "http://image.tmdb.org/t/p/w185/ypC4mzLExwmG0QHfi8vFe9LTeSi.jpg"
+    },
+    {
+      "name": "Angelina Jolie",
+      "image": "http://image.tmdb.org/t/p/w185/wdrSStdTmiSHhynCV5CtTJTuzY1.jpg"
+    },
+    {
+      "name": "Michael Massee",
+      "image": "http://image.tmdb.org/t/p/w185/rFkMXXs2JNajc4eJYKTC4samkc2.jpg"
+    },
+    {
+      "name": "Stacey Travis",
+      "image": "http://image.tmdb.org/t/p/w185/yANteMAVFOJ3GibZd2pQNIICunO.jpg"
+    },
+    {
+      "name": "Bob Jennings",
+      "image": "http://image.tmdb.org/t/p/w185/iaOIeKW3Og5gYxNnsHpEJsnldBR.jpg"
+    }
+  ]
+}

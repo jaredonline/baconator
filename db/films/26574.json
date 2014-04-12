@@ -1,0 +1,43 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/Sz6ZCR9xSk1WSbo2qlW3aP9StV.jpg",
+    "name": "Dudes"
+  },
+  "cast": [
+    {
+      "name": "Jon Cryer",
+      "image": "http://image.tmdb.org/t/p/w185/ybsCDZjjHfUg2d6TloKsJ1BkORQ.jpg"
+    },
+    {
+      "name": "Daniel Roebuck",
+      "image": "http://image.tmdb.org/t/p/w185/uCnhkIdrvCJtoS73BtYIntR0Jid.jpg"
+    },
+    {
+      "name": "Michael Peter Balzary",
+      "image": "http://image.tmdb.org/t/p/w185/sKZq4DWMszQiSYUmNho1Y6ORhIw.jpg"
+    },
+    {
+      "name": "Lee Ving",
+      "image": "http://image.tmdb.org/t/p/w185/tG4MKdOp1viff4rrCbH8WQEhIE3.jpg"
+    },
+    {
+      "name": "Billy Ray Sharkey"
+    },
+    {
+      "name": "Glenn Withrow"
+    },
+    {
+      "name": "Michael Melvin"
+    },
+    {
+      "name": "Marc Rude"
+    },
+    {
+      "name": "Catherine Mary Stewart",
+      "image": "http://image.tmdb.org/t/p/w185/2d3DEQluzVUPg9KJsn2vymIRlOW.jpg"
+    },
+    {
+      "name": "Cal Bartlett"
+    }
+  ]
+}

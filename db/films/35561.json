@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/bFQAELu5t9sROALbxAcud75BfCo.jpg",
+    "name": "Arizona"
+  },
+  "cast": [
+    {
+      "name": "Jean Arthur",
+      "image": "http://image.tmdb.org/t/p/w185/6lAuX8Ts24mAvpg6NkGkUM0cQFE.jpg"
+    },
+    {
+      "name": "William Holden",
+      "image": "http://image.tmdb.org/t/p/w185/6sa5f8p1KBhYxJDEmCLxn7QLcBe.jpg"
+    },
+    {
+      "name": "Warren William",
+      "image": "http://image.tmdb.org/t/p/w185/t0rwf7xqTrbzcsJsappaLearrk3.jpg"
+    },
+    {
+      "name": "Regis Toomey",
+      "image": "http://image.tmdb.org/t/p/w185/AsEzaekmIVVYbr2oMUIk1tXVSDw.jpg"
+    }
+  ]
+}

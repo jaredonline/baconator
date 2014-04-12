@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4iYxisHQZBVVvbT03w0mqjeeXFt.jpg",
+    "name": "Mostly Ghostly"
+  },
+  "cast": [
+    {
+      "name": "Sterling Beaumon",
+      "image": "http://image.tmdb.org/t/p/w185/s8uNrpLVeFyNAEGdgHIonCwVSRz.jpg"
+    },
+    {
+      "name": "Madison Pettis",
+      "image": "http://image.tmdb.org/t/p/w185/lEYkyecOFfRTCftwG75aVZZVfhw.jpg"
+    },
+    {
+      "name": "Luke Benward",
+      "image": "http://image.tmdb.org/t/p/w185/i17S4LHKcTXbLsg56IetMEsHbzJ.jpg"
+    },
+    {
+      "name": "Brian Stepanek",
+      "image": "http://image.tmdb.org/t/p/w185/fneSwhKlulOrdyNZxwF0jB4AM3h.jpg"
+    }
+  ]
+}

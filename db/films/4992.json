@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/A50EzCZvbDEa8BQZNhYzBGwdivt.jpg",
+    "name": "Shark!"
+  },
+  "cast": [
+    {
+      "name": "Burt Reynolds",
+      "image": "http://image.tmdb.org/t/p/w185/n4y5AKTcnKRqBkorcTk24dRy4Zr.jpg"
+    },
+    {
+      "name": "Barry Sullivan",
+      "image": "http://image.tmdb.org/t/p/w185/kRuBQnFWbrqwwbIh5BCD34uq2JF.jpg"
+    },
+    {
+      "name": "Silvia Pinal",
+      "image": "http://image.tmdb.org/t/p/w185/whaIwuTGxqZ0haVcaLUBg9Uq36R.jpg"
+    },
+    {
+      "name": "Arthur Kennedy",
+      "image": "http://image.tmdb.org/t/p/w185/jpJ5x4SXyIBSPbDS6LqGvaoJoPv.jpg"
+    },
+    {
+      "name": "Emilia Stuart"
+    },
+    {
+      "name": "Manuel Alvarado"
+    },
+    {
+      "name": "Enrique Lucero"
+    },
+    {
+      "name": "Carlos Beriochoa"
+    }
+  ]
+}

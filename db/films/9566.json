@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/jP9rEZKL7ypfZFr4Q6M2cwRAlYh.jpg",
+    "name": "The Fan"
+  },
+  "cast": [
+    {
+      "name": "Robert De Niro",
+      "image": "http://image.tmdb.org/t/p/w185/8Bgdfv1oN9Mw0YuMHP6fw8KzDkc.jpg"
+    },
+    {
+      "name": "Wesley Snipes",
+      "image": "http://image.tmdb.org/t/p/w185/8uL11GaxOPlbTuLY5IQSfbu8ZQP.jpg"
+    },
+    {
+      "name": "Ellen Barkin",
+      "image": "http://image.tmdb.org/t/p/w185/mnR55JJ1LddlXQZ8wiKdNTtOc3e.jpg"
+    },
+    {
+      "name": "John Leguizamo",
+      "image": "http://image.tmdb.org/t/p/w185/35GP0AuAtmCNf29sq0cpZE2LHU5.jpg"
+    },
+    {
+      "name": "Benicio del Toro",
+      "image": "http://image.tmdb.org/t/p/w185/cbkXDtNDFYHKsyQzqvzxjn7F7rX.jpg"
+    }
+  ]
+}

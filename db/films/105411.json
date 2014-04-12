@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/1niujlIQcEZFOAPs9sTvirSMqDE.jpg",
+    "name": "Bajo bandera"
+  },
+  "cast": [
+    {
+      "name": "Miguel Ángel Solá"
+    },
+    {
+      "name": "Federico Luppi",
+      "image": "http://image.tmdb.org/t/p/w185/aKQBkLnh0RZNPYqO80itGYuclLp.jpg"
+    },
+    {
+      "name": "Omero Antonutti",
+      "image": "http://image.tmdb.org/t/p/w185/n56lKaO4eyFTEgvqCxNoXFDW6Mw.jpg"
+    }
+  ]
+}

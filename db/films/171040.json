@@ -1,0 +1,24 @@
+{
+  "film": {
+    "name": "Cubamerican"
+  },
+  "cast": [
+    {
+      "name": "Steven Bauer",
+      "image": "http://image.tmdb.org/t/p/w185/2wbrq8xIKbIAQAgtxsftJT5XgVs.jpg"
+    },
+    {
+      "name": "Andy García",
+      "image": "http://image.tmdb.org/t/p/w185/q3LAfRFLNhnNrIp7BFthDDosEHt.jpg"
+    },
+    {
+      "name": "Mirta Ojito"
+    },
+    {
+      "name": "Carlos Eire"
+    },
+    {
+      "name": "Achy Obejas"
+    }
+  ]
+}

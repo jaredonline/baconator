@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/g4H5jn75netm2k0XNeIsLKtnqFc.jpg",
+    "name": "False Trail"
+  },
+  "cast": [
+    {
+      "name": "Peter Stormare",
+      "image": "http://image.tmdb.org/t/p/w185/dDR0brp5L7fXDyEywrhjQv01LSg.jpg"
+    },
+    {
+      "name": "Rolf Lassgård",
+      "image": "http://image.tmdb.org/t/p/w185/xLmugloc9lSQrKm1TOuax6TxLMI.jpg"
+    },
+    {
+      "name": "Annika Nordin"
+    },
+    {
+      "name": "Kim Tjernström"
+    },
+    {
+      "name": "Eero Milonoff  "
+    },
+    {
+      "name": "Lo Kauppi"
+    }
+  ]
+}

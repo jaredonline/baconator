@@ -1,0 +1,57 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/o1Xygh3APD7Cx2AffFUTHC90PgG.jpg",
+    "name": "Ebenezer"
+  },
+  "cast": [
+    {
+      "name": "Jack Palance",
+      "image": "http://image.tmdb.org/t/p/w185/RKqKZ2rRDNkv0jaQscDARfRh9D.jpg"
+    },
+    {
+      "name": "Ricky Schroder",
+      "image": "http://image.tmdb.org/t/p/w185/fGo3BwKX5ed39HHqhozJb7s0D5D.jpg"
+    },
+    {
+      "name": "Amy Locane",
+      "image": "http://image.tmdb.org/t/p/w185/6F3aO7rTxHSXTW0Eax3EHSU9Eu2.jpg"
+    },
+    {
+      "name": "Albert Schultz"
+    },
+    {
+      "name": "Daryl Shuttleworth"
+    },
+    {
+      "name": "Richard Comar"
+    },
+    {
+      "name": "Michelle Thrush"
+    },
+    {
+      "name": "Richard Halliday"
+    },
+    {
+      "name": "Susan Coyne",
+      "image": "http://image.tmdb.org/t/p/w185/a62GVU7iJJUoNrKrO5Zc6ZlllGj.jpg"
+    },
+    {
+      "name": "Joshua Silberg"
+    },
+    {
+      "name": "Zoe Rose Hesse"
+    },
+    {
+      "name": "Darcy Dunlop"
+    },
+    {
+      "name": "Jocelyne Loewen"
+    },
+    {
+      "name": "J.C. Roberts"
+    },
+    {
+      "name": "Kyle Collings"
+    }
+  ]
+}

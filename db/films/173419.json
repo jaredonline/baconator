@@ -1,0 +1,22 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/cHPHuhDTYmilIazX17gwGTOHG7K.jpg",
+    "name": "Las razones de mis amigos"
+  },
+  "cast": [
+    {
+      "name": "Marta Belaustegui"
+    },
+    {
+      "name": "Joel Joan",
+      "image": "http://image.tmdb.org/t/p/w185/eZaiTHwNnTDYTXuZ6Zh2kBptilB.jpg"
+    },
+    {
+      "name": "Sergi Calleja"
+    },
+    {
+      "name": "Lola Dueñas",
+      "image": "http://image.tmdb.org/t/p/w185/d7nrzos7MxMBhokRhxxIXmDuxsY.jpg"
+    }
+  ]
+}

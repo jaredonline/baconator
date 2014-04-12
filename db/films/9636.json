@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/cQD9uwXmmlbHqEc22CUdnRERWAL.jpg",
+    "name": "Control"
+  },
+  "cast": [
+    {
+      "name": "Ray Liotta",
+      "image": "http://image.tmdb.org/t/p/w185/o4jJSH3sri9dSIJwsCgT4de1535.jpg"
+    },
+    {
+      "name": "Willem Dafoe",
+      "image": "http://image.tmdb.org/t/p/w185/4Wuww8ORt6nrHyBSUBLTHWt24EZ.jpg"
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "image": "http://image.tmdb.org/t/p/w185/v37VK0MNuRuJOCKPKJcZAJXRA5r.jpg"
+    },
+    {
+      "name": "Stephen Rea",
+      "image": "http://image.tmdb.org/t/p/w185/taD1NngDbW8cyCuacAT3YaecSEG.jpg"
+    }
+  ]
+}

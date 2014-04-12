@@ -1,0 +1,78 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/1Foz64MHW5qhmAxcBdsXoaZK6Tz.jpg",
+    "name": "The Death Collector"
+  },
+  "cast": [
+    {
+      "name": " Joe Cortese",
+      "image": "http://image.tmdb.org/t/p/w185/ymmdGexKjqPXcEUQMRUrYWRD5aV.jpg"
+    },
+    {
+      "name": "Lou Criscuolo"
+    },
+    {
+      "name": "Joe Pesci",
+      "image": "http://image.tmdb.org/t/p/w185/2M9HYhMVMSkrXn107uArc8ItbGp.jpg"
+    },
+    {
+      "name": "Bobby Alto"
+    },
+    {
+      "name": "Frank Vincent",
+      "image": "http://image.tmdb.org/t/p/w185/j8BhmYAt9ZPKfiRvT0RbC0zwCOI.jpg"
+    },
+    {
+      "name": "Keith Davis"
+    },
+    {
+      "name": "Jack Ramage"
+    },
+    {
+      "name": "Anne Johns"
+    },
+    {
+      "name": "Bob D'Andrea"
+    },
+    {
+      "name": "Victoria Hale"
+    },
+    {
+      "name": "Frank Ammirati"
+    },
+    {
+      "name": "Gino Gennaro"
+    },
+    {
+      "name": "Floyd Levine",
+      "image": "http://image.tmdb.org/t/p/w185/qP8m9hTm9DDIslygjManiBqktj8.jpg"
+    },
+    {
+      "name": "Sal La Pera"
+    },
+    {
+      "name": "Richard Ward"
+    },
+    {
+      "name": "Frank Piazza"
+    },
+    {
+      "name": "Tony Munafo"
+    },
+    {
+      "name": "Joseph Summo"
+    },
+    {
+      "name": "Michael Aronin"
+    },
+    {
+      "name": "Jeri Haywood"
+    },
+    {
+      "name": "Daniel P. Conte"
+    },
+    {
+      "name": "Hyla Marrow"
+    }
+  ]
+}

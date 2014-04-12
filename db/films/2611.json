@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6iJkBwOAJD8WInWr04gvGQYu2yI.jpg",
+    "name": "Only the Lonely"
+  },
+  "cast": [
+    {
+      "name": "John Candy",
+      "image": "http://image.tmdb.org/t/p/w185/mNC2yH2Q7wRoPk4o0aonIcIULfI.jpg"
+    },
+    {
+      "name": "Maureen O'Hara",
+      "image": "http://image.tmdb.org/t/p/w185/quQgrArKxPxol1dYTxeu71Qk1ng.jpg"
+    },
+    {
+      "name": "Ally Sheedy",
+      "image": "http://image.tmdb.org/t/p/w185/xfNrfzgDwyvmczadJWw4fN70siS.jpg"
+    },
+    {
+      "name": "Anthony Quinn",
+      "image": "http://image.tmdb.org/t/p/w185/9sKpm4KCoUbmMbR86fpqcgBCHrJ.jpg"
+    },
+    {
+      "name": "James Belushi",
+      "image": "http://image.tmdb.org/t/p/w185/AplV1ikSo3Zn93hhy5ht7Y7sQio.jpg"
+    }
+  ]
+}

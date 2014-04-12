@@ -1,0 +1,45 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/kUssCimBpsiAcPastsfyJFiGxSU.jpg",
+    "name": "Se permettete parliamo di donne"
+  },
+  "cast": [
+    {
+      "name": "Vittorio Gassman",
+      "image": "http://image.tmdb.org/t/p/w185/53ICH7uNIj795ATZCdDICmRqUEo.jpg"
+    },
+    {
+      "name": "Sylva Koscina",
+      "image": "http://image.tmdb.org/t/p/w185/jwkKgsRYHIkHMSNcGAeuYA829i3.jpg"
+    },
+    {
+      "name": "Antonella Lualdi",
+      "image": "http://image.tmdb.org/t/p/w185/23iCEj2Fp6VNm1cNk0bZ0rylSTk.jpg"
+    },
+    {
+      "name": "Eleonora Rossi Drago",
+      "image": "http://image.tmdb.org/t/p/w185/bRRLIFbm7imf4zeIPQwHM3U8yb9.jpg"
+    },
+    {
+      "name": "Giovanna Ralli",
+      "image": "http://image.tmdb.org/t/p/w185/vLDUHANVOdI0Zz9mJA2vhlMj0XP.jpg"
+    },
+    {
+      "name": "Mario Brega",
+      "image": "http://image.tmdb.org/t/p/w185/k07gKWh5tQZurRKaw7K6ph7k9ae.jpg"
+    },
+    {
+      "name": "Walter Chiari",
+      "image": "http://image.tmdb.org/t/p/w185/gFlqHrBPi96amqyt1eVZf4hIuPK.jpg"
+    },
+    {
+      "name": "Umberto D'Orsi"
+    },
+    {
+      "name": "Attilio Dottesio"
+    },
+    {
+      "name": "Rosanna Gherardi"
+    }
+  ]
+}

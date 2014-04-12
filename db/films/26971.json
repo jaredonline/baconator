@@ -1,0 +1,35 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zZSRDA6tyR7AsX0YddjpoS0Cj6g.jpg",
+    "name": "Mediterranean Food"
+  },
+  "cast": [
+    {
+      "name": "Paco León",
+      "image": "http://image.tmdb.org/t/p/w185/lTGrXzvyFK65XJcW4xU3bMew7DM.jpg"
+    },
+    {
+      "name": "Olivia Molina"
+    },
+    {
+      "name": "Alfonso Bassave",
+      "image": "http://image.tmdb.org/t/p/w185/q5G9Oj8tzUlBRQs9owjQkjYLk4z.jpg"
+    },
+    {
+      "name": "Carmen Balagué"
+    },
+    {
+      "name": "Roberto Álvarez"
+    },
+    {
+      "name": "Jesús Castejón"
+    },
+    {
+      "name": "Jordi Martínez",
+      "image": "http://image.tmdb.org/t/p/w185/oieMOOadihJjUVVRnrROcbovlc6.jpg"
+    },
+    {
+      "name": "Stefano Scandaletti"
+    }
+  ]
+}

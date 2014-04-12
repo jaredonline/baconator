@@ -1,0 +1,55 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/aYKUS30UegJ39VNys6vz59ESlJu.jpg",
+    "name": "Cannibal Girls"
+  },
+  "cast": [
+    {
+      "name": "Eugene Levy",
+      "image": "http://image.tmdb.org/t/p/w185/geUUix3637F1NsCkeijGbsTrbRf.jpg"
+    },
+    {
+      "name": "Andrea Martin",
+      "image": "http://image.tmdb.org/t/p/w185/vt4yKdu8dYOpDNCAZEVX634iBK9.jpg"
+    },
+    {
+      "name": "Ronald Ulrich"
+    },
+    {
+      "name": "Randall Carpenter"
+    },
+    {
+      "name": "Bonnie Neilson"
+    },
+    {
+      "name": "Mira Pawluk"
+    },
+    {
+      "name": "Bob McHeady"
+    },
+    {
+      "name": "Alan Gordon"
+    },
+    {
+      "name": "Allan Price"
+    },
+    {
+      "name": "Earl Pomerantz"
+    },
+    {
+      "name": "May Jarvis"
+    },
+    {
+      "name": "Gino Marrocco"
+    },
+    {
+      "name": "Rick Maguire"
+    },
+    {
+      "name": "Bunker"
+    },
+    {
+      "name": "Fishka Rais"
+    }
+  ]
+}

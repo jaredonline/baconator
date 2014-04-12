@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/taVFuUhUWoX9YE7bb2bWkSPjC9P.jpg",
+    "name": "Buffalo '66"
+  },
+  "cast": [
+    {
+      "name": "Vincent Gallo",
+      "image": "http://image.tmdb.org/t/p/w185/cadamsAke7YxbC9ooXHQWYxcHQl.jpg"
+    },
+    {
+      "name": "Christina Ricci",
+      "image": "http://image.tmdb.org/t/p/w185/d4AvRqYvGpzuJu0ZFE9xmZTPzrI.jpg"
+    },
+    {
+      "name": "Ben Gazzara",
+      "image": "http://image.tmdb.org/t/p/w185/wJ8upr9m4F6Tn4cht9Ok0PWj4dV.jpg"
+    },
+    {
+      "name": "Mickey Rourke",
+      "image": "http://image.tmdb.org/t/p/w185/AvGzQ8fvjurGmZW3W1wlQ5WfSeT.jpg"
+    },
+    {
+      "name": "Rosanna Arquette",
+      "image": "http://image.tmdb.org/t/p/w185/rQMQYQUF9QzD6oDfkP6tsjmyZhS.jpg"
+    }
+  ]
+}

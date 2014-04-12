@@ -1,0 +1,35 @@
+{
+  "film": {
+    "name": "Death Takes a Holiday"
+  },
+  "cast": [
+    {
+      "name": "Yvette Mimieux",
+      "image": "http://image.tmdb.org/t/p/w185/si2xHsf2wwHsT7OQXXm6AGrdDJ9.jpg"
+    },
+    {
+      "name": "Monte Markham",
+      "image": "http://image.tmdb.org/t/p/w185/kZlsXZy8iaGRqeKhSRMTE0SfMg0.jpg"
+    },
+    {
+      "name": "Myrna Loy",
+      "image": "http://image.tmdb.org/t/p/w185/qxroKPNGAeh3WCCVTad2yTAQV3S.jpg"
+    },
+    {
+      "name": "Bert Convy",
+      "image": "http://image.tmdb.org/t/p/w185/56uVr94mVcQbYHCmmEDUB1UJFo9.jpg"
+    },
+    {
+      "name": "Melvyn Douglas",
+      "image": "http://image.tmdb.org/t/p/w185/e7gEtNRDYydjVVcjZLqebyXTUGw.jpg"
+    },
+    {
+      "name": "Kerwin Mathews",
+      "image": "http://image.tmdb.org/t/p/w185/6Us51ZfiJ4txrEHLj55pxfLUW1x.jpg"
+    },
+    {
+      "name": "Priscilla Pointer",
+      "image": "http://image.tmdb.org/t/p/w185/rHS2mCfdyv3nsN3I25hXQaNn6KK.jpg"
+    }
+  ]
+}

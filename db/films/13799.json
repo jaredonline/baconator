@@ -1,0 +1,12 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/nsPbkKvHj4jtomDjT5nCzVPOsd6.jpg",
+    "name": "IMAX - Cosmic Voyage"
+  },
+  "cast": [
+    {
+      "name": "Morgan Freeman",
+      "image": "http://image.tmdb.org/t/p/w185/oGJQhOpT8S1M56tvSsbEBePV5O1.jpg"
+    }
+  ]
+}

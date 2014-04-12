@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/vy7jPCzlSWEBBxwQJzwn50nDbmG.jpg",
+    "name": "Colin Fitz"
+  },
+  "cast": [
+    {
+      "name": "John C. McGinley",
+      "image": "http://image.tmdb.org/t/p/w185/yQTkjDH68RNcv3Id7rae7XMVUWO.jpg"
+    },
+    {
+      "name": "Matt McGrath",
+      "image": "http://image.tmdb.org/t/p/w185/zrw8HWHNWvNmBGHBYZkicaNJg9A.jpg"
+    },
+    {
+      "name": "William H. Macy",
+      "image": "http://image.tmdb.org/t/p/w185/rpUv9mDece5LQuWI7iBNQaAesFg.jpg"
+    }
+  ]
+}

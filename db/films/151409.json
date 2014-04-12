@@ -1,0 +1,12 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/Mbp8HUVAwtTKA9u4yHenLRfPe.jpg",
+    "name": "The Majestic Plastic Bag"
+  },
+  "cast": [
+    {
+      "name": "Jeremy Irons",
+      "image": "http://image.tmdb.org/t/p/w185/9AWphjIgGX7JjTrwrx3tsTZlUgv.jpg"
+    }
+  ]
+}

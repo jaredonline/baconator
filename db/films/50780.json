@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/yE0GIDaivwfSgYAXpVLvq6DjngQ.jpg",
+    "name": "The Beaver"
+  },
+  "cast": [
+    {
+      "name": "Jodie Foster",
+      "image": "http://image.tmdb.org/t/p/w185/t88DxzYA7DlthxluhPLHXV69iJW.jpg"
+    },
+    {
+      "name": "Mel Gibson",
+      "image": "http://image.tmdb.org/t/p/w185/6VGgL0bBvPIJ9vDOyyGf5nK2zL4.jpg"
+    },
+    {
+      "name": "Jennifer Lawrence",
+      "image": "http://image.tmdb.org/t/p/w185/yz0s4kVEC7Wc4iqi2zK7Gmfx9h9.jpg"
+    },
+    {
+      "name": "Anton Yelchin",
+      "image": "http://image.tmdb.org/t/p/w185/dklkpUp2osK64M7QVH1aC9Dn060.jpg"
+    }
+  ]
+}

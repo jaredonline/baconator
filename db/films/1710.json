@@ -1,0 +1,61 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/80czeJGSoik22fhtUM9WzyjUU4r.jpg",
+    "name": "Copycat"
+  },
+  "cast": [
+    {
+      "name": "Sigourney Weaver",
+      "image": "http://image.tmdb.org/t/p/w185/uXUxgbWWdHnUDLYFNg4jviTjTnq.jpg"
+    },
+    {
+      "name": "Holly Hunter",
+      "image": "http://image.tmdb.org/t/p/w185/35P7RI2XBTElKnUKgjJNtwHLpm3.jpg"
+    },
+    {
+      "name": "Will Patton",
+      "image": "http://image.tmdb.org/t/p/w185/3whlJQheRJiG4mQ2F6T9DwUBrMm.jpg"
+    },
+    {
+      "name": "William McNamara",
+      "image": "http://image.tmdb.org/t/p/w185/lqlYRqd7Zr7y79FamObjaABIkRq.jpg"
+    },
+    {
+      "name": "Harry Connick, Jr.",
+      "image": "http://image.tmdb.org/t/p/w185/zdIXPJyfpje8BGBjNQAe73CzSTx.jpg"
+    },
+    {
+      "name": "J.E. Freeman",
+      "image": "http://image.tmdb.org/t/p/w185/lGqZh89pfgSNhIItjvn34jPO6HM.jpg"
+    },
+    {
+      "name": "Dermot Mulroney",
+      "image": "http://image.tmdb.org/t/p/w185/4ZqA0SJ8KKZ1HvVdZZJlrqjxlq1.jpg"
+    },
+    {
+      "name": "John Rothman",
+      "image": "http://image.tmdb.org/t/p/w185/cOzdiUnZJtoQqYLPRkp3ftVEkj6.jpg"
+    },
+    {
+      "name": "Shannon O'Hurley"
+    },
+    {
+      "name": "Bob Greene"
+    },
+    {
+      "name": "Tony Haney"
+    },
+    {
+      "name": "Danny Kovacs"
+    },
+    {
+      "name": "Tahmus Rounds"
+    },
+    {
+      "name": "Scott Devenney"
+    },
+    {
+      "name": "David Michael Silverman"
+    }
+  ]
+}

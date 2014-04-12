@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2m43gJEcgOglLfY1qRTPqdl490X.jpg",
+    "name": "The Mighty Macs"
+  },
+  "cast": [
+    {
+      "name": "Carla Gugino",
+      "image": "http://image.tmdb.org/t/p/w185/rEnVfc4Xb0M5T1QvtN1k2xJ8RbX.jpg"
+    },
+    {
+      "name": "Ellen Burstyn",
+      "image": "http://image.tmdb.org/t/p/w185/8a9Lr2WXhzZEwTdzrUJkBrUS4BD.jpg"
+    },
+    {
+      "name": "Marley Shelton",
+      "image": "http://image.tmdb.org/t/p/w185/yy2CXM3JwP0Ct9NuWgcS9sRJJ4b.jpg"
+    },
+    {
+      "name": "David Boreanaz",
+      "image": "http://image.tmdb.org/t/p/w185/k3lRYEJ8yAoiNucN500l9RCCSAS.jpg"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2eZKDIwLNnySbwqQtAaUz0kYDIL.jpg",
+    "name": "Army of Darkness"
+  },
+  "cast": [
+    {
+      "name": "Bruce Campbell",
+      "image": "http://image.tmdb.org/t/p/w185/ox3Mf0pXGEiWfRO2TYcua0EHUQN.jpg"
+    },
+    {
+      "name": "Embeth Davidtz",
+      "image": "http://image.tmdb.org/t/p/w185/49owOgVdOQqeleEMnOhko5ndkXr.jpg"
+    },
+    {
+      "name": "Marcus Gilbert"
+    },
+    {
+      "name": "Ian Abercrombie",
+      "image": "http://image.tmdb.org/t/p/w185/qci9vBTZJXQNLIFpCtIpXU881g8.jpg"
+    },
+    {
+      "name": "Richard Grove"
+    },
+    {
+      "name": "Timothy Patrick Quill"
+    },
+    {
+      "name": "Michael Earl Reid"
+    },
+    {
+      "name": "Bridget Fonda",
+      "image": "http://image.tmdb.org/t/p/w185/uO9IfxsPKhCpcaB8217fKhgwfft.jpg"
+    },
+    {
+      "name": "Patricia Tallman",
+      "image": "http://image.tmdb.org/t/p/w185/s9asG4OYi8kLFf9ZfsQXgQnudww.jpg"
+    },
+    {
+      "name": "Ted Raimi",
+      "image": "http://image.tmdb.org/t/p/w185/qwul2LI7FzzfypJvo7zth2vvwuR.jpg"
+    }
+  ]
+}

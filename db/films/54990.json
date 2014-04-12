@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/tP41ZiBdMYJm2IVjhrvMFiu4dtG.jpg",
+    "name": "The Legend of the Holy Drinker"
+  },
+  "cast": [
+    {
+      "name": "Rutger Hauer",
+      "image": "http://image.tmdb.org/t/p/w185/96XEG75LYFFPb9R03EaN8zipWP4.jpg"
+    },
+    {
+      "name": "Anthony Quayle",
+      "image": "http://image.tmdb.org/t/p/w185/cGxouSdw4SoGE5Soxlj6KnpZObE.jpg"
+    },
+    {
+      "name": "Sandrine Dumas"
+    },
+    {
+      "name": "Dominique Pinon",
+      "image": "http://image.tmdb.org/t/p/w185/zd26nDw1foHCVm5fqpRuQjfd4a5.jpg"
+    }
+  ]
+}

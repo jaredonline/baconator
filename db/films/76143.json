@@ -1,0 +1,57 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/cpc5icqi6ZNbJrGzIDOXoSkgTre.jpg",
+    "name": "Pirates of the Lake"
+  },
+  "cast": [
+    {
+      "name": "Gustav Ljungberg"
+    },
+    {
+      "name": "Kristian Almgren"
+    },
+    {
+      "name": "Jonas Eriksson"
+    },
+    {
+      "name": "Björn Gustafson",
+      "image": "http://image.tmdb.org/t/p/w185/kthYEmbkQdGGAU8iGo4eLZuf5w3.jpg"
+    },
+    {
+      "name": "Peter Stormare",
+      "image": "http://image.tmdb.org/t/p/w185/dDR0brp5L7fXDyEywrhjQv01LSg.jpg"
+    },
+    {
+      "name": "Anita Ekström",
+      "image": "http://image.tmdb.org/t/p/w185/qZ9UHXXc4yyU03S0NmXIsgqwXOp.jpg"
+    },
+    {
+      "name": "Björn Granath",
+      "image": "http://image.tmdb.org/t/p/w185/vnAD5t7vyCP7GPicOa2bB3WXJxD.jpg"
+    },
+    {
+      "name": "Allan Edwall",
+      "image": "http://image.tmdb.org/t/p/w185/piVVazoJR606qMCcVzsBivqTHug.jpg"
+    },
+    {
+      "name": "Anita Wall"
+    },
+    {
+      "name": "Mathias Henrikson"
+    },
+    {
+      "name": "Carl Magnus Dellow"
+    },
+    {
+      "name": "Lars-Erik Berenett",
+      "image": "http://image.tmdb.org/t/p/w185/ndJgJzqw0bOJflNZcrCQqaf7Bc9.jpg"
+    },
+    {
+      "name": "Carl-Olof Alm"
+    },
+    {
+      "name": "Tor Isedal",
+      "image": "http://image.tmdb.org/t/p/w185/7pbBfMkJlH0Crq3K8QHRERKJLNw.jpg"
+    }
+  ]
+}

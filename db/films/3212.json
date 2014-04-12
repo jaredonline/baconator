@@ -1,0 +1,78 @@
+{
+  "film": {
+    "name": "100 Years of Horror: The Frankenstein Family"
+  },
+  "cast": [
+    {
+      "name": "Ralph Bellamy",
+      "image": "http://image.tmdb.org/t/p/w185/fjRvQxfzPw77TUMDaJHnPKirpG0.jpg"
+    },
+    {
+      "name": "Michael F. Blake"
+    },
+    {
+      "name": "Kenneth Branagh",
+      "image": "http://image.tmdb.org/t/p/w185/vST4tGTsVtHRuW0sRHY3EDizorW.jpg"
+    },
+    {
+      "name": "Veronica Carlson",
+      "image": "http://image.tmdb.org/t/p/w185/xNlGSC2okI3eL51nh5fbwu1pTfc.jpg"
+    },
+    {
+      "name": "Richard E. Cunha"
+    },
+    {
+      "name": "Robert De Niro",
+      "image": "http://image.tmdb.org/t/p/w185/8Bgdfv1oN9Mw0YuMHP6fw8KzDkc.jpg"
+    },
+    {
+      "name": "Freddie Francis",
+      "image": "http://image.tmdb.org/t/p/w185/qU6NZdMFUYQKl0oMG1DK5W5gmfe.jpg"
+    },
+    {
+      "name": "Donald F. Glut"
+    },
+    {
+      "name": "Hugh Hefner",
+      "image": "http://image.tmdb.org/t/p/w185/3BS3PEHxgqr7G1ItTpCGzhSFViV.jpg"
+    },
+    {
+      "name": "Jack Hill",
+      "image": "http://image.tmdb.org/t/p/w185/yTwURbDoPgVsbpByaz01mFrrbVu.jpg"
+    },
+    {
+      "name": "Boris Karloff",
+      "image": "http://image.tmdb.org/t/p/w185/gqaKR7BfXqBds8oLJ1KUGD8Gl6u.jpg"
+    },
+    {
+      "name": "Sara Karloff"
+    },
+    {
+      "name": "Don Medford"
+    },
+    {
+      "name": "Jack P. Pierce"
+    },
+    {
+      "name": "Fred Olen Ray"
+    },
+    {
+      "name": "Jimmy Sangster"
+    },
+    {
+      "name": "David J. Skal"
+    },
+    {
+      "name": "Christopher Lee",
+      "image": "http://image.tmdb.org/t/p/w185/7YwjaHLmuy1isK6oh3TnBDd6Oml.jpg"
+    },
+    {
+      "name": "Hazel Court",
+      "image": "http://image.tmdb.org/t/p/w185/arrnJNt1mJqH7NEwyYr7Mxz0eeY.jpg"
+    },
+    {
+      "name": "Bela Lugosi",
+      "image": "http://image.tmdb.org/t/p/w185/rQINZ2bo0OmjR3Vs71cE1WKhTJl.jpg"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/wbrLnTxfqpNzecX62EwUgKbjvBG.jpg",
+    "name": "Shaolin Temple 2: Kids from Shaolin"
+  },
+  "cast": [
+    {
+      "name": "Jet Li",
+      "image": "http://image.tmdb.org/t/p/w185/jqp0CR3OjNmhfooqsJrXAyCEOg5.jpg"
+    },
+    {
+      "name": "Lan Ding"
+    },
+    {
+      "name": "Chau-Yin Wong"
+    },
+    {
+      "name": "Gordon Liu Chia-Hui",
+      "image": "http://image.tmdb.org/t/p/w185/yTI36A27P9YdFbzrCwjpmEpDGbR.jpg"
+    },
+    {
+      "name": "Qingfu Pan"
+    },
+    {
+      "name": "Cheng-Hui Yu"
+    },
+    {
+      "name": "Hai Yu"
+    },
+    {
+      "name": "Hu Jian Qiang"
+    }
+  ]
+}

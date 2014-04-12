@@ -1,0 +1,16 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zjJpMstYLG15h7WRWuHaNhIeDns.jpg",
+    "name": "The American standards"
+  },
+  "cast": [
+    {
+      "name": "James Brolin",
+      "image": "http://image.tmdb.org/t/p/w185/7sp13guwky7N98zyltrXL4sGI2n.jpg"
+    },
+    {
+      "name": "Joanna Cassidy",
+      "image": "http://image.tmdb.org/t/p/w185/mdmTS5M918mLNToGI9zp83Kyc1d.jpg"
+    }
+  ]
+}

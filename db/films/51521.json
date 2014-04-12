@@ -1,0 +1,25 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/spUKBY64HlNkC4xkTh2o6P2jo27.jpg",
+    "name": "My Demon Lover"
+  },
+  "cast": [
+    {
+      "name": "Scott Valentine",
+      "image": "http://image.tmdb.org/t/p/w185/rpuoosMHy5bALNvAOzN8ucL0k3k.jpg"
+    },
+    {
+      "name": "Michele Little"
+    },
+    {
+      "name": "Robert Trebor",
+      "image": "http://image.tmdb.org/t/p/w185/kbdafrGTyRjrL6lB4jVtoNBSHjK.jpg"
+    },
+    {
+      "name": "Gina Gallego"
+    },
+    {
+      "name": "Alan Fudge"
+    }
+  ]
+}

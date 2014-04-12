@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/uPqOdDiMKqZForyPW9VU0gmrFRZ.jpg",
+    "name": "The Mod Squad"
+  },
+  "cast": [
+    {
+      "name": "Claire Danes",
+      "image": "http://image.tmdb.org/t/p/w185/vecUGaHIRhbJG9QMZS4vUGNSenO.jpg"
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "image": "http://image.tmdb.org/t/p/w185/mLQrEU7X7GD5V7i1clGRqpg8PVk.jpg"
+    },
+    {
+      "name": "Omar Epps",
+      "image": "http://image.tmdb.org/t/p/w185/t4Qg5ANKK2idfOt4RzWzhiP7IEv.jpg"
+    },
+    {
+      "name": "Dennis Farina",
+      "image": "http://image.tmdb.org/t/p/w185/o649nAtUimSZxEV6xa5JbMSgsED.jpg"
+    },
+    {
+      "name": "Josh Brolin",
+      "image": "http://image.tmdb.org/t/p/w185/x8KKnvHyPvH16M6waAnY1OeCtA8.jpg"
+    },
+    {
+      "name": "Steve Harris",
+      "image": "http://image.tmdb.org/t/p/w185/CvEvVkv0pA1wNK6QQqndc8rw2Q.jpg"
+    },
+    {
+      "name": "Richard Jenkins",
+      "image": "http://image.tmdb.org/t/p/w185/iz61iPIgNUp0yk48bRNjEJ5GHO4.jpg"
+    }
+  ]
+}

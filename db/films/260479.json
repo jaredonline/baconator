@@ -1,0 +1,31 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/mX8h1EQI4Tmq3PJtlJsIDjdDHn3.jpg",
+    "name": "Dime que yo"
+  },
+  "cast": [
+    {
+      "name": "Fele Martínez",
+      "image": "http://image.tmdb.org/t/p/w185/69Q0vNghrRTosI82xwd3gLBv7Qx.jpg"
+    },
+    {
+      "name": "Judith Diakhate"
+    },
+    {
+      "name": "Carolina Bang",
+      "image": "http://image.tmdb.org/t/p/w185/Cf7QYUIxeZsKGUeik5tUqXa83j.jpg"
+    },
+    {
+      "name": "Lucio Cerda"
+    },
+    {
+      "name": "José García"
+    },
+    {
+      "name": "Alberto Soto"
+    },
+    {
+      "name": "Xisela López"
+    }
+  ]
+}

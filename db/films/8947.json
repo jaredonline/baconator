@@ -1,0 +1,34 @@
+{
+  "film": {
+    "name": "Dirty Tricks"
+  },
+  "cast": [
+    {
+      "name": "Brad Pitt",
+      "image": "http://image.tmdb.org/t/p/w185/kc3M04QQAuZ9woUvH3Ju5T7ZqG5.jpg"
+    },
+    {
+      "name": "Jim Broadbent",
+      "image": "http://image.tmdb.org/t/p/w185/xWR0M9yaqcc6neBAg8tMgqGXwS3.jpg"
+    },
+    {
+      "name": "Sharon Stone",
+      "image": "http://image.tmdb.org/t/p/w185/n28skoawvqAymYr6gRSm2pfro0i.jpg"
+    },
+    {
+      "name": "Annette Bening",
+      "image": "http://image.tmdb.org/t/p/w185/jFLOJJEISpOafM89EiaaoxgAVfC.jpg"
+    },
+    {
+      "name": "Meryl Streep",
+      "image": "http://image.tmdb.org/t/p/w185/vtpQvqGFHtM52QYyIdhvQYMChBy.jpg"
+    },
+    {
+      "name": "Jill Clayburgh",
+      "image": "http://image.tmdb.org/t/p/w185/twrfhIvbqHuJ7nXVpehvU6nyi6R.jpg"
+    },
+    {
+      "name": "Martín Hernández"
+    }
+  ]
+}

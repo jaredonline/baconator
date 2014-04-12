@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4GL7murpsXk59ZMrCJP5eXhNPcH.jpg",
+    "name": "Waterloo"
+  },
+  "cast": [
+    {
+      "name": "Rod Steiger",
+      "image": "http://image.tmdb.org/t/p/w185/4tRu2X6WFMxZbAT3L0ay2nvW1O.jpg"
+    },
+    {
+      "name": "Christopher Plummer",
+      "image": "http://image.tmdb.org/t/p/w185/fauMGxa6dc86nHNenQ8X6DlE6YV.jpg"
+    },
+    {
+      "name": "Orson Welles",
+      "image": "http://image.tmdb.org/t/p/w185/pZz07JqawZP3eKUwpaAZq63vEmF.jpg"
+    },
+    {
+      "name": "Jack Hawkins",
+      "image": "http://image.tmdb.org/t/p/w185/7b6E24ZRLEPJwP0WQauXJPt41Fs.jpg"
+    }
+  ]
+}

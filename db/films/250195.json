@@ -1,0 +1,16 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/fU4JWbRLPjpMQ03Qp2ZWrsaDfMx.jpg",
+    "name": "True West"
+  },
+  "cast": [
+    {
+      "name": "John Malkovich",
+      "image": "http://image.tmdb.org/t/p/w185/gR0pxO5QLOh2EAgCbkjuq44Wz5b.jpg"
+    },
+    {
+      "name": "Gary Sinise",
+      "image": "http://image.tmdb.org/t/p/w185/aa2DOJZWvTcYSvoEKJzwfulv3sc.jpg"
+    }
+  ]
+}

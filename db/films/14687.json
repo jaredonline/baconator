@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/dUssgf4YiycxUz0wNEaScUpQ9hx.jpg",
+    "name": "Eichmann"
+  },
+  "cast": [
+    {
+      "name": "Thomas Kretschmann",
+      "image": "http://image.tmdb.org/t/p/w185/allahLWNWLQpeY46nUg1d6zSO7T.jpg"
+    },
+    {
+      "name": "Troy Garity",
+      "image": "http://image.tmdb.org/t/p/w185/awiKaLIJUN4dGEDuBcOYJMjQsji.jpg"
+    },
+    {
+      "name": "Franka Potente",
+      "image": "http://image.tmdb.org/t/p/w185/9PaVLDG7jTA0PWqzfE8rvFPNrKh.jpg"
+    },
+    {
+      "name": "Stephen Fry",
+      "image": "http://image.tmdb.org/t/p/w185/uaRoTAS2D15vdlpHm122UEUg5ck.jpg"
+    }
+  ]
+}

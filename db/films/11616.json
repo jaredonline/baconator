@@ -1,0 +1,30 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/uBq4SQkKrqGyafGFPJosdj9gWTt.jpg",
+    "name": "Go for It"
+  },
+  "cast": [
+    {
+      "name": "Terence Hill",
+      "image": "http://image.tmdb.org/t/p/w185/9HDBwZlNyYgXR0fGNKJCUOhJF4t.jpg"
+    },
+    {
+      "name": "Bud Spencer",
+      "image": "http://image.tmdb.org/t/p/w185/9DbwXqkoMLBqZaQYEeSDX934mTG.jpg"
+    },
+    {
+      "name": "Buffy Dee"
+    },
+    {
+      "name": "David Huddleston",
+      "image": "http://image.tmdb.org/t/p/w185/6cXqGzHB0zJautJVPCtbEsCtsCQ.jpg"
+    },
+    {
+      "name": "Riccardo Pizzuti",
+      "image": "http://image.tmdb.org/t/p/w185/oX5LQL46Lqut6J1ajWAf1OLKqyc.jpg"
+    },
+    {
+      "name": "Faith Minton"
+    }
+  ]
+}

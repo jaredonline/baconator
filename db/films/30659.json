@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/lhAl8XxpSsQOlDUMCxRArtfbokS.jpg",
+    "name": "A Foreign Field"
+  },
+  "cast": [
+    {
+      "name": "Alec Guinness",
+      "image": "http://image.tmdb.org/t/p/w185/sNKqzb8U33pWVHJ338NjkHSEVDn.jpg"
+    },
+    {
+      "name": "Leo McKern",
+      "image": "http://image.tmdb.org/t/p/w185/qcO1TFO6SowLOQAwKRMKrqmrk6A.jpg"
+    },
+    {
+      "name": "Lauren Bacall",
+      "image": "http://image.tmdb.org/t/p/w185/g5zugK9W3pVRiMTVWR5GYHawyrx.jpg"
+    },
+    {
+      "name": "Jeanne Moreau",
+      "image": "http://image.tmdb.org/t/p/w185/uHJnVwCzehEoz0mIlwN7xkymql8.jpg"
+    },
+    {
+      "name": "John Randolph",
+      "image": "http://image.tmdb.org/t/p/w185/4mfEMVfzxPuRRcVBtcPyIXF5KoE.jpg"
+    },
+    {
+      "name": "Edward Herrmann",
+      "image": "http://image.tmdb.org/t/p/w185/iA83ozZ11yBlPS4XB0aHENurcl3.jpg"
+    },
+    {
+      "name": "Geraldine Chaplin",
+      "image": "http://image.tmdb.org/t/p/w185/x7N40x101QmzkNe9nrKWVKzT9n5.jpg"
+    }
+  ]
+}

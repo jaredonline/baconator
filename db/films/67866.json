@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4NhdOoDYDkmAZAnqQXtKGCYNqdb.jpg",
+    "name": "Guyana Tragedy: The Story of Jim Jones"
+  },
+  "cast": [
+    {
+      "name": "Powers Boothe",
+      "image": "http://image.tmdb.org/t/p/w185/3nNL6AvMAYq0BmHKM79RnRZVq3i.jpg"
+    },
+    {
+      "name": "Brad Dourif",
+      "image": "http://image.tmdb.org/t/p/w185/jfvemADVHzTWu5HiOEhYmFfSpWt.jpg"
+    },
+    {
+      "name": "Ned Beatty",
+      "image": "http://image.tmdb.org/t/p/w185/4ahm1CiMPJXzuyErOoUqGgC9Zt5.jpg"
+    },
+    {
+      "name": "Veronica Cartwright",
+      "image": "http://image.tmdb.org/t/p/w185/9TorYWWIO0Q5nXYOmAzvJUnL7Rf.jpg"
+    },
+    {
+      "name": "Irene Cara",
+      "image": "http://image.tmdb.org/t/p/w185/tehwS2A9m7sTE5NLHVtp2pv4FC5.jpg"
+    },
+    {
+      "name": "Randy Quaid",
+      "image": "http://image.tmdb.org/t/p/w185/dEv00CcMYzv3y6BetWufyEeqKgT.jpg"
+    },
+    {
+      "name": "James Earl Jones",
+      "image": "http://image.tmdb.org/t/p/w185/pxC7jiRTHArPldgkqSneXRsrRJ9.jpg"
+    }
+  ]
+}

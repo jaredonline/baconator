@@ -1,0 +1,57 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qqqBu1xkReRVCtdSW5aX8iJU7YE.jpg",
+    "name": "El Liguero Mágico"
+  },
+  "cast": [
+    {
+      "name": "Andrés Pajares",
+      "image": "http://image.tmdb.org/t/p/w185/nFd8mCMwpqyZwmH6ipKPD5JFnWu.jpg"
+    },
+    {
+      "name": "Adriana Vega"
+    },
+    {
+      "name": "Antonio Ozores",
+      "image": "http://image.tmdb.org/t/p/w185/oAvYGTyK2HxK9HzurDcPamRn3pp.jpg"
+    },
+    {
+      "name": "María Luisa Ponte"
+    },
+    {
+      "name": "Blaki"
+    },
+    {
+      "name": "Adriana Ozores",
+      "image": "http://image.tmdb.org/t/p/w185/1TwpANgl6w8FqVRcieiSFu1XFSz.jpg"
+    },
+    {
+      "name": "Alexia Loreto"
+    },
+    {
+      "name": "María Isbert"
+    },
+    {
+      "name": "Luis Lorenzo"
+    },
+    {
+      "name": "Fernando Bilbao"
+    },
+    {
+      "name": "José Carabias",
+      "image": "http://image.tmdb.org/t/p/w185/gamQmv4Avc9hCcxaUYy5tN9mCPK.jpg"
+    },
+    {
+      "name": "Silvia Miró"
+    },
+    {
+      "name": "Juan Taberner"
+    },
+    {
+      "name": "Adrián Ortega"
+    },
+    {
+      "name": "José Riesgo"
+    }
+  ]
+}

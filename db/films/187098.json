@@ -1,0 +1,31 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zLJnasv8QiudxMqgSNowtfQaH0Q.jpg",
+    "name": "Black Diamonds"
+  },
+  "cast": [
+    {
+      "name": "Setigui Diallo"
+    },
+    {
+      "name": "Hamidou Samake"
+    },
+    {
+      "name": "Carlos Bardem",
+      "image": "http://image.tmdb.org/t/p/w185/vuIFcSKoPhJKGoeOjp2sqqNSYZ4.jpg"
+    },
+    {
+      "name": "Raúl Tejón"
+    },
+    {
+      "name": "Guillermo Toledo",
+      "image": "http://image.tmdb.org/t/p/w185/6uFnKwU9kgGZsOADnZz5G4CpLEb.jpg"
+    },
+    {
+      "name": "Daniel Muriel"
+    },
+    {
+      "name": "Carlo D'Ursi"
+    }
+  ]
+}

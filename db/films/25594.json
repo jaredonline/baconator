@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/vocUyDQ8hlYOlo3uaqBfjrGUquO.jpg",
+    "name": "Wrong Turn at Tahoe"
+  },
+  "cast": [
+    {
+      "name": "Cuba Gooding, Jr.",
+      "image": "http://image.tmdb.org/t/p/w185/yu8Q3ImFu3RJne585jjgeQO2Boo.jpg"
+    },
+    {
+      "name": "Harvey Keitel",
+      "image": "http://image.tmdb.org/t/p/w185/oITNtWSDwA2hbuSuLdKXJZkXOSj.jpg"
+    },
+    {
+      "name": "Louis Mandylor",
+      "image": "http://image.tmdb.org/t/p/w185/7RBLuDriYPoewbr4B0T5dof4oeF.jpg"
+    },
+    {
+      "name": "Miguel Ferrer",
+      "image": "http://image.tmdb.org/t/p/w185/fvRncqShcaV8R45IJGYZ7IAvrsO.jpg"
+    }
+  ]
+}

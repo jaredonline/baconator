@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/s4oKPmb3RBqt4rwAZPUrKlUkqOd.jpg",
+    "name": "The Better Angels"
+  },
+  "cast": [
+    {
+      "name": "Diane Kruger",
+      "image": "http://image.tmdb.org/t/p/w185/w3HS6qWo2wihXTdGwwsig4zgGG.jpg"
+    },
+    {
+      "name": "Jason Clarke",
+      "image": "http://image.tmdb.org/t/p/w185/k0wyfdMPh6TSaDKkrreuQIfg1sr.jpg"
+    },
+    {
+      "name": "Brit Marling",
+      "image": "http://image.tmdb.org/t/p/w185/9CiTJoapie7SjUfJmEixnFFpUcx.jpg"
+    },
+    {
+      "name": "Wes Bentley",
+      "image": "http://image.tmdb.org/t/p/w185/zQMEswmsafMRXjydPAKQRfvS9YT.jpg"
+    }
+  ]
+}

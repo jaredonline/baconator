@@ -1,0 +1,34 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/jUFqfmqaaFGPBMilollCoDJUpoC.jpg",
+    "name": "Agatha Christie's Miss Marple: At Bertram's Hotel"
+  },
+  "cast": [
+    {
+      "name": "Joan Hickson",
+      "image": "http://image.tmdb.org/t/p/w185/8nAahe7ow6DfMpZvIXwlXZaROkL.jpg"
+    },
+    {
+      "name": "Caroline Blakiston",
+      "image": "http://image.tmdb.org/t/p/w185/tbABMp1c3zgiJKOoRaIkw9XWQ2Y.jpg"
+    },
+    {
+      "name": "Helena Michell"
+    },
+    {
+      "name": "James Cossins",
+      "image": "http://image.tmdb.org/t/p/w185/2kjM9bIz7h66ysu6AcMAsyj93bv.jpg"
+    },
+    {
+      "name": "Joan Greenwood",
+      "image": "http://image.tmdb.org/t/p/w185/35eNsmdKCMPYPnJ2xQHNGSd0dlv.jpg"
+    },
+    {
+      "name": "George Baker",
+      "image": "http://image.tmdb.org/t/p/w185/ogT7DAofS8SqeaZlQQSmJcn2sN8.jpg"
+    },
+    {
+      "name": "Preston Lockwood"
+    }
+  ]
+}

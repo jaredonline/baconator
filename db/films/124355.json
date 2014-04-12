@@ -1,0 +1,31 @@
+{
+  "film": {
+    "name": "Playboys: Dignified Individuals"
+  },
+  "cast": [
+    {
+      "name": "Anthony Jackson JR.",
+      "image": "http://image.tmdb.org/t/p/w185/x2aAkXoFFshFAMlwJiVC4Zo65cN.jpg"
+    },
+    {
+      "name": "Adam Sandler",
+      "image": "http://image.tmdb.org/t/p/w185/igMZZmqf8Dl4gGHQ5cphP9mS3m9.jpg"
+    },
+    {
+      "name": "Andy Samberg",
+      "image": "http://image.tmdb.org/t/p/w185/dArcbH1wnAVZxN1OoD33WHLeeQt.jpg"
+    },
+    {
+      "name": "Sacha Baron Cohen",
+      "image": "http://image.tmdb.org/t/p/w185/9UWxlTsGAfRAcxG2LcUMbfR3FiF.jpg"
+    },
+    {
+      "name": "Anna Faris",
+      "image": "http://image.tmdb.org/t/p/w185/2meONfWoGleESr78e9oxWIFhfMn.jpg"
+    },
+    {
+      "name": "Vanilla Ice",
+      "image": "http://image.tmdb.org/t/p/w185/zCDBQUDJ6n2Kz3hnfbjOpB6kRFE.jpg"
+    }
+  ]
+}

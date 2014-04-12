@@ -1,0 +1,30 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zqwLufe8We8O59HXDIEELmIUmxv.jpg",
+    "name": "The Music Lovers"
+  },
+  "cast": [
+    {
+      "name": "Richard Chamberlain",
+      "image": "http://image.tmdb.org/t/p/w185/eKdKTv9k15vz5ag6CqFF8eKXcvO.jpg"
+    },
+    {
+      "name": "Glenda Jackson",
+      "image": "http://image.tmdb.org/t/p/w185/7o9KfeMoegPR5rY905vojh1Fadc.jpg"
+    },
+    {
+      "name": "Max Adrian"
+    },
+    {
+      "name": "Kenneth Colley",
+      "image": "http://image.tmdb.org/t/p/w185/yNZF27tBauzUcg6Fw7M2xsRD8IC.jpg"
+    },
+    {
+      "name": "Christopher Gable"
+    },
+    {
+      "name": "Bruce Robinson",
+      "image": "http://image.tmdb.org/t/p/w185/mImqLKRBNPUZz8dIAzoIvkADDwS.jpg"
+    }
+  ]
+}

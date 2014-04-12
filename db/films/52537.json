@@ -1,0 +1,55 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/stkOEI512GDt9TAkWsLqjX3cPVx.jpg",
+    "name": "Twisted"
+  },
+  "cast": [
+    {
+      "name": "Ray Aranha"
+    },
+    {
+      "name": "Keivyn McNeill Grayes"
+    },
+    {
+      "name": "Elise Ballard"
+    },
+    {
+      "name": "Sharlene Brown"
+    },
+    {
+      "name": "Erik Jensen",
+      "image": "http://image.tmdb.org/t/p/w185/pkn2V8sh5F2nxYIOBcRtqQglwPn.jpg"
+    },
+    {
+      "name": "Anthony Crivello",
+      "image": "http://image.tmdb.org/t/p/w185/3oZXNW4V0AeT1JjwDTu4lUOZNH3.jpg"
+    },
+    {
+      "name": "David Norona",
+      "image": "http://image.tmdb.org/t/p/w185/cZjrI1Bs3Y3hj8ivDVpCXYhWCZB.jpg"
+    },
+    {
+      "name": "Billy Porter",
+      "image": "http://image.tmdb.org/t/p/w185/9gSSABLdRmhMPfrv2paqd5CE8di.jpg"
+    },
+    {
+      "name": "Kelly Coyle"
+    },
+    {
+      "name": "Simon Brook"
+    },
+    {
+      "name": "Jean Loup Wolfman"
+    },
+    {
+      "name": "Rose Baum Senerchia"
+    },
+    {
+      "name": "Brenda Pressley"
+    },
+    {
+      "name": "Eugene Byrd",
+      "image": "http://image.tmdb.org/t/p/w185/ctNRxb2YgeSHltz63fmvDKdsCLF.jpg"
+    }
+  ]
+}

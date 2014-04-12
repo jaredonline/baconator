@@ -1,0 +1,48 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4uG9D6QUgvPsYPbDs2tSTHaH6MP.jpg",
+    "name": "Scrivilo sui muri"
+  },
+  "cast": [
+    {
+      "name": "Primo Reggiani"
+    },
+    {
+      "name": "Anna Galiena",
+      "image": "http://image.tmdb.org/t/p/w185/qOstUS7EwxRYYtWBqprTSJwlmOQ.jpg"
+    },
+    {
+      "name": "Yvonne Sciò",
+      "image": "http://image.tmdb.org/t/p/w185/j8e4hz7zWDKMENhJjHGb2CSLdIf.jpg"
+    },
+    {
+      "name": "Daniele De Angelis"
+    },
+    {
+      "name": "Elena Ravaioli"
+    },
+    {
+      "name": "Stefano Antonucci"
+    },
+    {
+      "name": "Claudio Bigagli",
+      "image": "http://image.tmdb.org/t/p/w185/c2HBprEaFtHQsWOKr2SEXKjGcE2.jpg"
+    },
+    {
+      "name": "Davide Silvestri"
+    },
+    {
+      "name": "Claudio Botosso"
+    },
+    {
+      "name": "Dolcenera"
+    },
+    {
+      "name": "Ludovico Fremont"
+    },
+    {
+      "name": "Alessandro Tiberi",
+      "image": "http://image.tmdb.org/t/p/w185/tQRIe0LF3QI83hG3cILbFvV56Us.jpg"
+    }
+  ]
+}

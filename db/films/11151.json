@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/sDMJHOC4XvLkOzP8LnjnzDou7Tl.jpg",
+    "name": "Maroa"
+  },
+  "cast": [
+    {
+      "name": "Tristán Ulloa",
+      "image": "http://image.tmdb.org/t/p/w185/AmiVKczdJG7zxqzX3Jh9IHYk8Yc.jpg"
+    },
+    {
+      "name": "Yorlis Domínguez"
+    },
+    {
+      "name": "Elba Escobar"
+    },
+    {
+      "name": "Luke Grande"
+    }
+  ]
+}

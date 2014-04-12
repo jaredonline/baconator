@@ -1,0 +1,50 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/bt0Do5f2uDYwc13xKM7Jm06Fhu6.jpg",
+    "name": "Födelsedagen"
+  },
+  "cast": [
+    {
+      "name": "Camilla Lundén"
+    },
+    {
+      "name": "Göran Stangertz"
+    },
+    {
+      "name": "Lena Endre",
+      "image": "http://image.tmdb.org/t/p/w185/AqDZhToc9r7tixhz2PQy6MWoIYr.jpg"
+    },
+    {
+      "name": "Pernilla August",
+      "image": "http://image.tmdb.org/t/p/w185/gj7f49NzYbFpP7KfmrFBajsUqxD.jpg"
+    },
+    {
+      "name": "Sven Lindberg",
+      "image": "http://image.tmdb.org/t/p/w185/eswzSMgIkkPiwRwaEVoDA6rviwp.jpg"
+    },
+    {
+      "name": "Mona Malm",
+      "image": "http://image.tmdb.org/t/p/w185/tckU77KETSkD0y2Ci0mUP3TaiYI.jpg"
+    },
+    {
+      "name": "Sven-Bertil Taube",
+      "image": "http://image.tmdb.org/t/p/w185/e4ra4ZFKQ5zDijQHh0x3TlGApWW.jpg"
+    },
+    {
+      "name": "Jakob Eklund",
+      "image": "http://image.tmdb.org/t/p/w185/r5DTiqVW8rkaQ3biVu75sfVeCBU.jpg"
+    },
+    {
+      "name": "Börje Ahlstedt",
+      "image": "http://image.tmdb.org/t/p/w185/b2cB320DYO1uacN0pjRdkrAgqYm.jpg"
+    },
+    {
+      "name": "Rebecka Liljeberg",
+      "image": "http://image.tmdb.org/t/p/w185/mNKj9WyyJrgDVJvoG3mQxIAhkki.jpg"
+    },
+    {
+      "name": "Shanti Roney",
+      "image": "http://image.tmdb.org/t/p/w185/ti21d61B3kNV0QZCJHsviad79jR.jpg"
+    }
+  ]
+}

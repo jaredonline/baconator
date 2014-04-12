@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/5Sf3zxVswuq1niOuuta8wHtzj2I.jpg",
+    "name": "Fabulous! The Story of Queer Cinema"
+  },
+  "cast": [
+    {
+      "name": "Tom Arnold",
+      "image": "http://image.tmdb.org/t/p/w185/ntfdeHmNynyLjoCh7LlXVuKBobz.jpg"
+    },
+    {
+      "name": "Randy Barbato"
+    },
+    {
+      "name": "Dan Bucatinsky",
+      "image": "http://image.tmdb.org/t/p/w185/yA9h9NoHCYWhI6J5HorkQypD6et.jpg"
+    },
+    {
+      "name": "Steve Buscemi",
+      "image": "http://image.tmdb.org/t/p/w185/7sDzFRScCv85usSwPG01BTac7UY.jpg"
+    }
+  ]
+}

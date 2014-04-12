@@ -1,0 +1,39 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7TkPuk1FU9tsjyTaV4CWeb9iMsI.jpg",
+    "name": "The Country Girl"
+  },
+  "cast": [
+    {
+      "name": "Bing Crosby",
+      "image": "http://image.tmdb.org/t/p/w185/dRyJJTzDqs1FNy5kxUAGWdsOc0T.jpg"
+    },
+    {
+      "name": "Grace Kelly",
+      "image": "http://image.tmdb.org/t/p/w185/o2fUK9QWzd3OYHPEXFBOWsqTmEc.jpg"
+    },
+    {
+      "name": "William Holden",
+      "image": "http://image.tmdb.org/t/p/w185/6sa5f8p1KBhYxJDEmCLxn7QLcBe.jpg"
+    },
+    {
+      "name": "Anthony Ross"
+    },
+    {
+      "name": "Gene Reynolds"
+    },
+    {
+      "name": "Jacqueline Fontaine"
+    },
+    {
+      "name": "Eddie Ryder"
+    },
+    {
+      "name": "Robert Kent",
+      "image": "http://image.tmdb.org/t/p/w185/ixRn6a4WRRhLI6DGc1VbJ37O6gg.jpg"
+    },
+    {
+      "name": "John W. Reynolds"
+    }
+  ]
+}

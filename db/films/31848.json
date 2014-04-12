@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/whMSM4Lmbz7AjdHZmAHJQWjbYOl.jpg",
+    "name": "Ultimate Jordan"
+  },
+  "cast": [
+    {
+      "name": "Michael Jordan",
+      "image": "http://image.tmdb.org/t/p/w185/jV1Ali9GlSerQvOFd2zuoYdyYFh.jpg"
+    },
+    {
+      "name": "Charles Barkley",
+      "image": "http://image.tmdb.org/t/p/w185/zyG4L1LBiHwQnBzVbRl0VmXtF9V.jpg"
+    },
+    {
+      "name": "Eriq La Salle",
+      "image": "http://image.tmdb.org/t/p/w185/5x5TRTBkyRFP5yrJDf8hD4fEScQ.jpg"
+    },
+    {
+      "name": "Jay Thomas",
+      "image": "http://image.tmdb.org/t/p/w185/1NOyIfDuK7fPv6NAxXGE16dvmUG.jpg"
+    },
+    {
+      "name": "Magic Johnson",
+      "image": "http://image.tmdb.org/t/p/w185/veliPuVyjfeGmXr5Gt9LgSdNGGn.jpg"
+    }
+  ]
+}

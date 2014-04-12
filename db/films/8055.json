@@ -1,0 +1,51 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/vxeeviaCZbuTaef25ysOdqMIAto.jpg",
+    "name": "The Reader"
+  },
+  "cast": [
+    {
+      "name": "Kate Winslet",
+      "image": "http://image.tmdb.org/t/p/w185/b8tIN5SNgqsXwdmMVCMZP84ACcr.jpg"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "image": "http://image.tmdb.org/t/p/w185/95C56hfbvSA1UNvD433EzXviyV5.jpg"
+    },
+    {
+      "name": "Hannah Herzsprung",
+      "image": "http://image.tmdb.org/t/p/w185/3EJlnF0PJyjyciLLJNasKRFcTUQ.jpg"
+    },
+    {
+      "name": "Alexandra Maria Lara",
+      "image": "http://image.tmdb.org/t/p/w185/3wFjxLjocTBTZqAkFSDlACZvv11.jpg"
+    },
+    {
+      "name": "Bruno Ganz",
+      "image": "http://image.tmdb.org/t/p/w185/p4mROAP1xs5c93ZUN98Au94Wyx7.jpg"
+    },
+    {
+      "name": "Karoline Herfurth",
+      "image": "http://image.tmdb.org/t/p/w185/8HVqhIaLQA3MOTO88Ncn6VOCzdp.jpg"
+    },
+    {
+      "name": "David Kross",
+      "image": "http://image.tmdb.org/t/p/w185/50BcSbOZtfCktGMEepExob45O2h.jpg"
+    },
+    {
+      "name": "Volker Bruch",
+      "image": "http://image.tmdb.org/t/p/w185/sIVPnaOQwdrt915Xh9Onp7gCpl0.jpg"
+    },
+    {
+      "name": "Jeanette Hain",
+      "image": "http://image.tmdb.org/t/p/w185/ltjkltILmKWksGSzBMVJNwjkdnd.jpg"
+    },
+    {
+      "name": "Fabian Busch",
+      "image": "http://image.tmdb.org/t/p/w185/cFgqQEFL9qBPKQFITBgjPSr3QWB.jpg"
+    },
+    {
+      "name": "Vijessna Ferkic"
+    }
+  ]
+}

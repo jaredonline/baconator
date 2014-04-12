@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/jQh15y5YB7bWz1NtffNZmRw0s9D.jpg",
+    "name": "Sabrina"
+  },
+  "cast": [
+    {
+      "name": "Harrison Ford",
+      "image": "http://image.tmdb.org/t/p/w185/aVKNqtkzZCymupOrvwxozamRyVc.jpg"
+    },
+    {
+      "name": "Julia Ormond",
+      "image": "http://image.tmdb.org/t/p/w185/GYnXYOvBhzPfNmTpeIiO0XRTUu.jpg"
+    },
+    {
+      "name": "Greg Kinnear",
+      "image": "http://image.tmdb.org/t/p/w185/7UipyRuuMCjJ6wyEFduZIoaTV4h.jpg"
+    },
+    {
+      "name": "Angie Dickinson",
+      "image": "http://image.tmdb.org/t/p/w185/3pnCoPtk3Fv5IJywId5hUjQ33yR.jpg"
+    }
+  ]
+}

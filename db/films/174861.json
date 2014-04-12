@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zdtwVHKgDCNoRZhPhQSx0eaiMaq.jpg",
+    "name": "Return to Hansala"
+  },
+  "cast": [
+    {
+      "name": "Farah Hamed"
+    },
+    {
+      "name": "José Luis García Pérez",
+      "image": "http://image.tmdb.org/t/p/w185/4FQuXgtCvEkulGGcUQklKSBBGdD.jpg"
+    },
+    {
+      "name": "Adam Bounnouacha"
+    },
+    {
+      "name": "Antonio de la Torre",
+      "image": "http://image.tmdb.org/t/p/w185/6gLwqdiKMB2s7ymeRAaHZlvGjvR.jpg"
+    },
+    {
+      "name": "Cuca Escribano"
+    },
+    {
+      "name": "Antonio Dechent",
+      "image": "http://image.tmdb.org/t/p/w185/75dGSYevnV3vjkgaJxCeBjuqQYm.jpg"
+    },
+    {
+      "name": "César Vea",
+      "image": "http://image.tmdb.org/t/p/w185/9zISZnahPhtqmqv9yLI04S1uXFi.jpg"
+    },
+    {
+      "name": "Miguel Alcíbar"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/1RLlzNwnrpMMNFt71OVFAnJp6ww.jpg",
+    "name": "Cats & Dogs"
+  },
+  "cast": [
+    {
+      "name": "Jeff Goldblum",
+      "image": "http://image.tmdb.org/t/p/w185/iDW7y4R8cx4SZzWd8nN2gvL7My1.jpg"
+    },
+    {
+      "name": "Elizabeth Perkins",
+      "image": "http://image.tmdb.org/t/p/w185/4g5SvC4P5WLo8SAVs0KGokXGXKd.jpg"
+    },
+    {
+      "name": "Alexander Pollock",
+      "image": "http://image.tmdb.org/t/p/w185/6GPVGBkPidrKFsardUj51K39SGx.jpg"
+    },
+    {
+      "name": "Miriam Margolyes",
+      "image": "http://image.tmdb.org/t/p/w185/7Fijg5sZ7gKbooq6tId3MUS5sDY.jpg"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/d1k2gFR2lU4j1HOyLD0dT34cRmn.jpg",
+    "name": "The Baby and the Battleship"
+  },
+  "cast": [
+    {
+      "name": "John Mills",
+      "image": "http://image.tmdb.org/t/p/w185/aGBQSdOPz640G7gTvNtgqd4HsBQ.jpg"
+    },
+    {
+      "name": "Richard Attenborough",
+      "image": "http://image.tmdb.org/t/p/w185/qzedA4XCNjbmR7z3fWiFinGukzx.jpg"
+    },
+    {
+      "name": "André Morell",
+      "image": "http://image.tmdb.org/t/p/w185/slGvSoLbXaR1g23Rxj9N2WyKNWi.jpg"
+    }
+  ]
+}

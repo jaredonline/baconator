@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/v1SDlo2ulqj3YNXMbXwIbRGUIiJ.jpg",
+    "name": "Slaughter"
+  },
+  "cast": [
+    {
+      "name": "Lucy Holt"
+    },
+    {
+      "name": "Amy Shiels"
+    },
+    {
+      "name": "David Sterne",
+      "image": "http://image.tmdb.org/t/p/w185/vZaOmbLpbh3rbDa3CGoj7cBkotI.jpg"
+    },
+    {
+      "name": "Antonia Bernath",
+      "image": "http://image.tmdb.org/t/p/w185/r8DI6C9YsbgoGGTuJrWoSAvE7iO.jpg"
+    },
+    {
+      "name": "Andrei Araditz"
+    },
+    {
+      "name": "Ingrid Bisu"
+    },
+    {
+      "name": "Vance Daniels"
+    },
+    {
+      "name": "Cristi Hogas"
+    },
+    {
+      "name": "Maxim Knight",
+      "image": "http://image.tmdb.org/t/p/w185/uTiuZ6AYgMuDZjxUhS3V9TvXeNj.jpg"
+    }
+  ]
+}

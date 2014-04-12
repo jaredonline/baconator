@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/8MMox2NFUz4jd7nAcBpGv7BwPDT.jpg",
+    "name": "Happy Campers"
+  },
+  "cast": [
+    {
+      "name": "Jaime King",
+      "image": "http://image.tmdb.org/t/p/w185/o8xNUvVNDMfPzHDhdqQJbhVZNvK.jpg"
+    },
+    {
+      "name": "Emily Bergl",
+      "image": "http://image.tmdb.org/t/p/w185/g9qdvOV3xtjPa57gK6rqRhTbOz8.jpg"
+    },
+    {
+      "name": "Dominique Swain",
+      "image": "http://image.tmdb.org/t/p/w185/xdtjF2K8KC1u9K3V4OeT8YrB0zw.jpg"
+    },
+    {
+      "name": "Monica Bugajski",
+      "image": "http://image.tmdb.org/t/p/w185/eAK48rGdotqjvbybzWJ1x5ySCrl.jpg"
+    }
+  ]
+}

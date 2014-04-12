@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zdQszaFh1OhKipPAmYgwxGLATac.jpg",
+    "name": "Jeffrey Bernard Is Unwell"
+  },
+  "cast": [
+    {
+      "name": "Peter O'Toole",
+      "image": "http://image.tmdb.org/t/p/w185/i4qteYphjkqtwsuQwcfQPEdV1ZI.jpg"
+    },
+    {
+      "name": "Timothy Ackroyd"
+    },
+    {
+      "name": "Sarah Berger"
+    },
+    {
+      "name": "Annabel Leventon"
+    },
+    {
+      "name": "Royce Mills"
+    }
+  ]
+}

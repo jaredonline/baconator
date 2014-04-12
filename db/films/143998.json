@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/enjxEc9Z0dr5wkDoPXADT5Jgttu.jpg",
+    "name": "The Reagans"
+  },
+  "cast": [
+    {
+      "name": "Judy Davis",
+      "image": "http://image.tmdb.org/t/p/w185/xQMA72T6yz6ebJXv1pCuZC1fDJo.jpg"
+    },
+    {
+      "name": "James Brolin",
+      "image": "http://image.tmdb.org/t/p/w185/7sp13guwky7N98zyltrXL4sGI2n.jpg"
+    },
+    {
+      "name": "Željko Ivanek",
+      "image": "http://image.tmdb.org/t/p/w185/oyV8eq0x9Tzj4uVwpkUbYnb2UHZ.jpg"
+    },
+    {
+      "name": "John Stamos",
+      "image": "http://image.tmdb.org/t/p/w185/kRqfvtVmHisF4odgUYhfRilgqgi.jpg"
+    }
+  ]
+}

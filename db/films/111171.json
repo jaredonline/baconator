@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/loD5ApsiWDjA71ftwNOysiZvX8N.jpg",
+    "name": "Young Triffie"
+  },
+  "cast": [
+    {
+      "name": "Fred Ewanuick",
+      "image": "http://image.tmdb.org/t/p/w185/lR2ER8tlBUwDAdQbgDSClDZkzvG.jpg"
+    },
+    {
+      "name": "Rémy Girard",
+      "image": "http://image.tmdb.org/t/p/w185/iOluYYBxiLzb5fS5F0Y8Xc5bQVo.jpg"
+    },
+    {
+      "name": "Andrea Martin",
+      "image": "http://image.tmdb.org/t/p/w185/vt4yKdu8dYOpDNCAZEVX634iBK9.jpg"
+    },
+    {
+      "name": "Mary Walsh"
+    }
+  ]
+}

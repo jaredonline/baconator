@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/sdCanVoJqW6kASMDHhWKuUuJTFE.jpg",
+    "name": "Bullet"
+  },
+  "cast": [
+    {
+      "name": "Mickey Rourke",
+      "image": "http://image.tmdb.org/t/p/w185/AvGzQ8fvjurGmZW3W1wlQ5WfSeT.jpg"
+    },
+    {
+      "name": "Frank Senger"
+    },
+    {
+      "name": "Adrien Brody",
+      "image": "http://image.tmdb.org/t/p/w185/zvMslH1C8xmEBpGgDsdzL797Rv.jpg"
+    },
+    {
+      "name": "John Enos III",
+      "image": "http://image.tmdb.org/t/p/w185/3sAzx8hMrSHv25SNIWuys89g27x.jpg"
+    },
+    {
+      "name": "Tupac Shakur",
+      "image": "http://image.tmdb.org/t/p/w185/lOqyyGlyGXEXQimENsPgGtG51kg.jpg"
+    }
+  ]
+}

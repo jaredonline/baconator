@@ -1,0 +1,35 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ft7aUGTAOwDJOlUhwqU1jeinhAF.jpg",
+    "name": "La princesa del Polígono"
+  },
+  "cast": [
+    {
+      "name": "Lolita Flores",
+      "image": "http://image.tmdb.org/t/p/w185/lEYgYD9W7YjFzdCHUXVdYdfVedR.jpg"
+    },
+    {
+      "name": "Laura Guiteras"
+    },
+    {
+      "name": "Mingo Ràfols"
+    },
+    {
+      "name": "Rosana Pastor",
+      "image": "http://image.tmdb.org/t/p/w185/3gEKxlQEEqVs0KFXA1aAQurVB3c.jpg"
+    },
+    {
+      "name": "Francesc Garrido"
+    },
+    {
+      "name": "Giorgio Lupano"
+    },
+    {
+      "name": "Glauco Onorato"
+    },
+    {
+      "name": "Lluís Soler",
+      "image": "http://image.tmdb.org/t/p/w185/cI67syO5FnimGl6pcVE8a1UZZ59.jpg"
+    }
+  ]
+}

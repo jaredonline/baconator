@@ -1,0 +1,20 @@
+{
+  "film": {
+    "name": "María la Portuguesa"
+  },
+  "cast": [
+    {
+      "name": "Mariana Cordero"
+    },
+    {
+      "name": "Antonio Dechent",
+      "image": "http://image.tmdb.org/t/p/w185/75dGSYevnV3vjkgaJxCeBjuqQYm.jpg"
+    },
+    {
+      "name": "Alex O'Dogherty"
+    },
+    {
+      "name": "Mariola Ruíz"
+    }
+  ]
+}

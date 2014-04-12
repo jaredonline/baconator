@@ -1,0 +1,39 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/uYLzrLIh7rDTwtQFGxn2wCQ6SnM.jpg",
+    "name": "Frankenweenie"
+  },
+  "cast": [
+    {
+      "name": "Shelley Duvall",
+      "image": "http://image.tmdb.org/t/p/w185/4MDrH9PxYrGGHXB7LmObYTdoEHV.jpg"
+    },
+    {
+      "name": "Daniel Stern",
+      "image": "http://image.tmdb.org/t/p/w185/tqIgRfltWWdCis2lfGtZ07RDLdJ.jpg"
+    },
+    {
+      "name": "Barret Oliver",
+      "image": "http://image.tmdb.org/t/p/w185/tRcMJl1gNu4KRjnZ7wpENLaJ46Q.jpg"
+    },
+    {
+      "name": "Joseph Maher",
+      "image": "http://image.tmdb.org/t/p/w185/hgq8vDtBsk0ovVxRJHkAyXzTVth.jpg"
+    },
+    {
+      "name": "Roz Braverman"
+    },
+    {
+      "name": "Paul Bartel",
+      "image": "http://image.tmdb.org/t/p/w185/7Kj1Y9V8lfnFXHkjf30H8d3ylQA.jpg"
+    },
+    {
+      "name": "Sofia Coppola",
+      "image": "http://image.tmdb.org/t/p/w185/zG1WS4sS5jvYkObHMxsK6fGK7Uk.jpg"
+    },
+    {
+      "name": "Sparky",
+      "image": "http://image.tmdb.org/t/p/w185/68X2QYEoyZStEd7qqc51droq7JD.jpg"
+    }
+  ]
+}

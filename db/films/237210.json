@@ -1,0 +1,23 @@
+{
+  "film": {
+    "name": "Sunshine in Brixton"
+  },
+  "cast": [
+    {
+      "name": "Elvis Payne"
+    },
+    {
+      "name": "Jill Gascoine"
+    },
+    {
+      "name": "Sonny Caldinez"
+    },
+    {
+      "name": "Richard Ireson"
+    },
+    {
+      "name": "Ray Winstone",
+      "image": "http://image.tmdb.org/t/p/w185/fCn43QHHE3WXa23bxcmXdUZ3l4Y.jpg"
+    }
+  ]
+}

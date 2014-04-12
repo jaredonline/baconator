@@ -1,0 +1,27 @@
+{
+  "film": {
+    "name": "The Battle of Britain"
+  },
+  "cast": [
+    {
+      "name": "Winston Churchill"
+    },
+    {
+      "name": "Hermann Göring"
+    },
+    {
+      "name": "Adolf Hitler",
+      "image": "http://image.tmdb.org/t/p/w185/sfheZ8kYMxGVnAUsDVXBsbnUSJf.jpg"
+    },
+    {
+      "name": "Colin McGregor"
+    },
+    {
+      "name": "Ewan McGregor",
+      "image": "http://image.tmdb.org/t/p/w185/6aIyQCQRWRhmxeeeQNdMm6FxfWi.jpg"
+    },
+    {
+      "name": "Cliff Spink"
+    }
+  ]
+}

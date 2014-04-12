@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/wyny2WQgBYspQ9eBOMho4btzCU2.jpg",
+    "name": "A for Andromeda"
+  },
+  "cast": [
+    {
+      "name": "Tom Hardy",
+      "image": "http://image.tmdb.org/t/p/w185/aYWIZ7ywOFzyK7B1HHCQj2nq8s4.jpg"
+    },
+    {
+      "name": "Charlie Cox",
+      "image": "http://image.tmdb.org/t/p/w185/o75lVhvUAbGnaJAmekiWIh3AeT8.jpg"
+    },
+    {
+      "name": "Kelly Reilly",
+      "image": "http://image.tmdb.org/t/p/w185/utp6IT1cLk80RgJzehBIWkSQ8FJ.jpg"
+    },
+    {
+      "name": "Jane Asher",
+      "image": "http://image.tmdb.org/t/p/w185/vL9Y4ArXO1Q4ctMYw6Q4JEeiiwm.jpg"
+    }
+  ]
+}

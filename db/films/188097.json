@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/uvyrdyK3PNIykFNtd7KyskWL0IQ.jpg",
+    "name": "La playa de los galgos"
+  },
+  "cast": [
+    {
+      "name": "Claudia Gerini",
+      "image": "http://image.tmdb.org/t/p/w185/7BYsZl4BAa7gIVi4Rew82Ipwmr9.jpg"
+    },
+    {
+      "name": "Carmelo Gómez",
+      "image": "http://image.tmdb.org/t/p/w185/dCuhHjDh1hXMTi1GRhqPktq5c6p.jpg"
+    },
+    {
+      "name": "Miguel Angel Sola"
+    },
+    {
+      "name": "Ingrid Rubio",
+      "image": "http://image.tmdb.org/t/p/w185/qsft5QRndcgfdpTu1Z2SF0Wjsrk.jpg"
+    },
+    {
+      "name": "Gustavo Salmerón",
+      "image": "http://image.tmdb.org/t/p/w185/8LlO2Rl4iuLYpCjakOeAKS01TUX.jpg"
+    }
+  ]
+}

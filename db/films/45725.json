@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/yYwmbemWOjR2Wxf2rpDthgtfhQE.jpg",
+    "name": "Adventures of a Teenage Dragonslayer"
+  },
+  "cast": [
+    {
+      "name": "Amy Pietz",
+      "image": "http://image.tmdb.org/t/p/w185/oCe6UQJSug2rqHbAsusigaA2AuR.jpg"
+    },
+    {
+      "name": "Eric Lutes",
+      "image": "http://image.tmdb.org/t/p/w185/dWSKOCf5x6fGZBIh1HiSPAQpL0B.jpg"
+    },
+    {
+      "name": "Hunter Allan",
+      "image": "http://image.tmdb.org/t/p/w185/mKQkRFa1vPlzzUM836j0hqYzhfp.jpg"
+    },
+    {
+      "name": "Lea Thompson",
+      "image": "http://image.tmdb.org/t/p/w185/jk4kSRSq3cRksxCDCNLZp1IGCVd.jpg"
+    },
+    {
+      "name": "Wendie Malick",
+      "image": "http://image.tmdb.org/t/p/w185/1Av0jIi4Hk30kruQjaRH2Am2TIE.jpg"
+    }
+  ]
+}

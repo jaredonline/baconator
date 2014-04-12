@@ -1,0 +1,42 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/p1S2yTGRIN43cnNXg3wldnooWbF.jpg",
+    "name": "The Cruel Sea"
+  },
+  "cast": [
+    {
+      "name": "Jack Hawkins",
+      "image": "http://image.tmdb.org/t/p/w185/7b6E24ZRLEPJwP0WQauXJPt41Fs.jpg"
+    },
+    {
+      "name": "Donald Sinden",
+      "image": "http://image.tmdb.org/t/p/w185/yM5pedpHUUVUPi8MLH442Jr4lHX.jpg"
+    },
+    {
+      "name": "Denholm Elliott",
+      "image": "http://image.tmdb.org/t/p/w185/831ZPcGYHibgX1rMLxgP7Uv6f2l.jpg"
+    },
+    {
+      "name": "Stanley Baker",
+      "image": "http://image.tmdb.org/t/p/w185/uK2pnimWKxTV3nsdZTKiK0QQdS9.jpg"
+    },
+    {
+      "name": "Virginia McKenna",
+      "image": "http://image.tmdb.org/t/p/w185/ya6ppqxlilXdAQiDW7nAm4kiMqo.jpg"
+    },
+    {
+      "name": "John Stratton"
+    },
+    {
+      "name": "John Warner"
+    },
+    {
+      "name": "Bruce Seton",
+      "image": "http://image.tmdb.org/t/p/w185/8INv8wz3lKMIjOfvVJS2YFdvMwN.jpg"
+    },
+    {
+      "name": "Liam Redmond",
+      "image": "http://image.tmdb.org/t/p/w185/9HsE0np29N40U7s25rYsM7oJBew.jpg"
+    }
+  ]
+}

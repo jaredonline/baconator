@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/pRGhrtm5zAnsblDI5xXzzwVcHY6.jpg",
+    "name": "Double Team"
+  },
+  "cast": [
+    {
+      "name": "Jean-Claude Van Damme",
+      "image": "http://image.tmdb.org/t/p/w185/aqZ9RjL5j44HMlBMvTaawhHiGOH.jpg"
+    },
+    {
+      "name": "Dennis Rodman",
+      "image": "http://image.tmdb.org/t/p/w185/qLlyvmFDr0V66fIFJYBy7UqlqLj.jpg"
+    },
+    {
+      "name": "Mickey Rourke",
+      "image": "http://image.tmdb.org/t/p/w185/AvGzQ8fvjurGmZW3W1wlQ5WfSeT.jpg"
+    },
+    {
+      "name": "Paul Freeman",
+      "image": "http://image.tmdb.org/t/p/w185/gWRX09kyrzTFFehwE53cJtps2fx.jpg"
+    }
+  ]
+}

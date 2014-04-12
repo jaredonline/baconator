@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/9sqcwV6a9anXhNGnDN0sbQucRr4.jpg",
+    "name": "Dawg"
+  },
+  "cast": [
+    {
+      "name": "Denis Leary",
+      "image": "http://image.tmdb.org/t/p/w185/tHW0Sp1k5s4zeGAbPWs2iYPs8Up.jpg"
+    },
+    {
+      "name": "Elizabeth Hurley",
+      "image": "http://image.tmdb.org/t/p/w185/t4SX1B02QkQCRdmoek1No3DZXLl.jpg"
+    },
+    {
+      "name": "NiCole Robinson"
+    }
+  ]
+}

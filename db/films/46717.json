@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/feQVr5WKxPhZ0UtR3z8uAr2SUbL.jpg",
+    "name": "Intersection"
+  },
+  "cast": [
+    {
+      "name": "Richard Gere",
+      "image": "http://image.tmdb.org/t/p/w185/wXj3kPwWFo8A9jDCtUVetXAR5Hf.jpg"
+    },
+    {
+      "name": "Sharon Stone",
+      "image": "http://image.tmdb.org/t/p/w185/n28skoawvqAymYr6gRSm2pfro0i.jpg"
+    },
+    {
+      "name": "Lolita Davidovich",
+      "image": "http://image.tmdb.org/t/p/w185/xevm3JVAQ0lUZoP54VufGkW7Gmj.jpg"
+    },
+    {
+      "name": "Martin Landau",
+      "image": "http://image.tmdb.org/t/p/w185/ylT7pqkcPNsHloe2dJsePFSoIkE.jpg"
+    },
+    {
+      "name": "Jennifer Morrison",
+      "image": "http://image.tmdb.org/t/p/w185/sqn3ySCTYw82vtW10oqrmtg3B9L.jpg"
+    }
+  ]
+}

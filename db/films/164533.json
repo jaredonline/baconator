@@ -1,0 +1,41 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/yZOPa9XzC8yGI0KEAWswZTsSgyt.jpg",
+    "name": "Dos mujeres"
+  },
+  "cast": [
+    {
+      "name": "Emma Vilarasau"
+    },
+    {
+      "name": "Rosana Pastor",
+      "image": "http://image.tmdb.org/t/p/w185/3gEKxlQEEqVs0KFXA1aAQurVB3c.jpg"
+    },
+    {
+      "name": "Jordi Boixaderas"
+    },
+    {
+      "name": "Marta Calvó"
+    },
+    {
+      "name": "Eduard Fernández",
+      "image": "http://image.tmdb.org/t/p/w185/amJKpgzBvEr9d6WIuT1MjADzDZT.jpg"
+    },
+    {
+      "name": "Pep Ferrer"
+    },
+    {
+      "name": "Pep Tosar",
+      "image": "http://image.tmdb.org/t/p/w185/lQBYzhEN8lziNtZh0TBdpfVhTmu.jpg"
+    },
+    {
+      "name": "Camilo García"
+    },
+    {
+      "name": "Teresa Lozano"
+    },
+    {
+      "name": "Xavier Capdet"
+    }
+  ]
+}

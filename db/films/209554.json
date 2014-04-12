@@ -1,0 +1,54 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/pMCHokJQuKYB89mDvw6TNmCoyvZ.jpg",
+    "name": "A Strange Brand of Happy"
+  },
+  "cast": [
+    {
+      "name": "Rebecca St. James"
+    },
+    {
+      "name": "Joe Boyd"
+    },
+    {
+      "name": "Shirley Jones",
+      "image": "http://image.tmdb.org/t/p/w185/uGjnEsUH4j18KX0dMtZ1ZkIxYK3.jpg"
+    },
+    {
+      "name": "Marty Ingels"
+    },
+    {
+      "name": "Joe Stevens"
+    },
+    {
+      "name": "Venida Evans"
+    },
+    {
+      "name": "Ashley Palmer"
+    },
+    {
+      "name": "Bobby Rodgers"
+    },
+    {
+      "name": "Bekka Prewitt"
+    },
+    {
+      "name": "Benjamin Keller"
+    },
+    {
+      "name": "Hunter Shepard"
+    },
+    {
+      "name": "David Pittinger"
+    },
+    {
+      "name": "Holly Walker"
+    },
+    {
+      "name": "Shauna Pinkett"
+    },
+    {
+      "name": "Marcus L. Simmons II"
+    }
+  ]
+}

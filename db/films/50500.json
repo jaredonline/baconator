@@ -1,0 +1,27 @@
+{
+  "film": {
+    "name": "Hotel Caledonia"
+  },
+  "cast": [
+    {
+      "name": "Jemima Rooper",
+      "image": "http://image.tmdb.org/t/p/w185/2R1635Z7ezTXcbhEsCF39oteidZ.jpg"
+    },
+    {
+      "name": "Kris Marshall",
+      "image": "http://image.tmdb.org/t/p/w185/tQkd2dD82bMCTqgVSzvhvf410Xy.jpg"
+    },
+    {
+      "name": "James Cosmo",
+      "image": "http://image.tmdb.org/t/p/w185/523gSqAG9eSSNmKexFFZYh38SxL.jpg"
+    },
+    {
+      "name": "Leslie Phillips",
+      "image": "http://image.tmdb.org/t/p/w185/A1vO83wMO5eG0AxRvBwwQwu5NCg.jpg"
+    },
+    {
+      "name": "Emily Booth",
+      "image": "http://image.tmdb.org/t/p/w185/8sRmOvRqiZgdwDN6aa6SSiuzkHB.jpg"
+    }
+  ]
+}

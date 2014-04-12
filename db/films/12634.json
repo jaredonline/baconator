@@ -1,0 +1,35 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/yTKph1RyCpJg0tWTuZuI0zLa9dD.jpg",
+    "name": "The Big Bounce"
+  },
+  "cast": [
+    {
+      "name": "Owen Wilson",
+      "image": "http://image.tmdb.org/t/p/w185/j7OAiUKkcckSmixWL8FoacqQnx4.jpg"
+    },
+    {
+      "name": "Charlie Sheen",
+      "image": "http://image.tmdb.org/t/p/w185/3sl1p2ZAfdotM2LEmu4JiNAZbc6.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "image": "http://image.tmdb.org/t/p/w185/oGJQhOpT8S1M56tvSsbEBePV5O1.jpg"
+    },
+    {
+      "name": "Gary Sinise",
+      "image": "http://image.tmdb.org/t/p/w185/aa2DOJZWvTcYSvoEKJzwfulv3sc.jpg"
+    },
+    {
+      "name": "Bebe Neuwirth",
+      "image": "http://image.tmdb.org/t/p/w185/1QbJa4moMHMuZg8KL37lno36k7O.jpg"
+    },
+    {
+      "name": "Sara Foster",
+      "image": "http://image.tmdb.org/t/p/w185/6RIx95PzgmBn5cUYd3fWB2F7RLx.jpg"
+    },
+    {
+      "name": "Anahit Minasyan"
+    }
+  ]
+}

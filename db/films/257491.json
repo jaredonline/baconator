@@ -1,0 +1,18 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/asc048q8sqt5XtD7bJRemHRB6Lv.jpg",
+    "name": "Manos de seda"
+  },
+  "cast": [
+    {
+      "name": "Jorge Sanz",
+      "image": "http://image.tmdb.org/t/p/w185/yjSbqOaAwRagq24COAbfGcpIko6.jpg"
+    },
+    {
+      "name": "Carme Elias"
+    },
+    {
+      "name": "Jorge de Juan"
+    }
+  ]
+}

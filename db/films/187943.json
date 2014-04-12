@@ -1,0 +1,45 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/c0aYOZWY4SfCoi5zWYdZhYCCWjK.jpg",
+    "name": "Kung Fu Hip-Hop 2"
+  },
+  "cast": [
+    {
+      "name": "Berlin Chen"
+    },
+    {
+      "name": "Michael Tse"
+    },
+    {
+      "name": "Qiqi Zhou"
+    },
+    {
+      "name": "Chiu Sheng-yi"
+    },
+    {
+      "name": "Shi Tianqi"
+    },
+    {
+      "name": "Lu Xiner"
+    },
+    {
+      "name": "Lin Zhenghao"
+    },
+    {
+      "name": "Liu Meiman"
+    },
+    {
+      "name": "Ma Jing"
+    },
+    {
+      "name": "Chen Jia"
+    },
+    {
+      "name": "James Blackston"
+    },
+    {
+      "name": "Liu Yifei",
+      "image": "http://image.tmdb.org/t/p/w185/pGMngcU5xm9mDFIl5y99NtVm2ti.jpg"
+    }
+  ]
+}

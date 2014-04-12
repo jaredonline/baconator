@@ -1,0 +1,41 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/q7YzFdwvHuukVoIH8V2op9FtNJm.jpg",
+    "name": "Killing Hitler"
+  },
+  "cast": [
+    {
+      "name": "Peter McDonald"
+    },
+    {
+      "name": "Kate Ashfield",
+      "image": "http://image.tmdb.org/t/p/w185/nDMZjd8dM7kQqh6agwMIP5l3Q2l.jpg"
+    },
+    {
+      "name": "Kenneth Cranham",
+      "image": "http://image.tmdb.org/t/p/w185/3HRLNM3EuF8oEQC06AfXooAu4rb.jpg"
+    },
+    {
+      "name": "Keith Allen",
+      "image": "http://image.tmdb.org/t/p/w185/ivILGIXvflaOciCElrX3CQ3sJyK.jpg"
+    },
+    {
+      "name": "Andrew Scott",
+      "image": "http://image.tmdb.org/t/p/w185/3yu4zC3OVq2lvmMqnPT4RYH4sBU.jpg"
+    },
+    {
+      "name": "Bohdan Poraj"
+    },
+    {
+      "name": "Lara Belmont",
+      "image": "http://image.tmdb.org/t/p/w185/aiaOzux8dtBqNNtiX7CbcbSbVqF.jpg"
+    },
+    {
+      "name": "Carsten Voigt"
+    },
+    {
+      "name": "Vincent Regan",
+      "image": "http://image.tmdb.org/t/p/w185/tiyjPHwmX8dMMfx0F8HUpXyLHeY.jpg"
+    }
+  ]
+}

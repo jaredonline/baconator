@@ -1,0 +1,44 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/3fgjYzcVfxTEeMnxlNSqaT4jdDg.jpg",
+    "name": "Copying Beethoven"
+  },
+  "cast": [
+    {
+      "name": "Ed Harris",
+      "image": "http://image.tmdb.org/t/p/w185/a9ITc3shCAWjV4qKf3rgR0Opu3y.jpg"
+    },
+    {
+      "name": "Diane Kruger",
+      "image": "http://image.tmdb.org/t/p/w185/w3HS6qWo2wihXTdGwwsig4zgGG.jpg"
+    },
+    {
+      "name": "Matthew Goode",
+      "image": "http://image.tmdb.org/t/p/w185/bSGvvLVbgpIFGLKj2CGeojsqOaH.jpg"
+    },
+    {
+      "name": "Phyllida Law",
+      "image": "http://image.tmdb.org/t/p/w185/fUQ58cJIqn9KODMyMqGfQe2MTiw.jpg"
+    },
+    {
+      "name": "Ralph Riach"
+    },
+    {
+      "name": "Bill Stewart"
+    },
+    {
+      "name": "Angus Barnett"
+    },
+    {
+      "name": "Viktoria Dihen"
+    },
+    {
+      "name": "Phyllida Law",
+      "image": "http://image.tmdb.org/t/p/w185/fUQ58cJIqn9KODMyMqGfQe2MTiw.jpg"
+    },
+    {
+      "name": "Matyelok Gibbs",
+      "image": "http://image.tmdb.org/t/p/w185/mFouHJqFX0Mtj1kgE5zkXXcNr8A.jpg"
+    }
+  ]
+}

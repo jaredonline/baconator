@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/jmws5B5kQ78Nufnnl8NVpxZ1GlH.jpg",
+    "name": "Heavy"
+  },
+  "cast": [
+    {
+      "name": "Pruitt Taylor Vince",
+      "image": "http://image.tmdb.org/t/p/w185/A7bmvkrsKdW26AjPkqY6ETzEOlr.jpg"
+    },
+    {
+      "name": "Shelley Winters",
+      "image": "http://image.tmdb.org/t/p/w185/zVg966M0RVK5kycHZUEDc51QULV.jpg"
+    },
+    {
+      "name": "Liv Tyler",
+      "image": "http://image.tmdb.org/t/p/w185/hjZTqH1qXSG5WFDmtOqEgtuTJOZ.jpg"
+    },
+    {
+      "name": "Debbie Harry",
+      "image": "http://image.tmdb.org/t/p/w185/1I0WW7NaSXKeQjrIKLwnzvBq5d8.jpg"
+    }
+  ]
+}

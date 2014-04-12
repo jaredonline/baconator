@@ -1,0 +1,41 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/oy5vfHERtWrguTJ01FbHCnX4WAS.jpg",
+    "name": "Ball and Chain"
+  },
+  "cast": [
+    {
+      "name": "Sunil Malhotra"
+    },
+    {
+      "name": "Purva Bedi",
+      "image": "http://image.tmdb.org/t/p/w185/c1hnJKpSqWSOlSVdSqnIJAGbeYC.jpg"
+    },
+    {
+      "name": "Kal Penn",
+      "image": "http://image.tmdb.org/t/p/w185/yxXuL1HVWaBMvrbwdDY1id3JwRZ.jpg"
+    },
+    {
+      "name": "Asrani"
+    },
+    {
+      "name": "Ismail Bashey"
+    },
+    {
+      "name": "Johnny Kastl"
+    },
+    {
+      "name": "Ather Ali"
+    },
+    {
+      "name": "Shaan Puri"
+    },
+    {
+      "name": "Brea Cola"
+    },
+    {
+      "name": "Lisa Ray",
+      "image": "http://image.tmdb.org/t/p/w185/dQ8wm5CSCQofP18MYjOVm2jKiks.jpg"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/hRKcbETN8qcGf48IBgFqMXIPpYA.jpg",
+    "name": "The Heifer"
+  },
+  "cast": [
+    {
+      "name": "Alfredo Landa",
+      "image": "http://image.tmdb.org/t/p/w185/53DZiTaUon3KT6Izkre0gQEbhNu.jpg"
+    },
+    {
+      "name": "Guillermo Montesinos",
+      "image": "http://image.tmdb.org/t/p/w185/7iwsYhQ8EWJbwHDU2xaukGLIxJK.jpg"
+    },
+    {
+      "name": "Santiago Ramos",
+      "image": "http://image.tmdb.org/t/p/w185/t4HfSMCW75NrplWhku6psjFNkFx.jpg"
+    }
+  ]
+}

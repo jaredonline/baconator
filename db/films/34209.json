@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/50DaE6TiI7YbSV3z8XAEGZNKO8p.jpg",
+    "name": "Just Like the Son"
+  },
+  "cast": [
+    {
+      "name": "Mark Webber",
+      "image": "http://image.tmdb.org/t/p/w185/6AA05AS6lnOjgFrA1nreIm9gBEP.jpg"
+    },
+    {
+      "name": "Brendan Sexton III",
+      "image": "http://image.tmdb.org/t/p/w185/kQsOIQuGcqwdpolSEzLV7RfYVsV.jpg"
+    },
+    {
+      "name": "Phyllis Somerville",
+      "image": "http://image.tmdb.org/t/p/w185/mm70dRw6IfZ9tDwxCJJmg6KE8xm.jpg"
+    }
+  ]
+}

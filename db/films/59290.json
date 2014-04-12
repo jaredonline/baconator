@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/3xTykBjIfD2XUE9lyZs74qmpVo0.jpg",
+    "name": "Polar Opposites"
+  },
+  "cast": [
+    {
+      "name": "Charles Shaughnessy",
+      "image": "http://image.tmdb.org/t/p/w185/nXBcNGKwNIt1AeXb3DzVgcedGLi.jpg"
+    },
+    {
+      "name": "Tracy Nelson",
+      "image": "http://image.tmdb.org/t/p/w185/fTbm1QMIO1qRJ40b7DLaQ2WfCiL.jpg"
+    },
+    {
+      "name": "Ken Barnett"
+    },
+    {
+      "name": "Beth Grant",
+      "image": "http://image.tmdb.org/t/p/w185/pfUCLLbMHtTjkaHmJO68CwI5Ezb.jpg"
+    },
+    {
+      "name": "Kieren Hutchison",
+      "image": "http://image.tmdb.org/t/p/w185/eyAAOkkc2ZTtGXoeFO4OtfnjcyX.jpg"
+    },
+    {
+      "name": "Clive Revill"
+    },
+    {
+      "name": "Jackie Geary",
+      "image": "http://image.tmdb.org/t/p/w185/saIV0KEUYjfDSKsCyODWxCGqbUr.jpg"
+    },
+    {
+      "name": "Lee Arenberg",
+      "image": "http://image.tmdb.org/t/p/w185/l4Zxsug0QpyJYLv0RosYMgRXiAm.jpg"
+    }
+  ]
+}

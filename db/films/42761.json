@@ -1,0 +1,33 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7EvQhqANwD1vORKrv6Auuz7mNWj.jpg",
+    "name": "Henson's Place: The Man Behind the Muppets"
+  },
+  "cast": [
+    {
+      "name": "Jim Henson",
+      "image": "http://image.tmdb.org/t/p/w185/2OWxHy8MPdaSiLN8Vt0siC0hdr4.jpg"
+    },
+    {
+      "name": "Frank Oz",
+      "image": "http://image.tmdb.org/t/p/w185/9KqCa2wS4EO2yymrVIgMiFHh6M4.jpg"
+    },
+    {
+      "name": "Jane Henson"
+    },
+    {
+      "name": "Gabriel Velez"
+    },
+    {
+      "name": "Caroll Spinney",
+      "image": "http://image.tmdb.org/t/p/w185/jwfEjekSJ83ChkgVtpFQa3KGDRD.jpg"
+    },
+    {
+      "name": "Pam Arciero"
+    },
+    {
+      "name": "Brian Henson",
+      "image": "http://image.tmdb.org/t/p/w185/m2Bczi1gvhnIYCGp8Fhg2QCPuNf.jpg"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6bgk0uunNjZGdXMzDzXnK8N3gGh.jpg",
+    "name": "Le polygraphe"
+  },
+  "cast": [
+    {
+      "name": "Patrick Goyette"
+    },
+    {
+      "name": "Marie Brassard"
+    },
+    {
+      "name": "Peter Stormare",
+      "image": "http://image.tmdb.org/t/p/w185/dDR0brp5L7fXDyEywrhjQv01LSg.jpg"
+    },
+    {
+      "name": "Maria de Medeiros",
+      "image": "http://image.tmdb.org/t/p/w185/54cKyuWqzDbbyV2M5GfGBTIdUHQ.jpg"
+    },
+    {
+      "name": "James Hyndman",
+      "image": "http://image.tmdb.org/t/p/w185/hlda1tUn8Hb2nTZMU9xENsdAmlf.jpg"
+    }
+  ]
+}

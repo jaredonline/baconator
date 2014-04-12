@@ -1,0 +1,30 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/sUOwichlyMnSXARsN9hZ2jlbFGy.jpg",
+    "name": "The Headless Ghost"
+  },
+  "cast": [
+    {
+      "name": "Clive Revill"
+    },
+    {
+      "name": "Richard Lyon"
+    },
+    {
+      "name": "Liliane Sottane"
+    },
+    {
+      "name": "Jack Allen",
+      "image": "http://image.tmdb.org/t/p/w185/wk3m5MJ0eE2HW8XTuLZs06tUyrf.jpg"
+    },
+    {
+      "name": "Alexander Archdale"
+    },
+    {
+      "name": "John Stacy"
+    },
+    {
+      "name": "Carl Bernard"
+    }
+  ]
+}

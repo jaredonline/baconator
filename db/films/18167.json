@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zrUKUuNHSdoqQ1trncQhU8u6l6V.jpg",
+    "name": "Another 9 1/2 Weeks"
+  },
+  "cast": [
+    {
+      "name": "Mickey Rourke",
+      "image": "http://image.tmdb.org/t/p/w185/AvGzQ8fvjurGmZW3W1wlQ5WfSeT.jpg"
+    },
+    {
+      "name": "Agathe de La Fontaine"
+    },
+    {
+      "name": "Angie Everhart",
+      "image": "http://image.tmdb.org/t/p/w185/n4coY7os9hPRRLAzcpr4clpLVh1.jpg"
+    },
+    {
+      "name": "Steven Berkoff",
+      "image": "http://image.tmdb.org/t/p/w185/jiYMK9prj46Qe4gmbKtBDE6YlSr.jpg"
+    },
+    {
+      "name": "Dougray Scott",
+      "image": "http://image.tmdb.org/t/p/w185/iD9jLBFth3VuTq1nyjzI7xK9iQT.jpg"
+    }
+  ]
+}

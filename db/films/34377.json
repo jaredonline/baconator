@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/fu9TgYZMJUksXZgvyYyaPJvcNG2.jpg",
+    "name": "The Boys in the Band"
+  },
+  "cast": [
+    {
+      "name": "Leonard Frey",
+      "image": "http://image.tmdb.org/t/p/w185/tXkjqSr5sYKcTL7aSSxm6sEyBaX.jpg"
+    },
+    {
+      "name": "Frederick Combs"
+    },
+    {
+      "name": "Cliff Gorman",
+      "image": "http://image.tmdb.org/t/p/w185/yTcSuI9I8u18SYnxTL6V1uPNqGK.jpg"
+    },
+    {
+      "name": "Laurence Luckinbill",
+      "image": "http://image.tmdb.org/t/p/w185/jlqRZS4qGvcUokv3EaWSXZsi04l.jpg"
+    },
+    {
+      "name": "Keith Prentice"
+    }
+  ]
+}

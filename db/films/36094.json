@@ -1,0 +1,16 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/cHLzIfDxNCYmiUu1AGdVuxKS3oU.jpg",
+    "name": "Stanley & Iris"
+  },
+  "cast": [
+    {
+      "name": "Jane Fonda",
+      "image": "http://image.tmdb.org/t/p/w185/t4kIxZrAhxnMyQP8BZFmpPAot0z.jpg"
+    },
+    {
+      "name": "Robert De Niro",
+      "image": "http://image.tmdb.org/t/p/w185/8Bgdfv1oN9Mw0YuMHP6fw8KzDkc.jpg"
+    }
+  ]
+}

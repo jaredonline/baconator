@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/R2z2eB7ByWIpxcbyVPhbAZ1s0y.jpg",
+    "name": "The Wedding Party"
+  },
+  "cast": [
+    {
+      "name": "Robert De Niro",
+      "image": "http://image.tmdb.org/t/p/w185/8Bgdfv1oN9Mw0YuMHP6fw8KzDkc.jpg"
+    },
+    {
+      "name": "Jill Clayburgh",
+      "image": "http://image.tmdb.org/t/p/w185/twrfhIvbqHuJ7nXVpehvU6nyi6R.jpg"
+    },
+    {
+      "name": "Valda Setterfield"
+    },
+    {
+      "name": "Raymond McNally"
+    },
+    {
+      "name": "John Braswell"
+    },
+    {
+      "name": "Charles Pfluger"
+    },
+    {
+      "name": "William Finley"
+    },
+    {
+      "name": "Judy Thomas"
+    },
+    {
+      "name": "Jennifer Salt",
+      "image": "http://image.tmdb.org/t/p/w185/2Qyc9aLHRmeEFF69XiYpIxUI0bp.jpg"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/dy3nS3dOYle0OrDq2cNlBU4BPzr.jpg",
+    "name": "Nevada"
+  },
+  "cast": [
+    {
+      "name": "Amy Brenneman",
+      "image": "http://image.tmdb.org/t/p/w185/jbNBULmtwaF0MuhBSKszKDUwr0m.jpg"
+    },
+    {
+      "name": "Ben Browder",
+      "image": "http://image.tmdb.org/t/p/w185/zp0ZwF73AAdBaU78niiWPF3yC9b.jpg"
+    },
+    {
+      "name": "James Wilder",
+      "image": "http://image.tmdb.org/t/p/w185/bvnCXz9jfb2EF6iQfyQWVFM5guU.jpg"
+    },
+    {
+      "name": "Keith Anthony Bennett"
+    },
+    {
+      "name": "Bridgette Wilson",
+      "image": "http://image.tmdb.org/t/p/w185/wsL4wQyKjoAJFlDoItSqdaeyOce.jpg"
+    },
+    {
+      "name": "Lacy Drew"
+    },
+    {
+      "name": "Gabrielle Anwar",
+      "image": "http://image.tmdb.org/t/p/w185/khnEDczzSy6UcbnqZ6Sb4lWxnkE.jpg"
+    },
+    {
+      "name": "Kirstie Alley",
+      "image": "http://image.tmdb.org/t/p/w185/57kBWhQZpXU9vS9TRXjsLtGuEQD.jpg"
+    }
+  ]
+}

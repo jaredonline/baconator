@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/szfDjni2GoNulS8KC0bfSYJral1.jpg",
+    "name": "84 Charlie Mopic"
+  },
+  "cast": [
+    {
+      "name": "Jonathan Emerson"
+    },
+    {
+      "name": "Nicholas Cascone"
+    },
+    {
+      "name": "Jason Tomlins"
+    },
+    {
+      "name": "Christopher Burgard"
+    },
+    {
+      "name": "Glenn Morshower",
+      "image": "http://image.tmdb.org/t/p/w185/djoQV6z7BADoAY6FgyK0099dtlS.jpg"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/kwVXOH3hA2uJiiaaiWbVqgpRDk8.jpg",
+    "name": "Dude, Where's the Party?"
+  },
+  "cast": [
+    {
+      "name": "Kal Penn",
+      "image": "http://image.tmdb.org/t/p/w185/yxXuL1HVWaBMvrbwdDY1id3JwRZ.jpg"
+    },
+    {
+      "name": "Sunil Malhotra"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2FnlbR3Gy2T7DySpYKJLsKVVrHO.jpg",
+    "name": "The Cottage"
+  },
+  "cast": [
+    {
+      "name": "David Arquette",
+      "image": "http://image.tmdb.org/t/p/w185/apjsWAMyuuQ5QGGXdkLsQ21sf8V.jpg"
+    },
+    {
+      "name": "Kristen Dalton",
+      "image": "http://image.tmdb.org/t/p/w185/xoZTVakQx7sNtASfksfAfPfzamr.jpg"
+    },
+    {
+      "name": "Victor Browne"
+    },
+    {
+      "name": "Morissa O'Mara"
+    },
+    {
+      "name": "Alana O'Mara"
+    }
+  ]
+}

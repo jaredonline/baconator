@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/bYqtG0jux7aenBayF4YahCDpEL2.jpg",
+    "name": "Nostromo"
+  },
+  "cast": [
+    {
+      "name": "Lothaire Bluteau",
+      "image": "http://image.tmdb.org/t/p/w185/4T08wOIWv84KqMYYsd1VUSX1lFF.jpg"
+    },
+    {
+      "name": "Claudia Cardinale",
+      "image": "http://image.tmdb.org/t/p/w185/tV3oboOm0Iix0AEtQKGPnPE2hbF.jpg"
+    },
+    {
+      "name": "Brian Dennehy",
+      "image": "http://image.tmdb.org/t/p/w185/1q2RIRw6NJ6iVZL1TcgGdgmcpIl.jpg"
+    },
+    {
+      "name": "Albert Finney",
+      "image": "http://image.tmdb.org/t/p/w185/eD1BZEydFYFXi4GFr3GAPpdHcls.jpg"
+    },
+    {
+      "name": "Colin Firth",
+      "image": "http://image.tmdb.org/t/p/w185/4pj31PUxqpuJZrHChinub4gr2ul.jpg"
+    }
+  ]
+}

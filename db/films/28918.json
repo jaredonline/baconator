@@ -1,0 +1,48 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/98R0FYU1sSSR7pUwRg7AMJf1z74.jpg",
+    "name": "David Copperfield"
+  },
+  "cast": [
+    {
+      "name": "Ciarán McMenamin",
+      "image": "http://image.tmdb.org/t/p/w185/v47126LId1Njo4tUXkM1HvIXzA1.jpg"
+    },
+    {
+      "name": "Emilia Fox",
+      "image": "http://image.tmdb.org/t/p/w185/xbOxrak2VaQTVX2pNdqRG3NZvK2.jpg"
+    },
+    {
+      "name": "Maggie Smith",
+      "image": "http://image.tmdb.org/t/p/w185/8OtS7JhL12Qa8QzSuZZAzNRbFnu.jpg"
+    },
+    {
+      "name": "Daniel Radcliffe",
+      "image": "http://image.tmdb.org/t/p/w185/yKqkvz9MiWF6LWuHkbjSU3xKd7I.jpg"
+    },
+    {
+      "name": "Michael Elphick",
+      "image": "http://image.tmdb.org/t/p/w185/sb8z3XPy9lKPMyYEgVC6RKMccE6.jpg"
+    },
+    {
+      "name": "Zoë Wanamaker",
+      "image": "http://image.tmdb.org/t/p/w185/6R8oHxB9aQj7DjaBgrb4sO9SJJg.jpg"
+    },
+    {
+      "name": "Ian McKellen",
+      "image": "http://image.tmdb.org/t/p/w185/c51mP46oPgAgFf7bFWVHlScZynM.jpg"
+    },
+    {
+      "name": "Bob Hoskins",
+      "image": "http://image.tmdb.org/t/p/w185/mIgAC6q5HcHHxZUIiCOvE6mHLGs.jpg"
+    },
+    {
+      "name": "Imelda Staunton",
+      "image": "http://image.tmdb.org/t/p/w185/e7FpcI95I8Yb1yru14XFc7hdMs6.jpg"
+    },
+    {
+      "name": "Tom Wilkinson",
+      "image": "http://image.tmdb.org/t/p/w185/4mxZKgdem0sQ8hJd0Y7TREwq7TJ.jpg"
+    }
+  ]
+}

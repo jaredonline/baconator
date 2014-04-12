@@ -1,0 +1,35 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/aKupDLSZGOam5jhPBj6yzAsml7z.jpg",
+    "name": "Rails & Ties"
+  },
+  "cast": [
+    {
+      "name": "Kevin Bacon",
+      "image": "http://image.tmdb.org/t/p/w185/bMVujB1SaHhXD5gQdO4Xf47WXD3.jpg"
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "image": "http://image.tmdb.org/t/p/w185/wJ8xccf8SPKc45psGBRprZUdWzG.jpg"
+    },
+    {
+      "name": "Miles Heizer",
+      "image": "http://image.tmdb.org/t/p/w185/xqv5mGEtXsniw5bpm8NRfSVrahb.jpg"
+    },
+    {
+      "name": "Marin Hinkle",
+      "image": "http://image.tmdb.org/t/p/w185/aSE005xidHXg1vGyPHiLwkrupBd.jpg"
+    },
+    {
+      "name": "Eugene Byrd",
+      "image": "http://image.tmdb.org/t/p/w185/ctNRxb2YgeSHltz63fmvDKdsCLF.jpg"
+    },
+    {
+      "name": "Bonnie Root"
+    },
+    {
+      "name": "Kathryn Joosten",
+      "image": "http://image.tmdb.org/t/p/w185/jvZVB4qJT6EmDBcYhwsRkKjCnUP.jpg"
+    }
+  ]
+}

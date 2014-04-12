@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/tVYuUZJV90ecwu3TkP9WMjJc7or.jpg",
+    "name": "Road to Christmas"
+  },
+  "cast": [
+    {
+      "name": "Jennifer Grey",
+      "image": "http://image.tmdb.org/t/p/w185/fkeKVs4DvrF821qQYybXgDOfokk.jpg"
+    },
+    {
+      "name": "Megan Park",
+      "image": "http://image.tmdb.org/t/p/w185/AjIaQKbjMgYcJxalCBM4MGREss0.jpg"
+    },
+    {
+      "name": "Clark Gregg",
+      "image": "http://image.tmdb.org/t/p/w185/t8CLS2Zcy7IjcZkE1vtxl40h9rh.jpg"
+    }
+  ]
+}

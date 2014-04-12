@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/57Yr5Es4dk2udRY2R9iDVjSkk6q.jpg",
+    "name": "Zulu Dawn"
+  },
+  "cast": [
+    {
+      "name": "Burt Lancaster",
+      "image": "http://image.tmdb.org/t/p/w185/p45iFmVBoBCVE1HS8Fg7iaF8cZS.jpg"
+    },
+    {
+      "name": "Denholm Elliott",
+      "image": "http://image.tmdb.org/t/p/w185/831ZPcGYHibgX1rMLxgP7Uv6f2l.jpg"
+    },
+    {
+      "name": "Bob Hoskins",
+      "image": "http://image.tmdb.org/t/p/w185/mIgAC6q5HcHHxZUIiCOvE6mHLGs.jpg"
+    },
+    {
+      "name": "Peter O'Toole",
+      "image": "http://image.tmdb.org/t/p/w185/i4qteYphjkqtwsuQwcfQPEdV1ZI.jpg"
+    }
+  ]
+}

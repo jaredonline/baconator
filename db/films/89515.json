@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/5XiZa9wetMy6H3GKJFR9lEsYP1h.jpg",
+    "name": "A Distant Place"
+  },
+  "cast": [
+    {
+      "name": "Erich Wildpret"
+    },
+    {
+      "name": "Marcela Kloosterboer"
+    },
+    {
+      "name": "Mirela Mendoza"
+    },
+    {
+      "name": "Tristán Ulloa",
+      "image": "http://image.tmdb.org/t/p/w185/AmiVKczdJG7zxqzX3Jh9IHYk8Yc.jpg"
+    }
+  ]
+}

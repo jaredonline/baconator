@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/kk1yEsEp2uIRtYQ1FmRkqAFpENK.jpg",
+    "name": "Zemanovaload"
+  },
+  "cast": [
+    {
+      "name": "Ed Byrne",
+      "image": "http://image.tmdb.org/t/p/w185/fROmnURfbkhL8x7yuF6zC06bWG6.jpg"
+    },
+    {
+      "name": "Georgina Chapman",
+      "image": "http://image.tmdb.org/t/p/w185/nSdhtkVAJ2N0YWWviLS42mMktwC.jpg"
+    },
+    {
+      "name": "Olivia Colman",
+      "image": "http://image.tmdb.org/t/p/w185/oeFSUZPhYquRkpawNKimWeDSm7T.jpg"
+    },
+    {
+      "name": "Gemma Cowap"
+    }
+  ]
+}

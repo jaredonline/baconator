@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/mkjJrXcvP9FRgyqJNHNPJ7LYF7E.jpg",
+    "name": "The Emperor's Club"
+  },
+  "cast": [
+    {
+      "name": "Kevin Kline",
+      "image": "http://image.tmdb.org/t/p/w185/u9QXn3fL7zCC2c6HA2vFgH1JxZg.jpg"
+    },
+    {
+      "name": "Emile Hirsch",
+      "image": "http://image.tmdb.org/t/p/w185/qSiUKKhJLD7LCZdfz7rQOhNpxO1.jpg"
+    },
+    {
+      "name": "Embeth Davidtz",
+      "image": "http://image.tmdb.org/t/p/w185/49owOgVdOQqeleEMnOhko5ndkXr.jpg"
+    },
+    {
+      "name": "Rob Morrow",
+      "image": "http://image.tmdb.org/t/p/w185/pddqfHQ7AV5I2EUIzz32GFp5m5Q.jpg"
+    }
+  ]
+}

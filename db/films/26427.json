@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/rZ41JyGHcCSbalqfrZff6b61Hvo.jpg",
+    "name": "Hoffman"
+  },
+  "cast": [
+    {
+      "name": "Peter Sellers",
+      "image": "http://image.tmdb.org/t/p/w185/2uJvjoiTjvJfbd81S2AhRtdf2aU.jpg"
+    },
+    {
+      "name": "Sinéad Cusack",
+      "image": "http://image.tmdb.org/t/p/w185/r9eWOKN1WtE7RMDAwIhOpMRh3wL.jpg"
+    },
+    {
+      "name": "Ruth Dunning"
+    }
+  ]
+}

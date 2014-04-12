@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/bw4MIx91AQ1M2FeFbvtThe2eL6Y.jpg",
+    "name": "Agallas"
+  },
+  "cast": [
+    {
+      "name": "Hugo Silva",
+      "image": "http://image.tmdb.org/t/p/w185/kOcv1u4pgJEEvvjHxZZl5OI8ReS.jpg"
+    },
+    {
+      "name": "Carmelo Gómez",
+      "image": "http://image.tmdb.org/t/p/w185/dCuhHjDh1hXMTi1GRhqPktq5c6p.jpg"
+    },
+    {
+      "name": "Carlos Sante"
+    },
+    {
+      "name": "Rula Blanco"
+    },
+    {
+      "name": "Tomás Lijó"
+    },
+    {
+      "name": "Xavier Estévez"
+    },
+    {
+      "name": "Pepo Suevos"
+    },
+    {
+      "name": "Celso Bugallo",
+      "image": "http://image.tmdb.org/t/p/w185/6X8FE3CMUVABbbbEjpYCfq5AZyI.jpg"
+    },
+    {
+      "name": "Yoima Valdés"
+    }
+  ]
+}

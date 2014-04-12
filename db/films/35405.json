@@ -1,0 +1,47 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/5Olu8AsQjBdN8trnKRDIlgxSeN4.jpg",
+    "name": "S*P*Y*S"
+  },
+  "cast": [
+    {
+      "name": "Elliott Gould",
+      "image": "http://image.tmdb.org/t/p/w185/tYB6UTpweDR4Z3glSNCj9Mnfa9v.jpg"
+    },
+    {
+      "name": "Donald Sutherland",
+      "image": "http://image.tmdb.org/t/p/w185/tPLVaPjxEscGPKS3ieByloa8Mqj.jpg"
+    },
+    {
+      "name": "Zouzou"
+    },
+    {
+      "name": "Joss Ackland",
+      "image": "http://image.tmdb.org/t/p/w185/b1Ijg1F0RX8ZQG8jJ03VTjWpd8b.jpg"
+    },
+    {
+      "name": "Xavier Gélin"
+    },
+    {
+      "name": "Vladek Sheybal",
+      "image": "http://image.tmdb.org/t/p/w185/ccutGFAuflgNyPXyXd6HE1pwZk5.jpg"
+    },
+    {
+      "name": "Michael Petrovitch"
+    },
+    {
+      "name": "Shane Rimmer",
+      "image": "http://image.tmdb.org/t/p/w185/ctrIOcWLjOB5rocS0vVHEjbS1Sx.jpg"
+    },
+    {
+      "name": "Kenneth Griffith",
+      "image": "http://image.tmdb.org/t/p/w185/9ufRxOmwkQDwUCuJKk6ORgXQO7T.jpg"
+    },
+    {
+      "name": "Pierre Oudrey"
+    },
+    {
+      "name": "Kenneth J. Warren"
+    }
+  ]
+}

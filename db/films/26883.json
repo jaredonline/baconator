@@ -1,0 +1,64 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ZJPhhszzp3zch331IOulJRhafV.jpg",
+    "name": "The Trial of the Incredible Hulk"
+  },
+  "cast": [
+    {
+      "name": "Bill Bixby",
+      "image": "http://image.tmdb.org/t/p/w185/bcysUz3qtIYvihIKUJ4Azaxaknn.jpg"
+    },
+    {
+      "name": "Lou Ferrigno",
+      "image": "http://image.tmdb.org/t/p/w185/ilrREpFP1eBQZBwRf8U33IRHmSj.jpg"
+    },
+    {
+      "name": "John Rhys-Davies",
+      "image": "http://image.tmdb.org/t/p/w185/zZ67PuoFfik9QlZyfaEsFBC1yVJ.jpg"
+    },
+    {
+      "name": "Marta DuBois"
+    },
+    {
+      "name": "Nancy Everhard"
+    },
+    {
+      "name": "Nicholas Hormann"
+    },
+    {
+      "name": "Richard Cummings Jr."
+    },
+    {
+      "name": "Joseph Mascolo",
+      "image": "http://image.tmdb.org/t/p/w185/14hthTYc8VraHYhIDCdZH4XnD1r.jpg"
+    },
+    {
+      "name": "Rex Smith",
+      "image": "http://image.tmdb.org/t/p/w185/5X5PwwiMV5ZoIIImIC6yc4GQgN6.jpg"
+    },
+    {
+      "name": "Linda Darlow"
+    },
+    {
+      "name": "John Novak",
+      "image": "http://image.tmdb.org/t/p/w185/4d7dFppd9XDURcPUY8e6UqtVPwY.jpg"
+    },
+    {
+      "name": "Dwight Koss"
+    },
+    {
+      "name": "Merideth Bain Woodward"
+    },
+    {
+      "name": "Mark Acheson",
+      "image": "http://image.tmdb.org/t/p/w185/8XWp2fiHiyYcgMeEgcttdpiJpRw.jpg"
+    },
+    {
+      "name": "Richard Newman"
+    },
+    {
+      "name": "Stan Lee",
+      "image": "http://image.tmdb.org/t/p/w185/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/u7Yau1XKj4S9KcahdeUI5W7Q1qp.jpg",
+    "name": "The Kiss of the Vampire"
+  },
+  "cast": [
+    {
+      "name": "Clifford Evans",
+      "image": "http://image.tmdb.org/t/p/w185/cwdIDPML1DxcsniuKL7FOuWOsG3.jpg"
+    },
+    {
+      "name": "Noel Willman",
+      "image": "http://image.tmdb.org/t/p/w185/7hJIwQieLVSqRglQjVkOZff3jeT.jpg"
+    },
+    {
+      "name": "Edward de Souza"
+    },
+    {
+      "name": "Jennifer Daniel"
+    },
+    {
+      "name": "Barry Warren"
+    },
+    {
+      "name": "Brian Oulton",
+      "image": "http://image.tmdb.org/t/p/w185/5YEgQh8octAFtzFC0bI0qZLmC9f.jpg"
+    },
+    {
+      "name": "Noel Howlett"
+    },
+    {
+      "name": "Jacquie Wallis"
+    },
+    {
+      "name": "Peter Madden"
+    },
+    {
+      "name": "Isobel Black"
+    },
+    {
+      "name": "Vera Cook"
+    },
+    {
+      "name": "John Harvey"
+    }
+  ]
+}

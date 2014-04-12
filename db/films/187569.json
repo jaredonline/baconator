@@ -1,0 +1,18 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/oTwIHU82ckQXwVYPkzhFB30wDVz.jpg",
+    "name": "Four Days in July"
+  },
+  "cast": [
+    {
+      "name": "Brid Brennan"
+    },
+    {
+      "name": "Des McAleer"
+    },
+    {
+      "name": "Stephen Rea",
+      "image": "http://image.tmdb.org/t/p/w185/taD1NngDbW8cyCuacAT3YaecSEG.jpg"
+    }
+  ]
+}

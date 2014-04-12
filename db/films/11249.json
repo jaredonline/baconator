@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qg0KBuWPGQJqOsFgBNr8Fnkwipi.jpg",
+    "name": "Seed of Chucky"
+  },
+  "cast": [
+    {
+      "name": "Brad Dourif",
+      "image": "http://image.tmdb.org/t/p/w185/jfvemADVHzTWu5HiOEhYmFfSpWt.jpg"
+    },
+    {
+      "name": "Jennifer Tilly",
+      "image": "http://image.tmdb.org/t/p/w185/ehaF6Pbugko2Fh1A9S6VgCDpLvS.jpg"
+    },
+    {
+      "name": "Billy Boyd",
+      "image": "http://image.tmdb.org/t/p/w185/nwNHDM67VYAb87sjSqYQVWaZKyK.jpg"
+    },
+    {
+      "name": "Redman",
+      "image": "http://image.tmdb.org/t/p/w185/7oCgmN8xwxkZWzFKhF2IMI5F2ki.jpg"
+    },
+    {
+      "name": "Hannah Spearritt",
+      "image": "http://image.tmdb.org/t/p/w185/xJlws5XMI3jzncqgJ46jgCwbOCm.jpg"
+    },
+    {
+      "name": "John Waters",
+      "image": "http://image.tmdb.org/t/p/w185/3qDSp0LlJ1Q2y802OyJcHVARsbZ.jpg"
+    }
+  ]
+}

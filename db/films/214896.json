@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xM4mfM8ZinfePVFdgWpT2L4PGsi.jpg",
+    "name": "The Bit Part"
+  },
+  "cast": [
+    {
+      "name": "Chris Haywood",
+      "image": "http://image.tmdb.org/t/p/w185/jMVWid44VE90tzmkOBKCWqvT9eW.jpg"
+    },
+    {
+      "name": "Nicole Kidman",
+      "image": "http://image.tmdb.org/t/p/w185/i58Dlu3gGhcyfGuFyWtxrJy7E0x.jpg"
+    },
+    {
+      "name": "John Wood"
+    }
+  ]
+}

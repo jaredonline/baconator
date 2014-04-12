@@ -1,0 +1,41 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/3PSILxZym1BCMRrZTmvd9SUSoyN.jpg",
+    "name": "Tengo una casa"
+  },
+  "cast": [
+    {
+      "name": "Nancho Novo"
+    },
+    {
+      "name": "Ernesto Alterio",
+      "image": "http://image.tmdb.org/t/p/w185/pLsvJzMrs8l8KADCctcV3CP3OYS.jpg"
+    },
+    {
+      "name": "Pedro Alonso"
+    },
+    {
+      "name": "Silke",
+      "image": "http://image.tmdb.org/t/p/w185/onW5ButsprqhRdRCFkogin2hKVC.jpg"
+    },
+    {
+      "name": "Juan Díaz"
+    },
+    {
+      "name": "Ricardo Amador"
+    },
+    {
+      "name": "El Gran Wyoming"
+    },
+    {
+      "name": "Santiago Segura",
+      "image": "http://image.tmdb.org/t/p/w185/mGmYw1j5zRPzhopsor75qAChSqg.jpg"
+    },
+    {
+      "name": "Lola Baldrich"
+    },
+    {
+      "name": "Ion Gabella"
+    }
+  ]
+}

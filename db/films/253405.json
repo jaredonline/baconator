@@ -1,0 +1,15 @@
+{
+  "film": {
+    "name": "Paper Dragons"
+  },
+  "cast": [
+    {
+      "name": "Ernie Reyes, Jr.",
+      "image": "http://image.tmdb.org/t/p/w185/3LQP5PtJOCiGesjvrlBDB3gkNvF.jpg"
+    },
+    {
+      "name": "Victor Wong",
+      "image": "http://image.tmdb.org/t/p/w185/70vAqnH2QFhLOenNQCVcaG1JhN3.jpg"
+    }
+  ]
+}

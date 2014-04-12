@@ -1,0 +1,60 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xvyXuNgLtZCx1ZhRAaXq0TrhJSb.jpg",
+    "name": "Captain Clegg"
+  },
+  "cast": [
+    {
+      "name": "Peter Cushing",
+      "image": "http://image.tmdb.org/t/p/w185/iFE9Xi5B0eZcNFqvCx78UUzmUfI.jpg"
+    },
+    {
+      "name": "Yvonne Romain",
+      "image": "http://image.tmdb.org/t/p/w185/rJ0ARdQLe9zRdsiiptibYgSU7bd.jpg"
+    },
+    {
+      "name": "Patrick Allen",
+      "image": "http://image.tmdb.org/t/p/w185/2E2MnNr0Di5bC4TrhGZpNSyIOle.jpg"
+    },
+    {
+      "name": "Oliver Reed",
+      "image": "http://image.tmdb.org/t/p/w185/we10IusqRV1NHRtA68ftyck2N33.jpg"
+    },
+    {
+      "name": "Michael Ripper"
+    },
+    {
+      "name": "Martin Benson",
+      "image": "http://image.tmdb.org/t/p/w185/x4AfPPRujgL6kfH8ObfefC7i9FY.jpg"
+    },
+    {
+      "name": "David Lodge",
+      "image": "http://image.tmdb.org/t/p/w185/bDpQN4iXuGRIhpFxmdkbBuLnTqQ.jpg"
+    },
+    {
+      "name": "Derek Francis"
+    },
+    {
+      "name": "Daphne Anderson"
+    },
+    {
+      "name": "Milton Reid"
+    },
+    {
+      "name": "Jack MacGowran",
+      "image": "http://image.tmdb.org/t/p/w185/kzh0Gmhp0MG57kfXsqkTPH8LyTr.jpg"
+    },
+    {
+      "name": "Terry Scully"
+    },
+    {
+      "name": "Sydney Bromley"
+    },
+    {
+      "name": "Peter Halliday"
+    },
+    {
+      "name": "Rupert Osborne"
+    }
+  ]
+}

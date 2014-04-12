@@ -1,0 +1,11 @@
+{
+  "film": {
+    "name": "Wish Gone Amiss"
+  },
+  "cast": [
+    {
+      "name": "Miley Cyrus",
+      "image": "http://image.tmdb.org/t/p/w185/5hodIyctwaBdmUtHNcYUDmnNRk9.jpg"
+    }
+  ]
+}

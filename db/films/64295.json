@@ -1,0 +1,16 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/sonm4jwYaG6iJpyzRNPn7xY4LLW.jpg",
+    "name": "Wachau - Valley of Golden Magic"
+  },
+  "cast": [
+    {
+      "name": "Peter Simonischek",
+      "image": "http://image.tmdb.org/t/p/w185/7Zrv8fxvZzHzt1M7EU8mvrVCgyo.jpg"
+    },
+    {
+      "name": "John Shrapnel",
+      "image": "http://image.tmdb.org/t/p/w185/nDIK01IoVNx7cfYOrKqGugItqO9.jpg"
+    }
+  ]
+}

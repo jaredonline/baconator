@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6Id9I9NQEO3ya5Ti23kPIzXl7cQ.jpg",
+    "name": "Picture Claire"
+  },
+  "cast": [
+    {
+      "name": "Juliette Lewis",
+      "image": "http://image.tmdb.org/t/p/w185/AhTgCkJEFEaI0NKk7ICYnY0tEDI.jpg"
+    },
+    {
+      "name": "Gina Gershon",
+      "image": "http://image.tmdb.org/t/p/w185/t38MVU0Eb4VlAqKabeq62aSZFD7.jpg"
+    },
+    {
+      "name": "Mickey Rourke",
+      "image": "http://image.tmdb.org/t/p/w185/AvGzQ8fvjurGmZW3W1wlQ5WfSeT.jpg"
+    },
+    {
+      "name": "Callum Keith Rennie",
+      "image": "http://image.tmdb.org/t/p/w185/slLsdWFDpxueDbV0l1QWK2gG24x.jpg"
+    }
+  ]
+}

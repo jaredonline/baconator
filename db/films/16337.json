@@ -1,0 +1,44 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/1EI0Qs6AhtxdamRBsFC4zm2I6sj.jpg",
+    "name": "The Texas Chainsaw Massacre 2"
+  },
+  "cast": [
+    {
+      "name": "Dennis Hopper",
+      "image": "http://image.tmdb.org/t/p/w185/25i87kBragb2MQah8OYZJkZuys.jpg"
+    },
+    {
+      "name": "Caroline Williams",
+      "image": "http://image.tmdb.org/t/p/w185/iOwBSdPQ1adtucfm3eyLjmlCVbt.jpg"
+    },
+    {
+      "name": "Jim Siedow"
+    },
+    {
+      "name": "Bill Moseley",
+      "image": "http://image.tmdb.org/t/p/w185/p24HsWoB25AS6AZ1w019T1IcycF.jpg"
+    },
+    {
+      "name": "Bill Johnson"
+    },
+    {
+      "name": "Ken Evert "
+    },
+    {
+      "name": "Harlan Jordan"
+    },
+    {
+      "name": "Kirk Sisco"
+    },
+    {
+      "name": "James N. Harrell"
+    },
+    {
+      "name": "Lou Perryman"
+    },
+    {
+      "name": "Kinky Friedman"
+    }
+  ]
+}

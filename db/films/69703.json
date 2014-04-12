@@ -1,0 +1,146 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/aFKv5gpsyB7HDnD0lNDANC3wB9C.jpg",
+    "name": "The Trial"
+  },
+  "cast": [
+    {
+      "name": "Kyle MacLachlan",
+      "image": "http://image.tmdb.org/t/p/w185/jzG31u6vtxXrPeLuUxqpZSBUVXb.jpg"
+    },
+    {
+      "name": "David Thewlis",
+      "image": "http://image.tmdb.org/t/p/w185/xS7JZN7op7tk98UKVwTwz4pu0bc.jpg"
+    },
+    {
+      "name": "Tony Haygarth",
+      "image": "http://image.tmdb.org/t/p/w185/4CGR3JgdJCndVQ9vhH4rQhudczG.jpg"
+    },
+    {
+      "name": "Douglas Hodge",
+      "image": "http://image.tmdb.org/t/p/w185/faOSyKFdO2ugLHt2SMjxVRQcw5A.jpg"
+    },
+    {
+      "name": "Jiří Schwartz"
+    },
+    {
+      "name": "David Schneider"
+    },
+    {
+      "name": "Paul Brooke",
+      "image": "http://image.tmdb.org/t/p/w185/eiIvFEhS7WABCiIi5UI0XS70ntD.jpg"
+    },
+    {
+      "name": "Harry Burton"
+    },
+    {
+      "name": "Juliet Stevenson",
+      "image": "http://image.tmdb.org/t/p/w185/1EQOm5rIfnxEVqhNeqmQKpTtEBB.jpg"
+    },
+    {
+      "name": "Roger Lloyd-Pack",
+      "image": "http://image.tmdb.org/t/p/w185/6hWATATAe2Tv7v2EKefdjfAaI7.jpg"
+    },
+    {
+      "name": "Leon Lissek"
+    },
+    {
+      "name": "Catherine Neilson"
+    },
+    {
+      "name": "Trevor Peacock"
+    },
+    {
+      "name": "Václav Jakoubek"
+    },
+    {
+      "name": "Patrick Godfrey"
+    },
+    {
+      "name": "Andrew Tiernan",
+      "image": "http://image.tmdb.org/t/p/w185/3ONS6tD3RudS8l3i69rZJtE4p2w.jpg"
+    },
+    {
+      "name": "Don Henderson",
+      "image": "http://image.tmdb.org/t/p/w185/qeOAWEiZ4cXddRziyaJQ2Mt5Mpm.jpg"
+    },
+    {
+      "name": "Martin Faltýn"
+    },
+    {
+      "name": "Robert Lang"
+    },
+    {
+      "name": "Polly Walker",
+      "image": "http://image.tmdb.org/t/p/w185/swfioO83iyf5aB2svD0tgIWlCSr.jpg"
+    },
+    {
+      "name": "Jason Robards",
+      "image": "http://image.tmdb.org/t/p/w185/26W5Ev9zMqG8OJ81sLVXGSFVdWn.jpg"
+    },
+    {
+      "name": "Jan Laibl"
+    },
+    {
+      "name": "Lynda Rybová"
+    },
+    {
+      "name": "Sabina Remundová"
+    },
+    {
+      "name": "Lucie Bartoňová"
+    },
+    {
+      "name": "Klára Jandová"
+    },
+    {
+      "name": "Šárka Geržová"
+    },
+    {
+      "name": "Nicolle Gavlasová"
+    },
+    {
+      "name": "Julie Harrerová"
+    },
+    {
+      "name": "Alfred Molina",
+      "image": "http://image.tmdb.org/t/p/w185/nlTLJ6O156Q3zgesXhHCT2S6T2q.jpg"
+    },
+    {
+      "name": "Michael Kitchen",
+      "image": "http://image.tmdb.org/t/p/w185/qkNbbOytSZ29O7uQawvgWKngwmv.jpg"
+    },
+    {
+      "name": "John Woodvine",
+      "image": "http://image.tmdb.org/t/p/w185/9re40l4z8VnSNtCjncUbALSBvXE.jpg"
+    },
+    {
+      "name": "Reniero Compostella"
+    },
+    {
+      "name": "Lena Birková"
+    },
+    {
+      "name": "Oskar Hák"
+    },
+    {
+      "name": "Anthony Hopkins",
+      "image": "http://image.tmdb.org/t/p/w185/cxzilQP3rxybruyoD4xIsxNvc8x.jpg"
+    },
+    {
+      "name": "Karel Augusta",
+      "image": "http://image.tmdb.org/t/p/w185/xh666Sl2flER0baEgXxK7Xjzk6n.jpg"
+    },
+    {
+      "name": "Petr Drozda"
+    },
+    {
+      "name": "Ondřej Vetchý",
+      "image": "http://image.tmdb.org/t/p/w185/wEAU6YwOMaaxRBSZ1vtU3nDKnMU.jpg"
+    },
+    {
+      "name": "Jiří Schmitzer",
+      "image": "http://image.tmdb.org/t/p/w185/11X57hnxRm6mS6ixThLeATx5TM6.jpg"
+    }
+  ]
+}

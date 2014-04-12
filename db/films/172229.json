@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/yg2j8Y535KHlmIzmKaCRnEoXl0V.jpg",
+    "name": "Doctor Bello"
+  },
+  "cast": [
+    {
+      "name": "Isaiah Washington",
+      "image": "http://image.tmdb.org/t/p/w185/wWfBGGlSSvlPfMBEibry4IbenSN.jpg"
+    },
+    {
+      "name": "Vivica A. Fox",
+      "image": "http://image.tmdb.org/t/p/w185/b7L7ca3DdfLkxpaGcsouznFy9UL.jpg"
+    },
+    {
+      "name": "Jimmy Jean-Louis",
+      "image": "http://image.tmdb.org/t/p/w185/rFqqVH5eHrrx7tLpCgjPATc3HJo.jpg"
+    },
+    {
+      "name": "Bern Cohen",
+      "image": "http://image.tmdb.org/t/p/w185/htxLKtZ33fxs6cHFK8Mw65ScteY.jpg"
+    },
+    {
+      "name": "Genevieve Nnaji"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/95hOvwldp6gE1ILKkTTUh2G4v8.jpg",
+    "name": "Coastlines"
+  },
+  "cast": [
+    {
+      "name": "Timothy Olyphant",
+      "image": "http://image.tmdb.org/t/p/w185/rCbMLIkn5BpClA4K0OLiOaUttqy.jpg"
+    },
+    {
+      "name": "Josh Brolin",
+      "image": "http://image.tmdb.org/t/p/w185/x8KKnvHyPvH16M6waAnY1OeCtA8.jpg"
+    },
+    {
+      "name": "Sarah Wynter",
+      "image": "http://image.tmdb.org/t/p/w185/gllTfxATFQuiSB9Tgv6krg1VB1a.jpg"
+    },
+    {
+      "name": "Scott Wilson",
+      "image": "http://image.tmdb.org/t/p/w185/kEiTh9SOYdawbYO72mmsu9Tizrm.jpg"
+    }
+  ]
+}

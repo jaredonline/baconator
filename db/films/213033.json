@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/5Yjzq24Y1Yb7AkNFGbwXDkiRea7.jpg",
+    "name": "Faeries"
+  },
+  "cast": [
+    {
+      "name": "Kate Winslet",
+      "image": "http://image.tmdb.org/t/p/w185/b8tIN5SNgqsXwdmMVCMZP84ACcr.jpg"
+    },
+    {
+      "name": "Jeremy Irons",
+      "image": "http://image.tmdb.org/t/p/w185/9AWphjIgGX7JjTrwrx3tsTZlUgv.jpg"
+    },
+    {
+      "name": "Dougray Scott",
+      "image": "http://image.tmdb.org/t/p/w185/iD9jLBFth3VuTq1nyjzI7xK9iQT.jpg"
+    }
+  ]
+}

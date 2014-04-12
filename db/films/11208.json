@@ -1,0 +1,42 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/hAnpWtzF63Euilry4MNX2xyCKLM.jpg",
+    "name": "Wicker Park"
+  },
+  "cast": [
+    {
+      "name": "Josh Hartnett",
+      "image": "http://image.tmdb.org/t/p/w185/3rxpr5Qqh9QqCBqJAR2Y3pXykdh.jpg"
+    },
+    {
+      "name": "Rose Byrne",
+      "image": "http://image.tmdb.org/t/p/w185/jXxUC7Wzpsqf2a5fPLKkwJ11wxB.jpg"
+    },
+    {
+      "name": "Matthew Lillard",
+      "image": "http://image.tmdb.org/t/p/w185/gJsQkX20g0ABquHqVpBJzMXR2JF.jpg"
+    },
+    {
+      "name": "Diane Kruger",
+      "image": "http://image.tmdb.org/t/p/w185/w3HS6qWo2wihXTdGwwsig4zgGG.jpg"
+    },
+    {
+      "name": "Christopher Cousins",
+      "image": "http://image.tmdb.org/t/p/w185/1HGQISEy6FBSse2QuTKj2yfVFrM.jpg"
+    },
+    {
+      "name": "Jessica Paré",
+      "image": "http://image.tmdb.org/t/p/w185/ftiTjqe8sQ7lvG5R2IjLOfodamP.jpg"
+    },
+    {
+      "name": "Vlasta Vrána"
+    },
+    {
+      "name": "Amy Sobol"
+    },
+    {
+      "name": "Ted Whittall",
+      "image": "http://image.tmdb.org/t/p/w185/g5bDtifPrGYeUUZckpJBLWIAtLh.jpg"
+    }
+  ]
+}

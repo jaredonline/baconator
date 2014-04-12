@@ -1,0 +1,27 @@
+{
+  "film": {
+    "name": "Beach Blanket Bloodbath"
+  },
+  "cast": [
+    {
+      "name": "Dawn Wildsmith"
+    },
+    {
+      "name": "Susan Stokey"
+    },
+    {
+      "name": "David O'Hara",
+      "image": "http://image.tmdb.org/t/p/w185/sJ35AHaSTzSrvd80xrlC1CD30iF.jpg"
+    },
+    {
+      "name": "Bobbie Bresee"
+    },
+    {
+      "name": "Forrest J Ackerman",
+      "image": "http://image.tmdb.org/t/p/w185/nBcuUrhB9Q8rppsWyzekZ7Lc3l8.jpg"
+    },
+    {
+      "name": "Martin Nicholas"
+    }
+  ]
+}

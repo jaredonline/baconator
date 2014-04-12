@@ -1,0 +1,48 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/8xwWYGnaZvjDpZ61PdqINYHzN6X.jpg",
+    "name": "Postcards from the Edge"
+  },
+  "cast": [
+    {
+      "name": "Meryl Streep",
+      "image": "http://image.tmdb.org/t/p/w185/vtpQvqGFHtM52QYyIdhvQYMChBy.jpg"
+    },
+    {
+      "name": "Shirley MacLaine",
+      "image": "http://image.tmdb.org/t/p/w185/faG5S4EOVaGHNf1CwZryGcHCE4e.jpg"
+    },
+    {
+      "name": "Dennis Quaid",
+      "image": "http://image.tmdb.org/t/p/w185/wiKnglC2kIAelE6ulUYEs3QVgv.jpg"
+    },
+    {
+      "name": "Gene Hackman",
+      "image": "http://image.tmdb.org/t/p/w185/qEKcmwc1XstymEniGuCs3KIsGfP.jpg"
+    },
+    {
+      "name": "Richard Dreyfuss",
+      "image": "http://image.tmdb.org/t/p/w185/qJW1IQD4XjzwKfcrP0ESRvDSBar.jpg"
+    },
+    {
+      "name": "Rob Reiner",
+      "image": "http://image.tmdb.org/t/p/w185/2zw9Iq9uo4vZiTQNQWdNFwbA1TA.jpg"
+    },
+    {
+      "name": "Conrad Bain",
+      "image": "http://image.tmdb.org/t/p/w185/7oRqF0VcMbGJAYOlI5nye2gmyt.jpg"
+    },
+    {
+      "name": "Annette Bening",
+      "image": "http://image.tmdb.org/t/p/w185/jFLOJJEISpOafM89EiaaoxgAVfC.jpg"
+    },
+    {
+      "name": "Simon Callow",
+      "image": "http://image.tmdb.org/t/p/w185/pOABmGHa7h1CQ1oG4Q6PyuCbwqL.jpg"
+    },
+    {
+      "name": "Mary Wickes",
+      "image": "http://image.tmdb.org/t/p/w185/5j9h5zBcsElyv0dHImPieBuQ4eL.jpg"
+    }
+  ]
+}

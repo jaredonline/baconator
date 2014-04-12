@@ -1,0 +1,15 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6HIuBKTRu1G04PyD2Q379A6x69T.jpg",
+    "name": "Oleanna"
+  },
+  "cast": [
+    {
+      "name": "William H. Macy",
+      "image": "http://image.tmdb.org/t/p/w185/rpUv9mDece5LQuWI7iBNQaAesFg.jpg"
+    },
+    {
+      "name": "Debra Eisenstadt"
+    }
+  ]
+}

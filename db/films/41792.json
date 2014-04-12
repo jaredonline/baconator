@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/wfDKslrApEQLeL7a9f8Erq3vtBv.jpg",
+    "name": "Rubin and Ed"
+  },
+  "cast": [
+    {
+      "name": "Crispin Glover",
+      "image": "http://image.tmdb.org/t/p/w185/pfUfSMEg6D5nnCRKvWJyBP7wN44.jpg"
+    },
+    {
+      "name": "Howard Hesseman",
+      "image": "http://image.tmdb.org/t/p/w185/q0glWtVUVnPoB3AoAMe8SqMRJ5e.jpg"
+    },
+    {
+      "name": "Karen Black",
+      "image": "http://image.tmdb.org/t/p/w185/nTQz2lL0LPZkx0570hTSJj48zTJ.jpg"
+    }
+  ]
+}

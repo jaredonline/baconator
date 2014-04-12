@@ -1,0 +1,31 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/eu0VUCH8HbYuKIddDM9yKzp0RiM.jpg",
+    "name": "The Island on Bird Street"
+  },
+  "cast": [
+    {
+      "name": "Patrick Bergin",
+      "image": "http://image.tmdb.org/t/p/w185/wmwtMCZsFTlckrsCpuz0jtuWu35.jpg"
+    },
+    {
+      "name": "Jack Warden",
+      "image": "http://image.tmdb.org/t/p/w185/pD98exbwlD4f9QmQd0N8Sa7j6pw.jpg"
+    },
+    {
+      "name": "James Bolam"
+    },
+    {
+      "name": "Michael Byrne",
+      "image": "http://image.tmdb.org/t/p/w185/rmgL88xFEk0iBOcCr7d9V6WfaOi.jpg"
+    },
+    {
+      "name": "Stefan Sauk",
+      "image": "http://image.tmdb.org/t/p/w185/f2H1BUukQbd1pnVuq38anpqsdTr.jpg"
+    },
+    {
+      "name": "Suzanna Hamilton",
+      "image": "http://image.tmdb.org/t/p/w185/ei41XX9AYpFFTk36t0mD3KYs4bg.jpg"
+    }
+  ]
+}

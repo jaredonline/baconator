@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/rhZbzI3DNMMbe93Voy27LoJKhk1.jpg",
+    "name": "Big Shot: Confessions of a Campus Bookie"
+  },
+  "cast": [
+    {
+      "name": "David Krumholtz",
+      "image": "http://image.tmdb.org/t/p/w185/VO9kzSQWqFMfYjnVZghT8Hyk0M.jpg"
+    },
+    {
+      "name": "Tory Kittles",
+      "image": "http://image.tmdb.org/t/p/w185/b4kfp3J0SxEYl1UvcsWaHFTYKUK.jpg"
+    },
+    {
+      "name": "Carmine Giovinazzo",
+      "image": "http://image.tmdb.org/t/p/w185/aEI6k8bmlv2DT8de3JL0wJq9b4i.jpg"
+    },
+    {
+      "name": "Jennifer Morrison",
+      "image": "http://image.tmdb.org/t/p/w185/sqn3ySCTYw82vtW10oqrmtg3B9L.jpg"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "film": {
+    "name": "The Shakespeare Sessions"
+  },
+  "cast": [
+    {
+      "name": "Dustin Hoffman",
+      "image": "http://image.tmdb.org/t/p/w185/ffKPo8ATHVXME6cgA5BDyvy2df1.jpg"
+    },
+    {
+      "name": "Kevin Kline",
+      "image": "http://image.tmdb.org/t/p/w185/u9QXn3fL7zCC2c6HA2vFgH1JxZg.jpg"
+    },
+    {
+      "name": "John Barton"
+    },
+    {
+      "name": "Cynthia Nixon",
+      "image": "http://image.tmdb.org/t/p/w185/3rM00aZLoUymm6V5z7PjPhK3N86.jpg"
+    }
+  ]
+}

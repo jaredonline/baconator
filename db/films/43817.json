@@ -1,0 +1,49 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/wFFg5kqYwl9x5mVETjfqFjyHGBs.jpg",
+    "name": "White Lightnin'"
+  },
+  "cast": [
+    {
+      "name": "Edward Hogg"
+    },
+    {
+      "name": "Carrie Fisher",
+      "image": "http://image.tmdb.org/t/p/w185/khEnEUy7lb3660kfnabOKmOtwIt.jpg"
+    },
+    {
+      "name": "Stephanie Astalos-Jones"
+    },
+    {
+      "name": "Kirk Bovill"
+    },
+    {
+      "name": "Owen Campbell"
+    },
+    {
+      "name": "Stephen Lester"
+    },
+    {
+      "name": "Wallace Merck"
+    },
+    {
+      "name": "Steve Nicolson"
+    },
+    {
+      "name": "Damian Samuels"
+    },
+    {
+      "name": "Clay Steakley"
+    },
+    {
+      "name": "Allison Varnes"
+    },
+    {
+      "name": "Raymond Waring"
+    },
+    {
+      "name": "Muse Watson",
+      "image": "http://image.tmdb.org/t/p/w185/gHnTBbzjqNTB7eqTBnU02wV1Utm.jpg"
+    }
+  ]
+}

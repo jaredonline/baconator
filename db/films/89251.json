@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4mqhnxThf3hzDbVoXhW8G0GNxHz.jpg",
+    "name": "All men are the same"
+  },
+  "cast": [
+    {
+      "name": "Imanol Arias",
+      "image": "http://image.tmdb.org/t/p/w185/7vrFxUjAaj7VBNMJAvaceiPeAVN.jpg"
+    },
+    {
+      "name": "Antonio Resines",
+      "image": "http://image.tmdb.org/t/p/w185/j9JW21A0e3gAbX7w25lSpTBJY1C.jpg"
+    },
+    {
+      "name": "Cristina Marcos"
+    },
+    {
+      "name": "Juanjo Puigcorbé",
+      "image": "http://image.tmdb.org/t/p/w185/aXY1WST4yZS8Qlfeb2PB5AWHJSS.jpg"
+    }
+  ]
+}

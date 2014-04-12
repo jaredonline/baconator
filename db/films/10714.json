@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6BhybPISxk116taUo9J76tVo1hs.jpg",
+    "name": "The Jungle Book"
+  },
+  "cast": [
+    {
+      "name": "Jason Scott Lee",
+      "image": "http://image.tmdb.org/t/p/w185/1efvolWhMCbbT6qXOlbwieOusbx.jpg"
+    },
+    {
+      "name": "Cary Elwes",
+      "image": "http://image.tmdb.org/t/p/w185/wmvYoJHStQeQzrpqOM9tkvf1wwF.jpg"
+    },
+    {
+      "name": "Lena Headey",
+      "image": "http://image.tmdb.org/t/p/w185/6BZiPycIueJ3t0iEozWCbUZleuj.jpg"
+    },
+    {
+      "name": "Sam Neill",
+      "image": "http://image.tmdb.org/t/p/w185/mrbhjPg0SNCJu6Auj4WMheMg5EC.jpg"
+    },
+    {
+      "name": "John Cleese",
+      "image": "http://image.tmdb.org/t/p/w185/nInaadLW8wHwBy0FMatkHIWD2YT.jpg"
+    }
+  ]
+}

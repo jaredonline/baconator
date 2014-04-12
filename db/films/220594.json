@@ -1,0 +1,11 @@
+{
+  "film": {
+    "name": "Shaolin Kung Fu"
+  },
+  "cast": [
+    {
+      "name": "Jet Li",
+      "image": "http://image.tmdb.org/t/p/w185/jqp0CR3OjNmhfooqsJrXAyCEOg5.jpg"
+    }
+  ]
+}

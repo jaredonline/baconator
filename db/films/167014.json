@@ -1,0 +1,25 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/uNIwolGb9wNOb6btyyONR11GDFD.jpg",
+    "name": "La semana que viene (sin falta)"
+  },
+  "cast": [
+    {
+      "name": "Imanol Arias",
+      "image": "http://image.tmdb.org/t/p/w185/7vrFxUjAaj7VBNMJAvaceiPeAVN.jpg"
+    },
+    {
+      "name": "Roberto San Martín"
+    },
+    {
+      "name": "Junio Valverde",
+      "image": "http://image.tmdb.org/t/p/w185/fLKHEq6yGo4eg8wAxxl8gHrn2a1.jpg"
+    },
+    {
+      "name": "Bárbara de Lema"
+    },
+    {
+      "name": "Rosario Pardo"
+    }
+  ]
+}

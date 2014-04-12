@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/lx22BERgBmbNPpicqjWABaBgS8s.jpg",
+    "name": "The Kennedys"
+  },
+  "cast": [
+    {
+      "name": "Greg Kinnear",
+      "image": "http://image.tmdb.org/t/p/w185/7UipyRuuMCjJ6wyEFduZIoaTV4h.jpg"
+    },
+    {
+      "name": "Katie Holmes",
+      "image": "http://image.tmdb.org/t/p/w185/eYeE0Z1sOvqxt7LsQHK30vUfWaM.jpg"
+    },
+    {
+      "name": "Barry Pepper",
+      "image": "http://image.tmdb.org/t/p/w185/xLVueyLs2MERkS9RxERa3VCn95s.jpg"
+    },
+    {
+      "name": "Tom Wilkinson",
+      "image": "http://image.tmdb.org/t/p/w185/4mxZKgdem0sQ8hJd0Y7TREwq7TJ.jpg"
+    }
+  ]
+}

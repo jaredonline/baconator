@@ -1,0 +1,47 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/w5B4xDqtkFy8nhuIlpM0vUmR7vD.jpg",
+    "name": "Silver Bullet"
+  },
+  "cast": [
+    {
+      "name": "Gary Busey",
+      "image": "http://image.tmdb.org/t/p/w185/n66ycv61ZoqusHthcQde1g3JY6T.jpg"
+    },
+    {
+      "name": "Everett McGill",
+      "image": "http://image.tmdb.org/t/p/w185/knEPdRIYMsg617X7lJsfWgN5b9n.jpg"
+    },
+    {
+      "name": "Corey Haim",
+      "image": "http://image.tmdb.org/t/p/w185/viodPG7i2x0cJHGVHRVs6C8pIrE.jpg"
+    },
+    {
+      "name": "Megan Follows",
+      "image": "http://image.tmdb.org/t/p/w185/dlKpppqXcGgqcwMQ4ljFQYnm7CN.jpg"
+    },
+    {
+      "name": "Terry O'Quinn",
+      "image": "http://image.tmdb.org/t/p/w185/ufPTfvexjwXmWc5gKOtYW9BF8HG.jpg"
+    },
+    {
+      "name": "James Gammon",
+      "image": "http://image.tmdb.org/t/p/w185/2veM9cas1G6UP1Np7Jux190Ei1m.jpg"
+    },
+    {
+      "name": "Tovah Feldshuh",
+      "image": "http://image.tmdb.org/t/p/w185/1haWbhXrJRJyhPBIoxRhTuIEWBw.jpg"
+    },
+    {
+      "name": "Lawrence Tierney",
+      "image": "http://image.tmdb.org/t/p/w185/iFPg06kGUTdgRUkrYir3xt1Dt7c.jpg"
+    },
+    {
+      "name": "Bill Smitrovich",
+      "image": "http://image.tmdb.org/t/p/w185/rO5wJpx7ZlT6RaunZw20OGF6O2Y.jpg"
+    },
+    {
+      "name": "Joe Wright"
+    }
+  ]
+}

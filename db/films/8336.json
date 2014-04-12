@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/tlQfxumzFJV6U31ckL3qLNdWDwO.jpg",
+    "name": "The Naked Man"
+  },
+  "cast": [
+    {
+      "name": "Michael Rapaport",
+      "image": "http://image.tmdb.org/t/p/w185/fxmPG3K1FuCwycl6M9q8nG9W4Ox.jpg"
+    },
+    {
+      "name": "Michael Jeter",
+      "image": "http://image.tmdb.org/t/p/w185/oJTjyq7RGOd1m49RvDpw12bQcvT.jpg"
+    },
+    {
+      "name": "Rachael Leigh Cook",
+      "image": "http://image.tmdb.org/t/p/w185/8uurFQocs7hZHpJW57nRgpvyQHQ.jpg"
+    },
+    {
+      "name": "Arija Bareikis",
+      "image": "http://image.tmdb.org/t/p/w185/qxJ6M4eCAhUlXkAaXCK8iGLl14g.jpg"
+    },
+    {
+      "name": "John Carroll Lynch",
+      "image": "http://image.tmdb.org/t/p/w185/jBUkgpeUJJlb3p39MA3j1HikviC.jpg"
+    }
+  ]
+}

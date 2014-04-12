@@ -1,0 +1,56 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/24SNNeuKsUauERxORuGA371PGAx.jpg",
+    "name": "Midaq Alley"
+  },
+  "cast": [
+    {
+      "name": "Ernesto Gómez Cruz"
+    },
+    {
+      "name": "María Rojo"
+    },
+    {
+      "name": "Salma Hayek",
+      "image": "http://image.tmdb.org/t/p/w185/u5mg73xKVqm8oT93HoMmsgQHyoK.jpg"
+    },
+    {
+      "name": "Delia Casanova",
+      "image": "http://image.tmdb.org/t/p/w185/3KDdYD7FhCWWQL22DmyHXGw0K7T.jpg"
+    },
+    {
+      "name": "Margarita Sanz"
+    },
+    {
+      "name": "Claudio Obregón"
+    },
+    {
+      "name": "Juan Manuel Bernal"
+    },
+    {
+      "name": "Abel Woolrich"
+    },
+    {
+      "name": "Luis Felipe Tovar"
+    },
+    {
+      "name": "Daniel Giménez Cacho",
+      "image": "http://image.tmdb.org/t/p/w185/9kP26DdoH55mdVhH9whbFiFNP0j.jpg"
+    },
+    {
+      "name": "Gina Morett"
+    },
+    {
+      "name": "Óscar Yoldi"
+    },
+    {
+      "name": "Esteban Soberanes"
+    },
+    {
+      "name": "Eugenia Leñero"
+    },
+    {
+      "name": "Bruno Bichir"
+    }
+  ]
+}

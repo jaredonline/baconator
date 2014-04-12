@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/mDKIcIvQrxDJYDrBHMl8JUQ4ZF1.jpg",
+    "name": "Frío sol de invierno"
+  },
+  "cast": [
+    {
+      "name": "Unax Ugalde",
+      "image": "http://image.tmdb.org/t/p/w185/9S5cbwH6bLYItQqL81yXmcFBoOZ.jpg"
+    },
+    {
+      "name": "Javier Pereira"
+    },
+    {
+      "name": "Marisa Paredes",
+      "image": "http://image.tmdb.org/t/p/w185/lxkwchAOdtuwhE6FKmKv7kjhOOn.jpg"
+    },
+    {
+      "name": "Marta Etura ",
+      "image": "http://image.tmdb.org/t/p/w185/7J6jCXxkqwRQMttCq0rHzvH7IPv.jpg"
+    },
+    {
+      "name": "Andrés Gertrúdix"
+    }
+  ]
+}

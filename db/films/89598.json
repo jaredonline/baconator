@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/9tEJnzEJApChMXNsEjCQo0uOEO0.jpg",
+    "name": "The Distance"
+  },
+  "cast": [
+    {
+      "name": "Miguel Ángel Silvestre",
+      "image": "http://image.tmdb.org/t/p/w185/kg7NGJSc8nEP5luYe2mwqDfVrPT.jpg"
+    },
+    {
+      "name": "José Coronado",
+      "image": "http://image.tmdb.org/t/p/w185/co7XjJSCr4kk4LkeIdqpmMaoOis.jpg"
+    },
+    {
+      "name": "Federico Luppi",
+      "image": "http://image.tmdb.org/t/p/w185/aKQBkLnh0RZNPYqO80itGYuclLp.jpg"
+    },
+    {
+      "name": "Belén López"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ohE7kkPJVPH3NONvPHkcwt3r6n3.jpg",
+    "name": "Across the Bridge"
+  },
+  "cast": [
+    {
+      "name": "Rod Steiger",
+      "image": "http://image.tmdb.org/t/p/w185/4tRu2X6WFMxZbAT3L0ay2nvW1O.jpg"
+    },
+    {
+      "name": "David Knight",
+      "image": "http://image.tmdb.org/t/p/w185/m12RkUpWnz79aQHM6J97eQJfJvl.jpg"
+    },
+    {
+      "name": "Marla Landi",
+      "image": "http://image.tmdb.org/t/p/w185/l5TT2qfhnh5FXCs9NDZzY9pYPdO.jpg"
+    },
+    {
+      "name": "Noel Willman",
+      "image": "http://image.tmdb.org/t/p/w185/7hJIwQieLVSqRglQjVkOZff3jeT.jpg"
+    },
+    {
+      "name": "Bernard Lee",
+      "image": "http://image.tmdb.org/t/p/w185/vCLXqcJNAijcVrRrJuoduc5VnSd.jpg"
+    },
+    {
+      "name": "Eric Pohlmann",
+      "image": "http://image.tmdb.org/t/p/w185/iTRgLQL9dTNbzgsypSOvlB9lQ3l.jpg"
+    },
+    {
+      "name": "Alan Gifford"
+    },
+    {
+      "name": "Ingeborg von Kusserow"
+    },
+    {
+      "name": "Bill Nagy"
+    },
+    {
+      "name": "Faith Brook",
+      "image": "http://image.tmdb.org/t/p/w185/vKejvmwvtmuROMoflpBGHxmAWi5.jpg"
+    },
+    {
+      "name": "Marianne Deeming"
+    }
+  ]
+}

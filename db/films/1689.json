@@ -1,0 +1,48 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/cPfSdihqpoUoYKrlxIl2j1UIjcY.jpg",
+    "name": "Little Buddha"
+  },
+  "cast": [
+    {
+      "name": "Keanu Reeves",
+      "image": "http://image.tmdb.org/t/p/w185/cEIZlUQvnlXfoxF0mPJsvDPh2Po.jpg"
+    },
+    {
+      "name": "Bridget Fonda",
+      "image": "http://image.tmdb.org/t/p/w185/uO9IfxsPKhCpcaB8217fKhgwfft.jpg"
+    },
+    {
+      "name": "Chris Isaak",
+      "image": "http://image.tmdb.org/t/p/w185/zL7bz7RQM2iVe45CZyYhM8fAi1U.jpg"
+    },
+    {
+      "name": "Ruocheng Ying"
+    },
+    {
+      "name": "Alex Wiesendanger"
+    },
+    {
+      "name": "Raju Lal"
+    },
+    {
+      "name": "Greishma Makar Sing"
+    },
+    {
+      "name": "Sogyal Rinpoche"
+    },
+    {
+      "name": "Khyongla Rato Rinpoche"
+    },
+    {
+      "name": "Geshe Tsultim Gyelsen"
+    },
+    {
+      "name": "Jo Champa",
+      "image": "http://image.tmdb.org/t/p/w185/5agft2tugA481cDHyqSBrb4AJNe.jpg"
+    },
+    {
+      "name": "Jigme Kunsang"
+    }
+  ]
+}

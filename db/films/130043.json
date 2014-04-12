@@ -1,0 +1,48 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/q2Wfxrz5OefXtT3mnu2uZuwq0CG.jpg",
+    "name": "La bicicleta"
+  },
+  "cast": [
+    {
+      "name": "Carlos Bardem",
+      "image": "http://image.tmdb.org/t/p/w185/vuIFcSKoPhJKGoeOjp2sqqNSYZ4.jpg"
+    },
+    {
+      "name": "Pilar Bardem",
+      "image": "http://image.tmdb.org/t/p/w185/aPtXpY9memp6SQvAVZpzBbysI9U.jpg"
+    },
+    {
+      "name": "Carmen Belloch"
+    },
+    {
+      "name": "Álvaro Báguena"
+    },
+    {
+      "name": "Sergi Calleja"
+    },
+    {
+      "name": "Isabel Carmona"
+    },
+    {
+      "name": "Enrique Cifres"
+    },
+    {
+      "name": "Sancho Gracia",
+      "image": "http://image.tmdb.org/t/p/w185/g5Sbx8vDHD6YzkcSj3hEPw9WbVe.jpg"
+    },
+    {
+      "name": "Bárbara Lennie",
+      "image": "http://image.tmdb.org/t/p/w185/gPrMindirpIXTP38sBQgpQ9W9PT.jpg"
+    },
+    {
+      "name": "Guillermo Eced"
+    },
+    {
+      "name": "Alberto Ferreiro"
+    },
+    {
+      "name": "Albert Forner"
+    }
+  ]
+}

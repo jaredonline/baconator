@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/hWBGC59mZTF32f77e67i5UntZhb.jpg",
+    "name": "Cha cha cha"
+  },
+  "cast": [
+    {
+      "name": "Luca Argentero",
+      "image": "http://image.tmdb.org/t/p/w185/nqpvQb4ALnyXUV9pWjttoV5FQkh.jpg"
+    },
+    {
+      "name": "Eva Herzigová",
+      "image": "http://image.tmdb.org/t/p/w185/apWErpeT0ITE5q5T2mVnBlOGL62.jpg"
+    },
+    {
+      "name": "Claudio Amendola",
+      "image": "http://image.tmdb.org/t/p/w185/p6HeG7jOHvpKKZ72vROC7mMT4FT.jpg"
+    },
+    {
+      "name": "Pippo Delbono"
+    },
+    {
+      "name": "Pietro Ragusa",
+      "image": "http://image.tmdb.org/t/p/w185/iC9eD0sSCy7wRKfzSHWj2B3On9J.jpg"
+    },
+    {
+      "name": "Bebo Storti",
+      "image": "http://image.tmdb.org/t/p/w185/72thV1ZKypWS0gREDkSwfrXaFGX.jpg"
+    },
+    {
+      "name": "Marco Leonardi",
+      "image": "http://image.tmdb.org/t/p/w185/4QZOKo810hgKE3P5mcNamZ7xAtv.jpg"
+    },
+    {
+      "name": " Shel Shapiro"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/px1ZmftdnnLk168WAVdqbkWHPIL.jpg",
+    "name": "Gaudi Afternoon"
+  },
+  "cast": [
+    {
+      "name": "Judy Davis",
+      "image": "http://image.tmdb.org/t/p/w185/xQMA72T6yz6ebJXv1pCuZC1fDJo.jpg"
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "image": "http://image.tmdb.org/t/p/w185/ceTCmBJxziHvcF9cDAzmPhuTzP3.jpg"
+    },
+    {
+      "name": "Lili Taylor",
+      "image": "http://image.tmdb.org/t/p/w185/rVR37LfGg4e65rHvkN7CB7VIrzs.jpg"
+    },
+    {
+      "name": "Juliette Lewis",
+      "image": "http://image.tmdb.org/t/p/w185/mo6YNE53gYEnziEJLux3kudVB4U.jpg"
+    },
+    {
+      "name": "María Barranco",
+      "image": "http://image.tmdb.org/t/p/w185/h01wRNz8Jmx1sZOg6AEIuvMG1pt.jpg"
+    }
+  ]
+}

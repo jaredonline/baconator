@@ -1,0 +1,70 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/vJCEusIiA926nfDhmqSYi1Xj7QP.jpg",
+    "name": "Stupidity"
+  },
+  "cast": [
+    {
+      "name": "George W. Bush",
+      "image": "http://image.tmdb.org/t/p/w185/mnGGDUqhyRFNIpWVQAu7wesVkfD.jpg"
+    },
+    {
+      "name": "Noam Chomsky",
+      "image": "http://image.tmdb.org/t/p/w185/8AzdnaF732PdbQMZZEj861SJnKE.jpg"
+    },
+    {
+      "name": "John Cleese",
+      "image": "http://image.tmdb.org/t/p/w185/nInaadLW8wHwBy0FMatkHIWD2YT.jpg"
+    },
+    {
+      "name": "Coolio",
+      "image": "http://image.tmdb.org/t/p/w185/qeT1EKFZUvZjP7r4U73lwbwX5Qj.jpg"
+    },
+    {
+      "name": "Drew Curtis"
+    },
+    {
+      "name": "Salma Hayek",
+      "image": "http://image.tmdb.org/t/p/w185/u5mg73xKVqm8oT93HoMmsgQHyoK.jpg"
+    },
+    {
+      "name": "David Lawrence",
+      "image": "http://image.tmdb.org/t/p/w185/fvHZCp6rlFDmCBUM4A87xfb6wz5.jpg"
+    },
+    {
+      "name": "Bill Maher",
+      "image": "http://image.tmdb.org/t/p/w185/mEjNGr7a6zDNsy1MaBHLui7fspY.jpg"
+    },
+    {
+      "name": "Michael Moore",
+      "image": "http://image.tmdb.org/t/p/w185/A4KO2h5b0awMMHmO9ieUtEFev0Y.jpg"
+    },
+    {
+      "name": "Fred Napoli"
+    },
+    {
+      "name": "Albert Nerenberg"
+    },
+    {
+      "name": "Geoff Pevere"
+    },
+    {
+      "name": "Adam Sandler",
+      "image": "http://image.tmdb.org/t/p/w185/igMZZmqf8Dl4gGHQ5cphP9mS3m9.jpg"
+    },
+    {
+      "name": "Joel Schumacher",
+      "image": "http://image.tmdb.org/t/p/w185/eoYYWbTTTXhDUCR7JOhwgzuQIca.jpg"
+    },
+    {
+      "name": "Paul Spence"
+    },
+    {
+      "name": "Steve-O",
+      "image": "http://image.tmdb.org/t/p/w185/nbZ76ok91pHeg7frtd1uqzHn66l.jpg"
+    },
+    {
+      "name": "Josey Vogels"
+    }
+  ]
+}

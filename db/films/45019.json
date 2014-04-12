@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/oNiLJca55sT2NDJNUbJPMLlGUdO.jpg",
+    "name": "Washington Square"
+  },
+  "cast": [
+    {
+      "name": "Jennifer Jason Leigh",
+      "image": "http://image.tmdb.org/t/p/w185/hkOR83kcZVD1d899f4TiWDc6Tdi.jpg"
+    },
+    {
+      "name": "Albert Finney",
+      "image": "http://image.tmdb.org/t/p/w185/eD1BZEydFYFXi4GFr3GAPpdHcls.jpg"
+    },
+    {
+      "name": "Maggie Smith",
+      "image": "http://image.tmdb.org/t/p/w185/8OtS7JhL12Qa8QzSuZZAzNRbFnu.jpg"
+    },
+    {
+      "name": "Ben Chaplin",
+      "image": "http://image.tmdb.org/t/p/w185/xQ8U1ZssLXFq3CNxAv42w4YAUJH.jpg"
+    }
+  ]
+}

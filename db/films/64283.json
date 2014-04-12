@@ -1,0 +1,16 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/5tt5qo4FwrkMcJxlCPTQxc2eVSc.jpg",
+    "name": "St. Stephen's - The living Cathedral"
+  },
+  "cast": [
+    {
+      "name": "Bruno Ganz",
+      "image": "http://image.tmdb.org/t/p/w185/p4mROAP1xs5c93ZUN98Au94Wyx7.jpg"
+    },
+    {
+      "name": "John Shrapnel",
+      "image": "http://image.tmdb.org/t/p/w185/nDIK01IoVNx7cfYOrKqGugItqO9.jpg"
+    }
+  ]
+}

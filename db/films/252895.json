@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ywl2bhp3pwbrb7OFKYxHN9Uwwyl.jpg",
+    "name": "Marvin & Tige"
+  },
+  "cast": [
+    {
+      "name": "John Cassavetes",
+      "image": "http://image.tmdb.org/t/p/w185/pp71Xsx63aoXTMQgatnYtGRU2fi.jpg"
+    },
+    {
+      "name": "Gibran Brown"
+    },
+    {
+      "name": "Billy Dee Williams",
+      "image": "http://image.tmdb.org/t/p/w185/z0iDggpENrZoqBnaI1nvwcIXcsn.jpg"
+    },
+    {
+      "name": "Denise Nicholas",
+      "image": "http://image.tmdb.org/t/p/w185/qMKd0i1bg3VaPgeS3OcBdl4i4Xd.jpg"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/b8dPyzCmPshcMek8HOOWqfV6jPg.jpg",
+    "name": "Mararía"
+  },
+  "cast": [
+    {
+      "name": "Goya Toledo",
+      "image": "http://image.tmdb.org/t/p/w185/rskTnamfwea5xhtEelpRlqo1tCD.jpg"
+    },
+    {
+      "name": "Carmelo Gómez",
+      "image": "http://image.tmdb.org/t/p/w185/dCuhHjDh1hXMTi1GRhqPktq5c6p.jpg"
+    },
+    {
+      "name": "Iain Glen",
+      "image": "http://image.tmdb.org/t/p/w185/47Ev4D7OzVuOi17jox9vSqPWUrU.jpg"
+    },
+    {
+      "name": "Manuel Manquiña",
+      "image": "http://image.tmdb.org/t/p/w185/5coWFdRxDQ9VQ9i7s2WNBmfH0iS.jpg"
+    },
+    {
+      "name": "José Manuel Cervino"
+    }
+  ]
+}

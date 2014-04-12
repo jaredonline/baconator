@@ -1,0 +1,56 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6Q7pj7S7yseII12ua2eLa9CsqK0.jpg",
+    "name": "Die Wonderwerker"
+  },
+  "cast": [
+    {
+      "name": "Dawid Minnaar",
+      "image": "http://image.tmdb.org/t/p/w185/jB9INdFIToKhSenvusACQV6JDk0.jpg"
+    },
+    {
+      "name": "Elize Cawood",
+      "image": "http://image.tmdb.org/t/p/w185/qDHUTLCuHq9U0AyRiwgR4UMrXE2.jpg"
+    },
+    {
+      "name": "Marius Weyers",
+      "image": "http://image.tmdb.org/t/p/w185/xhUgoqJQOPzi2XoKVpVlJPcrcC3.jpg"
+    },
+    {
+      "name": "Anneke Weidemann",
+      "image": "http://image.tmdb.org/t/p/w185/hzjJtptgwNuSnReVX1fN4ajSbFD.jpg"
+    },
+    {
+      "name": "Erica Wessels",
+      "image": "http://image.tmdb.org/t/p/w185/qxSWpC2o3AIg0tftzMnWos6sudU.jpg"
+    },
+    {
+      "name": "Kaz McFadden",
+      "image": "http://image.tmdb.org/t/p/w185/7cRZrzxvi2neQw7VTekFuLOW4IS.jpg"
+    },
+    {
+      "name": "Sandra Kotze"
+    },
+    {
+      "name": "Cobus Rossouw",
+      "image": "http://image.tmdb.org/t/p/w185/mxpfXRyQDgn6A74Bd7vo7P9zMe4.jpg"
+    },
+    {
+      "name": "Rika Sennett",
+      "image": "http://image.tmdb.org/t/p/w185/n2SnKCl33MWoXMoi00XScm9FW3K.jpg"
+    },
+    {
+      "name": "Amor Tredoux"
+    },
+    {
+      "name": "Lika Berning",
+      "image": "http://image.tmdb.org/t/p/w185/hhsHSIGIlynSRyNrb2gYoaGg3RY.jpg"
+    },
+    {
+      "name": "Vaneshran Arumugam"
+    },
+    {
+      "name": "Albertus Pretorius"
+    }
+  ]
+}

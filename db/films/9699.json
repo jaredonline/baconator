@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/w7ZMFiYaIfcnlAtKtBikvGRyS0j.jpg",
+    "name": "Trail of the Pink Panther"
+  },
+  "cast": [
+    {
+      "name": "Peter Sellers",
+      "image": "http://image.tmdb.org/t/p/w185/2uJvjoiTjvJfbd81S2AhRtdf2aU.jpg"
+    },
+    {
+      "name": "David Niven",
+      "image": "http://image.tmdb.org/t/p/w185/fLtUBsOLe2Ln84MjZ2HJQjSI8HE.jpg"
+    },
+    {
+      "name": "Herbert Lom",
+      "image": "http://image.tmdb.org/t/p/w185/uPQNrZvgfAJNUAAYjmDubMmKEZ5.jpg"
+    },
+    {
+      "name": "Richard Mulligan",
+      "image": "http://image.tmdb.org/t/p/w185/zvLRnmhtoeoUnmfaxOHfHTjfOSH.jpg"
+    },
+    {
+      "name": "William Hootkins",
+      "image": "http://image.tmdb.org/t/p/w185/vrWs2YAhbLuq6YNcUa5IHGQGP7r.jpg"
+    }
+  ]
+}

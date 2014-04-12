@@ -1,0 +1,18 @@
+{
+  "film": {
+    "name": "The Ghost Of F. Scott Fitzgerald"
+  },
+  "cast": [
+    {
+      "name": "Charlie Hofheimer",
+      "image": "http://image.tmdb.org/t/p/w185/gXQkqXYrlAGJgXRPpOwEv0NjSgT.jpg"
+    },
+    {
+      "name": "Alexa Davalos",
+      "image": "http://image.tmdb.org/t/p/w185/bJdj6tFQok9OEZ63lu7bSKJwqWm.jpg"
+    },
+    {
+      "name": "Sasha Andreev"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/re2wVW64K4ZZKTyZkTQIRyJPddn.jpg",
+    "name": "River's Edge"
+  },
+  "cast": [
+    {
+      "name": "Crispin Glover",
+      "image": "http://image.tmdb.org/t/p/w185/pfUfSMEg6D5nnCRKvWJyBP7wN44.jpg"
+    },
+    {
+      "name": "Keanu Reeves",
+      "image": "http://image.tmdb.org/t/p/w185/cEIZlUQvnlXfoxF0mPJsvDPh2Po.jpg"
+    },
+    {
+      "name": "Ione Skye",
+      "image": "http://image.tmdb.org/t/p/w185/zRPIdTnEQO4FioH8wqr0lNQgNmg.jpg"
+    },
+    {
+      "name": "Daniel Roebuck",
+      "image": "http://image.tmdb.org/t/p/w185/uCnhkIdrvCJtoS73BtYIntR0Jid.jpg"
+    },
+    {
+      "name": "Dennis Hopper",
+      "image": "http://image.tmdb.org/t/p/w185/25i87kBragb2MQah8OYZJkZuys.jpg"
+    }
+  ]
+}

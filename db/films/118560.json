@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/3epji9lFX0n6HnRmdysTGsnHJjE.jpg",
+    "name": "Partition"
+  },
+  "cast": [
+    {
+      "name": "Roshan Seth",
+      "image": "http://image.tmdb.org/t/p/w185/hC4VtvW0lUmzGy54NLqyUeufnQT.jpg"
+    },
+    {
+      "name": "Zohra Segal"
+    },
+    {
+      "name": "Zia Mohyeddin"
+    },
+    {
+      "name": "Saeed Jaffrey",
+      "image": "http://image.tmdb.org/t/p/w185/nDSQCtZjVNqeOWG1QooKq2NkElb.jpg"
+    },
+    {
+      "name": "John Shrapnel",
+      "image": "http://image.tmdb.org/t/p/w185/nDIK01IoVNx7cfYOrKqGugItqO9.jpg"
+    },
+    {
+      "name": "Tariq Yunus"
+    },
+    {
+      "name": "Sunil Tanna"
+    }
+  ]
+}

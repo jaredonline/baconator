@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/28JV0ae7v5vuAYfNKXQZcOlzCPo.jpg",
+    "name": "Don't cry Germaine"
+  },
+  "cast": [
+    {
+      "name": "Rosa Renom"
+    },
+    {
+      "name": "Dirk Roofthooft",
+      "image": "http://image.tmdb.org/t/p/w185/w8ete23tNkFu9oiRup8EVHwJncq.jpg"
+    },
+    {
+      "name": "Tristán Ulloa",
+      "image": "http://image.tmdb.org/t/p/w185/AmiVKczdJG7zxqzX3Jh9IHYk8Yc.jpg"
+    }
+  ]
+}

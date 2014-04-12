@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zboNhkSW5emem6BWjIxKVt0UNgX.jpg",
+    "name": "The Galíndez File"
+  },
+  "cast": [
+    {
+      "name": "Harvey Keitel",
+      "image": "http://image.tmdb.org/t/p/w185/oITNtWSDwA2hbuSuLdKXJZkXOSj.jpg"
+    },
+    {
+      "name": "Saffron Burrows",
+      "image": "http://image.tmdb.org/t/p/w185/xOUSDTjVya04F8bkf2jSSPwSRyY.jpg"
+    },
+    {
+      "name": "Eduard Fernández",
+      "image": "http://image.tmdb.org/t/p/w185/amJKpgzBvEr9d6WIuT1MjADzDZT.jpg"
+    },
+    {
+      "name": "Guillermo Toledo",
+      "image": "http://image.tmdb.org/t/p/w185/6uFnKwU9kgGZsOADnZz5G4CpLEb.jpg"
+    }
+  ]
+}

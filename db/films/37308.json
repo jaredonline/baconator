@@ -1,0 +1,54 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4VghrmczyvShRX6mxJWzwGzUEJV.jpg",
+    "name": "100 Rifles"
+  },
+  "cast": [
+    {
+      "name": "Jim Brown",
+      "image": "http://image.tmdb.org/t/p/w185/u2woKBMGvouznYELvlPwqj4Y81A.jpg"
+    },
+    {
+      "name": "Raquel Welch",
+      "image": "http://image.tmdb.org/t/p/w185/dEr7QkkgOqCwH1uc5VXzTxDveAv.jpg"
+    },
+    {
+      "name": "Burt Reynolds",
+      "image": "http://image.tmdb.org/t/p/w185/n4y5AKTcnKRqBkorcTk24dRy4Zr.jpg"
+    },
+    {
+      "name": "Fernando Lamas",
+      "image": "http://image.tmdb.org/t/p/w185/1zXs8XWxFgsGVqlt5cmUsxwqYII.jpg"
+    },
+    {
+      "name": "Dan O'Herlihy",
+      "image": "http://image.tmdb.org/t/p/w185/e84845dAoAbBYEggRd08vMrFipO.jpg"
+    },
+    {
+      "name": "Eric Braeden",
+      "image": "http://image.tmdb.org/t/p/w185/6dEqM2zylkopoZtr6quXW5i7W0V.jpg"
+    },
+    {
+      "name": "Aldo Sambrell",
+      "image": "http://image.tmdb.org/t/p/w185/AuDVbzviUIWEi9PJAeilFWTf5Xq.jpg"
+    },
+    {
+      "name": "Soledad Miranda",
+      "image": "http://image.tmdb.org/t/p/w185/xaLQzfM0J5ZrSSOMoe3zXn5jjk0.jpg"
+    },
+    {
+      "name": "Alberto Dalbés"
+    },
+    {
+      "name": "Charly Bravo",
+      "image": "http://image.tmdb.org/t/p/w185/njM6mCMK69R1ar9jrKO2FXtME.jpg"
+    },
+    {
+      "name": "José Manuel Martín"
+    },
+    {
+      "name": "Michael Forest",
+      "image": "http://image.tmdb.org/t/p/w185/2q5tzl9eFG5GgXmoQCGjHQI3icW.jpg"
+    }
+  ]
+}

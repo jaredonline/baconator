@@ -1,0 +1,60 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/eq2HmkqTS3QdOhLbiPtLbLhUJSv.jpg",
+    "name": "Silas Marner"
+  },
+  "cast": [
+    {
+      "name": "Ben Kingsley",
+      "image": "http://image.tmdb.org/t/p/w185/n0cVP5K2VxlohkAf7LoRwPt4xhu.jpg"
+    },
+    {
+      "name": "Jenny Agutter",
+      "image": "http://image.tmdb.org/t/p/w185/2AwYEHV0cXXo3vtjiuwHMEkqh6R.jpg"
+    },
+    {
+      "name": "Patrick Ryecart"
+    },
+    {
+      "name": "Freddie Jones",
+      "image": "http://image.tmdb.org/t/p/w185/mh2aJ6fuzsjsCG8bNyelPuqPHt3.jpg"
+    },
+    {
+      "name": "Jonathan Coy"
+    },
+    {
+      "name": "Patsy Kensit",
+      "image": "http://image.tmdb.org/t/p/w185/oCLY2IIAO64vnaGNS8n42rHGjFK.jpg"
+    },
+    {
+      "name": "Elizabeth Hoyle"
+    },
+    {
+      "name": "Melinda Whiting"
+    },
+    {
+      "name": "Angela Pleasence"
+    },
+    {
+      "name": "Rosemary Martin"
+    },
+    {
+      "name": "Robert Putt",
+      "image": "http://image.tmdb.org/t/p/w185/jRcGnCLCJsj0dD7eDi8yZagnJvv.jpg"
+    },
+    {
+      "name": "Jim Broadbent",
+      "image": "http://image.tmdb.org/t/p/w185/xWR0M9yaqcc6neBAg8tMgqGXwS3.jpg"
+    },
+    {
+      "name": "Tony Caunter"
+    },
+    {
+      "name": "Michael Bilton"
+    },
+    {
+      "name": "Nick Brimble",
+      "image": "http://image.tmdb.org/t/p/w185/mVp18zKRN4OjEJFwBD1i5SRMI3x.jpg"
+    }
+  ]
+}

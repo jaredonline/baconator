@@ -1,0 +1,35 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/g5SrQgmuezUtRlKnNi4ZKaTHjfb.jpg",
+    "name": "Giliap"
+  },
+  "cast": [
+    {
+      "name": "Thommy Berggren",
+      "image": "http://image.tmdb.org/t/p/w185/uzAW6hC5vNeAR4i6tTM2a6Rm2PP.jpg"
+    },
+    {
+      "name": "Mona Seilitz",
+      "image": "http://image.tmdb.org/t/p/w185/gokyfQZN2txjynGmI1hLivTjOJM.jpg"
+    },
+    {
+      "name": "Willie Andréason"
+    },
+    {
+      "name": "Lars-Levi Læstadius"
+    },
+    {
+      "name": "Henry Olhans"
+    },
+    {
+      "name": "Rainer Mieth"
+    },
+    {
+      "name": "Julie Bernby"
+    },
+    {
+      "name": "Pernilla August",
+      "image": "http://image.tmdb.org/t/p/w185/gj7f49NzYbFpP7KfmrFBajsUqxD.jpg"
+    }
+  ]
+}

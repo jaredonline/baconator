@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/mzj9LHDBYp6H85LsUnFjINNrDoJ.jpg",
+    "name": "Barbie in the Nutcracker"
+  },
+  "cast": [
+    {
+      "name": "Kelly Sheridan",
+      "image": "http://image.tmdb.org/t/p/w185/pbnu9c2Ho5SBjA1E3YFkAysNmn8.jpg"
+    },
+    {
+      "name": "Kirby Morrow",
+      "image": "http://image.tmdb.org/t/p/w185/uOx9FmK1O3p6BKRVURkh0SoM3a7.jpg"
+    },
+    {
+      "name": "Tim Curry",
+      "image": "http://image.tmdb.org/t/p/w185/x5IMeQdb00fNwj95YetyvOuLGoY.jpg"
+    }
+  ]
+}

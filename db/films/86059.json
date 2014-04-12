@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xEnfa8owe3OJT0l63TcnmznYGHZ.jpg",
+    "name": "The Comedians"
+  },
+  "cast": [
+    {
+      "name": "Richard Burton",
+      "image": "http://image.tmdb.org/t/p/w185/fRoBAQQP9sfnIYuqw546yFs3qKn.jpg"
+    },
+    {
+      "name": "Elizabeth Taylor",
+      "image": "http://image.tmdb.org/t/p/w185/rPbfZlBX18OIj7H1Bahq7YcJL0v.jpg"
+    },
+    {
+      "name": "Alec Guinness",
+      "image": "http://image.tmdb.org/t/p/w185/sNKqzb8U33pWVHJ338NjkHSEVDn.jpg"
+    },
+    {
+      "name": "Gloria Foster",
+      "image": "http://image.tmdb.org/t/p/w185/ahwiARgfOYctk6sOLBBk5w7cfH5.jpg"
+    },
+    {
+      "name": "Georg Stanford Brown",
+      "image": "http://image.tmdb.org/t/p/w185/vvPXgJ1BzPJiSuSuBe3dlJcxErN.jpg"
+    },
+    {
+      "name": "James Earl Jones",
+      "image": "http://image.tmdb.org/t/p/w185/pxC7jiRTHArPldgkqSneXRsrRJ9.jpg"
+    },
+    {
+      "name": "Peter Ustinov",
+      "image": "http://image.tmdb.org/t/p/w185/8Lv4g3ZPVSM1ckKk15OnryX8sL7.jpg"
+    }
+  ]
+}

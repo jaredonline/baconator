@@ -1,0 +1,64 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/aoR9phBbMde1vTlj0VDEiGLiqhc.jpg",
+    "name": "Copyright Criminals"
+  },
+  "cast": [
+    {
+      "name": "Aesop Rock",
+      "image": "http://image.tmdb.org/t/p/w185/fA0SCmlzJJTB4yQepNK6UAP0dNl.jpg"
+    },
+    {
+      "name": "George Clinton",
+      "image": "http://image.tmdb.org/t/p/w185/10hjzYfosue16f25lbAIXXdmBej.jpg"
+    },
+    {
+      "name": "Chuck D",
+      "image": "http://image.tmdb.org/t/p/w185/8h3r2hLmAomNFsFOkRK901oNyvE.jpg"
+    },
+    {
+      "name": "El-P",
+      "image": "http://image.tmdb.org/t/p/w185/zAAWEvvPiEehEslEhHkUe7AG3fa.jpg"
+    },
+    {
+      "name": "Sage Francis"
+    },
+    {
+      "name": "Pam the Funsktress"
+    },
+    {
+      "name": "Robert Garcia"
+    },
+    {
+      "name": "Miho Hatori"
+    },
+    {
+      "name": "Humpty Hump"
+    },
+    {
+      "name": "Mix Master Mike"
+    },
+    {
+      "name": "Prefuse 73"
+    },
+    {
+      "name": "DJ Q-Bert"
+    },
+    {
+      "name": "Pete Rock"
+    },
+    {
+      "name": "Hank Shocklee"
+    },
+    {
+      "name": "DJ Spooky"
+    },
+    {
+      "name": "Clyde Stubblefield"
+    },
+    {
+      "name": "Saul Williams",
+      "image": "http://image.tmdb.org/t/p/w185/cV8sC60M089WHKvu7hQVxHhUfBl.jpg"
+    }
+  ]
+}

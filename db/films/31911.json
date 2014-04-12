@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ceYAheLUeZmhcbvZBZPSiHLHdoK.jpg",
+    "name": "Mr. Wonderful"
+  },
+  "cast": [
+    {
+      "name": "Matt Dillon",
+      "image": "http://image.tmdb.org/t/p/w185/sqHNX9iyxdxZffl6wYWSoc7QoVG.jpg"
+    },
+    {
+      "name": "Annabella Sciorra",
+      "image": "http://image.tmdb.org/t/p/w185/hYnhZFxfac6Q009StxjcF06iJXz.jpg"
+    },
+    {
+      "name": "Mary-Louise Parker",
+      "image": "http://image.tmdb.org/t/p/w185/t9qHHPE4JCLv16h5ZpPBHc8J26T.jpg"
+    },
+    {
+      "name": "William Hurt",
+      "image": "http://image.tmdb.org/t/p/w185/mf5GiYZjURQ72CPtY1kBva7mqIK.jpg"
+    }
+  ]
+}

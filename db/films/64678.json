@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/uuf5YRJ46zktEXmxAW99ElpYhcK.jpg",
+    "name": "The Art of Getting By"
+  },
+  "cast": [
+    {
+      "name": "Freddie Highmore",
+      "image": "http://image.tmdb.org/t/p/w185/qMORp10h2tOXF2bj2i7xWBNiwPd.jpg"
+    },
+    {
+      "name": "Emma Roberts",
+      "image": "http://image.tmdb.org/t/p/w185/oPUgP6mJpRTwwodATZ3lCgVrecz.jpg"
+    },
+    {
+      "name": "Michael Angarano",
+      "image": "http://image.tmdb.org/t/p/w185/zNoj0cJHoD8RPUDOgTpVgJ0KcXM.jpg"
+    },
+    {
+      "name": "Elizabeth Reaser",
+      "image": "http://image.tmdb.org/t/p/w185/xwMhNtsH7ebNVcNS5aaXCt9riP.jpg"
+    }
+  ]
+}

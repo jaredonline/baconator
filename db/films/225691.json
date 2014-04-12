@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xC2zXTE4mPTgLGdmAseAMb819tt.jpg",
+    "name": "The Hold-Up"
+  },
+  "cast": [
+    {
+      "name": "Adriana Ozores",
+      "image": "http://image.tmdb.org/t/p/w185/1TwpANgl6w8FqVRcieiSFu1XFSz.jpg"
+    },
+    {
+      "name": "Malena Alterio"
+    },
+    {
+      "name": "Maribel Verdú",
+      "image": "http://image.tmdb.org/t/p/w185/i2ylwxUIUMdC9paltuovtud2bv5.jpg"
+    },
+    {
+      "name": "Carmen Maura",
+      "image": "http://image.tmdb.org/t/p/w185/4XRTR61YFScV3B6FhbQ09njWydi.jpg"
+    }
+  ]
+}

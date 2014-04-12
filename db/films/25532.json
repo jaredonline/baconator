@@ -1,0 +1,31 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/hnvdjed25pQykVBZ3OKukdmKi6k.jpg",
+    "name": "Chronicle of an Escape"
+  },
+  "cast": [
+    {
+      "name": "Rodrigo de la Serna",
+      "image": "http://image.tmdb.org/t/p/w185/1qnZYEYWcEWN5HnUNitqVQxyPw7.jpg"
+    },
+    {
+      "name": "Pablo Echarri",
+      "image": "http://image.tmdb.org/t/p/w185/uFF8TKTY2d5lTWu53IkI7e97L2V.jpg"
+    },
+    {
+      "name": "Nazareno Casero"
+    },
+    {
+      "name": "Lautaro Delgado"
+    },
+    {
+      "name": "Matías Marmorato"
+    },
+    {
+      "name": "Diego Alonso "
+    },
+    {
+      "name": "Guillermo Fernández"
+    }
+  ]
+}

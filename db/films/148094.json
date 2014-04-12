@@ -1,0 +1,21 @@
+{
+  "film": {
+    "name": "She Always Gets Their Man"
+  },
+  "cast": [
+    {
+      "name": "Terence Alexander",
+      "image": "http://image.tmdb.org/t/p/w185/rByQNawJFMO3HnnQcmbJPUCCF8X.jpg"
+    },
+    {
+      "name": "Ann Sears",
+      "image": "http://image.tmdb.org/t/p/w185/pdTG6k7kUl7nCeu1UTQLWsIc5vm.jpg"
+    },
+    {
+      "name": "Sally Smith"
+    },
+    {
+      "name": "William Fox"
+    }
+  ]
+}

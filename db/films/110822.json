@@ -1,0 +1,23 @@
+{
+  "film": {
+    "name": "El Año que Trafiqué con Mujeres"
+  },
+  "cast": [
+    {
+      "name": "Nancho Novo"
+    },
+    {
+      "name": "Antonio Dechent",
+      "image": "http://image.tmdb.org/t/p/w185/75dGSYevnV3vjkgaJxCeBjuqQYm.jpg"
+    },
+    {
+      "name": "Jennifer Rope"
+    },
+    {
+      "name": "Raquel Meroño"
+    },
+    {
+      "name": "Albert Vidal"
+    }
+  ]
+}

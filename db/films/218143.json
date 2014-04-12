@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/r86r9dCTBXHZihVr6re0rN8CAa8.jpg",
+    "name": "Lady Grey London"
+  },
+  "cast": [
+    {
+      "name": "Marion Cotillard",
+      "image": "http://image.tmdb.org/t/p/w185/7MVUeNgMnQTks7uTdSZoakei5oR.jpg"
+    },
+    {
+      "name": "Ian McKellen",
+      "image": "http://image.tmdb.org/t/p/w185/c51mP46oPgAgFf7bFWVHlScZynM.jpg"
+    },
+    {
+      "name": "Natalia Ryumina"
+    },
+    {
+      "name": "Russell Tovey",
+      "image": "http://image.tmdb.org/t/p/w185/cZFYWMmBpKCf1fztnUce3Q2ck3q.jpg"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/RXgDx4rQeb9vpEiwPfM0Sq0W9J.jpg",
+    "name": "Undercover"
+  },
+  "cast": [
+    {
+      "name": "Geneviève Picot"
+    },
+    {
+      "name": "John Walton"
+    },
+    {
+      "name": "Michael Paré",
+      "image": "http://image.tmdb.org/t/p/w185/rdZf6ZIy0mU2GQr3uKrYhVPdw9a.jpg"
+    },
+    {
+      "name": "Barry Otto"
+    }
+  ]
+}

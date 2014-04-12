@@ -1,0 +1,33 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/uABfGDKDKC1O4FYfkUM83ykBr3r.jpg",
+    "name": "Bandyta"
+  },
+  "cast": [
+    {
+      "name": "Til Schweiger",
+      "image": "http://image.tmdb.org/t/p/w185/mRQ9URazBbImeV0NxHZsGS3Px7D.jpg"
+    },
+    {
+      "name": "Polly Walker",
+      "image": "http://image.tmdb.org/t/p/w185/swfioO83iyf5aB2svD0tgIWlCSr.jpg"
+    },
+    {
+      "name": "Ida Jablonska"
+    },
+    {
+      "name": "Bartek Pieniazek"
+    },
+    {
+      "name": "Wojciech Brzezinski"
+    },
+    {
+      "name": "Pete Postlethwaite",
+      "image": "http://image.tmdb.org/t/p/w185/o1W1V3jUKP0HvXbduvYjXM5tnaF.jpg"
+    },
+    {
+      "name": "John Hurt",
+      "image": "http://image.tmdb.org/t/p/w185/rpuH2YRLpxJjMxHq4T1QdOSVtlN.jpg"
+    }
+  ]
+}

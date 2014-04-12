@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/A9l80ZcsmoVIH1E1Zp9EUQeTfCJ.jpg",
+    "name": "Albatross"
+  },
+  "cast": [
+    {
+      "name": "Sebastian Koch",
+      "image": "http://image.tmdb.org/t/p/w185/prOBkJMjlvPJL3ja20fcwpm9XZA.jpg"
+    },
+    {
+      "name": "Julia Ormond",
+      "image": "http://image.tmdb.org/t/p/w185/GYnXYOvBhzPfNmTpeIiO0XRTUu.jpg"
+    },
+    {
+      "name": "Felicity Jones",
+      "image": "http://image.tmdb.org/t/p/w185/n4WWQKEa6TzKGZoaqhieLGpmMfX.jpg"
+    },
+    {
+      "name": "Jessica Brown Findlay",
+      "image": "http://image.tmdb.org/t/p/w185/yaUh7d5Kqz5ip49Q2VCQAGvyFqZ.jpg"
+    }
+  ]
+}

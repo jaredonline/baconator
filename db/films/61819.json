@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/vItm9WmkDguFDOCMUwxJjFslJy9.jpg",
+    "name": "Cool Money"
+  },
+  "cast": [
+    {
+      "name": "James Marsters",
+      "image": "http://image.tmdb.org/t/p/w185/etoLYYhMSLIP0jdgDs2Vk3Fxcy7.jpg"
+    },
+    {
+      "name": "John Cassini",
+      "image": "http://image.tmdb.org/t/p/w185/9FUiUgK2Z4KqgvUphiehW0UJgfR.jpg"
+    },
+    {
+      "name": "Larry Manetti",
+      "image": "http://image.tmdb.org/t/p/w185/cMIJ5C5acz4dFgiVuaiE2MlMN8F.jpg"
+    },
+    {
+      "name": "Wayne Robson",
+      "image": "http://image.tmdb.org/t/p/w185/fXOPAvCMAaDXhXPfBhE3NpiiU2H.jpg"
+    }
+  ]
+}

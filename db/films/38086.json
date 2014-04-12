@@ -1,0 +1,45 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qZ7KyqEgFax60Pap9q66mJoW0oJ.jpg",
+    "name": "Soldiers of Salamina"
+  },
+  "cast": [
+    {
+      "name": "Ariadna Gil",
+      "image": "http://image.tmdb.org/t/p/w185/rpOaTyT6eMWNqYrPI2gE07x149h.jpg"
+    },
+    {
+      "name": "Diego Luna",
+      "image": "http://image.tmdb.org/t/p/w185/9f1y0pLqohP8U3eEVCa4di1tESb.jpg"
+    },
+    {
+      "name": "María Botto",
+      "image": "http://image.tmdb.org/t/p/w185/nAbXPfDt9iQ4rF2SXh2RHCL02yB.jpg"
+    },
+    {
+      "name": "Ramon Fontserè",
+      "image": "http://image.tmdb.org/t/p/w185/pQOLiYfm8zxuS4ngPPbt4J1bBJ5.jpg"
+    },
+    {
+      "name": "Joan Dalmau"
+    },
+    {
+      "name": "Luis Cuenca"
+    },
+    {
+      "name": "Alberto Ferreiro"
+    },
+    {
+      "name": "Lluis Villanueva"
+    },
+    {
+      "name": "Julio Manrique"
+    },
+    {
+      "name": "Ivan Massagué"
+    },
+    {
+      "name": "Bruno Bergonzini"
+    }
+  ]
+}

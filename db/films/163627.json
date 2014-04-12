@@ -1,0 +1,53 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/y7aP2Yr67wkoBx5XZMM7vchdufr.jpg",
+    "name": "Nijinsky"
+  },
+  "cast": [
+    {
+      "name": "Alan Bates",
+      "image": "http://image.tmdb.org/t/p/w185/tXBtdL0JrFFMBP55fn3sh1z0WOG.jpg"
+    },
+    {
+      "name": "George de la Peña"
+    },
+    {
+      "name": "Leslie Browne",
+      "image": "http://image.tmdb.org/t/p/w185/b0HSDiytvuzG8BvVcKMxZiU3GRN.jpg"
+    },
+    {
+      "name": "Carla Fracci"
+    },
+    {
+      "name": "Ronald Pickup",
+      "image": "http://image.tmdb.org/t/p/w185/6ouxdn0PqlFCgtcWSJty3Y1m7n8.jpg"
+    },
+    {
+      "name": "Ronald Lacey",
+      "image": "http://image.tmdb.org/t/p/w185/nQTtqJP7Go9cnvq9252IXqY9dMM.jpg"
+    },
+    {
+      "name": "Jeremy Irons",
+      "image": "http://image.tmdb.org/t/p/w185/9AWphjIgGX7JjTrwrx3tsTZlUgv.jpg"
+    },
+    {
+      "name": "Vernon Dobtcheff",
+      "image": "http://image.tmdb.org/t/p/w185/lcPki2IDdmRvqiBbv2RUBfgm3IH.jpg"
+    },
+    {
+      "name": "Frederick Jaeger"
+    },
+    {
+      "name": "Janet Suzman",
+      "image": "http://image.tmdb.org/t/p/w185/qOgEIzgEC1dPZL5WNalnhhdfeC0.jpg"
+    },
+    {
+      "name": "Colin Blakely",
+      "image": "http://image.tmdb.org/t/p/w185/iTZnMI6uAMO4EfJb2YLgh7Qtl4C.jpg"
+    },
+    {
+      "name": "Siân Phillips",
+      "image": "http://image.tmdb.org/t/p/w185/dihKDaexR40FUl4GGaoDb2RBhVx.jpg"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "film": {
+    "name": "La Fayette"
+  },
+  "cast": [
+    {
+      "name": "Pascale Audret"
+    },
+    {
+      "name": "Jack Hawkins",
+      "image": "http://image.tmdb.org/t/p/w185/7b6E24ZRLEPJwP0WQauXJPt41Fs.jpg"
+    },
+    {
+      "name": "Michel Le Royer"
+    },
+    {
+      "name": "Folco Lulli"
+    },
+    {
+      "name": "Wolfgang Preiss",
+      "image": "http://image.tmdb.org/t/p/w185/vZotpPKrfDhjeU2CwxPlNnRCXCY.jpg"
+    },
+    {
+      "name": "Renée Saint-Cyr"
+    }
+  ]
+}

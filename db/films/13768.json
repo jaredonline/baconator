@@ -1,0 +1,40 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/uOK7mxACM2POEX2DayBcy4Da6yv.jpg",
+    "name": "Tuck Everlasting"
+  },
+  "cast": [
+    {
+      "name": "Alexis Bledel",
+      "image": "http://image.tmdb.org/t/p/w185/x1EPhsv6cyv8n4kqlUqMkDfA6JL.jpg"
+    },
+    {
+      "name": "William Hurt",
+      "image": "http://image.tmdb.org/t/p/w185/mf5GiYZjURQ72CPtY1kBva7mqIK.jpg"
+    },
+    {
+      "name": "Sissy Spacek",
+      "image": "http://image.tmdb.org/t/p/w185/lkctmXWk99fEJyHhj1OZy3AIWlc.jpg"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "image": "http://image.tmdb.org/t/p/w185/duZP6q1JQ1Is797xsZplydvgsRL.jpg"
+    },
+    {
+      "name": "Scott Bairstow",
+      "image": "http://image.tmdb.org/t/p/w185/kgwu669FNU6mVFvg2MnoYJFW4tJ.jpg"
+    },
+    {
+      "name": "Ben Kingsley",
+      "image": "http://image.tmdb.org/t/p/w185/n0cVP5K2VxlohkAf7LoRwPt4xhu.jpg"
+    },
+    {
+      "name": "Amy Irving",
+      "image": "http://image.tmdb.org/t/p/w185/7bKYl70P5UmpaoNnlvZD82FLdR.jpg"
+    },
+    {
+      "name": "Victor Garber",
+      "image": "http://image.tmdb.org/t/p/w185/dcSUNKJLjBBkwuJpUl7SOLR8HDo.jpg"
+    }
+  ]
+}

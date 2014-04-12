@@ -1,0 +1,28 @@
+{
+  "film": {
+    "name": "Maigret: L'ombra cinese"
+  },
+  "cast": [
+    {
+      "name": "Sergio Castellitto",
+      "image": "http://image.tmdb.org/t/p/w185/vD37C5NfcW62U73iEhh3pEWSmM9.jpg"
+    },
+    {
+      "name": "Margherita Buy",
+      "image": "http://image.tmdb.org/t/p/w185/A9Pz1bzeg5AHIQLc8XZb0CGfgvt.jpg"
+    },
+    {
+      "name": "Carlos Bardem",
+      "image": "http://image.tmdb.org/t/p/w185/vuIFcSKoPhJKGoeOjp2sqqNSYZ4.jpg"
+    },
+    {
+      "name": "Giuseppe Sanfelice"
+    },
+    {
+      "name": "Juli Fàbregas"
+    },
+    {
+      "name": "Paolo De Vita"
+    }
+  ]
+}

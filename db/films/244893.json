@@ -1,0 +1,30 @@
+{
+  "film": {
+    "name": "Tuesday Morning Ride"
+  },
+  "cast": [
+    {
+      "name": "Vivian Bonnell"
+    },
+    {
+      "name": "Bill Cobbs",
+      "image": "http://image.tmdb.org/t/p/w185/8fgXBUUFwBhKG9PG0cPTqyz8q9n.jpg"
+    },
+    {
+      "name": "Vondie Curtis-Hall",
+      "image": "http://image.tmdb.org/t/p/w185/tH7QvQ9ST9zLuZZsTHzxMXkgtIy.jpg"
+    },
+    {
+      "name": "Ruby Dee",
+      "image": "http://image.tmdb.org/t/p/w185/lHrRlmavoICJ6myOYFsTO7ZjyLo.jpg"
+    },
+    {
+      "name": "Erica Gimpel",
+      "image": "http://image.tmdb.org/t/p/w185/wrJCxuO8aBFnHoz6RuaY8dHA2H0.jpg"
+    },
+    {
+      "name": "Cree Summer",
+      "image": "http://image.tmdb.org/t/p/w185/f2ezohBr8bBuLl85YTV2UNOa5j5.jpg"
+    }
+  ]
+}

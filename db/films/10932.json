@@ -1,0 +1,54 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qmSiBcqYyb4dBNVnp4oTcvn5GXx.jpg",
+    "name": "Der letzte Lude"
+  },
+  "cast": [
+    {
+      "name": "Lotto King Karl"
+    },
+    {
+      "name": "Tobias Schenke"
+    },
+    {
+      "name": "Alexandra Neldel",
+      "image": "http://image.tmdb.org/t/p/w185/dFFZPIEWQwg7Zx5VlPHbBGc2acW.jpg"
+    },
+    {
+      "name": "Erdal Kacar"
+    },
+    {
+      "name": "Axel Wedekind"
+    },
+    {
+      "name": "Luca Maric"
+    },
+    {
+      "name": "Luca Maric"
+    },
+    {
+      "name": "Michael Müller"
+    },
+    {
+      "name": "Torsten Voges"
+    },
+    {
+      "name": "Torsten Voges"
+    },
+    {
+      "name": "Torsten Voges"
+    },
+    {
+      "name": "Isabelle Ertmann"
+    },
+    {
+      "name": "Nina-Marlisa Lenzi"
+    },
+    {
+      "name": "Jürgen Kloßel"
+    },
+    {
+      "name": "Morris Teschke"
+    }
+  ]
+}

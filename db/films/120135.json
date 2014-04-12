@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/19MqFfDkXpbeH69GnJPGOjklEcg.jpg",
+    "name": "A + Amas"
+  },
+  "cast": [
+    {
+      "name": "Eloy Azorin",
+      "image": "http://image.tmdb.org/t/p/w185/gMsqCdNbLliRudq6olLZEccmO5t.jpg"
+    },
+    {
+      "name": "Carlos Fuentes"
+    },
+    {
+      "name": "Elvira Herrería"
+    },
+    {
+      "name": "Ricardo Moya"
+    },
+    {
+      "name": "Fernando Ramallo",
+      "image": "http://image.tmdb.org/t/p/w185/gOlN8Vqni7ZG1XMiaUUMn7w9c22.jpg"
+    },
+    {
+      "name": "Eloi Yebra"
+    },
+    {
+      "name": "José Coronado",
+      "image": "http://image.tmdb.org/t/p/w185/co7XjJSCr4kk4LkeIdqpmMaoOis.jpg"
+    },
+    {
+      "name": "Najwa Nimri",
+      "image": "http://image.tmdb.org/t/p/w185/1HjYUf3gvfEXP26Z2ejflW2AtOi.jpg"
+    }
+  ]
+}

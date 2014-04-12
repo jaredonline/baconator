@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/vyjF36IxEZCc9dWxE1tAFjwCMvG.jpg",
+    "name": "Ghost Story for Christmas: M.R. James - A View from a Hill"
+  },
+  "cast": [
+    {
+      "name": "David Burke",
+      "image": "http://image.tmdb.org/t/p/w185/7wyAHrpsdR301uWXxgcDrJaQaBQ.jpg"
+    },
+    {
+      "name": "Pip Torrens"
+    },
+    {
+      "name": "Mark Letheren",
+      "image": "http://image.tmdb.org/t/p/w185/aHlpazqK8fTmsCPqynGDIaGU42U.jpg"
+    }
+  ]
+}

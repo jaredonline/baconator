@@ -1,0 +1,34 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/tSj7BAJRFPzvnbdoMcIec3Xibwe.jpg",
+    "name": "Seis puntos sobre Emma"
+  },
+  "cast": [
+    {
+      "name": "Nacho Aldeguer"
+    },
+    {
+      "name": "Mabel del Pozo"
+    },
+    {
+      "name": "Verónica Echegui",
+      "image": "http://image.tmdb.org/t/p/w185/zGLEdlo7czIcZM43o8bLqinZOic.jpg"
+    },
+    {
+      "name": "Antonio Velázquez"
+    },
+    {
+      "name": "Álex García"
+    },
+    {
+      "name": "David Mora",
+      "image": "http://image.tmdb.org/t/p/w185/p1XddqJW4gbx2oyp4uDJ3spDb3d.jpg"
+    },
+    {
+      "name": "Mariam Hernández"
+    },
+    {
+      "name": "Fernando Tielve"
+    }
+  ]
+}

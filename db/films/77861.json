@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/U2eGuIDzy1tp2ZRX0DomhtPhCe.jpg",
+    "name": "The Execution of Private Slovik"
+  },
+  "cast": [
+    {
+      "name": "Martin Sheen",
+      "image": "http://image.tmdb.org/t/p/w185/mityfK8XVZ76Vse6h5oPECl9nGw.jpg"
+    },
+    {
+      "name": "Mariclare Costello"
+    },
+    {
+      "name": "Ned Beatty",
+      "image": "http://image.tmdb.org/t/p/w185/4ahm1CiMPJXzuyErOoUqGgC9Zt5.jpg"
+    },
+    {
+      "name": "Gary Busey",
+      "image": "http://image.tmdb.org/t/p/w185/n66ycv61ZoqusHthcQde1g3JY6T.jpg"
+    }
+  ]
+}

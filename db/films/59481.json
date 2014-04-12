@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/jZmLgg0LnblCt3rC9VG57NNixpr.jpg",
+    "name": "A House In The Hills"
+  },
+  "cast": [
+    {
+      "name": "Michael Madsen",
+      "image": "http://image.tmdb.org/t/p/w185/yPvagJYARJb0JAeAbCFdcXcaPs2.jpg"
+    },
+    {
+      "name": "Helen Slater",
+      "image": "http://image.tmdb.org/t/p/w185/bHXUdSmTXQ4KcbMaS4rHwkiLXFu.jpg"
+    },
+    {
+      "name": "Jeffrey Tambor",
+      "image": "http://image.tmdb.org/t/p/w185/vZKPzKDdqMbxMaJXmnoXXh3YQcw.jpg"
+    }
+  ]
+}

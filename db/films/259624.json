@@ -1,0 +1,22 @@
+{
+  "film": {
+    "name": "Oliver Twist"
+  },
+  "cast": [
+    {
+      "name": "Timothy Spall",
+      "image": "http://image.tmdb.org/t/p/w185/x82A46Q10091a8BFOuK5MIyBvEv.jpg"
+    },
+    {
+      "name": "William Miller"
+    },
+    {
+      "name": "Tom Hardy",
+      "image": "http://image.tmdb.org/t/p/w185/aYWIZ7ywOFzyK7B1HHCQj2nq8s4.jpg"
+    },
+    {
+      "name": "Sophie Okonedo",
+      "image": "http://image.tmdb.org/t/p/w185/lGFdHtIGYBNy852ZP35ZnW0Wh6u.jpg"
+    }
+  ]
+}

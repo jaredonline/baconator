@@ -1,0 +1,58 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/kJNpUFwPafJumvT98CgnzRCiuKH.jpg",
+    "name": "Jakob the Liar"
+  },
+  "cast": [
+    {
+      "name": "Robin Williams",
+      "image": "http://image.tmdb.org/t/p/w185/xzM2xrbDJ0r9GZ2407Q6Sx57fuP.jpg"
+    },
+    {
+      "name": "Armin Mueller-Stahl",
+      "image": "http://image.tmdb.org/t/p/w185/cKdfUl7EuUpBncwvJo2t3hYJPNi.jpg"
+    },
+    {
+      "name": "Hannah Taylor-Gordon",
+      "image": "http://image.tmdb.org/t/p/w185/28TBbB0NpJMe20qPlJXdcyQldKt.jpg"
+    },
+    {
+      "name": "Éva Igó"
+    },
+    {
+      "name": "István Bálint"
+    },
+    {
+      "name": "Justus von Dohnányi",
+      "image": "http://image.tmdb.org/t/p/w185/zTVHImOVvAX2XeJb59V7rHlu7Nc.jpg"
+    },
+    {
+      "name": "Kathleen Gati",
+      "image": "http://image.tmdb.org/t/p/w185/qjOsiZ6H3XHbbZpxDRMyDeNqBFA.jpg"
+    },
+    {
+      "name": "Bob Balaban",
+      "image": "http://image.tmdb.org/t/p/w185/5h63ol5UTqWItmpGuCCfpG4Mhoz.jpg"
+    },
+    {
+      "name": "Alan Arkin",
+      "image": "http://image.tmdb.org/t/p/w185/n4mZPuHHDFfITGzcQp7ZXAARn5k.jpg"
+    },
+    {
+      "name": "Michael Jeter",
+      "image": "http://image.tmdb.org/t/p/w185/oJTjyq7RGOd1m49RvDpw12bQcvT.jpg"
+    },
+    {
+      "name": "Mark Margolis",
+      "image": "http://image.tmdb.org/t/p/w185/oxA7R8dcx0BL9LUN1PJtAmHTam0.jpg"
+    },
+    {
+      "name": "Liev Schreiber",
+      "image": "http://image.tmdb.org/t/p/w185/A3JupfaZcY4wGq353v4WdKaXzbZ.jpg"
+    },
+    {
+      "name": "Robin Williams",
+      "image": "http://image.tmdb.org/t/p/w185/xzM2xrbDJ0r9GZ2407Q6Sx57fuP.jpg"
+    }
+  ]
+}

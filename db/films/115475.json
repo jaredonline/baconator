@@ -1,0 +1,41 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/78LZDxCxIqxXdOJ2NA7Xn6ZTvY7.jpg",
+    "name": "Las voces de la noche"
+  },
+  "cast": [
+    {
+      "name": "Laia Marull"
+    },
+    {
+      "name": "Tristán Ulloa",
+      "image": "http://image.tmdb.org/t/p/w185/AmiVKczdJG7zxqzX3Jh9IHYk8Yc.jpg"
+    },
+    {
+      "name": "Vicky Peña"
+    },
+    {
+      "name": "Ana Wagener"
+    },
+    {
+      "name": "Ramón Madaula"
+    },
+    {
+      "name": "Pere Arquillué"
+    },
+    {
+      "name": "Emma Vilarasau"
+    },
+    {
+      "name": "Guillermo Toledo",
+      "image": "http://image.tmdb.org/t/p/w185/6uFnKwU9kgGZsOADnZz5G4CpLEb.jpg"
+    },
+    {
+      "name": "Álvaro de Luna",
+      "image": "http://image.tmdb.org/t/p/w185/38YvVsGjJZq8DDh7rGqCr8FTr5l.jpg"
+    },
+    {
+      "name": "Malena Alterio"
+    }
+  ]
+}

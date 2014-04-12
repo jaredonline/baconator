@@ -1,0 +1,27 @@
+{
+  "film": {
+    "name": "Le témoin"
+  },
+  "cast": [
+    {
+      "name": "Claude Jade"
+    },
+    {
+      "name": "Gérard Barray",
+      "image": "http://image.tmdb.org/t/p/w185/k1zt1i9IeUur4bv1iluRyvfquFq.jpg"
+    },
+    {
+      "name": "Jean-Claude Dauphin",
+      "image": "http://image.tmdb.org/t/p/w185/i67AXSx0q6qwvsw1gWscalOO6Es.jpg"
+    },
+    {
+      "name": "Jeanne Pérez"
+    },
+    {
+      "name": "Claude Vernier"
+    },
+    {
+      "name": "Bernard Frémaux"
+    }
+  ]
+}

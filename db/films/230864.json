@@ -1,0 +1,58 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/frlC3ZKuO9rIC3saXYtwF7niAz.jpg",
+    "name": "Marvin Hamlisch: The Way He Was"
+  },
+  "cast": [
+    {
+      "name": "Marvin Hamlisch",
+      "image": "http://image.tmdb.org/t/p/w185/sp6CNguidq58iMBmzc1uq8cE4Ax.jpg"
+    },
+    {
+      "name": "Barbra Streisand",
+      "image": "http://image.tmdb.org/t/p/w185/sf9PFHtZJ0P8ELebtn7EAGtnrOz.jpg"
+    },
+    {
+      "name": "Steven Soderbergh",
+      "image": "http://image.tmdb.org/t/p/w185/dxdMRsAosaGlMRd7EMmm9lrXXsW.jpg"
+    },
+    {
+      "name": "Idina Menzel",
+      "image": "http://image.tmdb.org/t/p/w185/mNcCJqo4uboEaI5VTMvYOj8enOz.jpg"
+    },
+    {
+      "name": "Tim Rice"
+    },
+    {
+      "name": "Woody Allen",
+      "image": "http://image.tmdb.org/t/p/w185/wpcOUlaszvJoVRf1yLbDtu7u4FI.jpg"
+    },
+    {
+      "name": "Ann-Margret",
+      "image": "http://image.tmdb.org/t/p/w185/i60AiHzZGTjr3Bq4dv6vXC8kzyi.jpg"
+    },
+    {
+      "name": "Quincy Jones",
+      "image": "http://image.tmdb.org/t/p/w185/8BV60V92Vs0huuwYbqddKQmyL6f.jpg"
+    },
+    {
+      "name": "Carole Bayer Sager"
+    },
+    {
+      "name": "Christopher Walken",
+      "image": "http://image.tmdb.org/t/p/w185/t0gzpYe6FOWH1yKeRBOIpTKgFsB.jpg"
+    },
+    {
+      "name": "Lucie Arnaz",
+      "image": "http://image.tmdb.org/t/p/w185/xIU6Jm8M4kwMzvfJWPPaiiBCDhg.jpg"
+    },
+    {
+      "name": "John Lithgow",
+      "image": "http://image.tmdb.org/t/p/w185/bvxkEwHYNsNuAsUV9Xmda8gdsvM.jpg"
+    },
+    {
+      "name": "Melissa Manchester",
+      "image": "http://image.tmdb.org/t/p/w185/1NXTAdSUJ3YGq3r299EZJ3FFFMf.jpg"
+    }
+  ]
+}

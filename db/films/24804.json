@@ -1,0 +1,40 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/unkYSqWbKKP5I8GbsRr1a8ORfwn.jpg",
+    "name": "Black Dynamite"
+  },
+  "cast": [
+    {
+      "name": "Michael Jai White",
+      "image": "http://image.tmdb.org/t/p/w185/5iJ5lnq2ttl0uP7MORd6dUHUrIf.jpg"
+    },
+    {
+      "name": "Arsenio Hall",
+      "image": "http://image.tmdb.org/t/p/w185/cXv78qwO04CG3MMdiaYLEHu47MU.jpg"
+    },
+    {
+      "name": "Tommy Davidson",
+      "image": "http://image.tmdb.org/t/p/w185/yXCC9g25AwlCpSWPY1plqjcvQD5.jpg"
+    },
+    {
+      "name": "Kevin Chapman",
+      "image": "http://image.tmdb.org/t/p/w185/vOZym44V3vHyOHWGl1LnQoJU6NG.jpg"
+    },
+    {
+      "name": "Richard Edson",
+      "image": "http://image.tmdb.org/t/p/w185/jNIMr6PCFrMhc9evxKXyoFSkFkK.jpg"
+    },
+    {
+      "name": "Bokeem Woodbine",
+      "image": "http://image.tmdb.org/t/p/w185/5jxJLgIsEsKwsHSLVjNvMZzs1Mm.jpg"
+    },
+    {
+      "name": "Buddy Lewis",
+      "image": "http://image.tmdb.org/t/p/w185/Y2LlThwflUdD6eZKxKXvQ44qzC.jpg"
+    },
+    {
+      "name": "Salli Richardson-Whitfield",
+      "image": "http://image.tmdb.org/t/p/w185/j3AKHUAcnfyOCYhqbiAWcAU6xbZ.jpg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6xb5Lo65KI9x6xtF92wqDNkd35s.jpg",
+    "name": "Bomber"
+  },
+  "cast": [
+    {
+      "name": "Shane Taylor",
+      "image": "http://image.tmdb.org/t/p/w185/3Gu2kED8msme4Adx7j3neiltXmf.jpg"
+    },
+    {
+      "name": "Eileen Nicholas"
+    },
+    {
+      "name": "Ulrike Arndt"
+    },
+    {
+      "name": "Michael Asmussen"
+    },
+    {
+      "name": "Emil Austermann"
+    },
+    {
+      "name": "Waltraud Bredfeldt"
+    },
+    {
+      "name": "Helge Ihnen"
+    },
+    {
+      "name": "Martina Janßen"
+    },
+    {
+      "name": "Sara Kessel"
+    },
+    {
+      "name": "Günter Mües"
+    },
+    {
+      "name": "Sheela Patel"
+    },
+    {
+      "name": "Herbert Schröder"
+    },
+    {
+      "name": "Volkmar Siems"
+    },
+    {
+      "name": "Dörte Tien"
+    },
+    {
+      "name": "Benjamin Whitrow"
+    }
+  ]
+}

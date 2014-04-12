@@ -1,0 +1,30 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/3m2ICZ5DBzk3QyKQ4HEKiYkAPK9.jpg",
+    "name": "Dogs"
+  },
+  "cast": [
+    {
+      "name": "Lluís Homar",
+      "image": "http://image.tmdb.org/t/p/w185/oJ7RcDbvXGxJNurtqzvZzgT6Edm.jpg"
+    },
+    {
+      "name": "Emma Vilarasau"
+    },
+    {
+      "name": "Laura Conejero"
+    },
+    {
+      "name": "Francesc Garrido"
+    },
+    {
+      "name": "Blanca Apilánez"
+    },
+    {
+      "name": "Gerard Grassa"
+    },
+    {
+      "name": "Glòria Roig"
+    }
+  ]
+}

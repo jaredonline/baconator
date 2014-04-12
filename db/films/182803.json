@@ -1,0 +1,33 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/d7cltJJikFg8fQ5xGCKP1vjlPbS.jpg",
+    "name": "Las manos del pianista"
+  },
+  "cast": [
+    {
+      "name": "Javier Gutiérrez"
+    },
+    {
+      "name": "Fernando Cayo",
+      "image": "http://image.tmdb.org/t/p/w185/thChISKbcrMXFdeAN3JPZjIWVkl.jpg"
+    },
+    {
+      "name": "Francesc Orella",
+      "image": "http://image.tmdb.org/t/p/w185/dRAWMYMv241h2edanPZQRI56Glv.jpg"
+    },
+    {
+      "name": "Clara Segura",
+      "image": "http://image.tmdb.org/t/p/w185/yXYtVJ2OupJBHxzzt8FCULQsDuN.jpg"
+    },
+    {
+      "name": "Marta Belaustegui"
+    },
+    {
+      "name": "Gorka Lasaosa",
+      "image": "http://image.tmdb.org/t/p/w185/hg1zIwgIsinuzYcudE4zSKZPhsK.jpg"
+    },
+    {
+      "name": "Montserrat Carulla"
+    }
+  ]
+}

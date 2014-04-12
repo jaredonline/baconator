@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ehyNkI6A2YOfIgNOgCyZ910Z9dS.jpg",
+    "name": "Alaska"
+  },
+  "cast": [
+    {
+      "name": "Thora Birch",
+      "image": "http://image.tmdb.org/t/p/w185/jxtp9prkQgFmj0ZRvi1kcnnqaWb.jpg"
+    },
+    {
+      "name": "Vincent Kartheiser",
+      "image": "http://image.tmdb.org/t/p/w185/jF0hg3JnqaS0YV7h6LmcVPMy2Zh.jpg"
+    },
+    {
+      "name": "Dirk Benedict",
+      "image": "http://image.tmdb.org/t/p/w185/81ZdlG99HQMjOexsdKyEyvaR4BD.jpg"
+    },
+    {
+      "name": "Ben Cardinal"
+    },
+    {
+      "name": "Kristin Lehman",
+      "image": "http://image.tmdb.org/t/p/w185/4UUy7gPgNrlxg5di93HDOmzJwkZ.jpg"
+    },
+    {
+      "name": "Stephen E. Miller",
+      "image": "http://image.tmdb.org/t/p/w185/d06RqoXxwaR0E6ZvVkthxy6RIpw.jpg"
+    },
+    {
+      "name": "Dolly Madsen"
+    },
+    {
+      "name": "Don S. Davis",
+      "image": "http://image.tmdb.org/t/p/w185/w93ia4AoKKyRhgX2gzcW9IFJ3Xv.jpg"
+    }
+  ]
+}

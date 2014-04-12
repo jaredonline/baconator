@@ -1,0 +1,52 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/bXjMqhaJvymgT9cXvQ8z0EZJ1Ik.jpg",
+    "name": "Stranger Inside"
+  },
+  "cast": [
+    {
+      "name": "Yolanda Ross"
+    },
+    {
+      "name": "Davenia McFadden"
+    },
+    {
+      "name": "Rain Phoenix"
+    },
+    {
+      "name": "Ella Joyce",
+      "image": "http://image.tmdb.org/t/p/w185/jMqU4FQcQUY9CNp6zMfXWCiTEHx.jpg"
+    },
+    {
+      "name": "Conchata Ferrell",
+      "image": "http://image.tmdb.org/t/p/w185/xPCxuPJSSK6F78NtJOw0J1dzynE.jpg"
+    },
+    {
+      "name": "Lee Garlington",
+      "image": "http://image.tmdb.org/t/p/w185/uChbFuxrhXjTHn1Q4zu20lwzyme.jpg"
+    },
+    {
+      "name": "LaTonya 'T' Hagans"
+    },
+    {
+      "name": "Medusa"
+    },
+    {
+      "name": "Marc Vann"
+    },
+    {
+      "name": "Almayvonne"
+    },
+    {
+      "name": "Mary Mara",
+      "image": "http://image.tmdb.org/t/p/w185/frz1VdFUjkhI5urSFzDF0GVmlx0.jpg"
+    },
+    {
+      "name": "Karina Logue",
+      "image": "http://image.tmdb.org/t/p/w185/wMzRD3X1tMJ8TNl9JgItDyl4nIq.jpg"
+    },
+    {
+      "name": "Emily Kuroda"
+    }
+  ]
+}

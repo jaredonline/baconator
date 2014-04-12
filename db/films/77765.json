@@ -1,0 +1,39 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/peELrcyau75UX5sZsLWoJMI9c6z.jpg",
+    "name": "Klansman"
+  },
+  "cast": [
+    {
+      "name": "Richard Burton",
+      "image": "http://image.tmdb.org/t/p/w185/fRoBAQQP9sfnIYuqw546yFs3qKn.jpg"
+    },
+    {
+      "name": "Lee Marvin",
+      "image": "http://image.tmdb.org/t/p/w185/1UdUtkWNbgU0pTolZKRkwLBLSUt.jpg"
+    },
+    {
+      "name": "Cameron Mitchell",
+      "image": "http://image.tmdb.org/t/p/w185/59qGcBDKN1H4UysLaOEdV1PJter.jpg"
+    },
+    {
+      "name": "O. J. Simpson",
+      "image": "http://image.tmdb.org/t/p/w185/yp9DN9OVf0g1OkwAlLPAOJazmco.jpg"
+    },
+    {
+      "name": "Lola Falana"
+    },
+    {
+      "name": "David Huddleston",
+      "image": "http://image.tmdb.org/t/p/w185/6cXqGzHB0zJautJVPCtbEsCtsCQ.jpg"
+    },
+    {
+      "name": "Luciana Paluzzi",
+      "image": "http://image.tmdb.org/t/p/w185/wm2kQjIeg0wAfE4SYA9LqUu3fwA.jpg"
+    },
+    {
+      "name": "Linda Evans",
+      "image": "http://image.tmdb.org/t/p/w185/asNPlRlrhIhyroNiv2jFFB3Hixe.jpg"
+    }
+  ]
+}

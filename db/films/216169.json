@@ -1,0 +1,34 @@
+{
+  "film": {
+    "name": "Morning's Tree-Lined Street"
+  },
+  "cast": [
+    {
+      "name": "Sachiko Chiba"
+    },
+    {
+      "name": "Ranko Akagi"
+    },
+    {
+      "name": "Heihachirô Ôkawa"
+    },
+    {
+      "name": "Ko Mihashi"
+    },
+    {
+      "name": "Misao Yamaguchi"
+    },
+    {
+      "name": "Tamae Kiyokawa"
+    },
+    {
+      "name": "Masao Mishima"
+    },
+    {
+      "name": "Satoko Date"
+    },
+    {
+      "name": "Nijiko Kiyokawa"
+    }
+  ]
+}

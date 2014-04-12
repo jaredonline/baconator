@@ -1,0 +1,31 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zxfncSmPE5he1dFV74p1n0i90JC.jpg",
+    "name": "Camera D'Albergo"
+  },
+  "cast": [
+    {
+      "name": "Vittorio Gassman",
+      "image": "http://image.tmdb.org/t/p/w185/53ICH7uNIj795ATZCdDICmRqUEo.jpg"
+    },
+    {
+      "name": "Monica Vitti",
+      "image": "http://image.tmdb.org/t/p/w185/1nTL2ZORRVfWZp5vDf44Jkmfzyf.jpg"
+    },
+    {
+      "name": "Enrico Montesano"
+    },
+    {
+      "name": "Ida Di Benedetto"
+    },
+    {
+      "name": "Gianni Agus"
+    },
+    {
+      "name": "Franco Ferrini"
+    },
+    {
+      "name": "Daniele Formica"
+    }
+  ]
+}

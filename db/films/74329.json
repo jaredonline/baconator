@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6YRUJqOGXFFCwL4dVdoUYs8E626.jpg",
+    "name": "Scrubbers"
+  },
+  "cast": [
+    {
+      "name": "Amanda York"
+    },
+    {
+      "name": "Chrissie Cotterill"
+    },
+    {
+      "name": "Elizabeth Edmonds"
+    },
+    {
+      "name": "Kate Ingram"
+    },
+    {
+      "name": "Miriam Margolyes",
+      "image": "http://image.tmdb.org/t/p/w185/7Fijg5sZ7gKbooq6tId3MUS5sDY.jpg"
+    },
+    {
+      "name": "Robbie Coltrane",
+      "image": "http://image.tmdb.org/t/p/w185/wp09MuNtqjSOKEjdQuOFem79IfT.jpg"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/5vCeVWnW61ZYwVfgoQh878p85Tr.jpg",
+    "name": "Autumn Blood"
+  },
+  "cast": [
+    {
+      "name": "Peter Stormare",
+      "image": "http://image.tmdb.org/t/p/w185/dDR0brp5L7fXDyEywrhjQv01LSg.jpg"
+    },
+    {
+      "name": "Sophie Lowe"
+    },
+    {
+      "name": "Maximilian Harnisch"
+    },
+    {
+      "name": "Gustaf Skarsgård",
+      "image": "http://image.tmdb.org/t/p/w185/soePkBtxFHDZHRyz37BAZl7kP4b.jpg"
+    },
+    {
+      "name": "Samuel Vauramo"
+    },
+    {
+      "name": "Tim Morten Uhlenbrock"
+    }
+  ]
+}

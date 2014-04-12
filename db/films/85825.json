@@ -1,0 +1,18 @@
+{
+  "film": {
+    "name": "The Devil's Claim"
+  },
+  "cast": [
+    {
+      "name": "Colleen Moore",
+      "image": "http://image.tmdb.org/t/p/w185/8DhgyZ8QAXX9cs2c1IrCmL6dA3J.jpg"
+    },
+    {
+      "name": "Rhea Mitchell"
+    },
+    {
+      "name": "Sessue Hayakawa",
+      "image": "http://image.tmdb.org/t/p/w185/LLtMGKvp3k4LiesKdUwXhugEfE.jpg"
+    }
+  ]
+}

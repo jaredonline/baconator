@@ -1,0 +1,60 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zGjQgB8rsRawImY1R48gwDi73rl.jpg",
+    "name": "The Hands of Orlac"
+  },
+  "cast": [
+    {
+      "name": "Mel Ferrer",
+      "image": "http://image.tmdb.org/t/p/w185/9vYGnxKzPFWiyKbLnjQ9GvgaV2g.jpg"
+    },
+    {
+      "name": "Christopher Lee",
+      "image": "http://image.tmdb.org/t/p/w185/7YwjaHLmuy1isK6oh3TnBDd6Oml.jpg"
+    },
+    {
+      "name": "Dany Carrel",
+      "image": "http://image.tmdb.org/t/p/w185/ycPIRY6pYf3tdVtUDdhHDcMzjHY.jpg"
+    },
+    {
+      "name": "Lucile Saint-Simon"
+    },
+    {
+      "name": "Felix Aylmer",
+      "image": "http://image.tmdb.org/t/p/w185/7p2cCTlNafwdA6tJd4Qwx69WRBv.jpg"
+    },
+    {
+      "name": "Peter Reynolds"
+    },
+    {
+      "name": "Basil Sydney",
+      "image": "http://image.tmdb.org/t/p/w185/extra5dj4nB9D6UIb7hgwUzM1SH.jpg"
+    },
+    {
+      "name": "Campbell Singer"
+    },
+    {
+      "name": "Donald Wolfit",
+      "image": "http://image.tmdb.org/t/p/w185/3lPf8aoBVgWoQc7NhSf8eQ1a5Tg.jpg"
+    },
+    {
+      "name": "Donald Pleasence",
+      "image": "http://image.tmdb.org/t/p/w185/fr9lf679ZsHbDZsbcpKZfbFO1Pu.jpg"
+    },
+    {
+      "name": "Peter Bennett"
+    },
+    {
+      "name": "George Merritt"
+    },
+    {
+      "name": "Arnold Diamond"
+    },
+    {
+      "name": "Janina Faye"
+    },
+    {
+      "name": "Gertan Klauber"
+    }
+  ]
+}

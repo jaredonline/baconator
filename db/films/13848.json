@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/A1SRTNcz55ufuhfwk3sOjTuF4Dp.jpg",
+    "name": "Stuck"
+  },
+  "cast": [
+    {
+      "name": "Mena Suvari",
+      "image": "http://image.tmdb.org/t/p/w185/lboJv2MtnVOrl6ug9lwUnOBiIPb.jpg"
+    },
+    {
+      "name": "Stephen Rea",
+      "image": "http://image.tmdb.org/t/p/w185/taD1NngDbW8cyCuacAT3YaecSEG.jpg"
+    },
+    {
+      "name": "Russell Hornsby",
+      "image": "http://image.tmdb.org/t/p/w185/gcjceZLpFoNXkALwE5HZuVF2il.jpg"
+    },
+    {
+      "name": "Rukiya Bernard"
+    },
+    {
+      "name": "Carolyn Purdy-Gordon"
+    }
+  ]
+}

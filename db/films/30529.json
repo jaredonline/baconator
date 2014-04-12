@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xytWuaCx7ZG3doRgQZjxB9mYlMm.jpg",
+    "name": "The Truce"
+  },
+  "cast": [
+    {
+      "name": "John Turturro",
+      "image": "http://image.tmdb.org/t/p/w185/yyvj3z2IC9AG1sv6kuk5d7oQFJs.jpg"
+    },
+    {
+      "name": "Rade Serbedzija",
+      "image": "http://image.tmdb.org/t/p/w185/mdEeOi4tmpPN2FyJPJUeMZDxUMK.jpg"
+    },
+    {
+      "name": "Massimo Ghini"
+    },
+    {
+      "name": "Claudio Bisio",
+      "image": "http://image.tmdb.org/t/p/w185/cVX4PIniv0pyMZjrpgT6ze5zwPv.jpg"
+    }
+  ]
+}

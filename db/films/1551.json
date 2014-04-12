@@ -1,0 +1,64 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/gEbqDqIt8BFLtHzRgom78uzSGtU.jpg",
+    "name": "Flatliners"
+  },
+  "cast": [
+    {
+      "name": "Kiefer Sutherland",
+      "image": "http://image.tmdb.org/t/p/w185/4YvDfOfD4TgyzDkLGoq76g5BZNe.jpg"
+    },
+    {
+      "name": "Julia Roberts",
+      "image": "http://image.tmdb.org/t/p/w185/yzaIyUEKHSnEYDwltXs8gpF4SVC.jpg"
+    },
+    {
+      "name": "Kevin Bacon",
+      "image": "http://image.tmdb.org/t/p/w185/bMVujB1SaHhXD5gQdO4Xf47WXD3.jpg"
+    },
+    {
+      "name": "William Baldwin",
+      "image": "http://image.tmdb.org/t/p/w185/wQjXdPYT524QJ0YqKrjPcZWfkHu.jpg"
+    },
+    {
+      "name": "Oliver Platt",
+      "image": "http://image.tmdb.org/t/p/w185/an9n3aUKFAN50GDsbqwIkvWlcus.jpg"
+    },
+    {
+      "name": "Kimberly Scott",
+      "image": "http://image.tmdb.org/t/p/w185/2NHByGn6NlQ8ECoQybaKXrezZ0.jpg"
+    },
+    {
+      "name": "Joshua Rudoy"
+    },
+    {
+      "name": "Benjamin Mouton",
+      "image": "http://image.tmdb.org/t/p/w185/nzYS12c1c7GNnsnce1ysfOTgLyz.jpg"
+    },
+    {
+      "name": "Aeryk Egan"
+    },
+    {
+      "name": "Kesha Reed"
+    },
+    {
+      "name": "Hope Davis",
+      "image": "http://image.tmdb.org/t/p/w185/jNLz08q4BKzW6Cfw31FCZ7zlEuw.jpg"
+    },
+    {
+      "name": "Jim Ortlieb"
+    },
+    {
+      "name": "John Duda"
+    },
+    {
+      "name": "Megan Stewart"
+    },
+    {
+      "name": "Tressa Thomas"
+    },
+    {
+      "name": "Sanna Vraa"
+    }
+  ]
+}

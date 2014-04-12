@@ -1,0 +1,15 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7im4zDweRjtGZ9jFRV2wr51w7uc.jpg",
+    "name": "Boogie"
+  },
+  "cast": [
+    {
+      "name": "Pablo Echarri",
+      "image": "http://image.tmdb.org/t/p/w185/uFF8TKTY2d5lTWu53IkI7e97L2V.jpg"
+    },
+    {
+      "name": "Nancy Dupláa"
+    }
+  ]
+}

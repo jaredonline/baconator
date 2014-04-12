@@ -1,0 +1,45 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/eM7TBE1uD5N4tjPQ380fkJ8B3mj.jpg",
+    "name": "A Private Enterprise"
+  },
+  "cast": [
+    {
+      "name": "Salmaan Peerzada"
+    },
+    {
+      "name": "Marc Zuber",
+      "image": "http://image.tmdb.org/t/p/w185/tgTcho6ReP1EvP5q3paVAaUQIFm.jpg"
+    },
+    {
+      "name": "Ramon Sinha"
+    },
+    {
+      "name": "Diana Quick"
+    },
+    {
+      "name": "Shukla Bhattercharjee"
+    },
+    {
+      "name": "Yehye Saeed"
+    },
+    {
+      "name": "Subhash Luthra"
+    },
+    {
+      "name": "Dr. Kaushik"
+    },
+    {
+      "name": "Anthony Roye"
+    },
+    {
+      "name": "Raymond Bowers"
+    },
+    {
+      "name": "Chris Gannon"
+    },
+    {
+      "name": "Elspeth MacNaughton"
+    }
+  ]
+}

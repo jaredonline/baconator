@@ -1,0 +1,11 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/11DaaS2uv8aWp6zBDmvEFPKvz7I.jpg",
+    "name": "The Officer's Wife"
+  },
+  "cast": [
+    {
+      "name": "Beata Pozniak"
+    }
+  ]
+}

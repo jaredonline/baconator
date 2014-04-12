@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/gtnBLLiUTee5tGnIpvlfKMBCMx3.jpg",
+    "name": "Tranvía a la Malvarrosa"
+  },
+  "cast": [
+    {
+      "name": "Liberto Rabal",
+      "image": "http://image.tmdb.org/t/p/w185/kf5BhvTOBVD3UzXA4MAx0eyrL35.jpg"
+    },
+    {
+      "name": "Jorge Merino"
+    },
+    {
+      "name": "Ariadna Gil",
+      "image": "http://image.tmdb.org/t/p/w185/rpOaTyT6eMWNqYrPI2gE07x149h.jpg"
+    }
+  ]
+}

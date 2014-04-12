@@ -1,0 +1,42 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2mTeJXqXdnEkY696wnZxaeoBT30.jpg",
+    "name": "Interior. Leather Bar."
+  },
+  "cast": [
+    {
+      "name": "James Franco",
+      "image": "http://image.tmdb.org/t/p/w185/pXLRqgIFwsaFOyZvVU73OR3okQv.jpg"
+    },
+    {
+      "name": "Val Lauren"
+    },
+    {
+      "name": "Christian Patrick"
+    },
+    {
+      "name": "Christian Patrick"
+    },
+    {
+      "name": "Brad Roberge"
+    },
+    {
+      "name": "Robbie Acklen"
+    },
+    {
+      "name": "Osbaldo Daniel Alvarez"
+    },
+    {
+      "name": "Andres Barcelo"
+    },
+    {
+      "name": "Samantha Barrows"
+    },
+    {
+      "name": "Nick Buda"
+    },
+    {
+      "name": "Jol Devitro"
+    }
+  ]
+}

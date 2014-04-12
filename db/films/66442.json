@@ -1,0 +1,20 @@
+{
+  "film": {
+    "name": "Les derniers jours d'Emmanuel Kant"
+  },
+  "cast": [
+    {
+      "name": "Roland Amstutz"
+    },
+    {
+      "name": "David Warrilow"
+    },
+    {
+      "name": "André Wilms",
+      "image": "http://image.tmdb.org/t/p/w185/88PXqnQjPxG0MDjlcnl9YlrSyND.jpg"
+    },
+    {
+      "name": "Emmanuelle Clove"
+    }
+  ]
+}

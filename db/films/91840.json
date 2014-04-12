@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qN6bdpFjgpNP3ABKjOxz3kGsXAo.jpg",
+    "name": "Luck of the Draw"
+  },
+  "cast": [
+    {
+      "name": "James Marshall",
+      "image": "http://image.tmdb.org/t/p/w185/8ytq4mu3fLWlLU80QeGCBz4z0tW.jpg"
+    },
+    {
+      "name": "Dennis Hopper",
+      "image": "http://image.tmdb.org/t/p/w185/25i87kBragb2MQah8OYZJkZuys.jpg"
+    },
+    {
+      "name": "Michael Madsen",
+      "image": "http://image.tmdb.org/t/p/w185/yPvagJYARJb0JAeAbCFdcXcaPs2.jpg"
+    },
+    {
+      "name": "Ice-T",
+      "image": "http://image.tmdb.org/t/p/w185/4k6Bj2HtKrSnf46RsWQaMG1jvns.jpg"
+    }
+  ]
+}

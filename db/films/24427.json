@@ -1,0 +1,31 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/m0xgccjlrurjtLxFSNGASbAMO6Y.jpg",
+    "name": "Gone with the Woman"
+  },
+  "cast": [
+    {
+      "name": "Trond Fausa Aurvåg",
+      "image": "http://image.tmdb.org/t/p/w185/9P3hardbK9rnUReD5yOrC6LxM5p.jpg"
+    },
+    {
+      "name": "Marian Saastad Ottesen",
+      "image": "http://image.tmdb.org/t/p/w185/iOoDqHfOrr1gAd02FIazZIGHuPg.jpg"
+    },
+    {
+      "name": "Henrik Mestad",
+      "image": "http://image.tmdb.org/t/p/w185/qBc677C4ANO3RUVitZFP5DF4iiy.jpg"
+    },
+    {
+      "name": "Sten Ljunggren",
+      "image": "http://image.tmdb.org/t/p/w185/mCPu6daaNMmD8R34NOQ0aF9Jy8r.jpg"
+    },
+    {
+      "name": "Anna Gutto"
+    },
+    {
+      "name": "Peter Stormare",
+      "image": "http://image.tmdb.org/t/p/w185/dDR0brp5L7fXDyEywrhjQv01LSg.jpg"
+    }
+  ]
+}

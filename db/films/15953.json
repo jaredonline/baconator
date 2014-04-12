@@ -1,0 +1,36 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/bwkEyjshVHM0MUNf1LQdEnXTlC1.jpg",
+    "name": "Chef's Special"
+  },
+  "cast": [
+    {
+      "name": "Javier Cámara",
+      "image": "http://image.tmdb.org/t/p/w185/pbS8PFYTSh2LqODPUuygKLmytVu.jpg"
+    },
+    {
+      "name": "Lola Dueñas",
+      "image": "http://image.tmdb.org/t/p/w185/d7nrzos7MxMBhokRhxxIXmDuxsY.jpg"
+    },
+    {
+      "name": "Fernando Tejero",
+      "image": "http://image.tmdb.org/t/p/w185/vZDYQuX27Y6ZBsg0BFCypVS2fmi.jpg"
+    },
+    {
+      "name": "Benjamín Vicuña",
+      "image": "http://image.tmdb.org/t/p/w185/dE4uhjG2ynhfk2Nt92U8bRqOgEO.jpg"
+    },
+    {
+      "name": "Luis Varela",
+      "image": "http://image.tmdb.org/t/p/w185/w9mh1GHSjrHoeIBA2AQntqpaeNJ.jpg"
+    },
+    {
+      "name": "Chus Lampreave",
+      "image": "http://image.tmdb.org/t/p/w185/dwoyRWC5Nyo2UgE7M6AjqJWSAAD.jpg"
+    },
+    {
+      "name": "Junio Valverde",
+      "image": "http://image.tmdb.org/t/p/w185/fLKHEq6yGo4eg8wAxxl8gHrn2a1.jpg"
+    }
+  ]
+}

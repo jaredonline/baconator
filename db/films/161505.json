@@ -1,0 +1,41 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/A4Y0bn6fjfIKB73nPfene8mAWjq.jpg",
+    "name": "Hotel Danubio"
+  },
+  "cast": [
+    {
+      "name": "Santiago Ramos",
+      "image": "http://image.tmdb.org/t/p/w185/t4HfSMCW75NrplWhku6psjFNkFx.jpg"
+    },
+    {
+      "name": "Carmen Morales"
+    },
+    {
+      "name": "Mariola Fuentes",
+      "image": "http://image.tmdb.org/t/p/w185/79y7ii3WPe8y6yV2hqLKYbYXLnL.jpg"
+    },
+    {
+      "name": "Juan Jesús Valverde"
+    },
+    {
+      "name": "Iñaki Miramón"
+    },
+    {
+      "name": "José Sazatornil",
+      "image": "http://image.tmdb.org/t/p/w185/kQ0uqqxh6zxacw2nppf7oTpt9no.jpg"
+    },
+    {
+      "name": "José Caride"
+    },
+    {
+      "name": "Fedra Lorente"
+    },
+    {
+      "name": "María Asquerino"
+    },
+    {
+      "name": "Antonio Gamero"
+    }
+  ]
+}

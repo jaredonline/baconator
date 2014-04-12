@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2v8dFgusr0UnjWNWhi8lKgoUDZp.jpg",
+    "name": "The Itsy Bitsy Spider"
+  },
+  "cast": [
+    {
+      "name": "Jim Carrey",
+      "image": "http://image.tmdb.org/t/p/w185/o6bOiFNpkmszElC23kwAdn87M32.jpg"
+    },
+    {
+      "name": "Andrea Martin",
+      "image": "http://image.tmdb.org/t/p/w185/vt4yKdu8dYOpDNCAZEVX634iBK9.jpg"
+    },
+    {
+      "name": "Thora Birch",
+      "image": "http://image.tmdb.org/t/p/w185/jxtp9prkQgFmj0ZRvi1kcnnqaWb.jpg"
+    },
+    {
+      "name": "Frank Welker",
+      "image": "http://image.tmdb.org/t/p/w185/a3QPvpgqKMGViS2M9mGcRy7xDZ.jpg"
+    }
+  ]
+}

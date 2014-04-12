@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/s25mgBbbtPkQvwkOuCXHbVWmkMY.jpg",
+    "name": "Nobody Knows Anybody"
+  },
+  "cast": [
+    {
+      "name": "Eduardo Noriega",
+      "image": "http://image.tmdb.org/t/p/w185/ixwxf8JP6Kdg9YZ7JQLj8vIAaNm.jpg"
+    },
+    {
+      "name": "Natalia Verbeke",
+      "image": "http://image.tmdb.org/t/p/w185/j6t29arDzBihVFbGnvxfqF2CXpK.jpg"
+    },
+    {
+      "name": "Paz Vega",
+      "image": "http://image.tmdb.org/t/p/w185/8aVfJnS3yI0n6aKaDFzxHdtn3Wt.jpg"
+    },
+    {
+      "name": "Jordi Mollà",
+      "image": "http://image.tmdb.org/t/p/w185/A648UpxxLlgdqziafgSCAVaR0Sc.jpg"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/vtOkzpBtutlhGsfqR1WitDGkG8R.jpg",
+    "name": "Groove"
+  },
+  "cast": [
+    {
+      "name": "Chris Ferreira"
+    },
+    {
+      "name": "Elizabeth Sung",
+      "image": "http://image.tmdb.org/t/p/w185/m8q9gRb9owm33pDuNlEeC59ck8W.jpg"
+    },
+    {
+      "name": "Steve Van Wormer"
+    },
+    {
+      "name": "Mackenzie Firgens"
+    },
+    {
+      "name": "Ari Gold",
+      "image": "http://image.tmdb.org/t/p/w185/xqkp6Bgc09PQJFhAAOLStYRKXUP.jpg"
+    },
+    {
+      "name": "Bradley K. Ross"
+    },
+    {
+      "name": "Denny Kirkwood"
+    },
+    {
+      "name": "Jeff Witzke"
+    },
+    {
+      "name": "Rachel True",
+      "image": "http://image.tmdb.org/t/p/w185/86OeahYhBwszktbqzrbq20ZnVdh.jpg"
+    }
+  ]
+}

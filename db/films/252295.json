@@ -1,0 +1,31 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/nPGzOu4PgdldGu3gPgPBBLiU1nb.jpg",
+    "name": "Duke"
+  },
+  "cast": [
+    {
+      "name": "Carmine Giovinazzo",
+      "image": "http://image.tmdb.org/t/p/w185/aEI6k8bmlv2DT8de3JL0wJq9b4i.jpg"
+    },
+    {
+      "name": "Hank Harris",
+      "image": "http://image.tmdb.org/t/p/w185/2g4gW3Zf1RJ8r0v4W5JpvfZxJxQ.jpg"
+    },
+    {
+      "name": "Lesley-Ann Brandt",
+      "image": "http://image.tmdb.org/t/p/w185/tERVleAU1xGbBCidVXjUHFby5ta.jpg"
+    },
+    {
+      "name": "Vanessa Ferlito",
+      "image": "http://image.tmdb.org/t/p/w185/cnc3nF2pyRvMIr9PjGYNR8Npqk3.jpg"
+    },
+    {
+      "name": "Michael Irby",
+      "image": "http://image.tmdb.org/t/p/w185/w1G7UDsbkRtKOF6rDK7N7Zokh8v.jpg"
+    },
+    {
+      "name": "Anthony Gaudioso"
+    }
+  ]
+}

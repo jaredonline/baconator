@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/cjNoL0wboicYNad3576ugeyiiBl.jpg",
+    "name": "In the City of Sylvia"
+  },
+  "cast": [
+    {
+      "name": "Pilar López de Ayala",
+      "image": "http://image.tmdb.org/t/p/w185/zd0AteC084hd16tJnXUPd98FXkC.jpg"
+    },
+    {
+      "name": "Xavier Lafitte"
+    },
+    {
+      "name": "Michaël Balerdi"
+    },
+    {
+      "name": "Laurence Cordier"
+    }
+  ]
+}

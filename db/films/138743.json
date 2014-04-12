@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/8nXlm5rp5dT0RrpdrAZ0QYRpa2H.jpg",
+    "name": "Cut Shorts"
+  },
+  "cast": [
+    {
+      "name": "Sofia Coppola",
+      "image": "http://image.tmdb.org/t/p/w185/zG1WS4sS5jvYkObHMxsK6fGK7Uk.jpg"
+    },
+    {
+      "name": "Kim Gordon",
+      "image": "http://image.tmdb.org/t/p/w185/aorrUWw52BkNTMSKKT1Ep987Sa1.jpg"
+    },
+    {
+      "name": "Thurston Moore",
+      "image": "http://image.tmdb.org/t/p/w185/9chjmfXiZfz2uH01SC4QtEad3YX.jpg"
+    }
+  ]
+}

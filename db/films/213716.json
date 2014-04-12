@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/jjsTa47zggggFCa414unuWVm4K7.jpg",
+    "name": "The Green Man"
+  },
+  "cast": [
+    {
+      "name": "Albert Finney",
+      "image": "http://image.tmdb.org/t/p/w185/eD1BZEydFYFXi4GFr3GAPpdHcls.jpg"
+    },
+    {
+      "name": "Linda Marlowe"
+    },
+    {
+      "name": "Sarah Berger"
+    },
+    {
+      "name": "Nicky Henson"
+    },
+    {
+      "name": "Josie Lawrence"
+    },
+    {
+      "name": "Michael Hordern",
+      "image": "http://image.tmdb.org/t/p/w185/jvy4gJc9cS1MJPgHJXefRUYGUYJ.jpg"
+    }
+  ]
+}

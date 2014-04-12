@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7bZ8Ev4Zh0Mps7WuCkJLMcNOBdL.jpg",
+    "name": "Roger Dodger"
+  },
+  "cast": [
+    {
+      "name": "Campbell Scott",
+      "image": "http://image.tmdb.org/t/p/w185/LpYIN2jh58sHaUFM2r3G4G0iE6.jpg"
+    },
+    {
+      "name": "Jesse Eisenberg",
+      "image": "http://image.tmdb.org/t/p/w185/c01G88eCpiLLmT4RIWGkr7nm31o.jpg"
+    },
+    {
+      "name": "Isabella Rossellini",
+      "image": "http://image.tmdb.org/t/p/w185/vBLjRtWqlEGG86iJAZ4CSpc8tkO.jpg"
+    },
+    {
+      "name": "Elizabeth Berkley",
+      "image": "http://image.tmdb.org/t/p/w185/aumogIOlm7DeywrEsjdg8N6SGA1.jpg"
+    },
+    {
+      "name": "Jennifer Beals",
+      "image": "http://image.tmdb.org/t/p/w185/bEkrr1HIONx0aokHs9QHbdCz7zn.jpg"
+    },
+    {
+      "name": "Ato Essandoh",
+      "image": "http://image.tmdb.org/t/p/w185/tZ81Qd1DNYovwu3cuyD60aifEjT.jpg"
+    }
+  ]
+}

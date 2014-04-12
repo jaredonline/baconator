@@ -1,0 +1,16 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xqSzUUKY78p19duU3FpZkBWm5ZS.jpg",
+    "name": "The Man in the Attic"
+  },
+  "cast": [
+    {
+      "name": "Anne Archer",
+      "image": "http://image.tmdb.org/t/p/w185/1d7BwfpJ77d4cwBUU1V5NNbkqmO.jpg"
+    },
+    {
+      "name": "Neil Patrick Harris",
+      "image": "http://image.tmdb.org/t/p/w185/v5sCdjk0zxwSdFT4kmlVwu6M3Hb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/saZNxKgKULnjCdcVj5HPMZ7Uqcg.jpg",
+    "name": "Fires Within"
+  },
+  "cast": [
+    {
+      "name": "Jimmy Smits",
+      "image": "http://image.tmdb.org/t/p/w185/tZfr6EaIxzlT9MhY5T4C6cL3UjF.jpg"
+    },
+    {
+      "name": "Greta Scacchi",
+      "image": "http://image.tmdb.org/t/p/w185/uHPHNwBnhBIs1z2sJcKQODtaY2n.jpg"
+    },
+    {
+      "name": "Vincent D'Onofrio",
+      "image": "http://image.tmdb.org/t/p/w185/aJkrWtECvceecCGDbpB3HccedJS.jpg"
+    },
+    {
+      "name": "Luis Ávalos"
+    },
+    {
+      "name": "Bertila Damas"
+    }
+  ]
+}

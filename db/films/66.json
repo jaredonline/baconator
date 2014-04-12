@@ -1,0 +1,48 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/oJQdp09Oc51DkArsMDvgDLdWiDu.jpg",
+    "name": "Absolute Power"
+  },
+  "cast": [
+    {
+      "name": "Clint Eastwood",
+      "image": "http://image.tmdb.org/t/p/w185/n8h4ZHteFFXfmzUW6OEaPWanDnm.jpg"
+    },
+    {
+      "name": "Gene Hackman",
+      "image": "http://image.tmdb.org/t/p/w185/qEKcmwc1XstymEniGuCs3KIsGfP.jpg"
+    },
+    {
+      "name": "Ed Harris",
+      "image": "http://image.tmdb.org/t/p/w185/a9ITc3shCAWjV4qKf3rgR0Opu3y.jpg"
+    },
+    {
+      "name": "Scott Glenn",
+      "image": "http://image.tmdb.org/t/p/w185/gjVe5sizXzlw9HfUIY9jB5C8pBB.jpg"
+    },
+    {
+      "name": "Laura Linney",
+      "image": "http://image.tmdb.org/t/p/w185/hnPZgGUfS1CtH6htoy7o7iIBuEY.jpg"
+    },
+    {
+      "name": "Judy Davis",
+      "image": "http://image.tmdb.org/t/p/w185/xQMA72T6yz6ebJXv1pCuZC1fDJo.jpg"
+    },
+    {
+      "name": "Dennis Haysbert",
+      "image": "http://image.tmdb.org/t/p/w185/q1J5ZM8KaKyU1KbsuDketlzainQ.jpg"
+    },
+    {
+      "name": "Alison Eastwood",
+      "image": "http://image.tmdb.org/t/p/w185/buoDopNsBDF8MgUNaJCBjqgnlBa.jpg"
+    },
+    {
+      "name": "Melora Hardin",
+      "image": "http://image.tmdb.org/t/p/w185/zMQ4Ku1HRtbmaRmLwNzX6lEiYdN.jpg"
+    },
+    {
+      "name": "E. G. Marshall",
+      "image": "http://image.tmdb.org/t/p/w185/mgOGJP3tBmVWUbGeXJDZpA8GJLd.jpg"
+    }
+  ]
+}

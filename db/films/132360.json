@@ -1,0 +1,44 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7OAc1Kdqe4XGBb4AyZsKj31eYmv.jpg",
+    "name": "Ed McBain's 87th Precinct: Lightning"
+  },
+  "cast": [
+    {
+      "name": "Randy Quaid",
+      "image": "http://image.tmdb.org/t/p/w185/dEv00CcMYzv3y6BetWufyEeqKgT.jpg"
+    },
+    {
+      "name": "Alan Blumenfeld",
+      "image": "http://image.tmdb.org/t/p/w185/2ag56MvKkTuhGnUFgJza4hJZl8u.jpg"
+    },
+    {
+      "name": "Ving Rhames",
+      "image": "http://image.tmdb.org/t/p/w185/qfp236BgZ8S8sfFJvDTd3gjB3Ml.jpg"
+    },
+    {
+      "name": "Ron Perkins"
+    },
+    {
+      "name": "Steven Flynn"
+    },
+    {
+      "name": "Tracy Middendorf"
+    },
+    {
+      "name": "Mary-Joan Negro"
+    },
+    {
+      "name": "Eddie Jones",
+      "image": "http://image.tmdb.org/t/p/w185/g8ZDq6LFNWc12w24oo0r0FfeiIg.jpg"
+    },
+    {
+      "name": "Alex McArthur",
+      "image": "http://image.tmdb.org/t/p/w185/4M7Q1CxdcKyZ99RBvmX7VEpZNpv.jpg"
+    },
+    {
+      "name": "Steve Park",
+      "image": "http://image.tmdb.org/t/p/w185/o0OEyfHM4IJ7PFMk9X87hivxtJs.jpg"
+    }
+  ]
+}

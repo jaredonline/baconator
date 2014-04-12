@@ -1,0 +1,19 @@
+{
+  "film": {
+    "name": "Message to My Daughter"
+  },
+  "cast": [
+    {
+      "name": "Bonnie Bedelia",
+      "image": "http://image.tmdb.org/t/p/w185/u0DOzyTNZhtFgPHIFX5OITMb7wm.jpg"
+    },
+    {
+      "name": "Martin Sheen",
+      "image": "http://image.tmdb.org/t/p/w185/mityfK8XVZ76Vse6h5oPECl9nGw.jpg"
+    },
+    {
+      "name": "Kitty Winn",
+      "image": "http://image.tmdb.org/t/p/w185/4rDAmxWgAdiFA7qd9LJT0ehIbjI.jpg"
+    }
+  ]
+}

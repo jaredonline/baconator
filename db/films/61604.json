@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/jUvOVFgXzmJxU7debCGEpvmnVtE.jpg",
+    "name": "Torrents of Spring"
+  },
+  "cast": [
+    {
+      "name": "Timothy Hutton",
+      "image": "http://image.tmdb.org/t/p/w185/ypC4mzLExwmG0QHfi8vFe9LTeSi.jpg"
+    },
+    {
+      "name": "Nastassja Kinski",
+      "image": "http://image.tmdb.org/t/p/w185/mBVK2zqBSimP1NQN6BvBubZotxg.jpg"
+    },
+    {
+      "name": "Valeria Golino",
+      "image": "http://image.tmdb.org/t/p/w185/kK13NzfxGQBJ8Th9SiPbu0FFJq7.jpg"
+    },
+    {
+      "name": "William Forsythe",
+      "image": "http://image.tmdb.org/t/p/w185/9UhqzRNZlWxMfZ6ejRBVMGxC8xu.jpg"
+    }
+  ]
+}

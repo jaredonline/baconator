@@ -1,0 +1,56 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/x8y3MnujQ45d9DRqAVo3ZdJh0h3.jpg",
+    "name": "Rust and Bone"
+  },
+  "cast": [
+    {
+      "name": "Marion Cotillard",
+      "image": "http://image.tmdb.org/t/p/w185/7MVUeNgMnQTks7uTdSZoakei5oR.jpg"
+    },
+    {
+      "name": "Matthias Schoenaerts",
+      "image": "http://image.tmdb.org/t/p/w185/uSfBWL7EGwHBYvto72rugaNo470.jpg"
+    },
+    {
+      "name": "Bouli Lanners",
+      "image": "http://image.tmdb.org/t/p/w185/nnM1Yq5sodVTC95oav9iPK9ZiNw.jpg"
+    },
+    {
+      "name": "Céline Sallette",
+      "image": "http://image.tmdb.org/t/p/w185/gei5LHBer7tNDh55f0VTDO4y5uv.jpg"
+    },
+    {
+      "name": "Corinne Masiero",
+      "image": "http://image.tmdb.org/t/p/w185/xDzKEomTMyzfY1zMCaULswUTUH7.jpg"
+    },
+    {
+      "name": "Mourad Frarema"
+    },
+    {
+      "name": "Jean-Michel Correia"
+    },
+    {
+      "name": "Armand Verdure"
+    },
+    {
+      "name": "Yannick Choirat",
+      "image": "http://image.tmdb.org/t/p/w185/yICkawhbfX0QHfy6Owj5bOghwPY.jpg"
+    },
+    {
+      "name": "Fred Menut"
+    },
+    {
+      "name": "Duncan Versteegh"
+    },
+    {
+      "name": "Katia Chaperon"
+    },
+    {
+      "name": "Catherine Fa"
+    },
+    {
+      "name": "Françoise Michaud"
+    }
+  ]
+}

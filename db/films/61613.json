@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/lgcPxDrSAwxjuEPz0jAXdyfRnxM.jpg",
+    "name": "The Inheritance"
+  },
+  "cast": [
+    {
+      "name": "Keith David",
+      "image": "http://image.tmdb.org/t/p/w185/nwAC9TgwRkj0Ritq93O8GeublyL.jpg"
+    },
+    {
+      "name": "Rochelle Aytes",
+      "image": "http://image.tmdb.org/t/p/w185/r5JMfr0A7V4VEKIXx5EPy7Y51Ed.jpg"
+    },
+    {
+      "name": "D. B. Woodside",
+      "image": "http://image.tmdb.org/t/p/w185/o12W3jAbPOEcVcJ9SaIz5n6cAok.jpg"
+    },
+    {
+      "name": "Golden Brooks",
+      "image": "http://image.tmdb.org/t/p/w185/bmtiPqBBkgFWjQAWQvnYSPbLWpq.jpg"
+    },
+    {
+      "name": "Darrin Henson",
+      "image": "http://image.tmdb.org/t/p/w185/cdl6kgRRrB6v3Jx5OVTxSIZEaVW.jpg"
+    }
+  ]
+}

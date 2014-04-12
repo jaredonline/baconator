@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/uMY6bum52v0n9xyy4sSbCfLX0Me.jpg",
+    "name": "Double Cross"
+  },
+  "cast": [
+    {
+      "name": "Kelly Preston",
+      "image": "http://image.tmdb.org/t/p/w185/pkvxII0q9uV6XqWDVzYKmVUJaTu.jpg"
+    },
+    {
+      "name": "Jennifer Tilly",
+      "image": "http://image.tmdb.org/t/p/w185/ehaF6Pbugko2Fh1A9S6VgCDpLvS.jpg"
+    },
+    {
+      "name": "Patrick Bergin",
+      "image": "http://image.tmdb.org/t/p/w185/wmwtMCZsFTlckrsCpuz0jtuWu35.jpg"
+    },
+    {
+      "name": "Matt Craven",
+      "image": "http://image.tmdb.org/t/p/w185/2I7OFKa7JqItjNZUKbSovZaBWkr.jpg"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/y1qqaN2RsGJH2e1Mz3Nc5cSlrgP.jpg",
+    "name": "La congiuntura"
+  },
+  "cast": [
+    {
+      "name": "Vittorio Gassman",
+      "image": "http://image.tmdb.org/t/p/w185/53ICH7uNIj795ATZCdDICmRqUEo.jpg"
+    },
+    {
+      "name": "Joan Collins",
+      "image": "http://image.tmdb.org/t/p/w185/8KKTDl6jaM6RTWuRpuuXOvMsvG.jpg"
+    },
+    {
+      "name": "Jacques Bergerac",
+      "image": "http://image.tmdb.org/t/p/w185/l2vqAIokrUvP7d63qekg9govQVV.jpg"
+    },
+    {
+      "name": "Hilda Barry"
+    },
+    {
+      "name": "Dino Curcio"
+    },
+    {
+      "name": "Aldo De Carellis"
+    },
+    {
+      "name": "Pippo Starnazza"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/3tn4M8fgLlrpYNyxcRUpxQ8e2US.jpg",
+    "name": "Teddy Roosevelt: An American Lion"
+  },
+  "cast": [
+    {
+      "name": "Richard Dreyfuss",
+      "image": "http://image.tmdb.org/t/p/w185/qJW1IQD4XjzwKfcrP0ESRvDSBar.jpg"
+    },
+    {
+      "name": "Alan M. Crane"
+    },
+    {
+      "name": "Kent Hautanen"
+    },
+    {
+      "name": "Edward Herrmann",
+      "image": "http://image.tmdb.org/t/p/w185/iA83ozZ11yBlPS4XB0aHENurcl3.jpg"
+    }
+  ]
+}

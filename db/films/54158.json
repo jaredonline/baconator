@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/f8NKy0RESJM048ZY9fDyl1PqlCY.jpg",
+    "name": "Extralarge: Gonzales' Revenge"
+  },
+  "cast": [
+    {
+      "name": "Bud Spencer",
+      "image": "http://image.tmdb.org/t/p/w185/9DbwXqkoMLBqZaQYEeSDX934mTG.jpg"
+    },
+    {
+      "name": "Michael Winslow",
+      "image": "http://image.tmdb.org/t/p/w185/wQLAMd2dlKAFMngrsOaxuISCtIy.jpg"
+    },
+    {
+      "name": "Nancy Duerr",
+      "image": "http://image.tmdb.org/t/p/w185/9giCY95pLNVmlS7ngtEuX2ziI6.jpg"
+    },
+    {
+      "name": "Erik Estrada",
+      "image": "http://image.tmdb.org/t/p/w185/sjnMAkWUYioDkHVKZAuhxLA2qMt.jpg"
+    }
+  ]
+}

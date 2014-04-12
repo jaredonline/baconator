@@ -1,0 +1,15 @@
+{
+  "film": {
+    "name": "Blue Money"
+  },
+  "cast": [
+    {
+      "name": "Tim Curry",
+      "image": "http://image.tmdb.org/t/p/w185/x5IMeQdb00fNwj95YetyvOuLGoY.jpg"
+    },
+    {
+      "name": "Billy Connolly",
+      "image": "http://image.tmdb.org/t/p/w185/f3KUdmoQtkQYwL7noPiwkXkya8o.jpg"
+    }
+  ]
+}

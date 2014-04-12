@@ -1,0 +1,45 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/d883PLoj8V5Hgjp7UyP8VsP7ce3.jpg",
+    "name": "Comme les autres"
+  },
+  "cast": [
+    {
+      "name": "Lambert Wilson",
+      "image": "http://image.tmdb.org/t/p/w185/p4tfJZVGZmc4S22bKCzHaUVUiqa.jpg"
+    },
+    {
+      "name": "Pilar López de Ayala",
+      "image": "http://image.tmdb.org/t/p/w185/zd0AteC084hd16tJnXUPd98FXkC.jpg"
+    },
+    {
+      "name": "Pascal Elbé",
+      "image": "http://image.tmdb.org/t/p/w185/f6CImf4hNGQ9CxchCtswLIxjMKL.jpg"
+    },
+    {
+      "name": "Anne Brochet",
+      "image": "http://image.tmdb.org/t/p/w185/oX6GbBRscemBnbG0TRR594VenRa.jpg"
+    },
+    {
+      "name": "Andrée Damant"
+    },
+    {
+      "name": "Florence Darel",
+      "image": "http://image.tmdb.org/t/p/w185/yK9vMXa108AcFIWKFKv7XMqDzJl.jpg"
+    },
+    {
+      "name": "Marc Duret",
+      "image": "http://image.tmdb.org/t/p/w185/yZu9GrdnBYT0nEwPNPKvbXN9DfE.jpg"
+    },
+    {
+      "name": "Catherine Erhardy"
+    },
+    {
+      "name": "Eriq Ebouaney",
+      "image": "http://image.tmdb.org/t/p/w185/wfxFCJ85tNTUvFRLsOayUQmHgSC.jpg"
+    },
+    {
+      "name": "Catherine Alcover"
+    }
+  ]
+}

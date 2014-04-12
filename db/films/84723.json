@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qkHlAiORK5dIxicrVL81w4EKiNO.jpg",
+    "name": "City in Fear"
+  },
+  "cast": [
+    {
+      "name": "David Janssen",
+      "image": "http://image.tmdb.org/t/p/w185/xJTcnw9X76FWkfB596qR2dIUOp7.jpg"
+    },
+    {
+      "name": "Robert Vaughn",
+      "image": "http://image.tmdb.org/t/p/w185/tqnTA5PsxCvqZRFEyEyXAcEPQx4.jpg"
+    },
+    {
+      "name": "Perry King",
+      "image": "http://image.tmdb.org/t/p/w185/gne5PrFEM8FEGG96Jf7JJYgptke.jpg"
+    },
+    {
+      "name": "Mickey Rourke",
+      "image": "http://image.tmdb.org/t/p/w185/AvGzQ8fvjurGmZW3W1wlQ5WfSeT.jpg"
+    },
+    {
+      "name": "M. Emmet Walsh",
+      "image": "http://image.tmdb.org/t/p/w185/vRq2mjszYBrFoMPgsLzf7VCexDa.jpg"
+    }
+  ]
+}

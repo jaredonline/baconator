@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/u9BXo6T8x7SHk1pKddRFywe4GPX.jpg",
+    "name": "Faan se Trein"
+  },
+  "cast": [
+    {
+      "name": "Marius Weyers",
+      "image": "http://image.tmdb.org/t/p/w185/xhUgoqJQOPzi2XoKVpVlJPcrcC3.jpg"
+    },
+    {
+      "name": "Deon Lotz",
+      "image": "http://image.tmdb.org/t/p/w185/ippPb3HDaNICCot4wCUMAoPJBL5.jpg"
+    },
+    {
+      "name": "Anel Alexander",
+      "image": "http://image.tmdb.org/t/p/w185/peYYRDsjHMPiVaM0eIrNqtEMGe8.jpg"
+    },
+    {
+      "name": "Willie Esterhuizen",
+      "image": "http://image.tmdb.org/t/p/w185/ucu4pKNA0pmdFUvy1SYCzN7jXJJ.jpg"
+    },
+    {
+      "name": "Nicola Hanekom",
+      "image": "http://image.tmdb.org/t/p/w185/x8PBJd7x77saZxarvDDhArX2DeA.jpg"
+    }
+  ]
+}

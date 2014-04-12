@@ -1,0 +1,84 @@
+{
+  "film": {
+    "name": "Eager to Die"
+  },
+  "cast": [
+    {
+      "name": "Peter O'Toole",
+      "image": "http://image.tmdb.org/t/p/w185/i4qteYphjkqtwsuQwcfQPEdV1ZI.jpg"
+    },
+    {
+      "name": "Michelle Rodriquez"
+    },
+    {
+      "name": "Tony Devon"
+    },
+    {
+      "name": "Emma Thomas"
+    },
+    {
+      "name": "Riccardo Segal"
+    },
+    {
+      "name": "Mike Starr"
+    },
+    {
+      "name": "Bruce Campbell"
+    },
+    {
+      "name": "Ivan Schofield"
+    },
+    {
+      "name": "Eva Britt"
+    },
+    {
+      "name": "Patrick Bates"
+    },
+    {
+      "name": "Joanna Chang"
+    },
+    {
+      "name": "Philip J. Calderone"
+    },
+    {
+      "name": "Paul Cicco"
+    },
+    {
+      "name": "Franco Della"
+    },
+    {
+      "name": "Brian Keating"
+    },
+    {
+      "name": "Jason Long"
+    },
+    {
+      "name": "Ken Taylor"
+    },
+    {
+      "name": "Annette Hudson"
+    },
+    {
+      "name": "Eric Wolfe"
+    },
+    {
+      "name": "Blaire Reese"
+    },
+    {
+      "name": "Mary Ann Dobbs"
+    },
+    {
+      "name": "Richard Curran"
+    },
+    {
+      "name": "Douglas Whalen"
+    },
+    {
+      "name": "Christopher Silipino"
+    },
+    {
+      "name": "David Morse",
+      "image": "http://image.tmdb.org/t/p/w185/mjhlYSKCH4q0MlAiJl8JkAyxhlO.jpg"
+    }
+  ]
+}

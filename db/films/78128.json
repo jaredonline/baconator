@@ -1,0 +1,22 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/sqCyQpxWnuevXozOSgdFjLi1g31.jpg",
+    "name": "Miss Kicki"
+  },
+  "cast": [
+    {
+      "name": "Pernilla August",
+      "image": "http://image.tmdb.org/t/p/w185/gj7f49NzYbFpP7KfmrFBajsUqxD.jpg"
+    },
+    {
+      "name": "Ludwig Palmell"
+    },
+    {
+      "name": "He Huang"
+    },
+    {
+      "name": "Eric Tsang",
+      "image": "http://image.tmdb.org/t/p/w185/xJJZEKanRVgB7u5G3Fg7Xj9Fuoz.jpg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/mPEeEqVpETVQzivnX9sgdluKZuv.jpg",
+    "name": "Secret Origin: The Story of DC Comics"
+  },
+  "cast": [
+    {
+      "name": "Ryan Reynolds",
+      "image": "http://image.tmdb.org/t/p/w185/mNcVv9FG76lD67Hw4sEmL84PBZG.jpg"
+    },
+    {
+      "name": "Neil Gaiman",
+      "image": "http://image.tmdb.org/t/p/w185/nHQNhEKIf40vov2mMn3h6Zoivqs.jpg"
+    },
+    {
+      "name": "David Cronenberg",
+      "image": "http://image.tmdb.org/t/p/w185/7Ot4rmLcEXrE42GulBpkgPfxS8k.jpg"
+    },
+    {
+      "name": "Zack Snyder",
+      "image": "http://image.tmdb.org/t/p/w185/jDzkAorXMwsrHF3VzpvNiK8JS9y.jpg"
+    },
+    {
+      "name": "Frank Miller",
+      "image": "http://image.tmdb.org/t/p/w185/ghKVHIRrtOq4Jkuasbe6ww7d359.jpg"
+    },
+    {
+      "name": "Dwayne McDuffie"
+    },
+    {
+      "name": "Grant Morrison",
+      "image": "http://image.tmdb.org/t/p/w185/uaRwwfJoqzPLbIZEJbghxDByocJ.jpg"
+    },
+    {
+      "name": "Geoff Johns"
+    },
+    {
+      "name": "Bryan Singer",
+      "image": "http://image.tmdb.org/t/p/w185/fgWDpSgXmkxyc2B57PUkQrBYRyF.jpg"
+    },
+    {
+      "name": "Marv Wolfman"
+    },
+    {
+      "name": "Dan Didio"
+    },
+    {
+      "name": "Mark Waid"
+    },
+    {
+      "name": "Kyle Baker"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/tvKcruDfr1hKKbsSIuQBg8NLJI7.jpg",
+    "name": "East of Elephant Rock"
+  },
+  "cast": [
+    {
+      "name": "John Hurt",
+      "image": "http://image.tmdb.org/t/p/w185/rpuH2YRLpxJjMxHq4T1QdOSVtlN.jpg"
+    },
+    {
+      "name": "Jeremy Kemp",
+      "image": "http://image.tmdb.org/t/p/w185/xwayYkSd6Ld0fVioBWfRJ4BpgR6.jpg"
+    },
+    {
+      "name": "Judy Bowker"
+    },
+    {
+      "name": "Christopher Cazenove",
+      "image": "http://image.tmdb.org/t/p/w185/8l61siy2bN8G1jDSpfxViu4mPBE.jpg"
+    },
+    {
+      "name": "Anton Rodgers"
+    }
+  ]
+}

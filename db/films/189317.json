@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/hcPfZaaTRc9jRpeXxcVlLoGJctX.jpg",
+    "name": "Miss Caribe"
+  },
+  "cast": [
+    {
+      "name": "Ana Belén",
+      "image": "http://image.tmdb.org/t/p/w185/iDi5ZskzSXdptMUgGmNzQ57xStf.jpg"
+    },
+    {
+      "name": "Chus Lampreave",
+      "image": "http://image.tmdb.org/t/p/w185/dwoyRWC5Nyo2UgE7M6AjqJWSAAD.jpg"
+    },
+    {
+      "name": "Santiago Ramos",
+      "image": "http://image.tmdb.org/t/p/w185/t4HfSMCW75NrplWhku6psjFNkFx.jpg"
+    },
+    {
+      "name": "Juan Echanove",
+      "image": "http://image.tmdb.org/t/p/w185/6cjUHlp0l9DiqmaaO7xKqfRQiTE.jpg"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/dxc5roX5Xno6mxh8dBUsVhvCKVt.jpg",
+    "name": "Fair Play"
+  },
+  "cast": [
+    {
+      "name": "Benoît Magimel",
+      "image": "http://image.tmdb.org/t/p/w185/p8XLh7FUUao2UuP37gbPekYL83o.jpg"
+    },
+    {
+      "name": "Jérémie Renier",
+      "image": "http://image.tmdb.org/t/p/w185/oIb19NzIJg0Rz9z2o2KvpeEy55t.jpg"
+    },
+    {
+      "name": "Mélanie Doutey",
+      "image": "http://image.tmdb.org/t/p/w185/AjjFNDv2ZQXUxtz905jPbhj1bvr.jpg"
+    },
+    {
+      "name": "Marion Cotillard",
+      "image": "http://image.tmdb.org/t/p/w185/7MVUeNgMnQTks7uTdSZoakei5oR.jpg"
+    },
+    {
+      "name": "Jean-Pierre Cassel",
+      "image": "http://image.tmdb.org/t/p/w185/yWIAIvRdx0omV9ZOUwLINzHKois.jpg"
+    },
+    {
+      "name": "Eric Savin"
+    }
+  ]
+}

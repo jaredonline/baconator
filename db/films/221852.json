@@ -1,0 +1,23 @@
+{
+  "film": {
+    "name": "Mentint a la vida"
+  },
+  "cast": [
+    {
+      "name": "Pep Munné"
+    },
+    {
+      "name": "Cristina Plazas"
+    },
+    {
+      "name": "Fermín Casado"
+    },
+    {
+      "name": "Chete Lera",
+      "image": "http://image.tmdb.org/t/p/w185/tFb7nLu0SmqHsJCwn42gzxiEQI2.jpg"
+    },
+    {
+      "name": "Marina Gatell"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2iWdO5mjOg0Nj0OYWN7lqIeZ4Q5.jpg",
+    "name": "Gigola"
+  },
+  "cast": [
+    {
+      "name": "Lou Doillon",
+      "image": "http://image.tmdb.org/t/p/w185/yFUeaKJ0DjK0OuofpeEn4YNV4Mo.jpg"
+    },
+    {
+      "name": "Marie Kremer",
+      "image": "http://image.tmdb.org/t/p/w185/1utx4SeuEMwzcGseiDOwEFZTtTR.jpg"
+    },
+    {
+      "name": "Eduardo Noriega",
+      "image": "http://image.tmdb.org/t/p/w185/ixwxf8JP6Kdg9YZ7JQLj8vIAaNm.jpg"
+    },
+    {
+      "name": "Thierry Lhermitte",
+      "image": "http://image.tmdb.org/t/p/w185/hv08ZYPSrFSTmR7bGFwVOTUWEjY.jpg"
+    }
+  ]
+}

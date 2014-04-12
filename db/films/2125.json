@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/4lMvEV0fUuqPxlzHLU9gl9GLrpB.jpg",
+    "name": "Wedlock"
+  },
+  "cast": [
+    {
+      "name": "Rutger Hauer",
+      "image": "http://image.tmdb.org/t/p/w185/96XEG75LYFFPb9R03EaN8zipWP4.jpg"
+    },
+    {
+      "name": "Mimi Rogers",
+      "image": "http://image.tmdb.org/t/p/w185/iuaRcB2bfNuZkXaApJtCFTA06f9.jpg"
+    },
+    {
+      "name": "Joan Chen",
+      "image": "http://image.tmdb.org/t/p/w185/ekWS5bAB0kv4RColHqYaUAoXz0I.jpg"
+    },
+    {
+      "name": "James Remar",
+      "image": "http://image.tmdb.org/t/p/w185/nrH2PnXJ8kb01OWGXFDUxaq7Jut.jpg"
+    },
+    {
+      "name": "Stephen Tobolowsky",
+      "image": "http://image.tmdb.org/t/p/w185/MEF0Ic4qrGho7eN4kxdvqF4xBF.jpg"
+    },
+    {
+      "name": "Basil Wallace",
+      "image": "http://image.tmdb.org/t/p/w185/7PI3AEAAVnnXIjFMQ7rHUDnIBOF.jpg"
+    }
+  ]
+}

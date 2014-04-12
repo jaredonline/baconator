@@ -1,0 +1,52 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/jkJsesI8QRKWxOmo4qDUG0wT3PJ.jpg",
+    "name": "Courier from 'Paradise'"
+  },
+  "cast": [
+    {
+      "name": "Evgeniy Tkachuk",
+      "image": "http://image.tmdb.org/t/p/w185/yJa0lu6ZBljMafAAYw90dJnLkrL.jpg"
+    },
+    {
+      "name": "Elizaveta Boyarskaya",
+      "image": "http://image.tmdb.org/t/p/w185/9ieJwuj6oXcdCubVHuOAgwrdHjz.jpg"
+    },
+    {
+      "name": "Dmitriy Dyuzhev",
+      "image": "http://image.tmdb.org/t/p/w185/clDQNmbIbS1AvkNRX3eWeWjmJHV.jpg"
+    },
+    {
+      "name": "Yuriy Kutsenko",
+      "image": "http://image.tmdb.org/t/p/w185/n8eh28e4NDqsiIi0HB4yWsfSquo.jpg"
+    },
+    {
+      "name": "Oleg Taktarov",
+      "image": "http://image.tmdb.org/t/p/w185/3us6qSwKimI2f93aHlz33p5GPcs.jpg"
+    },
+    {
+      "name": "Igor Sklyar",
+      "image": "http://image.tmdb.org/t/p/w185/h1zp5aIdW8oaEsmccAfgVbyBnlP.jpg"
+    },
+    {
+      "name": "Dmitriy Nagiev",
+      "image": "http://image.tmdb.org/t/p/w185/tA9mnBF2piovmOt3BLy91shhtyZ.jpg"
+    },
+    {
+      "name": "Viktor Bychkov",
+      "image": "http://image.tmdb.org/t/p/w185/4czCgTWDDlIhA8bsdD9c1nOdqSm.jpg"
+    },
+    {
+      "name": "Ekaterina Klimova",
+      "image": "http://image.tmdb.org/t/p/w185/oq91x1B0Ui4jEWECIi75TurmQOb.jpg"
+    },
+    {
+      "name": "Grigorij Sijatvinda",
+      "image": "http://image.tmdb.org/t/p/w185/1aIzbxdVBkGDaLXr8QWRDM0AN8n.jpg"
+    },
+    {
+      "name": "Danny Trejo",
+      "image": "http://image.tmdb.org/t/p/w185/7b8cDfrmeheQbgryfCm7MeJOxxM.jpg"
+    }
+  ]
+}

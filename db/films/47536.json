@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/nch4B9JGcG1U9UnBvD73WoH4x9T.jpg",
+    "name": "Hitler: The Last Ten Days"
+  },
+  "cast": [
+    {
+      "name": "Alec Guinness",
+      "image": "http://image.tmdb.org/t/p/w185/sNKqzb8U33pWVHJ338NjkHSEVDn.jpg"
+    },
+    {
+      "name": "Simon Ward",
+      "image": "http://image.tmdb.org/t/p/w185/icoZbv7VZgq5W5QFbwQ9KDQWVBM.jpg"
+    },
+    {
+      "name": "Adolfo Celi",
+      "image": "http://image.tmdb.org/t/p/w185/eAGVt87PlhJHQ0b0d7L6nRCjdqe.jpg"
+    },
+    {
+      "name": "Diane Cilento",
+      "image": "http://image.tmdb.org/t/p/w185/A4Pl3bPh7JltbhXraK0R1JAK6o8.jpg"
+    }
+  ]
+}

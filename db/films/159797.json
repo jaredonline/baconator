@@ -1,0 +1,44 @@
+{
+  "film": {
+    "name": "Clover"
+  },
+  "cast": [
+    {
+      "name": "Elizabeth McGovern",
+      "image": "http://image.tmdb.org/t/p/w185/oECBsmiZ8OWxm6iQCV5o0eViLRg.jpg"
+    },
+    {
+      "name": "Ernie Hudson",
+      "image": "http://image.tmdb.org/t/p/w185/4FBlZKlVJkxrhy7FOstmwgXqIPI.jpg"
+    },
+    {
+      "name": "Zelda Harris"
+    },
+    {
+      "name": "Loretta Devine",
+      "image": "http://image.tmdb.org/t/p/w185/qRN7om4pWfRU9Oe2mL3A8IwjOIq.jpg"
+    },
+    {
+      "name": "Beatrice Winde"
+    },
+    {
+      "name": "Ron Canada",
+      "image": "http://image.tmdb.org/t/p/w185/gPd3Yo7ABpAExw1hbSC1HfyNlsk.jpg"
+    },
+    {
+      "name": "Ntare Guma Mbaho Mwine"
+    },
+    {
+      "name": "Nan-Lyn Nelson"
+    },
+    {
+      "name": "Dennis Neal"
+    },
+    {
+      "name": "John Archie"
+    },
+    {
+      "name": "Terry Allen Jones"
+    }
+  ]
+}

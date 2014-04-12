@@ -1,0 +1,40 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/l8VVQgtuZIigZCaOLv40zZR1aMT.jpg",
+    "name": "H.G. Wells' War of the Worlds"
+  },
+  "cast": [
+    {
+      "name": "C. Thomas Howell",
+      "image": "http://image.tmdb.org/t/p/w185/wptrBbqMUHKbnXZo3dtH3Bintlm.jpg"
+    },
+    {
+      "name": "Rhett Giles"
+    },
+    {
+      "name": "Jake Busey",
+      "image": "http://image.tmdb.org/t/p/w185/oHnk0K9uiE45eiunnyzaiaYOj6m.jpg"
+    },
+    {
+      "name": "Peter Greene",
+      "image": "http://image.tmdb.org/t/p/w185/wsTMORDoblpJfmdrssKOqP78aDl.jpg"
+    },
+    {
+      "name": "Tinarie Van Wyk-Loots",
+      "image": "http://image.tmdb.org/t/p/w185/kfbaCF3fqkWwHukElS1FrMOTB6v.jpg"
+    },
+    {
+      "name": "Dashiell Howell"
+    },
+    {
+      "name": "Kim Little"
+    },
+    {
+      "name": "Leigh Scott"
+    },
+    {
+      "name": "Andrew Lauer",
+      "image": "http://image.tmdb.org/t/p/w185/hO1kHCOeh5Y3b451JjngSA5MYjM.jpg"
+    }
+  ]
+}

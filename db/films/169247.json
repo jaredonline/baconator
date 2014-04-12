@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/8CCF2vKZ7RIkQ3AmojnNAz1sOoH.jpg",
+    "name": "The Possessed"
+  },
+  "cast": [
+    {
+      "name": "Jerzy Radziwiłowicz",
+      "image": "http://image.tmdb.org/t/p/w185/fKTbFcO0fkpFVkVjbbQRlaprxsg.jpg"
+    },
+    {
+      "name": "Isabelle Huppert",
+      "image": "http://image.tmdb.org/t/p/w185/nrbXaDh5zQEi2G7T5OILInm3f9p.jpg"
+    },
+    {
+      "name": "Omar Sharif",
+      "image": "http://image.tmdb.org/t/p/w185/hZTwgZnf1jyDt0vz0iHzsRsBtEY.jpg"
+    },
+    {
+      "name": "Lambert Wilson",
+      "image": "http://image.tmdb.org/t/p/w185/icRgGwgGsQng17dfArWZVq7iAPT.jpg"
+    }
+  ]
+}

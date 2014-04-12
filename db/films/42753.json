@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/99KfTuDVWjG9yjmKfbTGY8CfdiY.jpg",
+    "name": "Business for Pleasure"
+  },
+  "cast": [
+    {
+      "name": "Caron Bernstein"
+    },
+    {
+      "name": "Gary Stretch",
+      "image": "http://image.tmdb.org/t/p/w185/zEavHYLoiPIUO208n0qWKdtow2w.jpg"
+    },
+    {
+      "name": "Joanna Pacuła",
+      "image": "http://image.tmdb.org/t/p/w185/697EWuER2k3lQ4oNZdYdkU6cvvd.jpg"
+    },
+    {
+      "name": "Jeroen Krabbé",
+      "image": "http://image.tmdb.org/t/p/w185/fXH83k5lE2zL5zNXKXGI4wyGnRP.jpg"
+    }
+  ]
+}

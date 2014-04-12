@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/tWTDtrfWH07C5I9O82mjp5yASjX.jpg",
+    "name": "Washington Wolves"
+  },
+  "cast": [
+    {
+      "name": "Javier Bardem",
+      "image": "http://image.tmdb.org/t/p/w185/hbr72lORyRjm8w9ujU5OA7YDzG.jpg"
+    },
+    {
+      "name": "Eduard Fernández",
+      "image": "http://image.tmdb.org/t/p/w185/amJKpgzBvEr9d6WIuT1MjADzDZT.jpg"
+    },
+    {
+      "name": "Ernesto Alterio",
+      "image": "http://image.tmdb.org/t/p/w185/pLsvJzMrs8l8KADCctcV3CP3OYS.jpg"
+    },
+    {
+      "name": "José Sancho",
+      "image": "http://image.tmdb.org/t/p/w185/6M18MaEHaOyT4QcAKz9RRIGJm8T.jpg"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/bKzJBZqb742iA2IML3048rmpmlu.jpg",
+    "name": "The Flash 2 - Revenge of the Trickster"
+  },
+  "cast": [
+    {
+      "name": "John Wesley Shipp",
+      "image": "http://image.tmdb.org/t/p/w185/4bU1zIZiu5mPKK5cBDElQanfUeT.jpg"
+    },
+    {
+      "name": "Mark Hamill",
+      "image": "http://image.tmdb.org/t/p/w185/a85lLkADqD2Ab03cfMyJVQaE1UR.jpg"
+    },
+    {
+      "name": "Amanda Pays",
+      "image": "http://image.tmdb.org/t/p/w185/2zFx9XeCglkcImrDDJkJCKu4ae7.jpg"
+    }
+  ]
+}

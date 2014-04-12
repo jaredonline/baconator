@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/qRLBN4V9UrezQnD4li2GERVP3b9.jpg",
+    "name": "Miguel and William"
+  },
+  "cast": [
+    {
+      "name": "Elena Anaya",
+      "image": "http://image.tmdb.org/t/p/w185/sov4ljuu9YWA1oZfdL0mkuEDjIv.jpg"
+    },
+    {
+      "name": "Juan Luis Galiardo",
+      "image": "http://image.tmdb.org/t/p/w185/uZp4fSMtLhP5NpAkEYSyf1KflrZ.jpg"
+    },
+    {
+      "name": "Will Kemp",
+      "image": "http://image.tmdb.org/t/p/w185/pfon95FiaSDrzofZEdHUP9I0AuS.jpg"
+    },
+    {
+      "name": "Geraldine Chaplin",
+      "image": "http://image.tmdb.org/t/p/w185/x7N40x101QmzkNe9nrKWVKzT9n5.jpg"
+    }
+  ]
+}

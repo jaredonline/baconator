@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/AuZr1AOe9WH17qti9oXVcNJ1Cjr.jpg",
+    "name": "In Love and War"
+  },
+  "cast": [
+    {
+      "name": "Callum Blue",
+      "image": "http://image.tmdb.org/t/p/w185/jEeLPZg7GlNhdkAmtPQXLGqOMZF.jpg"
+    },
+    {
+      "name": "Barbora Bobuľová",
+      "image": "http://image.tmdb.org/t/p/w185/olTbtz3HMue1mCFTnWbBmZ0OO9A.jpg"
+    },
+    {
+      "name": "Peter Bowles",
+      "image": "http://image.tmdb.org/t/p/w185/3Se4ZWOwIaMh3r1AAMQf5e1by05.jpg"
+    },
+    {
+      "name": "Toby Jones",
+      "image": "http://image.tmdb.org/t/p/w185/8HDeyCbDzjeylqfDIIs8Bmv40vX.jpg"
+    }
+  ]
+}

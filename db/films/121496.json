@@ -1,0 +1,97 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/gWLG3EBbi6dbBMe20WQfHwNHKVc.jpg",
+    "name": "El último truco. Emilio Ruiz del Río"
+  },
+  "cast": [
+    {
+      "name": "Ginette Angosse"
+    },
+    {
+      "name": "Eugenio Caballero"
+    },
+    {
+      "name": "Enzo G. Castellari",
+      "image": "http://image.tmdb.org/t/p/w185/3M6yGYo7SRpTqXOcXY2WdUiPIbe.jpg"
+    },
+    {
+      "name": "Guillermo del Toro",
+      "image": "http://image.tmdb.org/t/p/w185/OV7rIE4sjk3wDbnRj2Y7Gcxf6V.jpg"
+    },
+    {
+      "name": "Biel Durán"
+    },
+    {
+      "name": "Mateo Gil",
+      "image": "http://image.tmdb.org/t/p/w185/59wG0EGSraSepq2kynZ7jcivCsV.jpg"
+    },
+    {
+      "name": "Ray Harryhausen",
+      "image": "http://image.tmdb.org/t/p/w185/nxsvHuPnWQBFuGOq6Gs100kh74R.jpg"
+    },
+    {
+      "name": "José López Rodero"
+    },
+    {
+      "name": "Juan Mariné"
+    },
+    {
+      "name": "Juan Piquer Simón"
+    },
+    {
+      "name": "Emilio Ruiz del Río"
+    },
+    {
+      "name": "Jacinto Soria"
+    },
+    {
+      "name": "David Trueba",
+      "image": "http://image.tmdb.org/t/p/w185/9kyyqY6N3DLI8A8pyqqjX8njDxZ.jpg"
+    },
+    {
+      "name": "Fernando Trueba",
+      "image": "http://image.tmdb.org/t/p/w185/u0o8Oelx0KPL037RBxlNaB6G4Sa.jpg"
+    },
+    {
+      "name": "Ariadna Gil",
+      "image": "http://image.tmdb.org/t/p/w185/rpOaTyT6eMWNqYrPI2gE07x149h.jpg"
+    },
+    {
+      "name": "Ray Loriga"
+    },
+    {
+      "name": "Jordi Mollà",
+      "image": "http://image.tmdb.org/t/p/w185/A648UpxxLlgdqziafgSCAVaR0Sc.jpg"
+    },
+    {
+      "name": "Eduardo Noriega",
+      "image": "http://image.tmdb.org/t/p/w185/ixwxf8JP6Kdg9YZ7JQLj8vIAaNm.jpg"
+    },
+    {
+      "name": "Vicky Peña"
+    },
+    {
+      "name": "Antonio Resines",
+      "image": "http://image.tmdb.org/t/p/w185/j9JW21A0e3gAbX7w25lSpTBJY1C.jpg"
+    },
+    {
+      "name": "Jorge Sanz",
+      "image": "http://image.tmdb.org/t/p/w185/pFhzM9S9WdEKE3EiD6TgX1diAnX.jpg"
+    },
+    {
+      "name": "Joan Saura"
+    },
+    {
+      "name": "Miroslav Táborský",
+      "image": "http://image.tmdb.org/t/p/w185/xfKw9ccMjOM7nRZc4nMFR0CZSIr.jpg"
+    },
+    {
+      "name": "María Valverde",
+      "image": "http://image.tmdb.org/t/p/w185/f81kw3i6fnDPxB65prcQIMDum5n.jpg"
+    },
+    {
+      "name": "Paz Vega",
+      "image": "http://image.tmdb.org/t/p/w185/8aVfJnS3yI0n6aKaDFzxHdtn3Wt.jpg"
+    }
+  ]
+}

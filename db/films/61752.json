@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/pzWOPUavB7FJPfbLhbgJ7H0pk87.jpg",
+    "name": "Girl 6"
+  },
+  "cast": [
+    {
+      "name": "Theresa Randle",
+      "image": "http://image.tmdb.org/t/p/w185/18LVR034VKDGOFqDw1EA1VZQVoe.jpg"
+    },
+    {
+      "name": "Isaiah Washington",
+      "image": "http://image.tmdb.org/t/p/w185/wWfBGGlSSvlPfMBEibry4IbenSN.jpg"
+    },
+    {
+      "name": "Spike Lee",
+      "image": "http://image.tmdb.org/t/p/w185/qFVLXHU19vFIHrt3vRQMI8O6lMt.jpg"
+    },
+    {
+      "name": "Jenifer Lewis",
+      "image": "http://image.tmdb.org/t/p/w185/eGrll66LYRNAzVBsYGT8rRhGBC3.jpg"
+    },
+    {
+      "name": "Debi Mazar",
+      "image": "http://image.tmdb.org/t/p/w185/2KvU83RPF1Iswd402LCQasdK6MP.jpg"
+    },
+    {
+      "name": "Madonna",
+      "image": "http://image.tmdb.org/t/p/w185/n4KXAD2OQRkmTZd4oJ7804z8vZ7.jpg"
+    }
+  ]
+}

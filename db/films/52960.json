@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/3kfJgzmKmfsVYcop6NETSd9AIQR.jpg",
+    "name": "The Tamarind Seed"
+  },
+  "cast": [
+    {
+      "name": "Julie Andrews",
+      "image": "http://image.tmdb.org/t/p/w185/aSJYNCyNmM1v6NPBfLcJ3noxkCE.jpg"
+    },
+    {
+      "name": "Omar Sharif",
+      "image": "http://image.tmdb.org/t/p/w185/hZTwgZnf1jyDt0vz0iHzsRsBtEY.jpg"
+    },
+    {
+      "name": "Anthony Quayle",
+      "image": "http://image.tmdb.org/t/p/w185/cGxouSdw4SoGE5Soxlj6KnpZObE.jpg"
+    },
+    {
+      "name": "Dan O'Herlihy",
+      "image": "http://image.tmdb.org/t/p/w185/e84845dAoAbBYEggRd08vMrFipO.jpg"
+    }
+  ]
+}

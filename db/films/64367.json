@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/81eChPZukmoNNpRK0gGOQ1Sgc01.jpg",
+    "name": "Otis E."
+  },
+  "cast": [
+    {
+      "name": "Kevin Durand",
+      "image": "http://image.tmdb.org/t/p/w185/c95tTUjx5T0D0ROqTcINojpH6nB.jpg"
+    },
+    {
+      "name": "Tammy Trull",
+      "image": "http://image.tmdb.org/t/p/w185/iU6NYK84V4u9429GJLhwZ9K2YpQ.jpg"
+    },
+    {
+      "name": "James Gammon",
+      "image": "http://image.tmdb.org/t/p/w185/2veM9cas1G6UP1Np7Jux190Ei1m.jpg"
+    },
+    {
+      "name": "Peter Stormare",
+      "image": "http://image.tmdb.org/t/p/w185/dDR0brp5L7fXDyEywrhjQv01LSg.jpg"
+    }
+  ]
+}

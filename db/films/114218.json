@@ -1,0 +1,35 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xznzFk360TvVWZ3vEvVQEHRBUJQ.jpg",
+    "name": "Días contados"
+  },
+  "cast": [
+    {
+      "name": "Carmelo Gómez",
+      "image": "http://image.tmdb.org/t/p/w185/dCuhHjDh1hXMTi1GRhqPktq5c6p.jpg"
+    },
+    {
+      "name": "Ruth Gabriel",
+      "image": "http://image.tmdb.org/t/p/w185/ieAbO5NKlcYtz6SxP2W04nFwCwG.jpg"
+    },
+    {
+      "name": "Candela Peña",
+      "image": "http://image.tmdb.org/t/p/w185/tc37OuZZpeMU14VDu5E7ge5TMy8.jpg"
+    },
+    {
+      "name": "Karra Elejalde",
+      "image": "http://image.tmdb.org/t/p/w185/zcxUAKrcvCBN2CsDZS0qt52e3GT.jpg"
+    },
+    {
+      "name": "Javier Bardem",
+      "image": "http://image.tmdb.org/t/p/w185/hbr72lORyRjm8w9ujU5OA7YDzG.jpg"
+    },
+    {
+      "name": "Elvira Mínguez",
+      "image": "http://image.tmdb.org/t/p/w185/p9aMIZQGY7ikwWFgpWRR24PiIZg.jpg"
+    },
+    {
+      "name": "Pepón Nieto"
+    }
+  ]
+}

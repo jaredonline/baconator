@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/3DUsB3KJgBmGqMG8r9Bq0IFUmhU.jpg",
+    "name": "Fever"
+  },
+  "cast": [
+    {
+      "name": "Henry Thomas",
+      "image": "http://image.tmdb.org/t/p/w185/iDUTadQ7R2GmOSQEH0grJQ9VTOh.jpg"
+    },
+    {
+      "name": "Teri Hatcher",
+      "image": "http://image.tmdb.org/t/p/w185/xnvUJvf0vjHliYa2PlXyLGaJe9l.jpg"
+    },
+    {
+      "name": "David O'Hara",
+      "image": "http://image.tmdb.org/t/p/w185/sJ35AHaSTzSrvd80xrlC1CD30iF.jpg"
+    },
+    {
+      "name": "Bill Duke",
+      "image": "http://image.tmdb.org/t/p/w185/2BBdmPqxYO5FkgRcMnciUnuQsB8.jpg"
+    }
+  ]
+}

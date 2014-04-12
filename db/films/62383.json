@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ofCvcefEsOuKHMe5llahm5JXaeQ.jpg",
+    "name": "Passed Away"
+  },
+  "cast": [
+    {
+      "name": "Bob Hoskins",
+      "image": "http://image.tmdb.org/t/p/w185/mIgAC6q5HcHHxZUIiCOvE6mHLGs.jpg"
+    },
+    {
+      "name": "Jack Warden",
+      "image": "http://image.tmdb.org/t/p/w185/pD98exbwlD4f9QmQd0N8Sa7j6pw.jpg"
+    },
+    {
+      "name": "William Petersen",
+      "image": "http://image.tmdb.org/t/p/w185/7IM51rPPFdYpnYoybEfEVkdDbIL.jpg"
+    },
+    {
+      "name": "Sara Rue",
+      "image": "http://image.tmdb.org/t/p/w185/1OlEg9M8oSsGivjyFJJFyCkKqkk.jpg"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/1f7DaSujt536oVcLT2SlOoNcwma.jpg",
+    "name": "Justin Bieber: Never Say Never"
+  },
+  "cast": [
+    {
+      "name": "Justin Bieber",
+      "image": "http://image.tmdb.org/t/p/w185/vG2872LXWnsCdmw592XJKk3elnW.jpg"
+    },
+    {
+      "name": "Miley Cyrus",
+      "image": "http://image.tmdb.org/t/p/w185/5hodIyctwaBdmUtHNcYUDmnNRk9.jpg"
+    },
+    {
+      "name": "Usher",
+      "image": "http://image.tmdb.org/t/p/w185/A7mlGPD9n0rVaNLHstrhpKRWx4V.jpg"
+    },
+    {
+      "name": "Jaden Smith",
+      "image": "http://image.tmdb.org/t/p/w185/7J6qZ9g0xEOZOFSEdCUgYoug6eA.jpg"
+    }
+  ]
+}

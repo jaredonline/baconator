@@ -1,0 +1,43 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/tviJ68Wj4glQk3CPMvdvExYHxX.jpg",
+    "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+  },
+  "cast": [
+    {
+      "name": "Peter Sellers",
+      "image": "http://image.tmdb.org/t/p/w185/2uJvjoiTjvJfbd81S2AhRtdf2aU.jpg"
+    },
+    {
+      "name": "George C. Scott",
+      "image": "http://image.tmdb.org/t/p/w185/mWXDFKbEgb7ID845I1LNeaeoXT4.jpg"
+    },
+    {
+      "name": "Sterling Hayden",
+      "image": "http://image.tmdb.org/t/p/w185/aE85Dzwaf5rTbjLnMgOtpw47BSY.jpg"
+    },
+    {
+      "name": "Slim Pickens",
+      "image": "http://image.tmdb.org/t/p/w185/xO2rvqSBgZRJKjkVrFy1xeygxLF.jpg"
+    },
+    {
+      "name": "Keenan Wynn",
+      "image": "http://image.tmdb.org/t/p/w185/6DcmPzaBXRrlgi75r2RK6yVWEMM.jpg"
+    },
+    {
+      "name": "Peter Bull",
+      "image": "http://image.tmdb.org/t/p/w185/iIh6WkuefTUVrEybz1CXdz86puI.jpg"
+    },
+    {
+      "name": "Jack Creley"
+    },
+    {
+      "name": "Tracy Reed",
+      "image": "http://image.tmdb.org/t/p/w185/mLKogjlAaCAiV4NosrXeHbi35qJ.jpg"
+    },
+    {
+      "name": "James Earl Jones",
+      "image": "http://image.tmdb.org/t/p/w185/pxC7jiRTHArPldgkqSneXRsrRJ9.jpg"
+    }
+  ]
+}

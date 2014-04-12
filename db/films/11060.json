@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/j3Lk53GMp0EH9jFBrjd6Y04yyAO.jpg",
+    "name": "Internal Affairs"
+  },
+  "cast": [
+    {
+      "name": "Richard Gere",
+      "image": "http://image.tmdb.org/t/p/w185/wXj3kPwWFo8A9jDCtUVetXAR5Hf.jpg"
+    },
+    {
+      "name": "Andy García",
+      "image": "http://image.tmdb.org/t/p/w185/q3LAfRFLNhnNrIp7BFthDDosEHt.jpg"
+    },
+    {
+      "name": "Laurie Metcalf",
+      "image": "http://image.tmdb.org/t/p/w185/ihvhGDIcHwbUwmg8Vxb9cutHLm8.jpg"
+    },
+    {
+      "name": "Nancy Travis",
+      "image": "http://image.tmdb.org/t/p/w185/wG8CZHktb1iQjowuty3Pm3oDbAQ.jpg"
+    },
+    {
+      "name": "Elijah Wood",
+      "image": "http://image.tmdb.org/t/p/w185/c4fB3WAS7jN78rihw2kB81v6sez.jpg"
+    }
+  ]
+}

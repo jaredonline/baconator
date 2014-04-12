@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/cs0YctHAYBYrVxezIQYKV4zaQSD.jpg",
+    "name": "Attica"
+  },
+  "cast": [
+    {
+      "name": "Henry Darrow",
+      "image": "http://image.tmdb.org/t/p/w185/hyYPfLSccfkQjfRCD3qxwGkxr91.jpg"
+    },
+    {
+      "name": "Charles Durning",
+      "image": "http://image.tmdb.org/t/p/w185/3gVvKQykDvMuiUcPEHnAkJrfLg3.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "image": "http://image.tmdb.org/t/p/w185/oGJQhOpT8S1M56tvSsbEBePV5O1.jpg"
+    },
+    {
+      "name": "David Harris"
+    }
+  ]
+}

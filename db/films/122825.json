@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/xF7FR027EVRrEjBnyDHNWpw9rsg.jpg",
+    "name": "Minnesota Nice"
+  },
+  "cast": [
+    {
+      "name": "Steve Buscemi",
+      "image": "http://image.tmdb.org/t/p/w185/7sDzFRScCv85usSwPG01BTac7UY.jpg"
+    },
+    {
+      "name": "Ethan Coen",
+      "image": "http://image.tmdb.org/t/p/w185/knZuxatmyGpb1M8vWoprAmhv4WQ.jpg"
+    },
+    {
+      "name": "Joel Coen",
+      "image": "http://image.tmdb.org/t/p/w185/wUUNwsgOGtelsU8yJI64s8r7XiY.jpg"
+    },
+    {
+      "name": "William H. Macy",
+      "image": "http://image.tmdb.org/t/p/w185/rpUv9mDece5LQuWI7iBNQaAesFg.jpg"
+    },
+    {
+      "name": "Frances McDormand",
+      "image": "http://image.tmdb.org/t/p/w185/heJwM65BLMfJGcXuphhZiv9unTo.jpg"
+    },
+    {
+      "name": "Peter Stormare",
+      "image": "http://image.tmdb.org/t/p/w185/dDR0brp5L7fXDyEywrhjQv01LSg.jpg"
+    }
+  ]
+}

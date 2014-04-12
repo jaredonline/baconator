@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/lvVQlc0cuN4XPVsK3MplO4FOLKp.jpg",
+    "name": "The Final Season"
+  },
+  "cast": [
+    {
+      "name": "Powers Boothe",
+      "image": "http://image.tmdb.org/t/p/w185/3nNL6AvMAYq0BmHKM79RnRZVq3i.jpg"
+    },
+    {
+      "name": "Sean Astin",
+      "image": "http://image.tmdb.org/t/p/w185/jqF72oav6vmGAWl33GNO6EpZtwA.jpg"
+    },
+    {
+      "name": "Rachael Leigh Cook",
+      "image": "http://image.tmdb.org/t/p/w185/8uurFQocs7hZHpJW57nRgpvyQHQ.jpg"
+    }
+  ]
+}

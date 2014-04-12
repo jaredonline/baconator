@@ -1,0 +1,37 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/zyvRMMJtOZ1JIOfGDoxBdIbA4rv.jpg",
+    "name": "Les Enfoirés 2011 - Dans l'oeil des Enfoirés"
+  },
+  "cast": [
+    {
+      "name": "Pascal Obispo"
+    },
+    {
+      "name": "Patrick Bruel",
+      "image": "http://image.tmdb.org/t/p/w185/1s6eR0MEbxulZPUteVnHxpwXF4F.jpg"
+    },
+    {
+      "name": "Garou",
+      "image": "http://image.tmdb.org/t/p/w185/awVgYUojXezSbjZHPy53RjX5Gqk.jpg"
+    },
+    {
+      "name": "Hélène Ségara",
+      "image": "http://image.tmdb.org/t/p/w185/fTQLmW6NqJzymEn7KvKZEtqLwqn.jpg"
+    },
+    {
+      "name": "Tina Arena"
+    },
+    {
+      "name": "Gérard Jugnot",
+      "image": "http://image.tmdb.org/t/p/w185/xlFmLH6cGfHPKdvyoYZitfB8Txf.jpg"
+    },
+    {
+      "name": "Kad Merad",
+      "image": "http://image.tmdb.org/t/p/w185/wfjSn1JjPv4zfUxpIJUacqd5fZQ.jpg"
+    },
+    {
+      "name": "Mimie Mathy"
+    }
+  ]
+}

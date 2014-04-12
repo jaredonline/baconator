@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/mVzMg1C3GRDPflTgRYNgl6JWCYg.jpg",
+    "name": "Even The Rain"
+  },
+  "cast": [
+    {
+      "name": "Gael García Bernal",
+      "image": "http://image.tmdb.org/t/p/w185/o4sdHKTBbF8GpooIwp5bvliubyY.jpg"
+    },
+    {
+      "name": "Luis Tosar",
+      "image": "http://image.tmdb.org/t/p/w185/xg1bk8niriXA64ckwXcqFQ6dt4h.jpg"
+    },
+    {
+      "name": "Raúl Arévalo",
+      "image": "http://image.tmdb.org/t/p/w185/z3KlS1SfsHHe0q616vPcgO8Se3C.jpg"
+    },
+    {
+      "name": "Najwa Nimri",
+      "image": "http://image.tmdb.org/t/p/w185/1HjYUf3gvfEXP26Z2ejflW2AtOi.jpg"
+    }
+  ]
+}

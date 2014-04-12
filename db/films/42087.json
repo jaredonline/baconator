@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/rDFhBWyaWKOUDXdTEqKExSMFuuC.jpg",
+    "name": "Country"
+  },
+  "cast": [
+    {
+      "name": "Jessica Lange",
+      "image": "http://image.tmdb.org/t/p/w185/hC862LK6M6mMcCnhOzIyfvTmQk4.jpg"
+    },
+    {
+      "name": "Sam Shepard",
+      "image": "http://image.tmdb.org/t/p/w185/lxmdUEueeTmTIpIVco72rcoMkI.jpg"
+    },
+    {
+      "name": "Wilford Brimley",
+      "image": "http://image.tmdb.org/t/p/w185/t0TLF4qXgXiroirvjVWWP88B0GD.jpg"
+    },
+    {
+      "name": "Matt Clark",
+      "image": "http://image.tmdb.org/t/p/w185/hDNQhAEns3nl9cgQJ4udgCdBABI.jpg"
+    }
+  ]
+}

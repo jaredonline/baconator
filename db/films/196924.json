@@ -1,0 +1,23 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/p5qF8pCYcQBolhmE2Fwf9gQKBX7.jpg",
+    "name": "Friends"
+  },
+  "cast": [
+    {
+      "name": "Kerry Fox",
+      "image": "http://image.tmdb.org/t/p/w185/i2O8aHEPRFvuJwRpwDNg6jv8JT6.jpg"
+    },
+    {
+      "name": "Dambisa Kente"
+    },
+    {
+      "name": "Michele Burgers",
+      "image": "http://image.tmdb.org/t/p/w185/pYIOxEmgRECo7x6SX2hbrNT1rM6.jpg"
+    },
+    {
+      "name": "Marius Weyers",
+      "image": "http://image.tmdb.org/t/p/w185/xhUgoqJQOPzi2XoKVpVlJPcrcC3.jpg"
+    }
+  ]
+}

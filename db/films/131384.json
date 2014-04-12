@@ -1,0 +1,32 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/j1X6eXGllTVQf4AsTwwz0tA931k.jpg",
+    "name": "Marco the Magnificent"
+  },
+  "cast": [
+    {
+      "name": "Horst Buchholz",
+      "image": "http://image.tmdb.org/t/p/w185/bNyMxUU2aVaqDfoqRhnIjQJe3jo.jpg"
+    },
+    {
+      "name": "Anthony Quinn",
+      "image": "http://image.tmdb.org/t/p/w185/9sKpm4KCoUbmMbR86fpqcgBCHrJ.jpg"
+    },
+    {
+      "name": "Orson Welles",
+      "image": "http://image.tmdb.org/t/p/w185/pZz07JqawZP3eKUwpaAZq63vEmF.jpg"
+    },
+    {
+      "name": "Bruno Cremer",
+      "image": "http://image.tmdb.org/t/p/w185/n8u5OR81GmMhqaIVzLSZkUVdGkN.jpg"
+    },
+    {
+      "name": "Omar Sharif",
+      "image": "http://image.tmdb.org/t/p/w185/hZTwgZnf1jyDt0vz0iHzsRsBtEY.jpg"
+    },
+    {
+      "name": "Robert Hossein",
+      "image": "http://image.tmdb.org/t/p/w185/4r8lXF5h9oG1mjvOnqA5MdxiJKh.jpg"
+    }
+  ]
+}

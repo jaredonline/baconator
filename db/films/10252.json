@@ -1,0 +1,74 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/yof1ftqBmYhbRWCHWPnekRXrtDy.jpg",
+    "name": "Animal"
+  },
+  "cast": [
+    {
+      "name": "Ving Rhames",
+      "image": "http://image.tmdb.org/t/p/w185/qfp236BgZ8S8sfFJvDTd3gjB3Ml.jpg"
+    },
+    {
+      "name": "Terrence Howard",
+      "image": "http://image.tmdb.org/t/p/w185/veEGKSK07cbc97BHJAPnPIJlhqI.jpg"
+    },
+    {
+      "name": "Jim Brown",
+      "image": "http://image.tmdb.org/t/p/w185/u2woKBMGvouznYELvlPwqj4Y81A.jpg"
+    },
+    {
+      "name": "Chazz Palminteri",
+      "image": "http://image.tmdb.org/t/p/w185/57fiwGZBohA7qytoXOUJtSNVksT.jpg"
+    },
+    {
+      "name": "Eugene Cotto"
+    },
+    {
+      "name": "Rafa Alvarez"
+    },
+    {
+      "name": "Junior Alvarez"
+    },
+    {
+      "name": "Black Child"
+    },
+    {
+      "name": "Taraji P. Henson",
+      "image": "http://image.tmdb.org/t/p/w185/ylWJRomOZKjg7ZxnB6TfL9bGaXe.jpg"
+    },
+    {
+      "name": "Carlos Esteban Fonseca"
+    },
+    {
+      "name": "John Garcia"
+    },
+    {
+      "name": "César Farrait"
+    },
+    {
+      "name": "Norman Grant"
+    },
+    {
+      "name": "Alfredo Herger"
+    },
+    {
+      "name": "Faizon Love",
+      "image": "http://image.tmdb.org/t/p/w185/lKgKdvSbkWSTAa26gfz9fFExNVK.jpg"
+    },
+    {
+      "name": "Hunter Howard"
+    },
+    {
+      "name": "Charlie Massó"
+    },
+    {
+      "name": "Modesto Lacen"
+    },
+    {
+      "name": "Joaquin Jarque"
+    },
+    {
+      "name": "Edwin Mercado"
+    }
+  ]
+}

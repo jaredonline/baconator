@@ -1,0 +1,48 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/2PmACSLF8qYg55QFSrUPeXhwRNI.jpg",
+    "name": "And Satan Calls the Turns"
+  },
+  "cast": [
+    {
+      "name": "Catherine Deneuve",
+      "image": "http://image.tmdb.org/t/p/w185/mes3jMqmUwUE5qPv9ZUJ0GlQghb.jpg"
+    },
+    {
+      "name": "Jacques Perrin",
+      "image": "http://image.tmdb.org/t/p/w185/dC3hgCkcTvsrw6fKxxTegJDQRzp.jpg"
+    },
+    {
+      "name": "Bernadette Lafont",
+      "image": "http://image.tmdb.org/t/p/w185/uJMpLNPFsVNh9qbwRLGeV0Matst.jpg"
+    },
+    {
+      "name": "Françoise Brion",
+      "image": "http://image.tmdb.org/t/p/w185/7ZQMbJE4hW5gJAQN4h5EGX9Y9n4.jpg"
+    },
+    {
+      "name": "Henri-Jacques Huet"
+    },
+    {
+      "name": "Jacques Doniol-Valcroze"
+    },
+    {
+      "name": "Jacques Monod"
+    },
+    {
+      "name": "Jean Alazé"
+    },
+    {
+      "name": "Henry Allaume"
+    },
+    {
+      "name": "Philippe Auber"
+    },
+    {
+      "name": "Patricia Karim"
+    },
+    {
+      "name": "Paulette Pastor"
+    }
+  ]
+}

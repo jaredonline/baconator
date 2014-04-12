@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/i3NIk4qAPnbgq9A15Arr5MTpcIK.jpg",
+    "name": "Twilight Zone: Rod Serling's Lost Classics"
+  },
+  "cast": [
+    {
+      "name": "James Earl Jones",
+      "image": "http://image.tmdb.org/t/p/w185/pxC7jiRTHArPldgkqSneXRsrRJ9.jpg"
+    },
+    {
+      "name": "Gary Cole",
+      "image": "http://image.tmdb.org/t/p/w185/yk3HecThETfRIaMF2NKLhJElsbQ.jpg"
+    },
+    {
+      "name": "Amy Irving",
+      "image": "http://image.tmdb.org/t/p/w185/7bKYl70P5UmpaoNnlvZD82FLdR.jpg"
+    },
+    {
+      "name": "Patrick Bergin",
+      "image": "http://image.tmdb.org/t/p/w185/wmwtMCZsFTlckrsCpuz0jtuWu35.jpg"
+    }
+  ]
+}

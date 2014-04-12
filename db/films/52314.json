@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/9CMEqnG7vZBmjkrMhqZNHSH1YPF.jpg",
+    "name": "Chain of Command"
+  },
+  "cast": [
+    {
+      "name": "Michael Dudikoff",
+      "image": "http://image.tmdb.org/t/p/w185/A294gXdrJqttjZyui2H14GS6c2Z.jpg"
+    },
+    {
+      "name": "Todd Curtis"
+    },
+    {
+      "name": "Keren Tishman"
+    },
+    {
+      "name": "R. Lee Ermey",
+      "image": "http://image.tmdb.org/t/p/w185/r8GBqFBjypLUP9VVqDqfZ7wYbSs.jpg"
+    },
+    {
+      "name": "Steve Greenstein"
+    },
+    {
+      "name": "Eli Danker"
+    }
+  ]
+}

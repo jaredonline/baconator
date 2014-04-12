@@ -1,0 +1,27 @@
+{
+  "film": {
+    "name": "The Big Apple"
+  },
+  "cast": [
+    {
+      "name": "Arthur Murray"
+    },
+    {
+      "name": "Fred Gallagher"
+    },
+    {
+      "name": "Mary McCormack",
+      "image": "http://image.tmdb.org/t/p/w185/vMS1VGv0Cd2PMo2cuceNBPsd1GH.jpg"
+    },
+    {
+      "name": "Eddie Hall",
+      "image": "http://image.tmdb.org/t/p/w185/3MzgRiUyIHUvpPPFDSTGPC9ozPV.jpg"
+    },
+    {
+      "name": "Walter Palmer Quartet"
+    },
+    {
+      "name": "The Arthur Murray 'Shag' Dancers"
+    }
+  ]
+}

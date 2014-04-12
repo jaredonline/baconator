@@ -1,0 +1,34 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/hFNYiAjo168eNnWtG6HxhX40nbo.jpg",
+    "name": "Animals ferits"
+  },
+  "cast": [
+    {
+      "name": "José Coronado",
+      "image": "http://image.tmdb.org/t/p/w185/co7XjJSCr4kk4LkeIdqpmMaoOis.jpg"
+    },
+    {
+      "name": "Aitana Sánchez-Gijón",
+      "image": "http://image.tmdb.org/t/p/w185/xDwHP1d1q27BhZ8loBD3TCOBPmz.jpg"
+    },
+    {
+      "name": "Cecilia Rossetto"
+    },
+    {
+      "name": "Marc Cartes"
+    },
+    {
+      "name": "Cristina Plazas"
+    },
+    {
+      "name": "Patricia Arredondo"
+    },
+    {
+      "name": "Gerardo Zamora"
+    },
+    {
+      "name": "Aina Clotet"
+    }
+  ]
+}

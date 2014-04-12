@@ -1,0 +1,11 @@
+{
+  "film": {
+    "name": "Folies Bergère"
+  },
+  "cast": [
+    {
+      "name": "Isabelle Huppert",
+      "image": "http://image.tmdb.org/t/p/w185/nrbXaDh5zQEi2G7T5OILInm3f9p.jpg"
+    }
+  ]
+}

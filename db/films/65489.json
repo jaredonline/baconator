@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/3jEYLvawCkYQmduJg0U5h53v6Xn.jpg",
+    "name": "Malta Story"
+  },
+  "cast": [
+    {
+      "name": "Alec Guinness",
+      "image": "http://image.tmdb.org/t/p/w185/sNKqzb8U33pWVHJ338NjkHSEVDn.jpg"
+    },
+    {
+      "name": "Jack Hawkins",
+      "image": "http://image.tmdb.org/t/p/w185/7b6E24ZRLEPJwP0WQauXJPt41Fs.jpg"
+    },
+    {
+      "name": "Muriel Pavlow",
+      "image": "http://image.tmdb.org/t/p/w185/AeDBcOOhsjHgzT8DzbX5Nn0z3wS.jpg"
+    },
+    {
+      "name": "Anthony Steel",
+      "image": "http://image.tmdb.org/t/p/w185/wyHNx2YINFyUKOn68b4RCUBlBeE.jpg"
+    },
+    {
+      "name": "Renée Asherson",
+      "image": "http://image.tmdb.org/t/p/w185/syUX5Gu5TnMMHxDlgl6pqymuK5Y.jpg"
+    }
+  ]
+}

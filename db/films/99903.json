@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/7o0fRyLpuXcp1ZKLaDbje7OVBcD.jpg",
+    "name": "Pídele cuentas al rey"
+  },
+  "cast": [
+    {
+      "name": "Antonio Resines",
+      "image": "http://image.tmdb.org/t/p/w185/j9JW21A0e3gAbX7w25lSpTBJY1C.jpg"
+    },
+    {
+      "name": "Adriana Ozores",
+      "image": "http://image.tmdb.org/t/p/w185/1TwpANgl6w8FqVRcieiSFu1XFSz.jpg"
+    },
+    {
+      "name": "Nicolás Fernández Luna"
+    }
+  ]
+}

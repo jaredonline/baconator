@@ -1,0 +1,19 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/ffupggfwsU7fJbSkXgQq2B4dxPz.jpg",
+    "name": "Fausto 5.0"
+  },
+  "cast": [
+    {
+      "name": "Miguel Ángel Solá"
+    },
+    {
+      "name": "Eduard Fernández",
+      "image": "http://image.tmdb.org/t/p/w185/amJKpgzBvEr9d6WIuT1MjADzDZT.jpg"
+    },
+    {
+      "name": "Najwa Nimri",
+      "image": "http://image.tmdb.org/t/p/w185/1HjYUf3gvfEXP26Z2ejflW2AtOi.jpg"
+    }
+  ]
+}

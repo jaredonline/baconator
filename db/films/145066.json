@@ -1,0 +1,28 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/kJYVr0029Gvs78A3W7YkccluG7c.jpg",
+    "name": "Waterland"
+  },
+  "cast": [
+    {
+      "name": "Jeremy Irons",
+      "image": "http://image.tmdb.org/t/p/w185/9AWphjIgGX7JjTrwrx3tsTZlUgv.jpg"
+    },
+    {
+      "name": "Sinéad Cusack",
+      "image": "http://image.tmdb.org/t/p/w185/r9eWOKN1WtE7RMDAwIhOpMRh3wL.jpg"
+    },
+    {
+      "name": "Ethan Hawke",
+      "image": "http://image.tmdb.org/t/p/w185/kcby6VYk6Gb0036nUyh8chY5ZAJ.jpg"
+    },
+    {
+      "name": "Pete Postlethwaite",
+      "image": "http://image.tmdb.org/t/p/w185/o1W1V3jUKP0HvXbduvYjXM5tnaF.jpg"
+    },
+    {
+      "name": "Lena Headey",
+      "image": "http://image.tmdb.org/t/p/w185/6BZiPycIueJ3t0iEozWCbUZleuj.jpg"
+    }
+  ]
+}

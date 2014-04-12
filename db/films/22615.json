@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/haXw36zr9c59Vh39MoLF9kqfnRH.jpg",
+    "name": "Kiss Kiss (Bang Bang)"
+  },
+  "cast": [
+    {
+      "name": "Stellan Skarsgård",
+      "image": "http://image.tmdb.org/t/p/w185/hjWdhX7zEI0DkF7gA4hcEVcYCZl.jpg"
+    },
+    {
+      "name": "Chris Penn",
+      "image": "http://image.tmdb.org/t/p/w185/mXZlwJyIsnONX476zPByBHcdmtJ.jpg"
+    },
+    {
+      "name": "Paul Bettany",
+      "image": "http://image.tmdb.org/t/p/w185/1zmr8C7TCqsoCjDVKJycVp2wWyf.jpg"
+    }
+  ]
+}

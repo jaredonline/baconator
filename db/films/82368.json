@@ -1,0 +1,21 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/9c9wcuk82KuG9TelVdjcSc0reyG.jpg",
+    "name": "Love and Larceny"
+  },
+  "cast": [
+    {
+      "name": "Vittorio Gassman",
+      "image": "http://image.tmdb.org/t/p/w185/53ICH7uNIj795ATZCdDICmRqUEo.jpg"
+    },
+    {
+      "name": "Anna Maria Ferrero"
+    },
+    {
+      "name": "Fosco Giachetti"
+    },
+    {
+      "name": "Luigi Pavese"
+    }
+  ]
+}

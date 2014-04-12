@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/68a68qALehxulfbL2P56OKAJ6Ci.jpg",
+    "name": "The Favor"
+  },
+  "cast": [
+    {
+      "name": "Brad Pitt",
+      "image": "http://image.tmdb.org/t/p/w185/kc3M04QQAuZ9woUvH3Ju5T7ZqG5.jpg"
+    },
+    {
+      "name": "Harley Jane Kozak",
+      "image": "http://image.tmdb.org/t/p/w185/VXtpLchVBUib398pwahLPbgSeT.jpg"
+    },
+    {
+      "name": "Bill Pullman",
+      "image": "http://image.tmdb.org/t/p/w185/lBeo0LqPSRe9JWN2SnQNwY8Rtiu.jpg"
+    },
+    {
+      "name": "Elizabeth McGovern",
+      "image": "http://image.tmdb.org/t/p/w185/oECBsmiZ8OWxm6iQCV5o0eViLRg.jpg"
+    }
+  ]
+}

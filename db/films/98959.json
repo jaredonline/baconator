@@ -1,0 +1,24 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/8o2FFkhQbnmYlUh4FZJ6jyx1ij0.jpg",
+    "name": "El juego de la verdad"
+  },
+  "cast": [
+    {
+      "name": "Tristán Ulloa",
+      "image": "http://image.tmdb.org/t/p/w185/AmiVKczdJG7zxqzX3Jh9IHYk8Yc.jpg"
+    },
+    {
+      "name": "Natalia Verbeke",
+      "image": "http://image.tmdb.org/t/p/w185/j6t29arDzBihVFbGnvxfqF2CXpK.jpg"
+    },
+    {
+      "name": "María Esteve",
+      "image": "http://image.tmdb.org/t/p/w185/trNjlqmcNzS0x9tYBO1zfMFv0E0.jpg"
+    },
+    {
+      "name": "Óscar Jaenada",
+      "image": "http://image.tmdb.org/t/p/w185/zYmqwknzYFKB9SMGgAOxfw3nx3l.jpg"
+    }
+  ]
+}

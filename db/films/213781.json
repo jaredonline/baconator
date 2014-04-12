@@ -1,0 +1,27 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/6TjICHMgEtT3x3TU0W3uc0B7dxI.jpg",
+    "name": "Le Prénom : La Pièce de Théâtre"
+  },
+  "cast": [
+    {
+      "name": "Patrick Bruel",
+      "image": "http://image.tmdb.org/t/p/w185/1s6eR0MEbxulZPUteVnHxpwXF4F.jpg"
+    },
+    {
+      "name": "Valérie Benguigui",
+      "image": "http://image.tmdb.org/t/p/w185/tHh7G038Hh9KXREgNYpTKtuZc9f.jpg"
+    },
+    {
+      "name": "Guillaume De Tonquédec"
+    },
+    {
+      "name": "Jean-Michel Dupuis",
+      "image": "http://image.tmdb.org/t/p/w185/zUqyn3aQXTzeP1n8yd8Udt1twYA.jpg"
+    },
+    {
+      "name": "Judith El Zein",
+      "image": "http://image.tmdb.org/t/p/w185/hNOoT8PHPll504DgweJMpE0oscu.jpg"
+    }
+  ]
+}

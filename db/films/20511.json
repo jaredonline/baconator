@@ -1,0 +1,20 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/sq8Yz3iIuAcuiKsIErvjeBSghkm.jpg",
+    "name": "Crónicas"
+  },
+  "cast": [
+    {
+      "name": "John Leguizamo",
+      "image": "http://image.tmdb.org/t/p/w185/35GP0AuAtmCNf29sq0cpZE2LHU5.jpg"
+    },
+    {
+      "name": "José María Yazpik",
+      "image": "http://image.tmdb.org/t/p/w185/nAqoMEyfAtRbLjvREkncXYbnZeE.jpg"
+    },
+    {
+      "name": "Leonor Watling",
+      "image": "http://image.tmdb.org/t/p/w185/6M9s0VigBmmVOBbkRTQz1K0LbN4.jpg"
+    }
+  ]
+}

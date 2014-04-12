@@ -1,0 +1,29 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/epkxo4qDXO47pL9FTtyfZm9USJK.jpg",
+    "name": "Leaps and Bounds"
+  },
+  "cast": [
+    {
+      "name": "Ali Abdulsalam"
+    },
+    {
+      "name": "Richard Jarl"
+    },
+    {
+      "name": "Peter Stormare",
+      "image": "http://image.tmdb.org/t/p/w185/dDR0brp5L7fXDyEywrhjQv01LSg.jpg"
+    },
+    {
+      "name": "Per Fritzell",
+      "image": "http://image.tmdb.org/t/p/w185/40FlTdfD09l0KDj0e2d9B9tsK4q.jpg"
+    },
+    {
+      "name": "Lina Welander"
+    },
+    {
+      "name": "Marie Göranzon",
+      "image": "http://image.tmdb.org/t/p/w185/bW96ukyHOLlvnRYnaFqQyeXDyep.jpg"
+    }
+  ]
+}

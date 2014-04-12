@@ -1,0 +1,26 @@
+{
+  "film": {
+    "image": "http://image.tmdb.org/t/p/w185/3w9gzKr3dXiHjNFvOrUhMdekLs1.jpg",
+    "name": "A golpes"
+  },
+  "cast": [
+    {
+      "name": "Natalia Verbeke",
+      "image": "http://image.tmdb.org/t/p/w185/j6t29arDzBihVFbGnvxfqF2CXpK.jpg"
+    },
+    {
+      "name": "Daniel Guzmán",
+      "image": "http://image.tmdb.org/t/p/w185/n5ZH9p2P3tr9TGgLjInmKIOC8ts.jpg"
+    },
+    {
+      "name": "Juana Acosta"
+    },
+    {
+      "name": "María Vázquez"
+    },
+    {
+      "name": "Marian Álvarez",
+      "image": "http://image.tmdb.org/t/p/w185/udU67WPPTZwgi4PTvBDn3AeBKPK.jpg"
+    }
+  ]
+}
