@@ -2,6 +2,7 @@
 # specifically for sorting BaconNodes by their depth.
 # This way we can #shift the first one off the array and be
 # confident we're searching from the best position
+#
 class Bacon::Array < Array
 
   def self.[](*array)

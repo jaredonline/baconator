@@ -17,7 +17,7 @@ namespace :bacon do
   desc "This will run bacon link path calculation for all actors"
   task :precalculate_paths => :environment do
     puts "Staring baconation. Hold on to your butts!"
-    baconator = Baconator.new
+    baconator = Bacon::Ator.new
 
     # Start off by setting all movies KB is in to link
     # back to him directly

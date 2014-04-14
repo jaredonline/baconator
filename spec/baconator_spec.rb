@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Baconator do
+describe Bacon::Ator do
   it "" do
     jd = mock_model(Actor, name: "Johnny Depp", bacon_link: nil).as_null_object
     mr = mock_model(Actor, name: "Micky Rourke", bacon_link: nil).as_null_object
@@ -47,7 +47,7 @@ describe Baconator do
     mr.stub(:movies).and_return(mr_movies)
     kb.stub(:movies).and_return(kb_movies)
 
-    baconator = Baconator.new
+    baconator = Bacon::Ator.new
     path      = baconator.calculate_path(jd)
 
     path.length.should eq 5
@@ -96,7 +96,7 @@ describe Baconator do
     kb.stub(:movies).and_return(kb_movies)
     pc.stub(:movies).and_return(pc_movies)
 
-    baconator = Baconator.new
+    baconator = Bacon::Ator.new
     path      = baconator.calculate_path(pc)
 
     path.length.should eq 3

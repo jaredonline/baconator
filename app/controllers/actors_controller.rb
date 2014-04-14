@@ -8,7 +8,7 @@ class ActorsController < ApplicationController
 
   def show
     actor = Actor.find actor_params[:id]
-    path  = actor.full_bacon_path
+    path  = BaconLinkBuilder.full_bacon_path(actor)
 
     respond_to do |format|
       format.json { render json: path.to_json }
