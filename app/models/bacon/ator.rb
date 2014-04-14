@@ -116,12 +116,12 @@ module Bacon
     def process_new_node(node)
       continue_unless_match(node) do
         if (node_in_queue = queue.find { |n| n.name == node.name }).present?
-          if node.f_score < node_in_queue.f_score
+          if node.depth < node_in_queue.depth
             queue.delete(node_in_queue)
             queue << node
           end
         elsif (node_in_queue = marked.find { |n| n.name == node.name }).present?
-          if node.f_score < node_in_queue.f_score
+          if node.depth < node_in_queue.depth
             marked.delete(node_in_queue)
             queue << node
           end
