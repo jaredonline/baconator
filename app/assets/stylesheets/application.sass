@@ -1,0 +1,44 @@
+//= require_tree .
+//= require_self
+
+#loading
+  margin-top: 20px
+
+  [class^="col"]
+    margin-top: 40px
+    text-align: center
+
+.result-set
+  counter-reset: result-count
+
+  .not-found
+    padding-top: 20px
+    text-align:  center
+
+.result
+  text-align: center
+
+  .actor:before
+    content:           counter(result-count)
+    counter-increment: result-count
+    position:          absolute
+    left:              0
+    top:               30px
+    font-size:         70px
+
+  p
+    &[class^="caption"]
+      margin-top: 7px
+      font-weight: bold
+
+    &.caption-movie
+      font-style: italic
+
+  img
+    max:
+      height: 200px
+      width:  200px
+
+  .connector
+    font-size:   20px
+    padding-top: 80px

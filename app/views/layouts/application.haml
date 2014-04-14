@@ -1,0 +1,22 @@
+!!! 5
+%html
+  %head
+    %title Bacon
+
+    = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true
+    = csrf_meta_tags
+
+  %body
+    .navbar.navbar-default(role="navigation")
+      .container
+        .navbar-header
+          = link_to "Six Degrees of Kevin Bacon", "/", class: "navbar-brand"
+
+        %ul.nav.navbar-nav.navbar-right
+          %li
+            = link_to "GitHub", "http://github.com/jaredonline", target: "_blank"
+
+    .container
+      = yield
+
+    = javascript_include_tag 'application', 'data-turbolinks-track' => true

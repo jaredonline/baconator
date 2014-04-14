@@ -1,0 +1,78 @@
+<div class="page-header">
+  <h1>Six Degrees of Kevin Bacon</h1>
+
+  <blockquote>
+    <p>
+      Six Degrees of Kevin Bacon is a parlor game wherein movie buffs
+      challenge each other to find the shortest path between an arbitrary
+      actor and prolific Hollywood character actor Kevin Bacon. It rests on
+      the assumption that any individual involved in the Hollywood,
+      California, film industry can be linked through his or her film roles
+      to Kevin Bacon within six steps.
+    </p>
+    <footer>
+      From <a href="http://en.wikipedia.org/wiki/Six_degrees_of_kevin_bacon" target="_blank">WikiPedia</a>:
+    </footer>
+  </blockquote>
+</div>
+
+<div class="col-md-12">
+
+  <form role="form">
+    <div id="typeahead" class="form-group">
+      <label>Enter the name of an actor to see their Bacon Link</label>
+      {{ type-ahead classNames="form-control input-lg" data=model name="name" selection=selectedActor }}
+    </div>
+  </form>
+
+  <hr />
+
+  {{#if selectedActor }}
+    <div class="result-set">
+      {{#each link}}
+        <div class="row result">
+          <div class="col-md-3 actor">
+            <img class="img-responsive img-thumbnail" {{bind-attr src=first.image_url}} />
+            <p class="caption-actor">
+              {{ first.name }}
+            </p>
+          </div>
+          <div class="col-md-1">
+            <p class="connector text-muted">
+              Was in
+            </p>
+          </div>
+          <div class="col-md-3">
+            <img class="img-responsive img-thumbnail" {{bind-attr src=movie.image_url}} />
+            <p class="caption-movie">
+              {{ movie.name }}
+            </p>
+          </div>
+          <div class="col-md-1">
+            <p class="connector text-muted">
+              With
+            </p>
+          </div>
+          <div class="col-md-3">
+            <img class="img-responsive img-thumbnail" {{bind-attr src=last.image_url}} />
+            <p class="caption-actor">
+              {{ last.name }}
+            </p>
+          </div>
+        </div>
+
+        <hr />
+      {{else}}
+        <p class="lead not-found">
+          As far as we can tell {{ selectedActor.name }} and Kevin Bacon are mortal enemies and don't do movies together.
+          <br />
+          Try someone else.
+        </p>
+      {{/each}}
+    </div>
+
+    <div style="display: none">
+      {{ baconLink }}
+    </div>
+  {{/if}}
+</div>
