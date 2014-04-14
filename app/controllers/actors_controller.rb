@@ -1,6 +1,7 @@
 class ActorsController < ApplicationController
   def index
-    actors = Actor.where.not(name: "Kevin Bacon")#.where.not(bacon_link_id: nil)
+    # No reason to return actors we couldn't find a link for
+    actors = Actor.where.not(name: "Kevin Bacon").where.not(bacon_link_id: nil)
     respond_to do |format|
       format.json { render json: actors.to_json }
     end
