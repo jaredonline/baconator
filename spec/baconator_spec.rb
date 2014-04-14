@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 describe Bacon::Ator do
-  it "" do
+  it "traverses a simple graph to find a link" do
     jd = mock_model(Actor, name: "Johnny Depp", bacon_link: nil).as_null_object
     mr = mock_model(Actor, name: "Micky Rourke", bacon_link: nil).as_null_object
     kb = mock_model(Actor, name: "Kevin Bacon", bacon_link: nil).as_null_object
@@ -53,7 +53,7 @@ describe Bacon::Ator do
     path.length.should eq 5
   end
 
-  it "" do
+  it "traverses using bacon links when possible" do
     kb = mock_model(Actor, name: "Kevin Bacon", bacon_link: nil).as_null_object
 
     diner  = mock_model(
