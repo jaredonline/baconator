@@ -16,12 +16,12 @@ module Bacon
   #
   class Node
     def self.create(element, depth, parent = nil)
-      klass = if element.is_a?(Actor)
+      klass = if element.is_a?(ActorPoint)
                 ActorNode
-              elsif element.is_a?(Movie)
+              elsif element.is_a?(MoviePoint)
                 MovieNode
               else
-                raise "element must be of class Actor or Movie, was #{element.class}"
+                raise "element must be of class ActorPoint or MoviePoint, was #{element.class}"
               end
 
       klass.new(element, depth, parent)
@@ -67,15 +67,15 @@ module Bacon
     def name
       element.name
     end
+
+    def edges
+      element.connections
+    end
   end
 
   class ActorNode < Node
     def bacon?
       name == "Kevin Bacon"
-    end
-
-    def edges
-      actor.movies
     end
 
     def actor
@@ -84,10 +84,6 @@ module Bacon
   end
 
   class MovieNode < Node
-    def edges
-      movie.actors
-    end
-
     def movie
       element
     end

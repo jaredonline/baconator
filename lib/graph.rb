@@ -5,11 +5,11 @@ class Graph
   end
 
   def add_actor(actor)
-    @actors[actor.id] ||= ActorNode.new(actor)
+    @actors[actor.id] ||= ActorPoint.new(actor)
   end
   
   def add_movie(movie)
-    @movies[movie.id] ||= MovieNode.new(movie)
+    @movies[movie.id] ||= MoviePoint.new(movie)
   end
 
   def actors
@@ -17,7 +17,8 @@ class Graph
   end
 
   def find_actor(actor)
-    @actors[actor.id]
+    selector = actor.is_a?(ActorPoint) ? actor.element : actor
+    @actors[selector.id]
   end
 
   def movies
@@ -25,50 +26,58 @@ class Graph
   end
 
   def find_movie(movie)
-    @movies[movie.id]
+    selector = movie.is_a?(MoviePoint) ? movie.element : movie
+    @movies[selector.id]
   end
 
   def connect(actor, movie)
-    actor_node = find_actor(actor)
-    movie_node = find_movie(movie)
+    actor_point = find_actor(actor)
+    movie_point = find_movie(movie)
 
-    if actor_node.present? && movie_node.present?
-      actor_node.add_connection(movie_node)
-      movie_node.add_connection(actor_node)
+    if actor_point.present? && movie_point.present?
+      actor_point.add_connection(movie_point)
+      movie_point.add_connection(actor_point)
     end
   end
 end
 
-class MovieNode
-  attr_reader :movie, :connections
+class Point
+  attr_reader :element, :connections
 
-  def initialize(movie)
-    @movie       = movie
+  def initialize(element)
+    @element     = element
     @connections = Set.new
   end
 
-  def element
-    movie
+  def name
+    element.name
   end
 
-  def add_connection(actor_node)
-    @connections << actor_node
+  def to_s
+    "<MoviePoint movie=#{element.name.inspect} connections=#{connections.count} >"
+  end
+
+  def inspect
+    to_s
   end
 end
 
-class ActorNode
-  attr_reader :actor, :connections
-
-  def initialize(actor)
-    @actor       = actor
-    @connections = Set.new
+class MoviePoint < Point
+  def movie
+    element
   end
 
-  def element
-    actor
+  def add_connection(actor_point)
+    @connections << actor_point
+  end
+end
+
+class ActorPoint < Point
+  def actor
+    element
   end
 
-  def add_connection(movie_node)
-    @connections << movie_node
+  def add_connection(movie_point)
+    @connections << movie_point
   end
 end

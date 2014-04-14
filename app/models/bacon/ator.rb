@@ -38,9 +38,11 @@
 #
 module Bacon
   class Ator
-    attr_reader :options, :queue, :marked, :final, :target, :final_path, :start
+    attr_reader :options, :queue, :marked, :final, :target, :final_path, :start, :graph
 
-    def initialize(options = {})
+    def initialize(graph, options = {})
+      @graph   = graph
+
       @options = {
         logging: false,
         disable_save: false
@@ -48,9 +50,10 @@ module Bacon
     end
 
     def reset_baconator(actor)
-      node = Bacon::Node.create(actor, 0)
+      point = graph.find_actor(actor)
+      node  = Bacon::Node.create(point, 0)
 
-      @start      = actor
+      @start      = point
       @queue      = Bacon::Array[node]
       @marked     = []
       @final      = nil
@@ -74,7 +77,13 @@ module Bacon
       reset_baconator(actor)
       node_search do |current_node|
         process_single_node(current_node)
-        check_existing_bacon_link(current_node)
+      end
+    end
+
+    def print
+      puts ""
+      final_path.each do |element|
+        puts element.name
       end
     end
 
@@ -161,26 +170,14 @@ module Bacon
       self.final_path
     end
 
-    def check_existing_bacon_link(node)
-      element = node.element
-
-      while element.bacon_link.present?
-        new_node = Bacon::Node.create(element.bacon_link, node.depth + 1, node)
-        break if new_node.bacon?
-        process_new_node(new_node)
-        element  = element.bacon_link
-        node     = new_node
-      end
-    end
-
     # This method just iterates over the final_path array and
     # sets bacon_links if they haven't been set already
     #
     def save_results
       unless self.options[:disable_save] == true
         self.final_path.inject(nil) do |previous, link|
-          unless previous.nil? || previous.bacon_link.present?
-            previous.update_attribute(:bacon_link_id, link.id)
+          unless previous.nil? || previous.element.bacon_link.present?
+            previous.element.update_attribute(:bacon_link_id, link.element.id)
           end
           link
         end
@@ -205,12 +202,7 @@ module Bacon
       @bacon ||= Actor.where(name: "Kevin Bacon").first
     end
 
-    def print
-      puts ""
-      final_path.each do |element|
-        puts element.name
-      end
-    end
+    
 
     def log(*args)
       if options[:logging]
