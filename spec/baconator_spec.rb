@@ -105,7 +105,7 @@ describe Baconator do
   it 'bacons' do
     kb = mock_model(Actor, name: "Kevin Bacon")
 
-    node = BaconNode.create(kb, 0)
+    node = Bacon::Node.create(kb, 0)
     node.should be_bacon
   end
 end

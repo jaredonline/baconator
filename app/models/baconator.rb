@@ -1,43 +1,15 @@
-# Special array class for quick insertion of sorted elements
-# specifically for sorting BaconNodes by their depth.
-# This way we can #shift the first one off the array and be
-# confident we're searching from the best position
-class SortedArray < Array
-
-  def self.[](*array)
-    SortedArray.new(array)
-  end
-
-  def initialize(array = nil)
-    super(array.sort_by(&:depth)) if array
-  end
-
-  def <<(value)
-    insert(index_for_value(value.depth), value)
-  end
-
-  private
-  def index_for_value(value)
-    index = 0
-    max   = length - 1
-    while index <= max
-      lookup = (max + index) / 2
-
-      if value < self[lookup].depth
-        max = lookup - 1
-      else
-        index = lookup + 1
-      end
-    end
-    index
-  end
-end
-
 # The Baconator is the main class behind finding the link between
 # one node and Kevin Bacon. You can pass it either an Actor or Movie
 # object and it will find the closest link.
 #
-# It runs a modified version of A* search algorithm.
+# It runs a modified version of A* search algorithm. The biggest difference
+# between Bacon::Ator and A* is that when Bacon::Ator finds a node that
+# has a #bacon_link it'll switch from doing Breadth-First to Depth-First and
+# follow that #bacon_link all the way to KB himself (it doesn't automatically
+# return that tree. It adds all the nodes encountered to the queue for further
+# investigation but will keep search for better paths). I added this as a slight
+# optimization but I'm not honestly sure it helps. It's hard to say with such
+# a large data set.
 #
 # It can be initialized with two options:
 #   logging: this indicates whether or not the processing information
@@ -61,6 +33,9 @@ end
 # Because there are many paths from one node to Kevin Bacon results aren't
 # guaranteed to be the same between runs.
 #
+# A single Bacon::Ator instance can safely run a search across any number
+# of elements.
+#
 class Baconator
   attr_reader :options, :queue, :marked, :final, :target, :final_link, :start
 
@@ -72,24 +47,28 @@ class Baconator
   end
 
   def reset_baconator(actor)
-    node = BaconNode.create(actor, 0)
+    node = Bacon::Node.create(actor, 0)
 
     @start      = actor
-    @queue      = SortedArray[node]
+    @queue      = Bacon::Array[node]
     @marked     = []
     @final      = nil
     @steps      = 0
     @processed  = 0
     @started    = Time.now
     @final_link = []
-
-    set_target(bacon)
+    @target     = target
   end
 
-  def set_target(target)
-    @target = target
-  end
-
+  # This is the main entry point to do a search on a node.
+  #
+  # It takes a single argument:
+  #   actor: Actor is the node that you want to find a path
+  #          to KB from.
+  #
+  # It returns an array (sorted with your input first) that
+  # is the path from your node to KB himself!
+  #
   def calculate_path(actor)
     reset_baconator(actor)
     node_search do |current_node|
@@ -107,7 +86,7 @@ class Baconator
 
   def process_node_edges(node)
     node.edges.each do |edge|
-      new_node      = BaconNode.create(edge, node.depth + 1, node)
+      new_node      = Bacon::Node.create(edge, node.depth + 1, node)
       process_new_node(new_node)
     end
   end
@@ -163,7 +142,7 @@ class Baconator
     element = node.element
 
     while element.bacon_link.present?
-      new_node = BaconNode.create(element.bacon_link, node.depth + 1, node)
+      new_node = Bacon::Node.create(element.bacon_link, node.depth + 1, node)
       break if new_node.bacon?
       process_new_node(new_node)
       element  = element.bacon_link
@@ -216,83 +195,3 @@ class Baconator
   end
 end
 
-class BaconNode
-  def self.create(element, depth, parent = nil)
-    klass = if element.is_a?(Actor)
-              ActorBaconNode
-            elsif element.is_a?(Movie)
-              MovieBaconNode
-            else
-              raise "element must be of class Actor or Movie, was #{element.class}"
-            end
-
-    klass.new(element, depth, parent)
-  end
-
-  attr_reader :parent, :element, :depth
-
-  def to_s
-    "#{name} -- #{depth} -- #{parent.nil? ? "[root]" : parent.name}"
-  end
-
-  def initialize(element, depth, parent)
-    @element = element
-    @parent  = parent
-    @depth   = depth
-  end
-
-  def length
-    @length ||= begin
-      length = 0
-      node   = self.dup
-      while node.present?
-        length += 1
-        node = node.parent
-      end
-
-      length
-    end
-  end
-
-  def ==(object)
-    return super unless object.is_a?(self.class)
-    name == object.name
-  end
-
-  def bacon?
-    false
-  end
-
-  def name
-    element.name
-  end
-end
-
-class ActorBaconNode < BaconNode
-  def bacon?
-    name == "Kevin Bacon"
-  end
-
-  def edges
-    actor.movies
-  end
-
-  def actor
-    element
-  end
-end
-
-class MovieBaconNode < BaconNode
-  def ==(object)
-    return super unless object.is_a?(MovieBaconNode)
-    movie.name == object.movie.name
-  end
-
-  def edges
-    movie.actors
-  end
-
-  def movie
-    element
-  end
-end
