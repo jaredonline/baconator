@@ -1,6 +1,11 @@
+# The BaconController is the main controller for the ember app
+#
+# It's responsible for maintaining the selected actor and firing
+# off the request to the server once an actor has been selected.
+# It also parses the response for use in the view.
+#
 Bacon.BaconController = Ember.Controller.extend
   selectedActor: null
-  showSpinner: true
 
   link: (() -> []).property("baconLink")
 
@@ -10,6 +15,12 @@ Bacon.BaconController = Ember.Controller.extend
 
     $.getJSON(url).then (response) ->
       result = for link in response
+        # This very verbose builder is taking the JSON from the server
+        # and initializing objects with it. It's then checking to see
+        # whether or not the server provided an image_url for this object.
+        # If not, it doesn't set one on the initialized object, this way
+        # the default will be maintained
+        #
         first = Bacon.Actor.create
           name: link.first.name
 
@@ -33,7 +44,6 @@ Bacon.BaconController = Ember.Controller.extend
           movie:     movie
           last:      last
 
-      console.log result
       _that.set("link", result)
 
   ).property("selectedActor")

@@ -1,3 +1,14 @@
+/*
+ * Grabbed from https://github.com/charlieridley/ember-typeahead
+ *
+ * Slightly modified to use the Bloodhound tokenizer
+ *
+ * This component is used for creating the typeahead search box
+ * found on the homepage. It takes an array, passes it to the
+ * Bloodhound module and initializes a new jQuery Typeahead element
+ * with it. Typeahead is a Twitter module found here https://github.com/twitter/typeahead.js
+ *
+ */
 (function(root, undefined) {
   "use strict";
   Ember.TypeAheadComponent = Ember.TextField.extend({

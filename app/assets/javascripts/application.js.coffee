@@ -8,6 +8,7 @@
 #= require bacon
 
 # for more details see: http://emberjs.com/guides/application/
+#
 window.Bacon = Ember.Application.create
   rootElement: "#bacon-content"
 
