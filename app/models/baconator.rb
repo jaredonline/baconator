@@ -57,7 +57,7 @@ class Baconator
     @processed  = 0
     @started    = Time.now
     @final_link = []
-    @target     = target
+    @target     = bacon
   end
 
   # This is the main entry point to do a search on a node.
