@@ -25,5 +25,45 @@ The app was built using [Ruby](https://www.ruby-lang.org/en/) `2.1.0p0` and [Rai
 
 Other than ruby and Rails, you'll need a SQL based database. I used the
 default Rails setup with [Sqlite](https://sqlite.org/) and a webserver
-of some sort. I built it using [POW](http://pow.cx/)
+of some sort. I built it using [POW](http://pow.cx/).
+
+### Configuration
+
+The biggest pieces of configuration are the database and the web server.
+Both of those can be setup in the Gemfile.
+
+You'll have to change the setting in `database.yml` if you use something
+other than Sqlite
+
+### Database creation
+
+You can create the DB via `rake`:
+
+```sh
+rake db:migrate
+```
+
+### Database initialization
+
+You can initialize all the actors/movies via `rake`. Note this will drop
+all the existing actors and movies first.
+
+```sh
+rake bacon:import_films
+```
+
+You can calculate the Bacon Paths for all the actors in the DB via
+`rake` as well.
+
+```sh
+rake bacon:precalculate_paths
+```
+
+### How to run the test suite
+
+The test suite is written using RSpec and can be run with
+
+```sh
+rspec spec
+```
 
