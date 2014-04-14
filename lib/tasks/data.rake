@@ -23,6 +23,7 @@ namespace :bacon do
     Movie.all.find_each.with_index do |movie, index|
       printf "\rAdding movie #{index} / #{total_movies}"
       movie_point = graph.add_movie(movie)
+      movie_point.bacon_distance = BaconLinkBuilder.raw_bacon_path(movie).try(:length)
 
       movie.actors.each do |actor|
         actor_point = graph.add_actor(actor)
