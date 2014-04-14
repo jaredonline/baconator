@@ -1,33 +1,66 @@
+# Special array class for quick insertion of sorted elements
+# specifically for sorting BaconNodes by their depth.
+# This way we can #shift the first one off the array and be
+# confident we're searching from the best position
 class SortedArray < Array
 
-  def self.[] *array
+  def self.[](*array)
     SortedArray.new(array)
   end
 
-  def initialize array=nil
-    super( array.sort_by(&:depth) ) if array
+  def initialize(array = nil)
+    super(array.sort_by(&:depth)) if array
   end
 
   def <<(value)
-    insert index_of_last_LE(value.depth), value
+    insert(index_for_value(value.depth), value)
   end
 
-  alias push <<
+  private
+  def index_for_value(value)
+    index = 0
+    max   = length - 1
+    while index <= max
+      lookup = (max + index) / 2
 
-  def index_of_last_LE(value)
-    l,r = 0, length-1
-    while l <= r
-      m = (r+l) / 2
-      if value < self[m].depth
-        r = m - 1
+      if value < self[lookup].depth
+        max = lookup - 1
       else
-        l = m + 1
+        index = lookup + 1
       end
     end
-    l
+    index
   end
 end
 
+# The Baconator is the main class behind finding the link between
+# one node and Kevin Bacon. You can pass it either an Actor or Movie
+# object and it will find the closest link.
+#
+# It runs a modified version of A* search algorithm.
+#
+# It can be initialized with two options:
+#   logging: this indicates whether or not the processing information
+#            should be output to STDOUT during the run. Defaults to true
+#
+#   disable_save: this indicates whether or not the Baconator should
+#                 save the results by updating the bacon_link_id attribute
+#                 of nodes when a result is found. Defaults to false
+#
+# Example:
+#   actor     = Actor.where(name: "Johnny Depp").first
+#   baconator = Baconator.new
+#   baconator.calculate_path(actor)
+#   baconator.print
+#    # => Johnny Depp
+#    # => Once Upon a Time in Mexico
+#    # => Micky Rourke
+#    # => Diner
+#    # => Kevin Bacon
+#
+# Because there are many paths from one node to Kevin Bacon results aren't
+# guaranteed to be the same between runs.
+#
 class Baconator
   attr_reader :options, :queue, :marked, :final, :target, :final_link, :start
 

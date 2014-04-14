@@ -1,3 +1,4 @@
+desc "This runs bacon:import_films and bacon:precalculate_paths"
 task :bacon => ["bacon:import_films", "bacon:precalculate_paths"] do
 end
 
@@ -27,6 +28,7 @@ namespace :bacon do
 
     Actor.where(bacon_link_id: nil).where.not(name: "Kevin Bacon").all.each do |actor|
       baconator.calculate_path(actor)
+      puts "Baconated #{actor.name}!"
     end
   end
 end
