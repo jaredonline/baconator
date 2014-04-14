@@ -37,12 +37,6 @@ other than Sqlite
 
 ### Database creation
 
-Before running the test suite you'll need to initialize a test database.
-
-```sh
-rake db:migrate RAILS_ENV=test
-```
-
 You can create the DB via `rake`:
 
 ```sh
@@ -66,6 +60,12 @@ rake bacon:precalculate_paths
 ```
 
 ### How to run the test suite
+
+Before running the test suite you'll need to initialize a test database.
+
+```sh
+rake db:migrate RAILS_ENV=test
+```
 
 The test suite is written using RSpec and can be run with
 
