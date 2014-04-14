@@ -40,13 +40,6 @@ namespace :bacon do
     puts "Staring baconation. Hold on to your butts!"
     baconator = Bacon::Ator.new(graph)
 
-    # Start off by setting all movies KB is in to link
-    # back to him directly
-    kevin = Actor.where(name: "Kevin Bacon").first
-    kevin.movies do |movie|
-      movie.update_attribute(:bacon_link_id, kevin.id)
-    end
-
     Actor.where(bacon_link_id: nil).where.not(name: "Kevin Bacon").find_each do |actor|
       actor.reload
       if actor.bacon_link.nil?
