@@ -11,14 +11,19 @@ The Baconator is a Rails app that covers three basic things:
 ## Running
 
   * [Ruby version](#ruby-version)
-  * System dependencies
-  * Configuration
-  * Database creation
-  * Database initialization
-  * How to run the test suite
-  * Services (job queues, cache servers, search engines, etc.)
-  * Deployment instructions
-  * 
+  * [System dependencies](#system-dependencies)
+  * [Configuration](#configuration)
+  * [Database creation](#database-creation)
+  * [Database initialization](#database-initialization)
+  * [How to run the test suite](#how-to-run-the-test-suite)
 
 ### Ruby Version
+
+The app was built using [Ruby](https://www.ruby-lang.org/en/) `2.1.0p0` and [Rails](http://rubyonrails.org/) `4.1.0`
+
+### System dependencies
+
+Other than ruby and Rails, you'll need a SQL based database. I used the
+default Rails setup with [Sqlite](https://sqlite.org/) and a webserver
+of some sort. I built it using [POW](http://pow.cx/)
 
