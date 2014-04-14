@@ -26,10 +26,13 @@ namespace :bacon do
       movie.update_attribute(:bacon_link_id, kevin.id)
     end
 
-    Actor.where(bacon_link_id: nil).where.not(name: "Kevin Bacon").all.each do |actor|
-      baconator.calculate_path(actor)
-      puts "Baconated #{actor.name}!"
-      GC.start
+    Actor.where(bacon_link_id: nil).where.not(name: "Kevin Bacon").find_each do |actor|
+      actor.reload
+      if actor.bacon_link.nil?
+        baconator.calculate_path(actor)
+        puts "Baconated #{actor.name}!"
+        GC.start
+      end
     end
   end
 end
