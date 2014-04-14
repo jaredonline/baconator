@@ -1,5 +1,5 @@
 # Special array class for quick insertion of sorted elements
-# specifically for sorting BaconNodes by their depth.
+# specifically for sorting BaconNodes by their f_score.
 # This way we can #shift the first one off the array and be
 # confident we're searching from the best position
 #
@@ -10,11 +10,11 @@ class Bacon::Array < Array
   end
 
   def initialize(array = nil)
-    super(array.sort_by(&:depth)) if array
+    super(array.sort_by(&:f_score)) if array
   end
 
   def <<(value)
-    insert(index_for_value(value.depth), value)
+    insert(index_for_value(value.f_score), value)
   end
 
   private
@@ -24,7 +24,7 @@ class Bacon::Array < Array
     while index <= max
       lookup = (max + index) / 2
 
-      if value < self[lookup].depth
+      if value < self[lookup].f_score
         max = lookup - 1
       else
         index = lookup + 1

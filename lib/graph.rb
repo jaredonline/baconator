@@ -42,11 +42,13 @@ class Graph
 end
 
 class Point
-  attr_reader :element, :connections
+  attr_reader   :element, :connections
+  attr_accessor :bacon_distance
 
   def initialize(element)
-    @element     = element
-    @connections = Set.new
+    @element        = element
+    @connections    = Set.new
+    @bacon_distance = nil
   end
 
   def name

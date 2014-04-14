@@ -175,7 +175,11 @@ module Bacon
     #
     def save_results
       unless self.options[:disable_save] == true
+
+        bacon_distance = self.final_path.length
         self.final_path.inject(nil) do |previous, link|
+          link.bacon_distance = bacon_distance unless link.bacon_distance.present?
+          bacon_distance -= 1
           unless previous.nil? || previous.element.bacon_link.present?
             previous.element.update_attribute(:bacon_link_id, link.element.id)
           end

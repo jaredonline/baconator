@@ -26,6 +26,7 @@ namespace :bacon do
 
       movie.actors.each do |actor|
         actor_point = graph.add_actor(actor)
+        actor_point.bacon_distance = BaconLinkBuilder.raw_bacon_path(actor).try(:length)
 
         graph.connect(actor_point, movie_point)
       end

@@ -71,6 +71,10 @@ module Bacon
     def edges
       element.connections
     end
+
+    def f_score
+      depth + (element.bacon_distance || 0)
+    end
   end
 
   class ActorNode < Node

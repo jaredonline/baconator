@@ -12,6 +12,21 @@ class BaconLinkBuilder
     self.new(actor).full_path
   end
 
+  def self.raw_bacon_path(actor)
+    path = [actor]
+    link = actor.bacon_link
+    while link.present?
+      path << link
+      link = link.bacon_link
+    end
+
+    if path.length > 1 && path.last.name == "Kevin Bacon"
+      path
+    else
+      nil
+    end
+  end
+
   attr_reader :actor
 
   def initialize(actor)
