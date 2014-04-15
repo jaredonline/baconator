@@ -2,14 +2,9 @@
 # one node and Kevin Bacon. You can pass it either an Actor or Movie
 # object and it will find the closest link.
 #
-# It runs a modified version of A* search algorithm. The biggest difference
-# between Bacon::Ator and A* is that when Bacon::Ator finds a node that
-# has a #bacon_link it'll switch from doing Breadth-First to Depth-First and
-# follow that #bacon_link all the way to KB himself (it doesn't automatically
-# return that tree. It adds all the nodes encountered to the queue for further
-# investigation but will keep searching for better paths). I added this as a slight
-# optimization but I'm not honestly sure it helps. It's hard to say with such
-# a large data set.
+# It runs a modified version of A* search algorithm.
+#
+# It's initialized with a graph and an options hash.
 #
 # It can be initialized with two options:
 #   logging: this indicates whether or not the processing information
@@ -20,8 +15,9 @@
 #                 of nodes when a result is found. Defaults to false
 #
 # Example:
+#   graph     = Graph.build
 #   actor     = Actor.where(name: "Johnny Depp").first
-#   baconator = Bacon::Ator.new
+#   baconator = Bacon::Ator.new(graph)
 #   baconator.calculate_path(actor)
 #   baconator.print
 #    # => Johnny Depp
@@ -205,8 +201,6 @@ module Bacon
     def bacon
       @bacon ||= Actor.where(name: "Kevin Bacon").first
     end
-
-    
 
     def log(*args)
       if options[:logging]

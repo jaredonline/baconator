@@ -1,6 +1,5 @@
 class Graph
   def self.build
-    puts "Building graph"
     total_movies = Movie.count
 
     graph = Graph.new
@@ -61,21 +60,22 @@ end
 
 class Point
   attr_reader   :element, :connections
-  attr_accessor :bacon_distance
 
   def initialize(element)
     @element        = element
     @connections    = Set.new
-
-    self.bacon_distance = 0
   end
 
   def name
     @name ||= element.name
   end
 
+  def add_connection(point)
+    @connections << point
+  end
+
   def to_s
-    "<#{self.class.to_s} movie=#{element.name.inspect} connections=#{connections.count} bacon_distance=#{bacon_distance.inspect} >"
+    "<#{self.class.to_s} movie=#{element.name.inspect} connections=#{connections.count} >"
   end
 
   def inspect
@@ -87,18 +87,10 @@ class MoviePoint < Point
   def movie
     element
   end
-
-  def add_connection(actor_point)
-    @connections << actor_point
-  end
 end
 
 class ActorPoint < Point
   def actor
     element
-  end
-
-  def add_connection(movie_point)
-    @connections << movie_point
   end
 end

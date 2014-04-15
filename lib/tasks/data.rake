@@ -16,9 +16,11 @@ namespace :bacon do
 
   desc "This will run bacon link path calculation for all actors"
   task :precalculate_paths => :environment do
+    puts "Building graph"
+
     graph = Graph.build
 
-    puts ""
+    puts "Done building graph"
 
     GC.start
 
