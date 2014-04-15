@@ -65,21 +65,17 @@ module Bacon
     end
 
     def name
-      element.name
+      @name ||= element.name
     end
 
     def edges
       element.connections
     end
-
-    def f_score
-      depth + (element.bacon_distance || 0)
-    end
   end
 
   class ActorNode < Node
     def bacon?
-      name == "Kevin Bacon"
+      @bacon ||= (name == "Kevin Bacon")
     end
 
     def actor

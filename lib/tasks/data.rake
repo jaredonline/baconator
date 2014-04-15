@@ -16,22 +16,7 @@ namespace :bacon do
 
   desc "This will run bacon link path calculation for all actors"
   task :precalculate_paths => :environment do
-    puts "Building graph"
-    total_movies = Movie.count
-
-    graph = Graph.new
-    Movie.all.find_each.with_index do |movie, index|
-      printf "\rAdding movie #{index} / #{total_movies}"
-      movie_point = graph.add_movie(movie)
-      movie_point.bacon_distance = BaconLinkBuilder.raw_bacon_path(movie).try(:length)
-
-      movie.actors.each do |actor|
-        actor_point = graph.add_actor(actor)
-        actor_point.bacon_distance = BaconLinkBuilder.raw_bacon_path(actor).try(:length)
-
-        graph.connect(actor_point, movie_point)
-      end
-    end
+    graph = Graph.build
 
     puts ""
 
@@ -46,10 +31,10 @@ namespace :bacon do
         start_time = Time.now
         baconator.calculate_path(actor)
         puts "Baconated #{actor.name} in #{(Time.now - start_time).to_i}s"
-        GC.start
       else
         puts "Already baconated #{actor.name}"
       end
+      STDOUT.flush
     end
   end
 end

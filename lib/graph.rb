@@ -1,4 +1,22 @@
 class Graph
+  def self.build
+    puts "Building graph"
+    total_movies = Movie.count
+
+    graph = Graph.new
+    Movie.all.find_each.with_index do |movie, index|
+      printf "\rAdding movie #{index} / #{total_movies}"
+      movie_point = graph.add_movie(movie)
+
+      movie.actors.each do |actor|
+        actor_point = graph.add_actor(actor)
+
+        graph.connect(actor_point, movie_point)
+      end
+    end
+    graph
+  end
+
   def initialize
     @actors = Array.new
     @movies = Array.new
@@ -48,15 +66,16 @@ class Point
   def initialize(element)
     @element        = element
     @connections    = Set.new
-    @bacon_distance = nil
+
+    self.bacon_distance = 0
   end
 
   def name
-    element.name
+    @name ||= element.name
   end
 
   def to_s
-    "<MoviePoint movie=#{element.name.inspect} connections=#{connections.count} >"
+    "<#{self.class.to_s} movie=#{element.name.inspect} connections=#{connections.count} bacon_distance=#{bacon_distance.inspect} >"
   end
 
   def inspect

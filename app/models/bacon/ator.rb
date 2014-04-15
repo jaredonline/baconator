@@ -62,6 +62,8 @@ module Bacon
       @started    = Time.now
       @final_path = []
       @target     = bacon
+      @requeued   = 0
+      @unmarked   = 0
     end
 
     # This is the main entry point to do a search on a node.
@@ -117,11 +119,13 @@ module Bacon
       continue_unless_match(node) do
         if (node_in_queue = queue.find { |n| n.name == node.name }).present?
           if node.depth < node_in_queue.depth
+            @requeued += 1
             queue.delete(node_in_queue)
             queue << node
           end
         elsif (node_in_queue = marked.find { |n| n.name == node.name }).present?
           if node.depth < node_in_queue.depth
+            @unmarked += 1
             marked.delete(node_in_queue)
             queue << node
           end
@@ -162,7 +166,7 @@ module Bacon
       while (current_node = queue.shift).present? && final.nil?
         @processed += 1
         yield(current_node)
-        log "\rProcessing #{start.name}.... %d / %d @ %ds - depth: %d", @processed, @steps, (Time.now - @started), current_node.depth
+        log "\rProcessing #{start.name}.... %d / %d / %d / %d @ %ds - depth: %d", @unmarked, @requeued, @processed, @steps, (Time.now - @started), current_node.depth
       end
 
       format_results
@@ -175,11 +179,7 @@ module Bacon
     #
     def save_results
       unless self.options[:disable_save] == true
-
-        bacon_distance = self.final_path.length
         self.final_path.inject(nil) do |previous, link|
-          link.bacon_distance = bacon_distance unless link.bacon_distance.present?
-          bacon_distance -= 1
           unless previous.nil? || previous.element.bacon_link.present?
             previous.element.update_attribute(:bacon_link_id, link.element.id)
           end
